@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:28
+@Media:	1031_Cinderella1 video
+*PAR:	zeroy [* phon] .
+%mor:	adj|zero&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	buhm [* phon] .
+%mor:	?|buhm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ah .
+*PAR:	&eh .
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

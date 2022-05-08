@@ -1,0 +1,491 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:20:11
+@Media:	1015_3_Cinderella_Y2017_M05_D16_H13_M21_S32 video
+*PAR:	&ss &sill &ss silla [/] silla [* phon] .
+%mor:	?|silla .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ah &fa far fard [* phon] .
+%mor:	adv|far ?|fard .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&kk kid [//] &kk kiss [//] &kk the kids .
+%mor:	det:art|the n|kid-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &fa fad [//] &fa &fa faled [* phon] &fa .
+%mor:	?|faled .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ss &ss cilla [* phon] &kk kicked [//] the &uh &kk kids [/] kids .
+%mor:	?|cilla det:art|the n|kid-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and [/] &uh and [/] and &fa &fa faled [/] &fa &fa faled [* phon]
+	&cin &cin cindas [* phon] .
+%mor:	coord|and ?|faled ?|cindas .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] it were xxx [* phon] the &ah &ah ampa [/] &ah
+	&ah ampa [* phon] &ah .
+%mor:	pro:per|it cop|be&PAST det:art|the ?|ampa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	the a &ah ampa [/] ampa [* phon] &uh &muh .
+%mor:	det:art|the det:art|a ?|ampa .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&ki no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	queen [* s] of the [/] &uh the &uh &ss sister [/] sister &o of the
+	&fa father .
+%mor:	n|queen prep|of det:art|the n|sister prep|of det:art|the n|father .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*PAR:	xxx [* phon] &um good [/] &d good &uh &chi &s cinda
+	[* phon] alright &s &s sister .
+%mor:	adj|good ?|cinda co|alright n|sister .
+%gra:	1|4|MOD 2|4|MOD 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	and the &uh &huh &huh house .
+%mor:	coord|and det:art|the n|house .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and [/] &uh and &uh queen [//] &uh no &um &uh sister .
+%mor:	coord|and qn|no n|sister .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	no three [/] three &ssis &ss &ss sisters .
+%mor:	co|no det:num|three n|sister-PL .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	they &k &k &k kid and &uh &uh &fa farted [* phon] .
+%mor:	pro:sub|they v|kid coord|and v|fart-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&um no [/] no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&k &k &s &s &s sister [/] &s &s sister and &uh sister .
+%mor:	n|sister coord|and n|sister .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&uh &ah &ah ampa [//] sister .
+%mor:	n|sister .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ko &ko &ko kids two [/] two [/] two [/] two &da daughters .
+%mor:	v|kid-3S det:num|two n|daughter-PL .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	house [/] house [/] and house .
+%mor:	coord|and n|house .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and the [/] &uh the kids &coo &guh &guh growing &guh &gr &gr grow
+	[/] grow .
+%mor:	coord|and det:art|the n|kid-PL part|grow-PRESP v|grow .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*PAR:	and &um &si &si sister &um how [/] how &sis &sis &uh &si &si sitter
+	[* phon] xxx [* phon] may be pel [* phon] two .
+%mor:	coord|and n|sister adv:int|how n|sit&dv-AGT mod|may cop|be ?|pel
+	det:num|two .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|8|MOD
+	8|6|PRED 9|1|PUNCT
+*PAR:	big bella [* phon] big xxx [* phon] uty [//] ugly sister xxx
+	[* phon] like &um .
+%mor:	adj|big ?|bella adj|big adj|ugly n|sister prep|like .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|COM 7|5|PUNCT
+*PAR:	&uh &s &s sister &uh cilla [/] cilla [* phon] .
+%mor:	n|sister ?|cilla .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	they the [/] the [/] the &hoh hoas [//] &hah &hah &hah house [/]
+	house .
+%mor:	pro:sub|they det:art|the n|house .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	wash [/] wash it .
+%mor:	v|wash pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and make [/] &me make meal [//] meals tea all of &ci cidda [* phon]
+	&ho &how &how house xxx [* phon] .
+%mor:	coord|and v|make n|meal-PL n|tea qn|all prep|of ?|cidda n|house .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|MOD 4|2|OBJ 5|6|QUANT 6|4|NJCT 7|8|MOD
+	8|6|POBJ 9|1|PUNCT
+*PAR:	&um the &uh the &uh &cid cidla [//] cilla [* phon] all
+	the [/] &uh the &uh &ha house [//] they &ho &ho horse .
+%mor:	det:art|the det:art|the ?|cilla adv|all det:art|the pro:sub|they
+	n|horse .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|7|JCT 5|7|DET 6|7|MOD 7|3|APP 8|3|PUNCT
+*PAR:	&me &me do the dog &k &k &k kits [//] &uh cat [//] kit [//] cat
+	[//] kit [* phon] &k &k .
+%mor:	v|do det:art|the n|dog n|kit .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	&me meas [* phon] three [/] three &wh and &uh
+	xxx [* phon] &uh &ci &uh &ci xxx [* phon] the &uh .
+%mor:	?|meas det:num|three coord|and det:art|the .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	&muh friend [/] friend [/] friend [/] friend cilla
+	[* phon] .
+%mor:	n|friend ?|cilla .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&o &o oll [//] all the &uh gor [//] the horse [//] &uh the hoss
+	[* phon] .
+%mor:	qn|all det:art|the det:art|the det:art|the ?|hoss .
+%gra:	1|5|QUANT 2|5|DET 3|5|DET 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	the [/] &uh the meet the &k &ka cat [//] cat [//] cats [//] cats .
+%mor:	det:art|the v|meet det:art|the n|cat-PL .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&me meas [* phon] &ruh &ruh &su &su &su no no sus [//] sus [//] sus
+	[//] das [* phon] no .
+%mor:	?|meas co|no co|no ?|das co|no .
+%gra:	1|0|INCROOT 2|4|COM 3|4|COM 4|1|ENUM 5|4|COM 6|1|PUNCT
+*PAR:	&ci cilla [* phon] &ki kit [* phon] &ki cilla [* phon] &ah &de meas
+	[* phon] the [/] the cat [//] cats [//] no no xxx [* phon] .
+%mor:	?|cilla n|kit ?|cilla ?|meas det:art|the co|no co|no .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|6|DET 6|4|OBJ 7|6|COM
+	8|1|PUNCT
+*PAR:	&um &um xxx [* phon] no &ah the
+	[/] the [//] tha the &s &s &s &ah the [/] the &s &ahs the
+	[/] &uh the &uh cilla [* phon] .
+%mor:	qn|no ?|tha det:art|the det:art|the det:art|the ?|cilla .
+%gra:	1|2|QUANT 2|0|INCROOT 3|6|DET 4|6|DET 5|6|DET 6|2|OBJ 7|2|PUNCT
+*PAR:	&la &la &la look &ah &ca &ca catus [//] &ca carous [* phon] .
+%mor:	v|look ?|carous .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&oh xxx [* phon] the [/] the &ah <all &ah &ah round> [//] all &r
+	&rou round [/] round .
+%mor:	det:art|the qn|all n|round .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	<the king> [/] <the king> [/] the
+	king [* s] .
+%mor:	det:art|the n|king .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the da [* phon] king [* s] &ah the &f &f &f fuluh [//] the &uh
+	&f little [//] &luh &luh litta [//] &la &la lutta [* phon] all the
+	house all [/] all &eh around [//] &uh arou [//] &eh around
+	[/] around .
+%mor:	coord|and det:art|the ?|da v|king det:art|the det:art|the ?|lutta
+	adv|all det:art|the n|house adv|all adv|around .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|DET 7|4|OBJ 8|10|JCT
+	9|10|DET 10|7|OBJ 11|12|JCT 12|10|NJCT 13|4|PUNCT
+*PAR:	&uh &kes &uh &kuh &kuh country [//] &kuh &kuh cunry [* phon] .
+%mor:	?|cunry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&l &uh &s all the house the &uh &s the &uh litta [//] &luh &luh
+	litta [* phon] .
+%mor:	qn|all det:art|the n|house det:art|the det:art|the ?|litta .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|6|DET 5|6|DET 6|3|ENUM 7|3|PUNCT
+*PAR:	oh oh all the &k &k countries .
+%mor:	co|oh co|oh qn|all det:art|the n|country-PL .
+%gra:	1|5|COM 2|5|COM 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	all [//] ball [/] ball the [/] the &uh &e &um the &uh the &uh &uh
+	&si sister the sister only &s cilla [/] cilla [/] cilla [* phon] .
+%mor:	v|ball det:art|the det:art|the det:art|the n|sister det:art|the
+	n|sister qn|only ?|cilla .
+%gra:	1|0|ROOT 2|5|DET 3|5|DET 4|5|DET 5|1|OBJ 6|7|DET 7|5|OBJ 8|9|QUANT
+	9|7|NJCT 10|1|PUNCT
+*PAR:	&ooo what &k &k kret [* phon] all [/] all [/] all &f &f &fra &s &da
+	&da dance [/] dance .
+%mor:	pro:int|what ?|kret adv|all n|dance .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|1|PUNCT
+*PAR:	and &uh this the &uh &uh litta [//] oh latta [* phon] oh xxx
+	[* phon] .
+%mor:	coord|and pro:dem|this det:art|the co|oh ?|latta co|oh .
+%gra:	1|4|LINK 2|4|DET 3|4|DET 4|5|COM 5|0|ROOT 6|5|COM 7|5|PUNCT
+*PAR:	okay &um &um &uh &ci cilla [/] cilla [* phon] &wh &wh &uh &wh &wh
+	&uh wopen [//] &wr xxx [* phon] xxx [* phon] butchel [//] butchmen
+	[* phon] .
+%mor:	co|okay ?|cilla ?|butchmen .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh xxx [* phon] &bu book and &uh &tuh &ta &ch &ch &chi &cha
+	choutch [* phon] the &boa &bo books .
+%mor:	n|book coord|and ?|choutch det:art|the n|book-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	all &b &da &da &de &da &de &da &ss &ss xxx
+	[* phon] &beh fretel [/] &fre &fre frethsh [/] &th &th thres
+	[//] tress [//] dress [/] &duh dress .
+%mor:	qn|all n|dress .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &ma &ne &muh &wh &whi white &pin &pi
+	pinka [/] pinka [* phon] .
+%mor:	adj|white ?|pinka .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	meas [/] meas [* phon] oh &mea &uh &f &f &fla &uh flae [//] fly oh
+	through three [/] three [/] three .
+%mor:	?|meas co|oh n|fly co|oh prep|through det:num|three .
+%gra:	1|0|INCROOT 2|3|COM 3|1|XCOMP 4|3|COM 5|3|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	&um a vass [* phon] xxx [* phon] &um som
+	[* phon] xxx [* phon] we the &bru &bru &brus the &dr &dr dress .
+%mor:	det:art|a ?|vass ?|som pro:sub|we det:art|the det:art|the n|dress .
+%gra:	1|2|DET 2|0|INCROOT 3|7|COM 4|7|SUBJ 5|7|DET 6|7|DET 7|2|APP 8|2|PUNCT
+*PAR:	xxx [* phon] &ma &ma &mi mice xxx [* phon] make the &ne &bu &bu &ne
+	butde [* phon] &uh xxx [* phon] .
+%mor:	n|mouse&PL v|make det:art|the ?|butde .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and &ne &ne needle [/] needle make xxx [* phon] the &mo most
+	[* phon] .
+%mor:	coord|and n|needle v|make det:art|the qn|most .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&um &si &si sister all the &uh cilla [/] &ci cilla
+	[/] cilla [* phon] xxx [* phon] ugly [//] &uh &uh uly [/] uly
+	[* phon] .
+%mor:	n|sister qn|all det:art|the ?|cilla ?|uly .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|CMOD 5|4|PRED 6|1|PUNCT
+*PAR:	xxx [* phon] the &uh the &pre pros [//] the &uh &s &si the &uh
+	breas [/] breas [/] breas [//] breast [//] dress [//] dresh [/]
+	dresh [/] dresh [/] dresh [* phon] .
+%mor:	det:art|the det:art|the det:art|the det:art|the ?|dresh .
+%gra:	1|5|DET 2|5|DET 3|5|DET 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	cilla [* phon] in the sitta [* phon] &uh xxx
+	[* phon] pran [* phon] &uh &ci cilla [* phon] &s &s &s sitter
+	[* phon] xxx [* phon] the &uh stra [//] the &uh &dr dress [/] dress
+	&bry &bry brunken [* phon] .
+%mor:	?|cilla prep|in det:art|the ?|sitta ?|pran ?|cilla n|sit&dv-AGT
+	det:art|the det:art|the n|dress ?|brunken .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|XJCT 6|5|OBJ 7|11|COM 8|10|DET
+	9|10|DET 10|11|SUBJ 11|6|COMP 12|1|PUNCT
+*PAR:	&ah &uh the &uh &um trair [//] tres
+	[//] tress [/] tress [/] tress [/] tress [* phon] &uh &ess .
+%mor:	det:art|the ?|tress .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&ah the &uh &ess &fuh moda [* phon]
+	fairy [/] fairy [/] fairy .
+%mor:	det:art|the ?|moda n|fairy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh &luh &luh &sil &sil cilla [/] cilla [//] cilless
+	[* phon] truss [/] truss [//] &tuh &tuh &tuh tress [* phon] .
+%mor:	?|cilless ?|tress .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	and &uh fairy [/] &f &f fairy [//] &fuh farow [//] oh no <mother
+	fairy> [//] &duh &duh &f &f fairy [/] fairy .
+%mor:	coord|and co|oh co|no n|fairy .
+%gra:	1|4|LINK 2|4|COM 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	and the &uh cilla [* phon] a xxx [* phon] xxx [* phon] &boo &ah
+	the &um fairy .
+%mor:	coord|and det:art|the ?|cilla det:art|a det:art|the n|fairy .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|DET 5|6|DET 6|3|OBJ 7|1|PUNCT
+*PAR:	&um &buh &puh &puh &ta kop [/] kop [//] bop [//] &pop &pop .
+*PAR:	&um &um no the &uh the &f &f &f fairy [/] fairy .
+%mor:	qn|no det:art|the det:art|the n|fairy .
+%gra:	1|4|QUANT 2|4|DET 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	and the &uh &puh pumpkin &pa &pum &pa &pa &pum tree [//] three [/]
+	three &ha horse meas [* phon] and xxx [* phon] in &nea kass [//] the
+	kass [//] cat [//] cats [//] &ki kit [//] cat .
+%mor:	coord|and det:art|the n|pumpkin det:num|three n|horse ?|meas
+	coord|and prep|in det:art|the n|cat .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|QUANT 5|3|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	the [/] the round [/] round [/] &ruh round fairy [/] fairy [/] &fa
+	&fa fairy [/] &fuh &fuh &f &f fairy .
+%mor:	det:art|the adj|round n|fairy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	the &uh &wa &wa wand [/] wand [/] wand [/] &wuh wand .
+%mor:	det:art|the n|wand .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	pumpkin &fuh for [/] for [/] for horse .
+%mor:	n|pumpkin prep|for n|horse .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and &ma &ma man tree [//] three .
+%mor:	coord|and n|man det:num|three .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	and &nuh <the fairy> [//] the &uh &fuh fairy [//]
+	the &f &f &ah &na &um &f &f &uh &f &fuh fairy xxx
+	[* phon] &wh &wh white [/] white wunth [* phon] .
+%mor:	coord|and det:art|the det:art|the n|fairy n|white ?|wunth .
+%gra:	1|6|LINK 2|5|DET 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	&uh cilla [/] cilla [* phon] xxx [* phon] dress [/] &dre dress [/]
+	dress [/] dress .
+%mor:	?|cilla n|dress .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] all [/] all [/] all [/]
+	all [//] the [/] &uh the &uh ball [/] ball [/] ball .
+%mor:	det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] ball hurry &ne no no &tru tot [* u] &ta
+	&gla when <&noo &noo noon [/] noon &noo> [//] no no &uh night [/]
+	&ni night [/] &ni night [/] night .
+%mor:	n|ball n|hurry qn|no qn|no n|tot conj|when qn|no qn|no n|night .
+%gra:	1|2|MOD 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PUNCT 6|9|LINK 7|9|QUANT
+	8|9|QUANT 9|5|INCROOT 10|9|PUNCT
+*PAR:	&uh the &uh &cl clock [//] tock [* phon] the &uh the
+	[/] the [/] <the &uh the &f &f &fa &fa fairy> [//] the [/] the &uh
+	&f the &uh fairy &um .
+%mor:	det:art|the on|tock det:art|the det:art|the det:art|the n|fairy .
+%gra:	1|2|DET 2|0|INCROOT 3|6|DET 4|6|DET 5|6|DET 6|2|APP 7|2|PUNCT
+*PAR:	xxx [* phon] broke [//] &buh broken [/] broken [/]
+	broken the coc [* phon] .
+%mor:	part|break&PASTP det:art|the ?|coc .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	no &um want a shutty [* u] .
+%mor:	co|no v|want det:art|a adj|shut&dv-Y .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&um fairy [/] fairy this the [/] the [/] <the
+	ball> [/] <the ball> [/] <the ball> [/] <the ball> [/] <&nuh &nuh
+	the ball> [//] fall [/] fall [* phon] xxx [* phon] .
+%mor:	n|fairy pro:dem|this n|fall .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] all [/] <all peop> [//] <all peael peal>
+	[//] <all the> [/] all the xxx [* phon] .
+%mor:	qn|all det:art|the .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	ball the [/] the [/] the [/] the &fa fairy the &prin &pri prince
+	xxx [* phon] all the girls &na &na nat [* u] &uh .
+%mor:	v|ball det:art|the n|fairy det:art|the n|prince qn|all det:art|the
+	n|girl-PL ?|nat .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|8|QUANT 7|8|DET 8|9|MOD
+	9|5|NJCT 10|1|PUNCT
+*PAR:	fairy &fa xxx [* phon] fiddla [* phon] &ss &ss cilla
+	[* phon] &da &da dance [/] dance [/] dance on the on [/] &th on the
+	[/] the &uh &puh &puh prince .
+%mor:	n|fairy ?|fiddla ?|cilla n|dance prep|on det:art|the adv|on
+	det:art|the n|prince .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|MOD 4|2|OBJ 5|4|NJCT 6|9|DET 7|9|JCT 8|9|DET
+	9|5|POBJ 10|1|PUNCT
+*PAR:	xxx [* phon] dance [/] dance [/] dance all the why [* u] <the
+	clock> [/] <the clock> [/] the clock [/] clock [/] clock &na &na &ni
+	night .
+%mor:	v|dance qn|all det:art|the adv:int|why det:art|the n|clock n|night
+	.
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|1|PUNCT
+*PAR:	<the wing> [//] the [/] &uh the <the &uh> [/] the &uh &fa &fa fairy
+	&bro broken [/] broken &uh .
+%mor:	det:art|the det:art|the n|fairy part|break&PASTP .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|XMOD 5|3|PUNCT
+*PAR:	the &uh xxx [* phon] ran [/] ran xxx
+	[* phon] &ta &ta two girl xxx [* phon] &ho &ho home [/] home .
+%mor:	det:art|the v|run&PAST det:num|two n|girl adv|home .
+%gra:	1|2|DET 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	&ci cilla [/] cilla [* phon] the [/] the pista
+	[* phon] and the [/] the [/] the [/] &uh the [/] the prakins
+	[* phon] .
+%mor:	?|cilla det:art|the ?|pista coord|and det:art|the ?|prakins .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*PAR:	why [/] why &g &g home [/] home [/] home .
+%mor:	adv:int|why n|home .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	the lock [//] the [/] &uh the glock [//] clock xxx
+	[* phon] home [//] &ho &ho home [//] homes .
+%mor:	det:art|the det:art|the n|clock n|home-PL .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	a &um &s &s &s slipper [//] sippa
+	[* phon] and &de &de &de gent [//] xxx [* phon] dagent [/] dagent
+	[* phon] .
+%mor:	det:art|a ?|sippa coord|and ?|dagent .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	the [/] &uh the &bi &bi &uh xxx
+	[* phon] xxx [* phon] .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	look [/] look &um l [/] l [/] l look round &s &s slipper [//]
+	pper [//]  pper [* phon] .
+%mor:	v|look ?|l v|look adj|round ?|pper .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*PAR:	and filla [/] filla [//] &uh slulla
+	[* phon] .
+%mor:	coord|and ?|slulla .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &ca cas [//] &cho carous [//] &ca &ca &ca
+	calli [*  phon] .
+%mor:	?|calli .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&uh &ca &cas [/] cas [/] cas [//] calli
+	[//] &ca &ca carous [//] car [/] car [//] carous [* phon] .
+%mor:	?|carous .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the [/] the &sli slipper xxx [* phon] &ho home [/] home .
+%mor:	det:art|the n|slipper adv|home .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*PAR:	&um sluppa [* phon] .
+%mor:	?|sluppa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the [/] the [/] the [/] the [/] the &pum
+	pumpkin [/] pumpkin .
+%mor:	det:art|the n|pumpkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	one [/] one [/] one horse .
+%mor:	det:num|one n|horse .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&mi mice [/] mice [//] mas [* phon] .
+%mor:	n|ma-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &do dogs .
+%mor:	det:art|the n|dog-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh pumpkin broken [/] &ah broken &ah .
+%mor:	n|pumpkin part|break&PASTP .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	slipper [//] the shlippa [* phon] xxx [* phon] palace dance and
+	&uh dance .
+%mor:	det:art|the ?|shlippa n|palace n|dance coord|and n|dance .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*PAR:	the &uh rand [//] all [/] all [/] all [/] all [/] all &ro round <all
+	house> [/] <all house> [//] <all rouse> [//] all rouse [* phon] .
+%mor:	det:art|the qn|all n|round post|all v|rouse .
+%gra:	1|3|DET 2|3|QUANT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	the [/] the [/] the [/] <the king> [/] the king [/] king xxx
+	[* phon] men [/] men [//] mea [//] men king .
+%mor:	det:art|the v|king n|man&PL v|king .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*PAR:	ran all [/] all [/] all [/] all house [/] &ruh house &da the &um
+	cleten [//] &se sippla [//] silup [/] silup [* phon] &bo &bo xxx
+	[* phon] boshem [* phon] .
+%mor:	v|run&PAST qn|all n|house det:art|the ?|silup ?|boshem .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|5|DET 5|3|OBJ 6|5|PRED 7|1|PUNCT
+*PAR:	they [/] they &ah &ah aunta [/] &ah &ah
+	ampamuh [//] &ah &ah ampah [* phon] .
+%mor:	pro:sub|they ?|ampah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&ke &uh &ka cless [//] <the key> [/] <the key> [//] the kley
+	[* phon] &kl &do doom [//] druh [/] druh [* phon] .
+%mor:	det:art|the ?|kley ?|druh .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &cle &la &la lock
+	[/] lock &da &da the [/] the [/] <the door> [/] <the door>
+	[/] the door [/] door .
+%mor:	v|lock det:art|the n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	the [/] the lea [//] the mea [//] mice &ru &ru run round .
+%mor:	det:art|the det:art|the n|mouse&PL v|run adv|round .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	I say &uh I need the need <the key> [/] the key
+	[//] key clock [//] clocks [//] and it's lock [/] lock xxx
+	[* phon] cilla [/] cilla [/] cilla [* phon] .
+%mor:	pro:sub|I v|say pro:sub|I v|need det:art|the v|need det:art|the
+	n|key coord|and pro:per|it~cop|be&3S n|lock ?|cilla .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|11|SUBJ 11|9|COORD 12|13|MOD 13|11|PRED 14|2|PUNCT
+*PAR:	xxx [* phon] the [/] the [/] the king the &uh &a &a ampa [* phon]
+	&ma maple [* s] no .
+%mor:	det:art|the n|king det:art|the ?|ampa n|maple co|no .
+%gra:	1|2|DET 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|XMOD 6|5|COM 7|2|PUNCT
+*PAR:	xxx [* phon] pilla [/] pilla [//] cilla [* phon] xxx
+	[* phon] xxx [* phon] &si &la &la &lam &uh &uh &um &ah &sss no the
+	father [//] &mo mother [/] mother [/] mother .
+%mor:	?|cilla co|no det:art|the n|mother .
+%gra:	1|0|INCROOT 2|4|COM 3|4|DET 4|1|ENUM 5|1|PUNCT
+*PAR:	&pi &cla crash [/] crash [//] xxx [* phon] crash [/] crash the &uh .
+%mor:	n|crash det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	xxx [* phon] the &juh &juh &juh &juh &ess &ma man &pa crash .
+%mor:	det:art|the n|man n|crash .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&na &na look round [/] round .
+%mor:	v|look adv|round .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and &um &ci &ci cilla [//] &ci cill [/] cill [//] cilla [* phon] .
+%mor:	coord|and ?|cilla .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	the [/] &uh the &uh who talk about who [/] who xxx
+	[* phon] cilla [/] cind [//] xxx [* phon] &ci &ci cippa [//]
+	cipplas [* phon] .
+%mor:	det:art|the pro:rel|who v|talk adv|about pro:rel|who ?|cipplas .
+%gra:	1|3|DET 2|3|LINK 3|0|ROOT 4|3|PUNCT 5|6|LINK 6|4|INCROOT 7|6|PUNCT
+*PAR:	the &uh &um &um &bi xxx [* phon] &mo mother and &uh &s &ci cilla
+	[//] no cilla [//] no no &ci &ci cilla [* phon] .
+%mor:	det:art|the n|mother coord|and co|no co|no qn|no ?|cilla .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|COM 5|7|COM 6|7|QUANT 7|3|COORD
+	8|2|PUNCT
+*PAR:	&uh ugly oh xxx [* phon] xxx [* phon] xxx [* phon] &ci &ci cillas
+	[//] &ci &ci cilla [//] cillas [* phon] xxx [* phon] xxx [* phon]
+	xxx [* phon] .
+%mor:	adj|ugly co|oh ?|cillas .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	<the queen> [/] the queen [//] &uh &pi &pi prince [/] prince and &ci
+	&ci cilla [* phon] .
+%mor:	det:art|the n|prince coord|and ?|cilla .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	done .
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

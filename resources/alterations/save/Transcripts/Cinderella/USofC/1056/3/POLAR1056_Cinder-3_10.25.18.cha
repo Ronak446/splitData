@@ -1,0 +1,74 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:00
+@Media:	1056_3_Cinderella_October-25th-2018-10-03-04-am video
+*PAR:	&um ehgo [* phon] fay [* phon] wau [* phon] losee [* phon] lopardee
+	[* phon] .
+*PAR:	ee [* phon] doedi [* phon] gee [* phon] &th &th the the [/] how .
+%mor:	co|ee ?|doedi co|gee det:art|the pro:rel|how .
+%gra:	1|2|COM 2|0|ROOT 3|5|COM 4|5|DET 5|2|SUBJ 6|2|PUNCT
+*PAR:	do do [/] owdee [* phon] do .
+%mor:	v|do ?|owdee v|do .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+*PAR:	and she &um &um see &mm .
+%mor:	coord|and pro:sub|she v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	deeho [* phon] &mm buhduh [* phon] bai [* phon] &um .
+*PAR:	&hm eefo [* phon] hefwadder [* phon] .
+*PAR:	but she ho [* phon] wehoday [* phon] .
+%mor:	conj|but pro:sub|she co|ho ?|wehoday .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|COM 4|0|ROOT 5|4|PUNCT
+*PAR:	wauzu [* phon] wauzee [* phon] buwuh [* phon] dei [* phon] howei
+	[* phon] .
+*PAR:	and zee [* phon] weh [* phon] audo [* phon] way hart [* u] wendo
+	[* phon] auwizah [* phon] .
+%mor:	coord|and ?|zee ?|weh ?|audo n|way ?|hart ?|wendo ?|auwizah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|5|MOD 5|3|OBJ 6|5|CONJ 7|8|MOD
+	8|6|COORD 9|1|PUNCT
+*PAR:	ee [* phon] fwa [* phon] du [* phon] way aigun [* phon] guh
+	[* phon] .
+%mor:	co|ee ?|fwa ?|du n|way ?|aigun ?|guh .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	you wanda [* phon] why .
+%mor:	pro:per|you ?|wanda pro:rel|why .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and yadi [* phon] wah [* phon] &mm .
+%mor:	coord|and ?|yadi co|wah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|1|PUNCT
+*PAR:	he ya [* phon] ihdi [* phon] all day all &ah ee [* phon] &ah ee
+	[* phon] dau [* phon] .
+%mor:	pro:sub|he pro:per|you ?|ihdi adv|all n|day adv|all co|ee co|ee
+	?|dau .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|7|JCT 7|9|COM 8|9|COM
+	9|5|NJCT 10|3|PUNCT
+*PAR:	&d wei [* phon] howei [* phon] tudu [* phon] hwau [* phon] &t &t &t
+	&t waha [* phon] .
+*PAR:	ee [* phon] ho [* phon] ha [* phon] hahodaei [* phon] .
+%mor:	co|ee co|ho co|ha ?|hahodaei .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|PUNCT
+*PAR:	and eehu [* phon] yahohee [* phon] wahodei [* phon] .
+%mor:	coord|and ?|eehu ?|yahohee ?|wahodei .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	aw they &d dey [* phon] weiher [* phon] huyyah [* phon] away .
+%mor:	co|aw pro:sub|they ?|dey ?|weiher ?|huyyah adv|away .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|JCT 7|3|PUNCT
+*PAR:	dee [* phon] o [* phon] &um &uh ooh [* phon] weheeheewa [* phon]
+	dowah [* phon] .
+%mor:	?|dee ?|o v|ooh ?|weheeheewa ?|dowah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	no ee [* phon] do do [/] &ah &mm &mm .
+%mor:	co|no co|ee v|do .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	he heard deesaw [* phon] &mm de [* phon] &ah .
+%mor:	pro:sub|he v|hear&PAST ?|deesaw ?|de .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+*PAR:	yeah he go .
+%mor:	co|yeah pro:sub|he v|go .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	eeyah [* phon] deeo [* phon] yeah &mhmm .
+%mor:	co|eeyah ?|deeo co|yeah .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+@End

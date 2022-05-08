@@ -1,0 +1,28 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_140_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:09
+@Media:	POLAR_1112_BW-4_9.11.2020.z, video
+*PAR:	&um &je &um ditching [: kicking] [* phon] ball &um &tuh brochen
+	[: broken] [* phon] glass . 
+%mor:	part|kick-PRESP n|ball part|break&PASTP n|glass .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	&um &um shocter [: soccer] [* phon] &um bubblin [: broken] [* phon]
+	drass [: glass] [* phon] .
+%mor:	n|soccer part|break&PASTP n|glass .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|1|PUNCT
+*PAR:	&um &um tum [: come] [* phon] in ne [: the] [* phon] minow
+	[: window] [* phon] .
+%mor:	v|come adv|in det:art|the n|window .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	<&um man &sh> [//] <I &sh &um> [//] man cheaged [* phon] dittle
+	[: little] [* phon] did &um sheeted [* phon] .
+%mor:	n|man ?|cheaged adj|little v|do&PAST part|sheet-PASTP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|POSTMOD 4|3|ENUM 5|4|COMP 6|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

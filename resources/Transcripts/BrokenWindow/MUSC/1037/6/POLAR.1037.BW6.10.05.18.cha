@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:24
+@Media:	1037_6_BrokenWindow_October-5th-2018-10-48-14-am video
+*PAR:	and kit [* phon] the ball .
+%mor:	coord|and n|kit det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*PAR:	and hand [//] &ah &uh hat and shoes and [/] and [/] and grass and
+	trees .
+%mor:	coord|and n|hat coord|and n|shoe-PL coord|and n|grass coord|and
+	n|tree-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|2|CONJ
+	8|7|COORD 9|1|PUNCT
+*PAR:	kit [* phon] the ball .
+%mor:	n|kit det:art|the n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and grass and trees and [/] and &uh kit [* phon] da [* phon]
+	outside .
+%mor:	coord|and n|grass coord|and n|tree-PL coord|and n|kit ?|da
+	adv|outside .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|0|ROOT
+	8|7|JCT 9|7|PUNCT
+*PAR:	and &uh man [/] &m &uh man not good .
+%mor:	coord|and n|man neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NEG 4|2|POSTMOD 5|1|PUNCT
+*PAR:	kit [* phon] da [* phon] inside .
+%mor:	n|kit ?|da adv|inside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and [/] and chair and closet and kit [* phon] the ball .
+%mor:	coord|and n|chair coord|and n|closet coord|and n|kit det:art|the
+	n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|8|DET
+	8|6|OBJ 9|1|PUNCT
+*PAR:	not good .
+%mor:	neg|not adj|good .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	and drapies [* phon] .
+%mor:	coord|and ?|drapies .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and kick a ball .
+%mor:	coord|and v|kick det:art|a n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and busted .
+%mor:	coord|and part|bust-PASTP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	not good .
+%mor:	neg|not adj|good .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

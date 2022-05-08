@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1016_6_BrokenWindow_January-2nd-2018-12-30-56-pm video
+
+*PAR:	I bought ball into the movie [* u] pictured [* u] .
+%mor:	pro:sub|I v|buy&PAST n|ball prep|into det:art|the n|movie
+	v|picture-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ 8|2|PUNCT
+*PAR:	I wanna ball in grass in the <in the> [/] &gr <in the> [/] grass .
+%mor:	pro:sub|I mod:aux|wanna v|ball prep|in n|grass prep|in det:art|the
+	n|grass .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	in the <in the> [/] movie [* u] .
+%mor:	prep|in det:art|the n|movie .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+@End

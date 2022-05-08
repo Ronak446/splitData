@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	1026_BW2 video
+*PAR:	kick .
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	brink [* phon] .
+%mor:	n|brink .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	window .
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so the kick the ball .
+%mor:	co|so det:art|the v|kick det:art|the n|ball .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the window breaks .
+%mor:	det:art|the n|window v|break-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and the soccer ball &um baby [* u] .
+%mor:	coord|and det:art|the n|soccer n|ball n|baby .
+%gra:	1|5|LINK 2|5|DET 3|4|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	well I don't know .
+%mor:	co|well pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	the lamp breaks .
+%mor:	det:art|the n|lamp v|break-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and the boy [* s] [//] mean the man looks out at the boy .
+%mor:	coord|and det:art|the adj|mean det:art|the n|man cop|look-3S
+	adv|out prep|at det:art|the n|boy .
+%gra:	1|6|LINK 2|5|DET 3|5|MOD 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+@End

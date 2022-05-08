@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:36
+@Media:	1016_4_Cinderella_July-6th-2017-9-38-16-am video
+*PAR:	it whats [* phon] to go to the bardy [//] party [* s] .
+%mor:	pro:per|it n:pt|whats inf|to v|go prep|to det:art|the n|party .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	xxx [* phon] party [* s] in to the party [* s] .
+%mor:	n|party adv|in prep|to det:art|the n|party .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	in [/] in to the party [* s] .
+%mor:	adv|in prep|to det:art|the n|party .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	I .
+%mor:	pro:sub|I .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

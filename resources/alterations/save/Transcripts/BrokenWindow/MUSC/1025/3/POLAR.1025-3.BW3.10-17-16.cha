@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1025_3_BrokenWindow_October-16th-2017-9-56-13-am video
+*PAR:	the boy kicked the ball <and went> [//] and it went to the window .
+%mor:	det:art|the n|boy part|kick-PASTP det:art|the n|ball coord|and
+	pro:per|it v|go&PAST prep|to det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and ta [* phon] man catch it .
+%mor:	coord|and inf|to v|man v|catch pro:per|it .
+%gra:	1|4|LINK 2|3|INF 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and saw to ball went .
+%mor:	coord|and v|see&PAST prep|to n|ball v|go&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|2|PUNCT
+*PAR:	and went to the window .
+%mor:	coord|and v|go&PAST prep|to det:art|the n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:48
+@Media:	1035_BW3 video
+*PAR:	obay [* phon] boy &um a boy .
+%mor:	?|obay n|boy det:art|a n|boy .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+*PAR:	sotter [* phon] ball .
+%mor:	?|sotter n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh no &um &um &wam &buh &buh ball .
+%mor:	co|oh co|no n|ball .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh no &boom .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	what id [* phon] dat [* phon] .
+%mor:	pro:int|what ?|id ?|dat .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	what dat [* phon] [/] dat [* phon] .
+%mor:	pro:int|what ?|dat .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	who did dat [* phon] .
+%mor:	pro:rel|who mod|do&PAST ?|dat .
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ee [* phon] end .
+%mor:	co|ee n|end .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:01
+@Media:	1066_2_BrokenWindow_February-4th-2019-12-56-46-pm video
+*PAR:	ees [: it's] [* phon] a boy .
+%mor:	pro:per|it~cop|be&3S det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	he's booking [* u] &bing &bang .
+%mor:	pro:sub|he~cop|be&3S n|booking .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh no the bad &t &t to the rose [* u] .
+%mor:	co|oh co|no det:art|the adj|bad prep|to det:art|the n|rose .
+%gra:	1|4|COM 2|4|COM 3|4|DET 4|0|INCROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	the ruin no one &bloop broke [//] boke [: broke] [* phon] .
+%mor:	det:art|the n|ruin qn|no pro:indef|one adj|broke .
+%gra:	1|2|DET 2|0|INCROOT 3|4|QUANT 4|2|XMOD 5|4|POSTMOD 6|2|PUNCT
+*PAR:	the window it not working &gr &gr &shoo .
+%mor:	det:art|the n|window pro:per|it neg|not part|work-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|5|SUBJ 4|3|NEG 5|2|CMOD 6|2|PUNCT
+*PAR:	yep they [: the] [* phon] guy there he's oh my god he's look at the
+	ball oh my god xxx [* phon] &do &do &do xxx [* phon] .
+%mor:	co|yep det:art|the n|guy adv|there pro:sub|he~aux|be&3S co|oh
+	det:poss|my n|god pro:sub|he~aux|be&3S cop|look prep|at det:art|the
+	n|ball co|oh det:poss|my n|god .
+%gra:	1|12|COM 2|3|DET 3|12|JCT 4|3|NJCT 5|12|SUBJ 6|12|AUX 7|12|COM 8|9|MOD
+	9|12|JCT 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|18|COM 17|18|MOD 18|12|PRED 19|12|PUNCT
+*PAR:	get dat [: that] [* phon] for ge [: get] [* phon] boy &a <where
+	going> [/] where going .
+%mor:	v|get pro:dem|that prep|for v|get n|boy pro:int|where
+	n:gerund|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|4|OBJ 6|5|CONJ 7|6|COORD 8|1|PUNCT
+*PAR:	xxx [* phon] ball xxx [* phon] .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

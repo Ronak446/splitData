@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1032_PBJ3 video
+*PAR:	zelly [* phon] .
+%mor:	?|zelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zelly [* phon] bread .
+%mor:	?|zelly n|bread .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

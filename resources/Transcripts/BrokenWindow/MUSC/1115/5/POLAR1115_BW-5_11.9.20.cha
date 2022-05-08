@@ -1,0 +1,33 @@
+@UTF8
+@Window:	0_0_0_0_0_0_357_1_357_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:10
+@Media:	1115_BrokenWindow_5_2020-11-09-09-48-34, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well okay .
+%mor:	co|well co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &uh boy [/] boy kicked .
+%mor:	n|boy part|kick-PASTP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+*PAR:	and kicked windows &uh &uh .
+%mor:	coord|and v|kick-PAST n|window-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	ball kicked scattered [: shattered] [* phon] .
+%mor:	n|ball part|kick-PASTP v|shatter-PAST .
+%gra:	1|3|SUBJ 2|3|XJCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and man &uh what's going on . 
+%mor:	coord|and v|man pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+*PAR:	&um kick and &uh ball .
+%mor:	v|kick coord|and n|ball .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	angry [/] angry .
+%mor:	adj|angry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

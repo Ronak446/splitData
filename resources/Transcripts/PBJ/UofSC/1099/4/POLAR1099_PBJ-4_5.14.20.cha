@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_4_PBJ_5.14.2020_zoom video
+@Time Duration:	00:00:26
+*PAR:	okay basically it's on two pieces of bread .
+%mor:	co|okay adv|basic&dadj-AL-LY pro:per|it~cop|be&3S prep|on
+	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	and I have peanut+butter and jam .
+%mor:	coord|and pro:sub|I v|have n|+n|peanut+n|butter coord|and n|jam .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	&um and actually I had one of those two days ago .
+%mor:	coord|and adv|actual&dadj-LY pro:sub|I v|have&PAST det:num|one
+	prep|of det:dem|those det:num|two n|day-PL post|ago .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|9|POSTMOD 11|4|PUNCT
+*PAR:	&um and it was good .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	I would put the bread on first .
+%mor:	pro:sub|I mod|will&COND v|put&ZERO det:art|the n|bread adv|on
+	adv|first .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|PUNCT
+*PAR:	then I would put the peanut+butter on .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|put&ZERO det:art|the
+	n|+n|peanut+n|butter adv|on .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	then I would put the jam on .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|put&ZERO det:art|the n|jam
+	adv|on .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and then I would put another piece of bread over that .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	qn|another n|piece prep|of n|bread adv|over pro:dem|that .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|JCT 11|10|POBJ 12|5|PUNCT
+*PAR:	then I would eat it .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|eat pro:per|it .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

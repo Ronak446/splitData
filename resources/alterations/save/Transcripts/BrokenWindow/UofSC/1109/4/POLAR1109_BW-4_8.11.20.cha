@@ -1,0 +1,33 @@
+@UTF8
+@Window:	0_0_0_0_0_0_402_0_402_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	POLAR_1109_4_BrokenWindow_8.11.2020_z, video
+*PAR:	a boy was playing kick ball .
+%mor:	det:art|a n|boy aux|be&PAST&13S part|play-PRESP v|kick n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|ENUM 6|5|OBJ 7|4|PUNCT
+*PAR:	and the ball went through somebody window and broke it .
+%mor:	coord|and det:art|the n|ball v|go&PAST prep|through
+	pro:indef|somebody n|window coord|and v|break&PAST pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ 11|4|PUNCT
+*PAR:	and landed on the man &um lamp and broke the lamp [/] lamp .
+%mor:	coord|and v|land-PAST prep|on det:art|the n|man n|lamp coord|and
+	v|break&PAST det:art|the n|lamp .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+*PAR:	and the man was standing there looking at &buh window .
+%mor:	coord|and det:art|the n|man aux|be&PAST&13S part|stand-PRESP
+	adv|there part|look-PRESP prep|at n|window .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|XJCT 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	trying to figure out where the ball came from that broke his window .
+%mor:	part|try-PRESP inf|to v|figure adv|out pro:int|where det:art|the
+	n|ball v|come&PAST prep|from det:dem|that adj|broke det:poss|his
+	n|window .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|COMP
+	9|8|JCT 10|13|DET 11|13|MOD 12|13|DET 13|9|POBJ 14|1|PUNCT
+@End

@@ -1,0 +1,31 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	POLAR_1049_BW5 video
+*PAR:	okay the first one the man [* s] is out kicking the ball .
+%mor:	co|okay det:art|the adj|first pro:indef|one det:art|the n|man
+	cop|be&3S adv|out part|kick-PRESP det:art|the n|ball .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|7|LINK 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|XJCT 10|11|DET 11|9|OBJ 12|7|PUNCT
+*PAR:	he kicks it so hard it goes through the window .
+%mor:	pro:sub|he v|kick-3S pro:per|it adv|so adv|hard pro:per|it v|go-3S
+	prep|through det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|7|SUBJ 7|2|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	it hits the window and breaks the lamp .
+%mor:	pro:per|it v|hit-3S det:art|the n|window coord|and v|break-3S
+	det:art|the n|lamp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	and then &th man is standing there looking out the window wondering
+	what the heck happened .
+%mor:	coord|and adv:tem|then n|man aux|be&3S part|stand-PRESP adv|there
+	part|look-PRESP prep|out det:art|the n|window part|wonder-PRESP
+	pro:int|what det:art|the n|heck v|happen-PAST .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|XJCT 12|15|LINK 13|14|DET 14|15|SUBJ 15|11|COMP
+	16|5|PUNCT
+@End

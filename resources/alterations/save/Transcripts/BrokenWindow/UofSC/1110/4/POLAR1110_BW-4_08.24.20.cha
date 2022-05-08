@@ -1,0 +1,129 @@
+@UTF8
+@Window:	45_366_755_916_724_1_1330_1_1330_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:52
+@Media:	POLAR1110_BW-4_08-24-20, video
+*PAR:	so this is &uh the thing that [/] that we're going to talk about at
+	first .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|the n|thing comp|that
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|talk adv|about prep|at
+	adj|first .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|11|INF 11|9|COMP 12|11|JCT 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*PAR:	and everybody was outside .
+%mor:	coord|and pro:indef|everybody cop|be&PAST&13S adv|outside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and [/] and here's this little boy .
+%mor:	coord|and pro:exist|here~cop|be&3S det:dem|this adj|little n|boy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	and everything is gonna be happy and [/] and just having fun .
+%mor:	coord|and pro:indef|everything aux|be&3S part|go-PRESP~inf|to
+	cop|be adj|happy coord|and adv|just part|have-PRESP n|fun .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|6|CONJ
+	9|10|JCT 10|8|COORD 11|10|OBJ 12|4|PUNCT
+*PAR:	and so that's the first thing .
+%mor:	coord|and co|so pro:dem|that~cop|be&3S det:art|the adj|first
+	n|thing .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*PAR:	and then &uh all of a sudden it's gonna be not a very good place for
+	the this little boy .
+%mor:	coord|and adv:tem|then pro:indef|all prep|of det:art|a adj|sudden
+	pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be neg|not det:art|a
+	adv|very adj|good n|place prep|for det:art|the det:dem|this
+	adj|little n|boy .
+%gra:	1|9|LINK 2|9|JCT 3|9|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|NEG 13|16|DET 14|15|JCT 15|16|MOD
+	16|11|PRED 17|16|NJCT 18|21|DET 19|21|DET 20|21|MOD 21|17|POBJ 22|9|PUNCT
+*PAR:	because when they hit the ball he &ha hits <by the> [/] &f by the
+	[/] the [/] the [/] &uh <the cold [* s]> [//] the [/] &uh the sharp
+	[* s] outside .
+%mor:	conj|because conj|when pro:sub|they v|hit&ZERO det:art|the n|ball
+	pro:sub|he v|hit-3S prep|by det:art|the adj|sharp adv|outside .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|JCT 13|8|PUNCT
+*PAR:	and [/] and it goes inside of the house <by a> [//] by the man .
+%mor:	coord|and pro:per|it v|go-3S adv|inside prep|of det:art|the n|house
+	prep|by det:art|the n|man .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	now where [//] it could either be a nice man his [//] maybe his
+	father .
+%mor:	adv|now pro:per|it mod|could adv|either cop|be det:art|a adj|nice
+	n|man adv|maybe det:poss|his n|father .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	or maybe it could be number three was that another man that we don't
+	know who they [* s] are .
+%mor:	coord|or adv|maybe pro:per|it mod|could cop|be n|number
+	det:num|three aux|be&PAST&13S adv|that qn|another n|man comp|that
+	pro:sub|we mod|do~neg|not v|know pro:int|who pro:sub|they
+	cop|be&PRES .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|11|QUANT 8|10|AUX
+	9|10|JCT 10|11|QUANT 11|5|PRED 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|11|CMOD 17|19|LINK 18|19|SUBJ 19|16|COMP 20|5|PUNCT
+*PAR:	and so it hit [/] hit the [//] <with the> [/] with [* s] the man .
+%mor:	coord|and co|so pro:per|it n|hit prep|with det:art|the n|man .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and so they [//] &uh they're inside .
+%mor:	coord|and adv|so pro:sub|they~cop|be&PRES adv|inside .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	so &w how are you gonna fix that .
+%mor:	adv|so pro:int|how aux|be&PRES pro:per|you part|go-PRESP~inf|to
+	v|fix pro:dem|that .
+%gra:	1|5|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*PAR:	so number let me see .
+%mor:	co|so n|number v|let&ZERO pro:obj|me v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*PAR:	oh so [/] so now &nuh &n number four of this man says better to call
+	me and see what happened .
+%mor:	co|oh adv|so adv|now v|number det:num|four prep|of det:dem|this
+	n|man v|say-3S adv|good&CP inf|to v|call pro:obj|me coord|and v|see
+	pro:int|what v|happen-PAST .
+%gra:	1|4|COM 2|3|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|4|XJCT 10|9|JCT 11|12|INF 12|9|COMP 13|12|OBJ 14|12|CONJ 15|14|COORD
+	16|17|SUBJ 17|15|COMP 18|4|PUNCT
+*PAR:	what are we gonna do about that .
+%mor:	pro:int|what cop|be&PRES pro:sub|we part|go-PRESP~inf|to v|do
+	prep|about pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	can you fix that .
+%mor:	mod|can pro:per|you v|fix pro:dem|that .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	<the man> [//] so it turns out that that man is a nice man .
+%mor:	co|so pro:per|it v|turn-3S adv|out comp|that det:dem|that n|man
+	cop|be&3S det:art|a adj|nice n|man .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|3|PUNCT
+*PAR:	and he understand because the [//] &uh a little boy back in
+	his day he did the same kind of thing .
+%mor:	coord|and pro:sub|he v|understand conj|because det:art|a adj|little
+	n|boy adv|back prep|in det:poss|his n|day pro:sub|he v|do&PAST
+	det:art|the adj|same n|kind prep|of n|thing .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|13|LINK 5|7|DET 6|7|MOD 7|13|JCT 8|7|NJCT
+	9|7|NJCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|3|CJCT 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|NJCT 18|17|POBJ 19|3|PUNCT
+*PAR:	so he said I will wait .
+%mor:	co|so pro:sub|he v|say&PAST pro:sub|I mod|will v|wait .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|3|PUNCT
+*PAR:	and we'll talk <with the> [//] &m with [/] <with your> [//] &hou
+	with the boy .
+%mor:	coord|and pro:sub|we~mod|will v|talk prep|with det:art|the n|boy .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and we will fix [* u] to do with whatever we need to do so it'll be
+	better the next day .
+%mor:	coord|and pro:sub|we mod|will v|fix inf|to v|do prep|with
+	pro:indef|whatever pro:sub|we v|need inf|to v|do adv|so
+	pro:per|it~mod|will aux|be adv|good&CP det:art|the adj|next n|day .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|4|CJCT 11|12|INF 12|10|COMP 13|20|JCT 14|20|SUBJ 15|20|AUX
+	16|20|AUX 17|20|JCT 18|20|DET 19|20|MOD 20|12|JCT 21|4|PUNCT
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

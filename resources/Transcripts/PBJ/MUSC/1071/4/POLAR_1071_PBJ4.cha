@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:32
+@Media:	POLAR_1071_PBJ4 video
+*PAR:	I would use a pew [: few] [* phon] pieces of bread on either side of
+	the glass [* u] .
+%mor:	pro:sub|I mod|will&COND v|use det:art|a n|few v|piece-3S prep|of
+	n|bread prep|on qn|either n|side prep|of det:art|the n|glass .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|11|QUANT 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	I would use the peanu+butter [* phon] to cover the one side .
+%mor:	pro:sub|I mod|will&COND v|use det:art|the ?|peanu+butter inf|to
+	v|cover det:art|the qn|one n|side .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|10|DET
+	9|10|QUANT 10|7|OBJ 11|3|PUNCT
+*PAR:	then I would say again with the other side I would cut the other
+	side that was all out of [/] of cam [: jam] [* phon] [//] <out of>
+	[/] out of the gem [: jam] [* phon] [//] jam .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|say adv|again prep|with
+	det:art|the qn|other n|side pro:sub|I mod|will&COND v|cut&ZERO
+	det:art|the pro:indef|other adj|side pro:dem|that cop|be&PAST&13S
+	adv|all adv|out prep|of adv|out prep|of det:art|the n|jam .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|14|DET 14|12|OBJ 15|14|POSTMOD
+	16|17|SUBJ 17|15|CMOD 18|19|JCT 19|17|PRED 20|19|JCT 21|20|POBJ
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|4|PUNCT
+*PAR:	well I'll need to take the bread to add it together .
+%mor:	co|well pro:sub|I~mod|will v|need inf|to v|take det:art|the n|bread
+	inf|to v|add pro:per|it adv|together .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|10|INF 10|6|COMP 11|10|OBJ 12|10|JCT 13|4|PUNCT
+*PAR:	and then have <the large the box> [//] the [/] the piece together to
+	mine [* u] it together and make it and do it tach [* phon] <and dodo
+	door [* u]> [//] and <into a> [/] &pen <into a> [/] into a sandwich .
+%mor:	coord|and adv:tem|then v|have det:art|the n|piece adv|together
+	inf|to v|mine pro:per|it adv|together coord|and v|make pro:per|it
+	coord|and v|do pro:per|it ?|tach coord|and prep|into det:art|a
+	n|sandwich .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|INF 8|5|XMOD
+	9|8|OBJ 10|8|JCT 11|3|CONJ 12|11|COORD 13|12|OBJ 14|3|CONJ 15|14|COORD
+	16|15|OBJ 17|15|OBJ 18|17|CONJ 19|18|COORD 20|21|DET 21|19|POBJ 22|3|PUNCT
+@End

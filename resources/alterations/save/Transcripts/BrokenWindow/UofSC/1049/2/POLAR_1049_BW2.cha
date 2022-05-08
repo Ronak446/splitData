@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR_1049_BW2 video
+*PAR:	you have the man ik [* phon] kick the ball .
+%mor:	pro:per|you v|have det:art|the n|man ?|ik v|kick det:art|the n|ball
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	and it accidentally went in his &uh &w <neighbor's> [//] &uh
+	friend's thing .
+%mor:	coord|and pro:per|it adv|accidental&dadj-LY v|go&PAST prep|in
+	det:poss|his adj|friend&dn-POSS n|thing .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and it busted a hole .
+%mor:	coord|and pro:per|it v|bust-PAST det:art|a n|hole .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then he camet [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|he ?|camet .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and the guy said oh no over to the window .
+%mor:	coord|and det:art|the n|guy v|say&PAST co|oh co|no adv|over prep|to
+	det:art|the n|window .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|COM 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+@End

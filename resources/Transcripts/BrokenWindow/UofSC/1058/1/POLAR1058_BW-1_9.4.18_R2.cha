@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:23
+@Media:	POLAR_1058_BW1_R2 video
+*PAR:	one oh &m &n .
+%mor:	det:num|one co|oh .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

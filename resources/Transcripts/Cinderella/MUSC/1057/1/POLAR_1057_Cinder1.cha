@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:13
+@Media:	POLAR_1057_Cinder1 video
+*PAR:	&uh one dee [* phon] sitia [* phon] toltol [* phon] .
+%mor:	det:num|one ?|dee ?|sitia ?|toltol .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and a xxx [* phon] tol [* phon] sitia [* phon] sitio [* phon] .
+%mor:	coord|and det:art|a ?|tol ?|sitia ?|sitio .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and &uh tol [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+%mor:	coord|and ?|tol .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

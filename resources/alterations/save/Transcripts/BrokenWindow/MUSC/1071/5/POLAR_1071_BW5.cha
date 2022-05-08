@@ -1,0 +1,66 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:18
+@Media:	POLAR_1071_BW5 video
+*PAR:	well that's that aloom [* phon] .
+%mor:	co|well pro:dem|that~cop|be&3S pro:rel|that ?|aloom .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|PRED 6|3|PUNCT
+*PAR:	the little boy kicked the ball .
+%mor:	det:art|the adj|little n|boy part|kick-PASTP det:art|the n|ball .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|6|DET 6|4|OBJ 7|3|PUNCT
+*PAR:	and we [: he] [* s] did it through do the window break [//] breaking
+	<the the ham the ca> [//] the [/] the [/] the &m plant [//] &duh no
+	the .
+%mor:	coord|and pro:sub|he mod|do&PAST pro:per|it prep|through v|do
+	det:art|the n|window part|break-PRESP det:art|the qn|no det:art|the
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|DET 8|5|POBJ
+	9|8|XMOD 10|12|DET 11|12|QUANT 12|9|OBJ 13|4|PUNCT
+*PAR:	I'm getting tired now .
+%mor:	pro:sub|I~aux|be&1S part|get-PRESP part|tire-PASTP adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COMP 5|4|JCT 6|3|PUNCT
+*PAR:	when the ball came in it <broke the> [/] broke the plant [//] no not
+	the plant [* u] .
+%mor:	conj|when det:art|the n|ball v|come&PAST prep|in pro:per|it
+	v|break&PAST det:art|the co|no neg|not det:art|the n|plant .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|12|COM 10|12|NEG 11|12|DET 12|7|OBJ 13|7|PUNCT
+*PAR:	oh come on now it firar [* phon] not &uh trying to not come out with
+	that now .
+%mor:	co|oh v|come adv|on adv|now pro:per|it ?|firar neg|not
+	part|try-PRESP prep|to neg|not v|come adv|out prep|with pro:dem|that
+	adv|now .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|XJCT
+	9|8|JCT 10|11|NEG 11|9|POBJ 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*PAR:	here we go .
+%mor:	adv|here pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	it's going through the <plamp cripe> [//] no where I'm talking about
+	here is the [/] the .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP prep|through det:art|the qn|no
+	pro:int|where pro:sub|I~aux|be&1S part|talk-PRESP prep|about
+	adv|here cop|be&3S det:art|the .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|7|QUANT 7|10|OBJ 8|10|SUBJ
+	9|10|AUX 10|4|CPOBJ 11|13|JCT 12|13|JCT 13|10|COMP 14|13|PRED 15|3|PUNCT
+*PAR:	and I know it .
+%mor:	coord|and pro:sub|I v|know pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	it broke the &n namp [//] lamp <broke the ban> [//] broke &uh &uh .
+%mor:	pro:per|it v|break&PAST det:art|the n|lamp adj|broke .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|PUNCT
+*PAR:	well after it did and got the father to come in to find out who
+	broke .
+%mor:	co|well prep|after pro:per|it v|do&PAST coord|and v|get&PAST
+	det:art|the n|father inf|to v|come adv|in inf|to v|find adv|out
+	pro:rel|who adj|broke .
+%gra:	1|4|COM 2|4|JCT 3|2|POBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|10|INF 10|6|COMP 11|10|JCT 12|13|INF 13|10|COMP 14|13|JCT 15|16|LINK
+	16|14|INCROOT 17|16|PUNCT
+*PAR:	the little boy .
+%mor:	det:art|the adj|little n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	1016_LARC_Cinderella_October-1st-2019-2-31-00-pm video
+*PAR:	yes . [+ exc]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I can't bake [* u] hall [: all] [* phon] pictures go away . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not v|bake qn|all n|picture-PL v|go adv|away
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*PAR:	I can't . [+ exc]
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+@End

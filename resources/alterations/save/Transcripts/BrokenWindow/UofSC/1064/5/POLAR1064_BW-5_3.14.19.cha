@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:23
+@Media:	1064_5_BrokenWindow_March-14th-2019-3-53-17-pm video
+*PAR:	yes &um &g &g gall [//] &um gall [: ball] [* phon] &eh <doken
+	dinjow> [//] no &d doken [: broken] [* phon] binjow [: window]
+	[* phon] .
+%mor:	co|yes n|ball co|no part|break&PASTP n|window .
+%gra:	1|2|COM 2|5|MOD 3|5|COM 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	man pid [* phon] no &d &d .
+%mor:	n|man ?|pid co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	and book [: look] [* phon] down .
+%mor:	coord|and cop|look adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and what's goih [* phon] ej [* phon] bong [* phon] .
+%mor:	coord|and pro:int|what~cop|be&3S ?|goih ?|ej on|bong .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+@End

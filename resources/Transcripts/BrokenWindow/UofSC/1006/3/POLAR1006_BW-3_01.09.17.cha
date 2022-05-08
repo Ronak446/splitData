@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1006_3_BrokenWindow_Y2017_M01_D09_H12_M09_S00 video
+*PAR:	it's &uh xxx [* phon] right der [* phon] .
+%mor:	pro:per|it~cop|be&3S adj|right ?|der .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+*PAR:	and &bing xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh oh xxx [* phon] second .
+%mor:	co|oh n|second .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	no not good at all .
+%mor:	co|no neg|not adj|good prep|at pro:indef|all .
+%gra:	1|3|COM 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+@End

@@ -1,0 +1,112 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1033_Cinderella1 video
+
+*PAR:	was a beautiful young lady .
+%mor:	cop|be&PAST&13S det:art|a adj|beautiful adj|young n|lady .
+%gra:	1|0|ROOT 2|5|DET 3|5|MOD 4|5|MOD 5|1|PRED 6|1|PUNCT
+*PAR:	and <she &uh> [//] she had &uh a parade [* s] of people <that helped
+	her> [//] that [/] that worked [* s] with her where she
+	stayed .
+%mor:	coord|and pro:sub|she v|have&PAST det:art|a n|parade prep|of
+	n|person&PL pro:rel|that v|work-PAST prep|with pro:obj|her
+	pro:rel|where pro:sub|she cop|stay-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|3|PUNCT
+*PAR:	and they didn't like her because she liked animals .
+%mor:	coord|and pro:sub|they mod|do&PAST~neg|not v|like pro:obj|her
+	conj|because pro:sub|she v|like-PAST n|animal-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|OBJ 11|5|PUNCT
+*PAR:	<they liked> [/] they liked people that liked people .
+%mor:	pro:sub|they v|like-PAST n|person&PL pro:rel|that v|like-PAST
+	n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|2|PUNCT
+*PAR:	and <she was a> [/] she was a people person but she was an animal
+	person .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S det:art|a n|person&PL
+	n|person conj|but pro:sub|she cop|be&PAST&13S det:art|a n|animal
+	n|person .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|12|DET 11|12|MOD 12|9|PRED 13|3|PUNCT
+*PAR:	she got along with all of them .
+%mor:	pro:sub|she v|get&PAST adv|along prep|with pro:indef|all prep|of
+	pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and she enjoyed talking to them and doing things they enjoyed doing .
+%mor:	coord|and pro:sub|she v|enjoy-PAST n:gerund|talk-PRESP prep|to
+	pro:obj|them coord|and part|do-PRESP n|thing-PL pro:sub|they
+	v|enjoy-PAST n:gerund|do-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|CONJ 8|9|MOD
+	9|7|COORD 10|11|SUBJ 11|3|CJCT 12|11|OBJ 13|3|PUNCT
+*PAR:	she enjoyed doing that more than she enjoyed dealing with a lot of
+	the old grumpy people that she had to work [* s] with .
+%mor:	pro:sub|she v|enjoy-PAST n:gerund|do-PRESP pro:rel|that qn|more
+	prep|than pro:sub|she v|enjoy-PAST n:gerund|deal-PRESP prep|with
+	det:art|a n|lot prep|of det:art|the adj|old adj|grump&dn-Y
+	n|person&PL pro:rel|that pro:sub|she v|have&PAST prep|to n|work
+	prep|with .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|QUANT 6|8|JCT 7|8|SUBJ 8|3|CMOD
+	9|8|OBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|POBJ 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|JCT 22|21|POBJ
+	23|20|JCT 24|2|PUNCT
+*PAR:	so most of the time she would take her time and she would spend it
+	&uh playing with animals or &uh the people that were around because
+	she enjoyed that surrounding much [/] much more .
+%mor:	adv|so qn|most prep|of det:art|the n|time pro:sub|she mod|will&COND
+	v|take det:poss|her n|time coord|and pro:sub|she mod|will&COND
+	v|spend pro:per|it part|play-PRESP prep|with n|animal-PL coord|or
+	det:art|the n|person&PL pro:rel|that aux|be&PAST adv|around
+	conj|because pro:sub|she v|enjoy-PAST pro:rel|that
+	part|surround-PRESP qn|much adv|more .
+%gra:	1|8|JCT 2|8|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|MOD 10|8|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|8|CJCT 15|14|OBJ
+	16|15|XMOD 17|16|JCT 18|17|POBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|23|LINK
+	23|21|CMOD 24|23|JCT 25|27|LINK 26|27|SUBJ 27|23|CJCT 28|29|LINK
+	29|27|COMP 30|31|QUANT 31|29|JCT 32|8|PUNCT
+*PAR:	and &t to make her day go easy she would &uh do things they enjoyed .
+%mor:	coord|and prep|to v|make det:poss|her n|day v|go adj|ease&dn-Y
+	pro:sub|she mod|will&COND v|do n|thing-PL pro:sub|they v|enjoy-PAST
+	.
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|MOD 5|6|SUBJ 6|3|COMP 7|10|JCT 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|10|OBJ 12|13|SUBJ 13|3|CJCT 14|3|PUNCT
+*PAR:	and they would do things she enjoyed .
+%mor:	coord|and pro:sub|they mod|will&COND v|do n|thing-PL pro:sub|she
+	v|enjoy-PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|SUBJ 7|4|CJCT 8|4|PUNCT
+*PAR:	to make it go bad would be when she was with the people .
+%mor:	inf|to v|make pro:per|it v|go adj|bad mod|will&COND cop|be
+	conj|when pro:sub|she cop|be&PAST&13S prep|with det:art|the
+	n|person&PL .
+%gra:	1|2|INF 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|SUBJ 6|7|AUX 7|4|COMP 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	and they [* s] did things that they wanted her to do or wanted
+	somebody else to do .
+%mor:	coord|and pro:sub|they v|do&PAST n|thing-PL pro:rel|that
+	pro:sub|they v|want-PAST pro:obj|her inf|to v|do coord|or
+	v|want-PAST pro:indef|somebody post|else inf|to v|do .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|OBJ
+	9|10|INF 10|7|COMP 11|10|CONJ 12|11|COORD 13|12|OBJ 14|13|PQ 15|16|INF
+	16|12|COMP 17|3|PUNCT
+*PAR:	and she didn't like it and didn't want to do it she didn't .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|like pro:per|it
+	coord|and mod|do&PAST~neg|not v|want inf|to v|do pro:per|it
+	pro:sub|she mod|do&PAST~neg|not .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|CONJ 8|10|AUX
+	9|8|NEG 10|7|COORD 11|12|INF 12|10|COMP 13|12|OBJ 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|5|PUNCT
+*PAR:	and it made them [//] everybody &eh unhappy about it .
+%mor:	coord|and pro:per|it v|make&PAST pro:indef|everybody un#adj|happy
+	prep|about pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSTMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	and that's kind of the way Cinderella worked .
+%mor:	coord|and pro:dem|that~cop|be&3S adj|kind prep|of det:art|the n|way
+	n:prop|Cinderella v|work-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|7|CMOD 10|3|PUNCT
+@End

@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1082.PBJ-6 video
+@Time Duration:	00:01:29
+*PAR:	&ay it's &uh you two breads butter [* s] [* phon] .
+%mor:	pro:per|it~aux|be&3S pro:per|you det:num|two n|bread-PL n|butter .
+*PAR:	&um one piece &um that's &uh &uh jam .
+%mor:	det:num|one n|piece pro:rel|that~aux|be&3S n|jam .
+*PAR:	one piece that's &uh butter [//] not &uh peanut+butter .
+%mor:	det:num|one n|piece pro:dem|that~cop|be&3S neg|not
+	n|+n|peanut+n|butter .
+*PAR:	one piece jam other piece .
+%mor:	det:num|one n|piece n|jam qn|other n|piece .
+*PAR:	and &uh &uh <cut it> [//] no &um &uh together .
+%mor:	coord|and co|no adv|together .
+*PAR:	and &ss cut it .
+%mor:	coord|and v|cut&ZERO pro:per|it .
+*PAR:	this is good .
+%mor:	pro:dem|this cop|be&3S adj|good .
+*PAR:	&uh jam butter &um sandwich &uh cup [: cut] [* phon] no .
+%mor:	n|jam n|butter n|sandwich part|cut&PASTP co|no .
+@End

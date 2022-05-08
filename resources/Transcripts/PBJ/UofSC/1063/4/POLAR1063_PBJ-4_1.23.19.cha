@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	POLAR_1063_PBJ4 video
+*PAR:	yes aloo [* phon] I vant [: want] [* phon] you .
+%mor:	co|yes ?|aloo pro:sub|I v|want pro:per|you .
+%gra:	1|2|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	yes well want you .
+%mor:	co|yes n|well v|want pro:per|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I want you yes .
+%mor:	pro:sub|I v|want pro:per|you co|yes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|PUNCT
+*PAR:	a meh [* phon] love you .
+%mor:	det:art|a ?|meh n|love pro:per|you .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I want you &uh .
+%mor:	pro:sub|I v|want pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	yeah [/] &mm yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

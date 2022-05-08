@@ -1,0 +1,82 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:00
+@Media:	1003_5_BrokenWindow_Y2016_M12_D05_H15_M16_S51 video
+*PAR:	ok well his friend [* s] is working [* u] with the &um &ba &b baum
+	[* phon] .
+%mor:	?|ok adv|well det:poss|his n|friend aux|be&3S part|work-PRESP
+	prep|with det:art|the ?|baum .
+%gra:	1|0|INCROOT 2|6|JCT 3|4|MOD 4|6|SUBJ 5|6|AUX 6|1|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	and &uh their [* s] going [* u] with the s-o-s-s-e-r [* phon] .
+%mor:	coord|and det:poss|their part|go-PRESP prep|with det:art|the
+	?|s-o-s-s-e-r .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	they [* s] have a great time .
+%mor:	pro:sub|they v|have det:art|a adj|great n|time .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	and he goes up with it .
+%mor:	coord|and pro:sub|he v|go-3S prep|up prep|with pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|POBJ 7|3|PUNCT
+*PAR:	and the seven [* u] says [* u] through it .
+%mor:	coord|and det:art|the det:num|seven v|say-3S prep|through
+	pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	oh god .
+%mor:	co|oh n|god .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] this is probably just a friend not not [/] the person's
+	&uh .
+%mor:	pro:dem|this cop|be&3S adv|probable&dadj-LY adv|just det:art|a
+	n|friend neg|not det:art|the n|person~poss|s .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|JCT 5|6|DET 6|2|PRED 7|6|NEG 8|9|DET
+	9|6|OBJ 10|9|POSS 11|2|PUNCT
+*PAR:	we decided not his f-a-t-h-e-r [* phon] you know .
+%mor:	pro:sub|we v|decide-PAST neg|not det:poss|his ?|f-a-t-h-e-r
+	pro:per|you v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|MOD 5|2|COMP 6|7|SUBJ 7|5|XCOMP 8|2|PUNCT
+*PAR:	but he xxx [* phon] he gets the person baum [* phon] into itself .
+%mor:	conj|but pro:sub|he pro:sub|he v|get-3S det:art|the n|person ?|baum
+	prep|into pro:refl|itself .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	and he finds it it [/] wasn't be be [/] there .
+%mor:	coord|and pro:sub|he v|find-3S pro:per|it cop|be&PAST&13S~neg|not
+	cop|be adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|NEG 7|5|PRED 8|7|JCT
+	9|3|PUNCT
+*PAR:	its supposed to be ok &um .
+%mor:	det:poss|its part|suppose-PASTP inf|to cop|be ?|ok .
+%gra:	1|2|MOD 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|PRED 6|2|PUNCT
+*PAR:	and the the [/] people around it look pretty good .
+%mor:	coord|and det:art|the n|person&PL prep|around pro:per|it v|look
+	adv|pretty adj|good .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|JCT
+	9|6|PUNCT
+*PAR:	he looks the thing is open to find out who is that that [/] has the .
+%mor:	pro:sub|he v|look-3S det:art|the n|thing cop|be&3S adj|open inf|to
+	v|find adv|out pro:int|who cop|be&3S pro:rel|that v|have&3S
+	det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|PRED 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|11|SUBJ 11|8|COMP 12|13|LINK 13|11|CMOD 14|13|OBJ 15|2|PUNCT
+*PAR:	I want to talk to them .
+%mor:	pro:sub|I v|want inf|to v|talk prep|to pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	so he looks through to find it [* s] &uh .
+%mor:	co|so pro:sub|he v|look-3S adj|through prep|to v|find pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|COMP 8|3|PUNCT
+*PAR:	maybe he can't find .
+%mor:	adv|maybe pro:sub|he mod|can~neg|not v|find .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	he could be gone by now .
+%mor:	pro:sub|he mod|could aux|be part|go&PASTP adv|by adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	but if he's available he'll take him home .
+%mor:	conj|but conj|if pro:sub|he~aux|be&3S adj|avail&dv-ABLE
+	pro:sub|he~mod|will v|take pro:obj|him adv|home .
+%gra:	1|8|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|8|PUNCT
+@End

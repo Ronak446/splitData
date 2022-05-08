@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	1007_4_PBJ_Y2017_M02_D13_H14_M08_S21 video
+*PAR:	a sandwich .
+%mor:	det:art|a n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	peanut+butter in butter [* s] .
+%mor:	n|+n|peanut+n|butter prep|in n|butter .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	eat .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	lettuce [/] [* s] lettuce [* s] .
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	white [/] white .
+%mor:	adj|white .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and jelly [/] jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and and [/] &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I eat that xxx [* phon] .
+%mor:	pro:sub|I v|eat pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	these .
+%mor:	pro:dem|these .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<and this> [/] and this .
+%mor:	coord|and pro:dem|this .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	but I can't peanut+butter [/] peanut+butter and jelly .
+%mor:	conj|but pro:sub|I mod|can~neg|not n|+n|peanut+n|butter coord|and
+	n|jelly .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|CONJ 7|6|COORD 8|5|PUNCT
+*PAR:	peanut+butter and jelly .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	I got it .
+%mor:	pro:sub|I v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,68 @@
+@UTF8
+@Window:	112_589_479_595_0_0_91_1_114_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1107_PBJ-3_7.06.20 video
+@Time Duration:	00:01:40
+*PAR:	okay &t in order to make a peanut [/] peanut [: peanut+butter] [* s]
+	and jelly sandwich you have to get &uh take out your bread &uh
+	peanut+butter jar and the fruit and &uh jelly jar .
+%mor:	co|okay prep|in n|order inf|to v|make det:art|a
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich pro:per|you v|have
+	inf|to v|get v|take adv|out det:poss|your n|bread
+	n|+n|peanut+n|butter n|jar coord|and det:art|the n|fruit coord|and
+	n|jelly n|jar .
+%gra:	1|12|COM 2|12|JCT 3|2|POBJ 4|5|INF 5|12|JCT 6|10|DET 7|10|MOD 8|7|CONJ
+	9|8|COORD 10|5|OBJ 11|12|SUBJ 12|0|ROOT 13|15|INF 14|15|SRL 15|12|COMP
+	16|15|JCT 17|20|DET 18|20|MOD 19|20|MOD 20|16|POBJ 21|20|CONJ 22|23|DET
+	23|26|MOD 24|23|CONJ 25|24|COORD 26|21|COORD 27|12|PUNCT
+*PAR:	take out &t two [/] &uh two slices of bread <from the> [/] from the
+	bottom .
+%mor:	v|take prep|out det:num|two n|slice-PL prep|of n|bread prep|from
+	det:art|the n|bottom .
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|1|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	and then you &op &uh open up your peanut+butter .
+%mor:	coord|and adv:tem|then pro:per|you v|open prep|up det:poss|your
+	n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and [/] and spread out the jelly <on the> [//] on one slice of the
+	bread .
+%mor:	coord|and v|spread&ZERO prep|out det:art|the n|jelly prep|on
+	det:num|one n|slice prep|of det:art|the n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|QUANT 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	then you open up your jelly .
+%mor:	adv:tem|then pro:per|you v|open prep|up det:poss|your n|jelly .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and you spread your jelly on top of the peanut+butter .
+%mor:	coord|and pro:per|you v|spread&ZERO det:poss|your n|jelly prep|on
+	n|top prep|of det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	okay <you lay the peanut> [//] you <lay the> [/] lay the jelly on
+	top of the peanut+butter .
+%mor:	co|okay pro:per|you v|lay det:art|the n|jelly prep|on n|top prep|of
+	det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	then you &t tick [//] pick up the second sheet [* u] [//] piece of
+	bread .
+%mor:	adv:tem|then pro:per|you v|pick adv|up det:art|the adj|second
+	n|piece prep|of n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and lay it on top of it .
+%mor:	coord|and v|lay pro:per|it prep|on n|top prep|of pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and <you eat> [/] you eat the and bite into the &uh peanut+butter .
+%mor:	coord|and pro:per|you v|eat det:art|the coord|and n|bite prep|into
+	det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|4|CONJ 6|5|COORD 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and enjoy eating it .
+%mor:	coord|and v|enjoy part|eat-PRESP pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+@End

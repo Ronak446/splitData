@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	POLAR_1058_BW5 video
+*PAR:	okay &um in [/] in [/] in &um bor [/] bor [* phon] &ah &ah &ah &ah
+	&ah in its xxx [* phon] .
+%mor:	co|okay prep|in ?|bor prep|in det:poss|its .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	it's &um as &ah ax [* u] [/] ax [* u] .
+%mor:	pro:per|it~cop|be&3S prep|as n|ax .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+@End

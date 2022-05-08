@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1100_BW-5_6.30.20 video
+@Time Duration:	00:00:27
+*PAR:	xxx [* phon] .
+*PAR:	glass ball .
+%mor:	n|glass n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	glass .
+%mor:	n|glass .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

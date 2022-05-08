@@ -1,0 +1,35 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+*PAR:	he's [/] he's hitting a pall [: ball] [* phon] by accident .
+%mor:	pro:sub|he~aux|be&3S part|hit-PRESP det:art|a n|ball prep|by
+	n|accident .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	he tells xxx [* phon] .
+%mor:	pro:sub|he v|tell-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	he xxx [* phon] and then he had to go up .
+%mor:	pro:sub|he coord|and adv:tem|then pro:sub|he v|have&PAST inf|to
+	v|go adv|up .
+%gra:	1|5|SUBJ 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|5|PUNCT
+*PAR:	he's got terrible xxx [* phon] .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP adj|terrible .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	oh yes xxx [* phon] .
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	what it do ?
+%mor:	pro:int|what pro:per|it v|do ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and wall xxx [* phon] out .
+%mor:	coord|and n|wall adv|out .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|1|PUNCT
+@End

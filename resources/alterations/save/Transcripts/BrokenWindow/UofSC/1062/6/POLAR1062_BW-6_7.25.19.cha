@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	1062_6_BrokenWindow_July-25th-2019-11-48-01-am video
+*PAR:	boy and &um kicked ball .
+%mor:	n|boy coord|and v|kick-PAST n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+*PAR:	&um brou [* phon] &um crash .
+%mor:	?|brou n|crash .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh my god ball .
+%mor:	co|oh det:poss|my n|god n|ball .
+%gra:	1|4|COM 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&um look and see &hmm .
+%mor:	cop|look coord|and v|see .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

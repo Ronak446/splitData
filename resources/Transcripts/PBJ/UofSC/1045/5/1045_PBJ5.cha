@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	POLAR_1045_PBJ5 video
+*PAR:	okay so a peanut+bittr [* phon] sandwich .
+%mor:	co|okay conj|so det:art|a ?|peanut+bittr n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|DET 4|5|MOD 5|2|COORD 6|1|PUNCT
+*PAR:	my wife does it .
+%mor:	det:poss|my n|wife mod|do&3S pro:per|it .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	so oh okay .
+%mor:	co|so co|oh co|okay .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um okay so you take the bread &um <out of> [/] out of the bag .
+%mor:	co|okay conj|so pro:per|you v|take det:art|the n|bread adv|out
+	prep|of det:art|the n|bag .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	you take a knife .
+%mor:	pro:per|you v|take det:art|a n|knife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	I use two knife actually .
+%mor:	pro:sub|I v|use det:num|two n|knife adv|actual&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	&um peanut+butter first and then jelly on top .
+%mor:	n|+n|peanut+n|butter adv|first coord|and adv:tem|then n|jelly
+	prep|on n|top .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|CONJ 4|5|JCT 5|3|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and then put the &um bread on top .
+%mor:	coord|and adv:tem|then v|put&ZERO det:art|the n|bread prep|on n|top
+	.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+@End

@@ -1,0 +1,127 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:32
+@Media:	1019_1_Cinderella_Y2017_M05_D11_H09_M19_S24 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &um lady [* s] xxx [* phon] in xxx [* phon] two kids [* s] .
+%mor:	det:art|the n|lady prep|in det:num|two n|kid-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*PAR:	and the man and the <Cindwella>
+	[//] cindweller [* phon] was standing on it with a dogs [* s] xxx
+	[* phon] .
+%mor:	coord|and det:art|the n|man coord|and det:art|the ?|cindweller
+	aux|be&PAST&13S part|stand-PRESP prep|on pro:per|it prep|with
+	det:art|a n|dog-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|8|DET 6|8|SUBJ 7|8|AUX
+	8|4|COORD 9|8|JCT 10|9|POBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*PAR:	that's very happy .
+%mor:	pro:dem|that~cop|be&3S adv|very adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	so &um the next picture was &um Cinderella was being &uh roughed up
+	by these two &uh I guess &um girls [* s] .
+%mor:	co|so det:art|the adj|next n|picture cop|be&PAST&13S
+	n:prop|Cinderella aux|be&PAST&13S aux|be-PRESP part|rough-PASTP
+	adv|up prep|by pro:dem|these det:num|two pro:sub|I v|guess n|girl-PL
+	.
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|5|PRED 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|9|CJCT
+	16|15|OBJ 17|5|PUNCT
+*PAR:	and &um then she won [* u] down the path .
+%mor:	coord|and adv:tem|then pro:sub|she v|win&PAST prep|down det:art|the
+	n|path .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &um &uh they met a man who was &cindnuh .
+%mor:	coord|and pro:sub|they v|meet&PAST det:art|a n|man pro:rel|who
+	cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|LINK 7|5|CMOD 8|3|PUNCT
+*PAR:	I don't know what Cinderella's uh boyfriend
+	[* s] looked like but he was a good looking guy .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what
+	n:prop|Cinderella~poss|s ?|uh n|boyfriend v|look-PAST prep|like
+	conj|but pro:sub|he cop|be&PAST&13S det:art|a adj|good
+	n:gerund|look-PRESP n|guy .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|10|LINK 6|10|SUBJ 7|6|POSS 8|10|JCT
+	9|10|SUBJ 10|4|COMP 11|10|JCT 12|14|LINK 13|14|SUBJ 14|10|CJCT
+	15|18|DET 16|18|MOD 17|18|MOD 18|14|PRED 19|4|PUNCT
+*PAR:	but any way he &uh dancing and &uh then she went down steps .
+%mor:	conj|but qn|any n|way pro:sub|he part|dance-PRESP coord|and
+	adv:tem|then pro:sub|she v|go&PAST prep|down n|step-PL .
+%gra:	1|5|LINK 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|CONJ 7|9|JCT 8|9|SUBJ
+	9|6|COORD 10|9|JCT 11|10|POBJ 12|5|PUNCT
+*PAR:	and she xxx upset .
+%mor:	coord|and pro:sub|she v|upset .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&um and then &uh know whether it was &uh the men &um took &um
+	her and and I guess was screamhen
+	[* phon] at her .
+%mor:	coord|and adv:tem|then v|know conj|whether pro:per|it
+	cop|be&PAST&13S det:art|the n|man&PL v|take&PAST pro:obj|her
+	coord|and coord|and pro:sub|I n|guess cop|be&PAST&13S ?|screamhen
+	prep|at pro:obj|her .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|9|SUBJ
+	9|6|PRED 10|9|OBJ 11|9|CONJ 12|15|LINK 13|15|SUBJ 14|15|SUBJ 15|11|COORD
+	16|15|PRED 17|16|JCT 18|17|POBJ 19|3|PUNCT
+*PAR:	and I don't know if xxx [* phon] is the right word .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know conj|if cop|be&3S
+	det:art|the adj|right n|word .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|PRED 11|5|PUNCT
+*PAR:	but anyway she &um went up .
+%mor:	conj|but co|anyway pro:sub|she v|go&PAST adv|up .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and the [/] the next picture was the man &um was &huh I guess won
+	[* u] her .
+%mor:	coord|and det:art|the adj|next n|picture cop|be&PAST&13S
+	det:art|the n|man cop|be&PAST&13S pro:sub|I v|guess v|win&PAST
+	pro:obj|her .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|8|SUBJ 8|5|PRED
+	9|10|SUBJ 10|8|PRED 11|10|OBJ 12|11|OBJ 13|5|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&uh &um the moral of the story is &um Cinderella had &um &uh .
+%mor:	det:art|the n|moral prep|of det:art|the n|story cop|be&3S
+	n:prop|Cinderella v|have&PAST .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|SUBJ 8|6|PRED
+	9|6|PUNCT
+*PAR:	she was I guess &um .
+%mor:	pro:sub|she cop|be&PAST&13S pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I think &sh &uh they found beauty in her .
+%mor:	pro:sub|I v|think pro:sub|they v|find&PAST n|beauty adv|in
+	det:poss|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|JCT 7|4|JCT 8|2|PUNCT
+*PAR:	and &um that's when she said on the stand [* u] no .
+%mor:	coord|and pro:dem|that~cop|be&3S conj|when pro:sub|she v|say&PAST
+	prep|on det:art|the n|stand co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|COM 11|3|PUNCT
+*PAR:	and she would .
+%mor:	coord|and pro:sub|she mod|will&COND .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh and she &um said &uh .
+%mor:	coord|and pro:sub|she v|say&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	I guess they said Cinderella you have it made .
+%mor:	pro:sub|I v|guess pro:sub|they v|say&PAST n:prop|Cinderella
+	pro:per|you v|have pro:per|it v|make&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|SUBJ 7|5|CMOD 8|9|SUBJ
+	9|7|COMP 10|2|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I don't know anything else .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:indef|anything post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|PUNCT
+@End

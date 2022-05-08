@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	POLAR_1052_PBJ1 video
+*PAR:	you one you got to get the bread .
+%mor:	pro:per|you det:num|one pro:per|you v|get&PAST inf|to v|get
+	det:art|the n|bread .
+%gra:	1|2|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	number two &um you got to get the peanu+butter [: peanut+butter]
+	[* phon] .
+%mor:	n|number det:num|two pro:per|you v|get&PAST inf|to v|get
+	det:art|the n|+n|peanut+n|butter .
+%gra:	1|4|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	&uh number three what the jelluh [: jelly] [* phon] .
+%mor:	n|number det:num|three pro:int|what det:art|the n|jelly .
+%gra:	1|2|MOD 2|5|QUANT 3|5|MOD 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	you putting all of that in the bread .
+%mor:	pro:per|you part|put-PRESP qn|all prep|of pro:dem|that prep|in
+	det:art|the n|bread .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|3|JCT 5|4|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*PAR:	and the bread &um lay them on top after jelluh [: jelly] [* phon]
+	and the peanu+butter [: peanut+butter] [* phon] .
+%mor:	coord|and det:art|the n|bread v|lay pro:obj|them prep|on adj|top
+	prep|after n|jelly coord|and det:art|the n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|4|PUNCT
+*PAR:	then mah [* phon] top &um .
+%mor:	adv:tem|then ?|mah n|top .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	they thing [: then] [* phon] ju [: you] [* phon] gonna &um eat them .
+%mor:	pro:sub|they adv:tem|then pro:per|you mod:aux|gonna v|eat
+	pro:obj|them .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@End

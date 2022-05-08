@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1007_BrokenWindow_3 video
+*PAR:	the boy .
+%mor:	det:art|the n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the arm [* s] .
+%mor:	det:art|the n|arm .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	outside .
+%mor:	adv|outside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jump [* s] .
+%mor:	n|jump .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jump [* s] by .
+%mor:	n|jump adv|by .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and boy .
+%mor:	coord|and n|boy .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	is that what you're talking about .
+%mor:	cop|be&3S pro:dem|that pro:int|what pro:per|you~aux|be&PRES
+	part|talk-PRESP adv|about .
+%gra:	1|0|ROOT 2|1|SUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|6|JCT 8|1|PUNCT
+*PAR:	okay I don't know .
+%mor:	adj|okay pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+@End

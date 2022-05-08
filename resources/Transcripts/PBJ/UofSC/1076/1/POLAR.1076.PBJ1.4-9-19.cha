@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	POLAR.1076.PBJ1.4-9-19 video
+*PAR:	&um I would get two pieces of bread .
+%mor:	pro:sub|I mod|will&COND v|get det:num|two n|piece-PL prep|of
+	n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	spread the peanut+butter on the beb [: bread] [* phon] .
+%mor:	v|spread&ZERO det:art|the n|+n|peanut+n|butter prep|on det:art|the
+	n|bread .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	one side of the bread .
+%mor:	det:num|one n|side prep|of det:art|the n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	&uh put the jelly on top of the peanut+butter .
+%mor:	v|put&ZERO det:art|the n|jelly prep|on n|top prep|of det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*PAR:	and put another piece of bread on top of that .
+%mor:	coord|and v|put&ZERO qn|another n|piece prep|of n|bread prep|on
+	n|top prep|of pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*PAR:	and smash it down .
+%mor:	coord|and v|smash pro:per|it adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+@End

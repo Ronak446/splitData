@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1050_3_PBJ_July-16th-2018-11-01-57-am video
+*PAR:	xxx [* phon] joot [* phon] .
+*PAR:	and joot [* phon] xxx [* phon] doot [* phon] .
+%mor:	coord|and ?|joot ?|doot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

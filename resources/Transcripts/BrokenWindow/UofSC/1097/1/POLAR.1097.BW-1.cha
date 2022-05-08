@@ -1,0 +1,51 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	POLAR.1097.BW-1 video
+*PAR:	<a little boy and> [//] a young boy and a basethball [: baseball]
+	[* phon] &k &k &k cap was &um in tennis shoes was playing soccer and
+	&um kicked the socco [: soccer] [* phon] ball into the window in the
+	house and broke the window .
+%mor:	det:art|a adj|young n|boy coord|and det:art|a n|baseball n|cap
+	cop|be&PAST&13S prep|in n|tennis n|shoe-PL aux|be&PAST&13S
+	part|play-PRESP n|soccer coord|and v|kick-PAST det:art|the n|soccer
+	n|ball prep|into det:art|the n|window prep|in det:art|the n|house
+	coord|and v|break&PAST det:art|the n|window .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD 8|13|SUBJ
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|13|CONJ
+	16|15|COORD 17|19|DET 18|19|MOD 19|16|OBJ 20|16|JCT 21|22|DET 22|20|POBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|13|CONJ 27|26|COORD 28|29|DET 29|27|OBJ
+	30|13|PUNCT
+*PAR:	and the soccer ball went inside the living room and hit a lamp .
+%mor:	coord|and det:art|the n|soccer n|ball v|go&PAST prep|inside
+	det:art|the part|live-PRESP n|room coord|and v|hit&ZERO det:art|a
+	n|lamp .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|5|PUNCT
+*PAR:	next to the lamp was a [/] a gentleman sitting <in a> [/] in a chair .
+%mor:	adv|next prep|to det:art|the n|lamp aux|be&PAST&13S det:art|a
+	n|gentleman part|sit-PRESP prep|in det:art|a n|chair .
+%gra:	1|2|JCT 2|8|JCT 3|4|DET 4|8|SUBJ 5|8|AUX 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+*PAR:	and &n &uh hard to believe his eyes he's looking at his broken
+	window and outside and &s trying to determine who kicked this ball
+	through the window and what am I going to do next .
+%mor:	coord|and adv|hard inf|to v|believe det:poss|his n|eye-PL
+	pro:sub|he~aux|be&3S part|look-PRESP prep|at det:poss|his
+	part|break&PASTP n|window coord|and adv|outside coord|and
+	part|try-PRESP inf|to v|determine pro:int|who v|kick-PAST
+	det:dem|this n|ball prep|through det:art|the n|window coord|and
+	pro:int|what cop|be&1S pro:sub|I part|go-PRESP inf|to v|do adv|next
+	.
+%gra:	1|9|LINK 2|9|JCT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|CONJ 15|14|COORD
+	16|15|CONJ 17|16|COORD 18|19|INF 19|17|COMP 20|21|SUBJ 21|19|COMP 22|23|DET
+	23|21|OBJ 24|21|JCT 25|26|DET 26|24|POBJ 27|21|CONJ 28|29|SUBJ
+	29|27|COORD 30|29|PRED 31|30|XMOD 32|33|INF 33|31|COMP 34|33|JCT 35|9|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

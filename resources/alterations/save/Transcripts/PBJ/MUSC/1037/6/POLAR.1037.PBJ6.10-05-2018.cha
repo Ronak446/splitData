@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:13
+@Media:	1037_6_PBJ_October-5th-2018-10-51-03-am video
+*PAR:	and bread <and jelly and peanut+butter and> [/] and jelly and peanut+butter .
+%mor:	coord|and n|bread coord|and n|jelly coord|and n|+n|peanut+n|butter
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and right there .
+%mor:	coord|and adv|right adv|there .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and cut it .
+%mor:	coord|and v|cut&ZERO pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

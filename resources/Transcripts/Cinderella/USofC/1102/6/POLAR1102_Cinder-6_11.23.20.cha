@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_354_1_354_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:43
+@Media:	1102_CINDERELLA_6, video
+*PAR:	&um <fairies tales> [//] &um &um fairy tales . 
+%mor:	n|fairy n|tale-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &cru sneaky &um dogs [//] &da &um mice .
+%mor:	adj|sneak&dv-Y n|mouse&PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	cowboy [* u] made up . 
+%mor:	n|+n|cow+n|boy v|make&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	oh &um fairy tales &m magical . 
+%mor:	co|oh n|fairy n|tale-PL adj|magic&dn-AL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|POSTMOD 5|3|PUNCT
+*PAR:	&um &s dusting &fi &um &s slippers perfect .
+%mor:	part|dust-PRESP n|slipper-PL adj|perfect .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|POSTMOD 4|1|PUNCT
+*PAR:	&um married wedding &bu . 
+%mor:	part|marry-PASTP n|wedding .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	done .
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

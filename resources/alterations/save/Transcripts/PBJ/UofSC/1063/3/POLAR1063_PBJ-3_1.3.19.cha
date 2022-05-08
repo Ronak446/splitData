@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	POLAR_1063_PBJ3 video
+*PAR:	yeah [/] yeah well <love you> [/] love you &frustrated .
+%mor:	co|yeah n|well n|love pro:per|you .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	want you .
+%mor:	v|want pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and yes well yes weh [: we] [* phon] love you .
+%mor:	coord|and co|yes co|well co|yes pro:sub|we v|love pro:per|you .
+%gra:	1|6|LINK 2|6|COM 3|6|COM 4|6|COM 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	yeah we lovuh [: love] [* phon] you yes yeah .
+%mor:	co|yeah pro:sub|we v|love pro:per|you co|yes co|yeah .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|COM 6|3|COM 7|3|PUNCT
+@End

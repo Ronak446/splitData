@@ -1,0 +1,77 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:51
+@Media:	1018_4_Cinderella_Y2017_M08_D02_H11_M38_S28 video
+*PAR:	okay <there is> [/] there is three [/] three girls .
+%mor:	co|okay adv|there cop|be&3S det:num|three n|girl-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*PAR:	and two girls is [//] are happy .
+%mor:	coord|and det:num|two n|girl-PL cop|be&PRES adj|happy .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and the one girl is a worker .
+%mor:	coord|and det:art|the pro:indef|one n|girl cop|be&3S det:art|a
+	n|work&dv-AGT .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*PAR:	and the two girls is [//] are happy .
+%mor:	coord|and det:art|the det:num|two n|girl-PL cop|be&PRES adj|happy .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and the one girl is sad .
+%mor:	coord|and det:art|the pro:indef|one n|girl cop|be&3S adj|sad .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	<the one> [/] the one that is sad have all of the mother .
+%mor:	det:art|the pro:indef|one pro:rel|that cop|be&3S adj|sad v|have
+	qn|all prep|of det:art|the n|mother .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|PRED 6|4|PRED 7|6|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	and the man is helping .
+%mor:	coord|and det:art|the n|man aux|be&3S part|help-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and the dirl [//] girl &um is sad .
+%mor:	coord|and det:art|the n|girl cop|be&3S adj|sad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and third girl does all the work .
+%mor:	coord|and adj|third n|girl mod|do&3S qn|all det:art|the n|work .
+%gra:	1|7|LINK 2|3|MOD 3|7|SUBJ 4|7|AUX 5|7|QUANT 6|7|DET 7|0|INCROOT
+	8|7|PUNCT
+*PAR:	and at one xxx [* phon] .
+%mor:	coord|and prep|at pro:indef|one .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	<the mother> [//] the girl the third one is get a wish to be happy .
+%mor:	det:art|the n|girl det:art|the n|third pro:indef|one cop|be&3S
+	v|get det:art|a n|wish inf|to cop|be adj|happy .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|XMOD 5|6|SUBJ 6|4|XMOD 7|6|PRED 8|9|DET
+	9|7|OBJ 10|11|INF 11|9|XMOD 12|11|PRED 13|2|PUNCT
+*PAR:	and have a [/] a get a lovely &ss shoes .
+%mor:	coord|and v|have det:art|a v|get det:art|a adj|love&dn-LY n|shoe-PL
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*PAR:	and that her shoes went &uh &ea <put them> [/] &e put them on .
+%mor:	coord|and pro:rel|that det:poss|her n|shoe-PL v|go&PAST v|put&ZERO
+	pro:obj|them adv|on .
+%gra:	1|5|LINK 2|5|LINK 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|6|OBJ 8|5|JCT
+	9|5|PUNCT
+*PAR:	and they &um &um xxx [* phon] &huh hundred get a falls in love with
+	<a girl> [//] a man .
+%mor:	coord|and pro:sub|they det:num|hundred v|get det:art|a n|fall-PL
+	prep|in n|love prep|with det:art|a n|man .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|QUANT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and they go all to get happy .
+%mor:	coord|and pro:sub|they v|go adv|all inf|to v|get adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|4|XCOMP 7|6|PRED 8|3|PUNCT
+*PAR:	and learn to be his happy and beautiful .
+%mor:	coord|and v|learn inf|to cop|be det:poss|his adj|happy coord|and
+	adj|beautiful .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|MOD 6|4|PRED 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+*PAR:	and learns to be the lovely girl .
+%mor:	coord|and v|learn-3S inf|to cop|be det:art|the adj|love&dn-LY
+	n|girl .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|PRED 8|2|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

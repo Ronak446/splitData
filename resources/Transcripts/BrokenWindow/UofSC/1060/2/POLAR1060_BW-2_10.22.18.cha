@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1060_2_BrokenWindow_October-22nd-2018-10-56-12-am video
+*PAR:	well this could be one of your kids .
+%mor:	co|well pro:dem|this mod|could cop|be pro:indef|one prep|of
+	det:poss|your n|kid-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and he's <throwing the> [//] kicking the [/] the ball right into the
+	glass .
+%mor:	coord|and pro:sub|he~aux|be&3S part|kick-PRESP det:art|the n|ball
+	adv|right prep|into det:art|the n|glass .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and guy says uhoh .
+%mor:	coord|and n|guy v|say-3S co|uhoh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I don't know what he was doing there .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|he
+	aux|be&PAST&13S part|do-PRESP adv|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|JCT 10|4|PUNCT
+*PAR:	what's he doing .
+%mor:	pro:int|what~cop|be&3S pro:sub|he part|do-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|PUNCT
+*PAR:	oh the glass .
+%mor:	co|oh det:art|the n|glass .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	there's a glass the light and glass .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|glass det:art|the n|light
+	coord|and n|glass .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|DET 6|4|XMOD 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+*PAR:	maybe he was watching football .
+%mor:	adv|maybe pro:sub|he aux|be&PAST&13S part|watch-PRESP
+	n|+n|foot+n|ball .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	anyway he's looking at ball .
+%mor:	co|anyway pro:sub|he~aux|be&3S part|look-PRESP prep|at n|ball .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and saying &hmm are they running or are they just waching
+	[: walking] [* phon] .
+%mor:	coord|and part|say-PRESP cop|be&PRES pro:sub|they part|run-PRESP
+	coord|or cop|be&PRES pro:sub|they adv|just part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COMP 4|3|PRED 5|4|XMOD 6|5|CONJ 7|10|AUX
+	8|10|SUBJ 9|10|JCT 10|6|COORD 11|1|PUNCT
+*PAR:	don't know .
+%mor:	mod|do~neg|not v|know .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+@End

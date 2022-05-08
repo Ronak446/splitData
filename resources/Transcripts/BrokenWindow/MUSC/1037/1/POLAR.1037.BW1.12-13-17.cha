@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+@Media:	1037_1_BrokenWindow_December-13th-2017-1-46-19-pm video
+*PAR:	in soccer <in> [/] in window .
+%mor:	prep|in n|soccer prep|in n|window .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*PAR:	in light .
+%mor:	prep|in n|light .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	<not good> [/] not good .
+%mor:	neg|not adj|good .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:06
+@Media:	1040_1_PBJ_January-22nd-2018-12-28-23-pm video
+*PAR:	irs [* phon] get the bread and &uh knife and the peanut+butter &um
+	two slice [* phon] .
+%mor:	?|irs v|get det:art|the n|bread coord|and n|knife coord|and
+	det:art|the n|+n|peanut+n|butter det:num|two n|slice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|6|CONJ 8|9|DET
+	9|11|MOD 10|11|QUANT 11|7|COORD 12|2|PUNCT
+*PAR:	and <peanut+buttee [* phon]> [//] peanut+butter first &uh open the
+	can [* s] .
+%mor:	coord|and n|+n|peanut+n|butter adj|first adj|open det:art|the n|can
+	.
+%gra:	1|6|LINK 2|6|MOD 3|6|MOD 4|6|MOD 5|6|DET 6|0|INCROOT 7|6|PUNCT
+*PAR:	and the fork [* s] &um spread it [/] &uh <spread it> [/] spread it
+	the bread spread it .
+%mor:	coord|and det:art|the n|fork v|spread&ZERO v|spread&ZERO pro:per|it
+	det:art|the n|bread n|spread pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|OBJ 7|9|DET 8|9|MOD
+	9|5|OBJ 10|9|OBJ 11|4|PUNCT
+*PAR:	and put it back .
+%mor:	coord|and v|put&ZERO pro:per|it adv|back .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and &uh jelly &um open it .
+%mor:	coord|and n|jelly adj|open pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|OBJ 5|1|PUNCT
+*PAR:	knife or the &um spoon whatever and spread it .
+%mor:	n|knife coord|or det:art|the n|spoon pro:int|whatever coord|and
+	v|spread&ZERO pro:per|it .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|CMOD 6|5|CONJ 7|6|COORD
+	8|7|OBJ 9|1|PUNCT
+*PAR:	ann [* phon] and oh gosh lord &um and then the forgot the &um &p
+	plate oh gosh .
+%mor:	?|ann coord|and co|oh co|gosh n|lord coord|and adv:tem|then
+	det:art|the v|forget&PAST det:art|the n|plate co|oh co|gosh .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|COM 4|5|COM 5|2|COORD 6|9|LINK 7|9|JCT 8|9|DET
+	9|1|CJCT 10|11|DET 11|9|OBJ 12|13|COM 13|11|XMOD 14|1|PUNCT
+*PAR:	and <the> [/] the <bread> [/] <bread and> [/] bread and make it
+	nice .
+%mor:	coord|and det:art|the n|bread coord|and v|make pro:per|it adj|nice
+	.
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|5|OBJ 7|6|PRED
+	8|1|PUNCT
+*PAR:	and <for> [//] it's not a fork knife .
+%mor:	coord|and pro:per|it~cop|be&3S neg|not det:art|a n|fork n|knife .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|7|DET 6|7|MOD 7|3|PRED 8|3|PUNCT
+*PAR:	cut it and eat it .
+%mor:	v|cut&ZERO pro:per|it coord|and v|eat pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|4|OBJ 6|1|PUNCT
+@End

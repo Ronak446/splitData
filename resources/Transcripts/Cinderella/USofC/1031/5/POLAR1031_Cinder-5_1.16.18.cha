@@ -1,0 +1,58 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:19
+@Media:	1031_Cinderella5 video
+*PAR:	cat and &n &d and &ow kid [//] no wer [* phon] .
+%mor:	n|cat coord|and coord|and qn|no ?|wer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|QUANT 5|3|COORD 6|1|PUNCT
+*PAR:	&aha &kay the kid is [/] is [/] &y is ee [* phon] &y &y &ow .
+%mor:	det:art|the n|kid aux|be&3S co|ee .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and then &ah and then .
+%mor:	coord|and adv:tem|then coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	<&gah I don't know> [/] .
+*PAR:	&gah <I don't know> [/] .
+*PAR:	I don't know &ah .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	can't go .
+%mor:	mod|can~neg|not v|go .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&kah .
+*PAR:	&aye &aye &ee &ee &ee eez [* phon] &uh ick [* phon] &ee &ee &ee eez
+	[* phon] &uh .
+%mor:	?|eez co|ick ?|eez .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&eh &y you &uh a mama .
+%mor:	pro:per|you det:art|a n|mama .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	<and there were> [//] <and then> [/] <and then> [/] and then and a
+	&m man [* s] .
+%mor:	coord|and adv:tem|then coord|and det:art|a n|man .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|1|PUNCT
+*PAR:	and is pretty .
+%mor:	coord|and aux|be&3S adv|pretty .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|JCT 4|1|PUNCT
+*PAR:	and I don't know .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

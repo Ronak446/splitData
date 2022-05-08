@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:42
+@Media:	1040_2_BrokenWindow_February-20th-2018-12-03-38-pm video
+*PAR:	one day little boy kitt [* phon] the ball .
+%mor:	det:num|one n|day adj|little n|boy ?|kitt det:art|the n|ball .
+%gra:	1|2|QUANT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|XMOD 6|7|DET 7|5|OBJ
+	8|4|PUNCT
+*PAR:	and throwing [* s] it in <the> [/] <the crack> [//] the window
+	crack .
+%mor:	coord|and part|throw-PRESP pro:per|it prep|in det:art|the n|window
+	n|crack .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|1|PUNCT
+*PAR:	and the house inside the daddy inside the house the throw the ball
+	crok [* phon] the windshield [* s] .
+%mor:	coord|and det:art|the n|house adj|inside det:art|the n|daddy
+	adj|inside det:art|the n|house det:art|the v|throw det:art|the
+	n|ball ?|crok det:art|the n|+n|wind+n|shield .
+%gra:	1|11|LINK 2|3|DET 3|11|SUBJ 4|11|JCT 5|6|DET 6|11|SUBJ 7|11|JCT 8|9|DET
+	9|11|SUBJ 10|11|DET 11|0|ROOT 12|13|DET 13|11|OBJ 14|13|XMOD 15|16|DET
+	16|14|OBJ 17|11|PUNCT
+*PAR:	and the man look outside .
+%mor:	coord|and det:art|the n|man v|look adv|outside .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and the ball look at &oh gosh .
+%mor:	coord|and det:art|the n|ball v|look prep|at co|gosh .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and <the> [/] the jump up .
+%mor:	coord|and det:art|the v|jump adv|up .
+%gra:	1|0|INCROOT 2|3|DET 3|1|CONJ 4|3|JCT 5|1|PUNCT
+*PAR:	and outside the window crack looking outside .
+%mor:	coord|and prep|outside det:art|the n|window n|crack part|look-PRESP
+	adv|outside .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	the enuh [* phon] .
+%mor:	det:art|the ?|enuh .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

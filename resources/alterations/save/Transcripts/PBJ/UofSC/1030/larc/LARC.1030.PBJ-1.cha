@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	1030_larc_PBJ_September-4th-2019-4-04-54-pm video
+*PAR:	first you take the &p two pieces of bread .
+%mor:	adv|first pro:per|you v|take det:art|the det:num|two n|piece-PL
+	prep|of n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and then you take the delly [: jelly] [* phon] out and nya [: the]
+	[* phon] peanuh+budduh [: peanut+butter] [* phon] out .
+%mor:	coord|and adv:tem|then pro:per|you v|take det:art|the n|jelly
+	adv|out coord|and det:art|the n|+n|peanut+n|butter adv|out .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|4|PUNCT
+*PAR:	use an &uh knife .
+%mor:	v|use det:art|a n|knife .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and you jould [: should] [* phon] peanuh+budduh [: peanut+butter]
+	[* phon] spread all ovthe [* over] [* phon] the bread .
+%mor:	coord|and pro:per|you mod|should n|+n|peanut+n|butter v|spread&ZERO
+	qn|all ?|ovthe det:art|the n|bread .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*PAR:	and then you wass [: wash] [* phon] in [: it] [* phon] off .
+%mor:	coord|and adv:tem|then pro:per|you v|wash pro:per|it adv|off .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and you &j delly [: jelly] [* phon] and spead [: spread] [* phon]
+	all ovthe [: over] [* phon] the bed [: bread] [* phon] .
+%mor:	coord|and pro:per|you n|jelly coord|and n|spread adv|all prep|over
+	det:art|the n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|7|JCT 7|5|NJCT
+	8|9|DET 9|7|POBJ 10|3|PUNCT
+*PAR:	and you &t &t &t &t &um &t put dih [: it] [* phon] &dih duhgethuh
+	[: together] [* phon] and &p take a bite .
+%mor:	coord|and pro:per|you v|put&ZERO pro:per|it adv|together coord|and
+	v|take det:art|a n|bite .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+@End

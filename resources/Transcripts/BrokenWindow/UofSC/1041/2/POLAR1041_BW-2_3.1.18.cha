@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1041_2_BrokenWindow_March-1st-2018-11-10-25-am video
+*PAR:	he kicked the ball .
+%mor:	pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	hit the &l lam [* phon] .
+%mor:	v|hit&ZERO det:art|the v|lam .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	hit this place .
+%mor:	v|hit&ZERO pro:dem|this n|place .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	hit the man .
+%mor:	v|hit&ZERO det:art|the n|man .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	he looked the ball .
+%mor:	pro:sub|he v|look-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	so he kicked it .
+%mor:	co|so pro:sub|he v|kick-PAST pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	hit the &s window this place .
+%mor:	v|hit&ZERO det:art|the n|window pro:dem|this n|place .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|APP 6|1|PUNCT
+*PAR:	hit the bugger there .
+%mor:	v|hit&ZERO det:art|the n|bugger adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*PAR:	he can't the look down .
+%mor:	pro:sub|he mod|can~neg|not det:art|the v|look adv|down .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|DET 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and sees it .
+%mor:	coord|and v|see-3S pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	1029_4_PBJ_November-17th-2017-2-09-06-pm video
+*PAR:	okay I would like to make a peanut &bu butter and &s a &sam sammich
+	[* phon] sammich [/] sammlich [//] scramlich [* phon] .
+%mor:	co|okay pro:sub|I mod|will&COND co|like v|toe v|make det:art|a
+	n|peanut n|butter coord|and det:art|a ?|sammich ?|scramlich .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|COM 5|0|ROOT 6|5|OBJ 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|13|DET 12|13|MOD 13|10|COORD 14|5|PUNCT
+*PAR:	&um and the first thing I would do is get the bread out of the bag .
+%mor:	coord|and det:art|the adj|first n|thing pro:sub|I mod|will&COND
+	v|do cop|be&3S v|get det:art|the n|bread adv|out prep|of det:art|the
+	n|bag .
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|0|ROOT
+	9|8|PRED 10|11|DET 11|9|OBJ 12|9|JCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|8|PUNCT
+*PAR:	and &uh then I would make &um peanut+butter &sli slip [//] throw
+	[* s] it onto the &uh bread .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|make
+	n|+n|peanut+n|butter v|throw pro:per|it prep|onto det:art|the
+	n|bread .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and then I would &uh get the knife .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|get det:art|the
+	n|knife .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and put the &be jelly on on [/] next .
+%mor:	coord|and v|put&ZERO det:art|the n|jelly adv|on adv|next .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|JCT 6|2|JCT 7|2|PUNCT
+*PAR:	and then I would put the top of the &sh piece of the bread .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	det:art|the n|top prep|of det:art|the n|piece prep|of det:art|the
+	n|bread .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	and I would be ready to eat it at that time .
+%mor:	coord|and pro:sub|I mod|will&COND cop|be adj|ready inf|to v|eat
+	pro:per|it prep|at pro:dem|that n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+@End

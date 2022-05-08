@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1035_1_PBJ_November-21st-2017-9-06-59-am video
+
+*PAR:	two of them .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one beanutbutter [* phon] okay .
+%mor:	det:num|one ?|beanutbutter adj|okay .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	two yeah delly [* phon] .
+%mor:	det:num|two co|yeah adj|dell&dn-Y .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+*PAR:	this right there .
+%mor:	pro:dem|this adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	done .
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

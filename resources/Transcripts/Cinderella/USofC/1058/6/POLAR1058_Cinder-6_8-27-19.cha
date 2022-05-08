@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	POLAR_1058_Cinder6 video
+*PAR:	and &an &an &um arm [* u] .
+%mor:	coord|and n|arm .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&um no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&m more [/] more [/] more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

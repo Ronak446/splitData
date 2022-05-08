@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	POLAR_1063_BW2 video
+*PAR:	&uh &uh oh [/] oh man &h yes [/] yes a man wlove [: love] [* phon]
+	you &ugh .
+%mor:	co|oh n|man co|yes det:art|a n|man n|love pro:per|you .
+%gra:	1|2|COM 2|0|INCROOT 3|6|COM 4|6|DET 5|6|MOD 6|2|ENUM 7|6|OBJ 8|2|PUNCT
+*PAR:	&uh &um <Mary [* u]> [//] no amalaroo [* phon] yes amehlevyese
+	[* phon] &m .
+%mor:	qn|no ?|amalaroo co|yes ?|amehlevyese .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|COM 4|2|PRED 5|2|PUNCT
+@End

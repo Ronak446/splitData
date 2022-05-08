@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR_1045_PBJ3 video
+*PAR:	&um you take bread out .
+%mor:	pro:per|you v|take n|bread adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	&um a jar of peanut+butter and &jel jelly .
+%mor:	det:art|a n|jar prep|of n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	&um take a knife do the &um &um peanut+butter first and then &jel
+	jelly on top .
+%mor:	v|take det:art|a n|knife v|do det:art|the n|+n|peanut+n|butter
+	adv|first coord|and adv:tem|then n|jelly prep|on n|top .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|CONJ
+	9|10|JCT 10|8|COORD 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*PAR:	and then put the &uh bread on top .
+%mor:	coord|and adv:tem|then v|put&ZERO det:art|the n|bread prep|on n|top
+	.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+@End

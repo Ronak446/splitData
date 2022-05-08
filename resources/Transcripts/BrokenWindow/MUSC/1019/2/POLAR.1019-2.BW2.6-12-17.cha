@@ -1,0 +1,52 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1019_2_BrokenWindow_Y2017_M06_D12_H12_M17_S19 video
+*PAR:	&bu boy was kicking the &um &s &s <soccer ball> [/] soccer ball .
+%mor:	co|boy aux|be&PAST&13S part|kick-PRESP det:art|the n|soccer n|ball.
+%gra:	1|3|COM 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and he went through a window like &crash .
+%mor:	coord|and pro:sub|he v|go&PAST prep|through det:art|a n|window
+	prep|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|PUNCT
+*PAR:	and &uh he the men was in &uh room .
+%mor:	coord|and pro:sub|he det:art|the n|man&PL cop|be&PAST&13S prep|in
+	n|room .
+%gra:	1|5|LINK 2|5|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	I don't know what he was doing .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|he
+	aux|be&PAST&13S part|do-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+*PAR:	but he sur [//] saw the soccer ball come into .
+%mor:	conj|but pro:sub|he v|see&PAST det:art|the n|soccer n|ball v|come
+	prep|into .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*PAR:	oh my god .
+%mor:	co|oh det:poss|my n|god .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	so he got up .
+%mor:	co|so pro:sub|he v|get&PAST adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he &um had the ball .
+%mor:	coord|and pro:sub|he v|have&PAST det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and like okay what you guys doing out there .
+%mor:	coord|and co|like co|okay pro:int|what pro:per|you n|guy-PL
+	part|do-PRESP adv|out adv|there .
+%gra:	1|7|LINK 2|7|COM 3|7|COM 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|7|PUNCT
+*PAR:	and he kept the ball .
+%mor:	coord|and pro:sub|he v|keep&PAST det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	but I don't know .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	&uh &um yeah he kept the ball .
+%mor:	co|yeah pro:sub|he v|keep&PAST det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

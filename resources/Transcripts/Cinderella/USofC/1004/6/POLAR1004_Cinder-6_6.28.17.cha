@@ -1,0 +1,229 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:06:51
+@Media:	1004_6_Cinderella_June-28th-2017-3-42-13-pm video
+
+*PAR:	<one time a long time ago in the &ss> [//] .
+*PAR:	one time a long time ago in the which was man [* s] [//] &uh woman
+	was went was &uh girl .
+%mor:	det:num|one n|time det:art|a adj|long n|time adv|ago prep|in
+	det:art|the pro:rel|which cop|be&PAST&13S n|woman aux|be&PAST&13S
+	v|go&PAST cop|be&PAST&13S n|girl .
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|XMOD 6|5|NJCT 7|6|JCT
+	8|7|POBJ 9|10|LINK 10|8|CMOD 11|13|SUBJ 12|13|AUX 13|10|PRED 14|13|OBJ
+	15|14|PRED 16|2|PUNCT
+*PAR:	and then two little girls .
+%mor:	coord|and adv:tem|then det:num|two adj|little n|girl-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|QUANT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and live happily ever after .
+%mor:	coord|and v|live adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|2|PUNCT
+*PAR:	but then one time the girl was not with everyone else .
+%mor:	conj|but adv:tem|then det:num|one n|time det:art|the n|girl
+	aux|be&PAST&13S neg|not prep|with pro:indef|everyone post|else .
+%gra:	1|4|LINK 2|4|JCT 3|4|QUANT 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|XMOD 8|7|NEG
+	9|7|JCT 10|9|POBJ 11|10|PQ 12|4|PUNCT
+*PAR:	with the &uh other girl .
+%mor:	prep|with det:art|the qn|other n|girl .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|POBJ 5|1|PUNCT
+*PAR:	and he [* s] was xxx [* phon] all the things .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|all det:art|the n|thing-PL
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|3|PUNCT
+*PAR:	that was not good at all .
+%mor:	pro:dem|that cop|be&PAST&13S neg|not adj|good prep|at pro:indef|all
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	but it's ok .
+%mor:	conj|but pro:per|it~cop|be&3S ?|ok .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	but then &ss said there was one things was &um good about writing on
+	a wall that said &oh things are gonna happen .
+%mor:	conj|but adv:tem|then v|say&PAST adv|there cop|be&PAST&13S
+	det:num|one n|thing-PL aux|be&PAST&13S adj|good prep|about
+	part|write-PRESP prep|on det:art|a n|wall pro:rel|that v|say&PAST
+	n|thing-PL aux|be&PRES part|go-PRESP~inf|to v|happen .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|11|AUX 6|7|QUANT 7|11|SUBJ 8|11|AUX
+	9|11|JCT 10|11|JCT 11|3|XJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|16|LINK
+	16|14|CMOD 17|19|SUBJ 18|19|AUX 19|16|COMP 20|21|INF 21|19|XCOMP
+	22|3|PUNCT
+*PAR:	all good times .
+%mor:	adv|all adj|good n|time-PL .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and so they had had &um letter [* u] [//] not letter but &um &um
+	dress for everyone for anyone thing .
+%mor:	coord|and co|so pro:sub|they v|have&PAST v|have&PAST neg|not
+	n|letter conj|but n|dress prep|for pro:indef|everyone prep|for
+	pro:indef|anyone n|thing .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NEG 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|10|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|4|PUNCT
+*PAR:	and wis [* phon] [//] was good .
+%mor:	coord|and cop|be&PAST&13S adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PRED 4|1|PUNCT
+*PAR:	and it was all the <lions and tigers and bears &oh my> [* s] .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adv|all det:art|the n|lion-PL
+	coord|and n|tiger-PL coord|and v|bear-3S co|my .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|6|CONJ 8|7|COORD
+	9|6|CONJ 10|9|COORD 11|10|OBJ 12|3|PUNCT
+*PAR:	&uh it was and giraffe [* s] [//] not giraffes but &um &uh &ss
+	squirrels [* s] .
+%mor:	pro:per|it cop|be&PAST&13S coord|and neg|not n|giraffe-PL conj|but
+	n|squirrel-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|5|NEG 5|3|COORD 6|5|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	I don't think it's but &um &um &um .
+%mor:	pro:sub|I mod|do~neg|not v|think pro:per|it~cop|be&3S conj|but .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|PRED 8|4|PUNCT
+*PAR:	it was &um &uh everyone .
+%mor:	pro:per|it cop|be&PAST&13S pro:indef|everyone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&um xxx [* phon] and xxx [* phon] &sss .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	anyway there was long dress .
+%mor:	adv|anyway adv|there cop|be&PAST&13S adj|long n|dress .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	and all things were going good .
+%mor:	coord|and qn|all n|thing-PL aux|be&PAST part|go-PRESP adj|good .
+%gra:	1|5|LINK 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and then &um &th the girls with <one two> [//] three of them was
+	going .
+%mor:	coord|and adv:tem|then det:art|the n|girl-PL prep|with
+	det:num|three prep|of pro:obj|them aux|be&PAST&13S part|go-PRESP .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|7|POBJ 9|10|AUX 10|7|POBJ 11|1|PUNCT
+*PAR:	and then one was going &oh no xxx [* phon] to do xxx [* phon] do .
+%mor:	coord|and adv:tem|then pro:indef|one aux|be&PAST&13S part|go-PRESP
+	co|no inf|to v|do v|do .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|5|PUNCT
+*PAR:	and said no [/] no [/] no .
+%mor:	coord|and v|say&PAST co|no .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and so &oh so [/] she was xxx [* phon] .
+%mor:	coord|and co|so pro:sub|she cop|be&PAST&13S .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and so it's good good [/] not good at all .
+%mor:	coord|and adv|so pro:per|it~cop|be&3S adj|good neg|not adj|good
+	prep|at pro:indef|all .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NEG 7|5|JCT 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	but then was one girl's xxx [* phon] was going &uh all long .
+%mor:	conj|but adv:tem|then cop|be&PAST&13S det:num|one n|girl~aux|be&3S
+	aux|be&PAST&13S part|go-PRESP adv|all adv|long .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|QUANT 5|8|SUBJ 6|8|AUX 7|8|AUX 8|3|PRED
+	9|10|JCT 10|8|JCT 11|3|PUNCT
+*PAR:	xxx [* phon] &oh yes xxx [* phon] xxx [* phon] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and say what you're going &um castle .
+%mor:	coord|and v|say pro:int|what pro:per|you~aux|be&PRES part|go-PRESP
+	n|castle .
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ 8|2|PUNCT
+*PAR:	and and [/] &ww what <one two> [//] three &um &uh not &um lions
+	[* u] &uh .
+%mor:	coord|and pro:int|what det:num|three neg|not n|lion-PL .
+%gra:	1|5|LINK 2|5|MOD 3|5|QUANT 4|3|NEG 5|0|INCROOT 6|5|PUNCT
+*PAR:	they were going castles and stuff .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP n|castle-PL coord|and
+	n|stuff .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	so she was going xxx [* phon] .
+%mor:	co|so pro:sub|she aux|be&PAST&13S part|go-PRESP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	so it was castle was going everywawhere [* phon] .
+%mor:	co|so pro:per|it cop|be&PAST&13S n|castle aux|be&PAST&13S
+	part|go-PRESP ?|everywawhere .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|PRED 7|6|OBJ 8|3|PUNCT
+*PAR:	and she was going &oh &um castle .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|go-PRESP n|castle .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &um she was going &um yes for the man and woman <man and woman>
+	[/] was .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|go-PRESP co|yes prep|for
+	det:art|the n|man coord|and n|woman cop|be&PAST&13S .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|CONJ 10|11|SUBJ 11|9|COORD 12|4|PUNCT
+*PAR:	&oh is xxx [* phon] yes [/] yes [/] yes .
+%mor:	aux|be&3S co|yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	and everything was going well .
+%mor:	coord|and pro:indef|everything aux|be&PAST&13S part|go-PRESP
+	adv|well .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and castle was going well .
+%mor:	coord|and n|castle aux|be&PAST&13S part|go-PRESP adv|well .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and &um he [* s] was going &d dress but &um &uh &buh .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|go-PRESP n|dress conj|but
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|XJCT 7|4|PUNCT
+*PAR:	anyway so then one two three four five six seven eight nine ten
+	eleven twelve ouh'clock [* phon] .
+%mor:	adv|anyway adv|so adv:tem|then det:num|one det:num|two
+	det:num|three det:num|four det:num|five det:num|six det:num|seven
+	det:num|eight det:num|nine det:num|ten det:num|eleven det:num|twelve
+	?|ouh'clock .
+%gra:	1|3|JCT 2|3|JCT 3|10|JCT 4|5|QUANT 5|6|QUANT 6|7|QUANT 7|8|QUANT
+	8|9|QUANT 9|10|QUANT 10|14|QUANT 11|12|QUANT 12|13|QUANT 13|14|QUANT
+	14|16|QUANT 15|16|QUANT 16|0|ROOT 17|16|PUNCT
+*PAR:	&oh it's going well .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adv|well .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	it's got going .
+%mor:	pro:per|it~aux|be&3S v|get&PAST n:gerund|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&uh slipper .
+%mor:	n|slipper .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's going <it's going> [/] well .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adv|well .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	so when it's going &uh .
+%mor:	co|so conj|when pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	so well it's good .
+%mor:	adv|so adv|well pro:per|it~cop|be&3S adj|good .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and so some so it's house .
+%mor:	coord|and adv|so qn|some adv|so pro:per|it~cop|be&3S n|house .
+%gra:	1|3|LINK 2|3|JCT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	it's going where where [/] where [/] where [/] it's going &th this .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adv:int|where
+	pro:per|it~aux|be&3S part|go-PRESP pro:dem|this .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|XJCT 8|7|OBJ
+	9|3|PUNCT
+*PAR:	and slipper &sl slipper was going things .
+%mor:	coord|and n|slipper n|slipper aux|be&PAST&13S part|go-PRESP
+	n|thing-PL .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	going well .
+%mor:	part|go-PRESP adv|well .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and &um &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well anyway it's going .
+%mor:	co|well co|anyway pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|5|COM 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and she's going &s slipper .
+%mor:	coord|and pro:sub|she~aux|be&3S part|go-PRESP n|slipper .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and it's going &oh well .
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP adv|well .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and then aver [* phon] [//] ever after was man and woman .
+%mor:	coord|and adv:tem|then adv|ever adv:tem|after cop|be&PAST&13S n|man
+	coord|and n|woman .
+%gra:	1|5|LINK 2|5|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|CONJ 8|7|COORD
+	9|5|PUNCT
+*PAR:	and is going to marry .
+%mor:	coord|and aux|be&3S part|go-PRESP inf|to v|marry .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	and is going the end .
+%mor:	coord|and aux|be&3S part|go-PRESP det:art|the n|end .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

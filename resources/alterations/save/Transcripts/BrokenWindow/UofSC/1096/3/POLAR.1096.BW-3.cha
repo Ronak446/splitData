@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	POLAR.1096.BW-3 video
+*PAR:	well thik [: the] [* phon] ki [: guy] [* phon] has kicked the ball .
+%mor:	co|well det:art|the n|guy aux|have&3S part|kick-PASTP det:art|the
+	n|ball .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and he kicked it so hard that he kicked it through a window .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it adv|so adj|hard
+	comp|that pro:sub|he v|kick-PAST pro:per|it prep|through det:art|a
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and the fell in the second guy's lap .
+%mor:	coord|and det:art|the v|fall&PAST prep|in det:art|the n|second
+	adj|guy&dn-POSS n|lap .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|JCT 5|6|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|3|PUNCT
+*PAR:	and he stands up .
+%mor:	coord|and pro:sub|he v|stand-3S adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and they [: he] [* s] looks out the window carrying that ball .
+%mor:	coord|and pro:sub|he v|look-3S prep|out det:art|the n|window
+	part|carry-PRESP comp|that n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|9|MOD
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and they [: he] [* s] see what their kick the through the window
+	okay .
+%mor:	coord|and pro:sub|he v|see pro:int|what det:poss|their v|kick
+	det:art|the prep|through det:art|the n|window adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|DET 6|3|COMP 7|11|DET 8|11|JCT
+	9|10|DET 10|8|POBJ 11|6|OBJ 12|3|PUNCT
+@End

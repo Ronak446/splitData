@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:26
+@Media:	1032_Cinderella4 video
+*PAR:	ging [* phon] [/] ging [* phon] .
+%mor:	?|ging .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dress .
+%mor:	n|dress .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah tres [* phon] .
+%mor:	co|yeah ?|tres .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	appy [* phon] [/] appy [* phon] .
+%mor:	?|appy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yup [* s] [/] nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

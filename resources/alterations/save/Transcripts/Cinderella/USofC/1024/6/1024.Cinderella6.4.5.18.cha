@@ -1,0 +1,174 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:07:11
+@Media:	1024_Cinderella6 video
+*PAR:	see cinerella [* phon] &uh see so cinterella [* phon] dad passed
+	away .
+%mor:	v|see ?|cinerella v|see adv|so ?|cinterella n|dad v|pass-PAST
+	adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|7|JCT 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*PAR:	and then she is going to new home with sepmom [* phon] and
+	stepsisters .
+%mor:	coord|and adv:tem|then pro:sub|she aux|be&3S part|go-PRESP prep|to
+	adj|new n|home prep|with ?|sepmom coord|and step#n|sister-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|10|CONJ 12|11|COORD 13|5|PUNCT
+*PAR:	and so later on she is like cleaning cooking laundry .
+%mor:	coord|and adv|so adv|later adv|on pro:sub|she cop|be&3S co|like
+	part|clean-PRESP part|cook-PRESP n|laundry .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|7|XMOD
+	9|8|XJCT 10|9|OBJ 11|6|PUNCT
+*PAR:	and then she's not there because <she is> [/] she is sisters too .
+%mor:	coord|and adv:tem|then pro:sub|she~aux|be&3S neg|not adv|there
+	conj|because pro:sub|she cop|be&3S n|sister-PL post|too .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|PRED 11|10|PQ 12|6|PUNCT
+*PAR:	so [/] so I think stepfather [* s] [//] or stepmother got in anight
+	[* phon] for a ball .
+%mor:	co|so pro:sub|I v|think coord|or step#n|mother v|get&PAST prep|in
+	?|anight prep|for det:art|a n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	so they are avited [* phon] .
+%mor:	co|so pro:sub|they cop|be&PRES ?|avited .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	but sepmom [* phon] told Cinderella you need a list for cleaning
+	laundry I guess .
+%mor:	conj|but ?|sepmom v|tell&PAST n:prop|Cinderella pro:per|you v|need
+	det:art|a n|list prep|for n:gerund|clean-PRESP n|laundry pro:sub|I
+	v|guess .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|OBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|10|OBJ 12|13|SUBJ 13|11|CMOD 14|6|PUNCT
+*PAR:	so <you can> [//] you're [//] you can go but you need your list .
+%mor:	co|so pro:per|you mod|can v|go conj|but pro:per|you v|need
+	det:poss|your n|list .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|MOD
+	9|7|OBJ 10|4|PUNCT
+*PAR:	and then you can go .
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|go .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	so &um cidrella [* phon] friends the mice helped [//] or surprised
+	for a new gown .
+%mor:	adv|so ?|cidrella n|friend-PL det:art|the n|mouse&PL coord|or
+	v|surprise-PAST prep|for det:art|a adj|new n|gown .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*PAR:	&uh and then Cinderella's surprise for the gown .
+%mor:	coord|and adv:tem|then n:prop|Cinderella~poss|s n|surprise prep|for
+	det:art|the n|gown .
+%gra:	1|5|LINK 2|5|JCT 3|5|MOD 4|3|POSS 5|0|ROOT 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	but stepsisters saw her [//] yer [* phon] &um bracelet the grown .
+%mor:	conj|but step#n|sister-PL v|see&PAST det:poss|your n|bracelet
+	det:art|the part|grow&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	so [/] so I think sepsisters [* phon] basically &um its ruined or
+	Cinderella's dress .
+%mor:	co|so pro:sub|I v|think ?|sepsisters adv|basic&dadj-AL-LY
+	det:poss|its part|ruin-PASTP coord|or n:prop|Cinderella~poss|s
+	n|dress .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|4|CONJ 7|6|COORD 8|7|CONJ
+	9|11|MOD 10|9|POSS 11|8|COORD 12|3|PUNCT
+*PAR:	and then sepmom [* phon] and sisters gone to the gown or ball .
+%mor:	coord|and adv:tem|then ?|sepmom coord|and n|sister-PL part|go&PASTP
+	prep|to det:art|the n|gown coord|or n|ball .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|CONJ 11|10|COORD 12|6|PUNCT
+*PAR:	then &s step [//] or no Cinderella is trying [* phon] because do
+	<you wanna> [/] you wanna go too .
+%mor:	adv:tem|then coord|or co|no n:prop|Cinderella aux|be&3S
+	part|try-PRESP conj|because mod|do pro:per|you v|want~inf|to v|go
+	adv|too .
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|COM 4|6|SUBJ 5|6|AUX 6|2|COORD 7|10|LINK
+	8|10|AUX 9|10|SUBJ 10|1|CJCT 11|12|INF 12|10|XCOMP 13|12|JCT 14|1|PUNCT
+*PAR:	and then &um its gosh its not grandma but shoot &uh xxx [* phon] .
+%mor:	coord|and adv:tem|then det:poss|its co|gosh det:poss|its neg|not
+	grand#n|ma conj|but co|shoot .
+%gra:	1|7|LINK 2|7|JCT 3|4|MOD 4|7|COM 5|7|MOD 6|5|NEG 7|0|ROOT 8|7|CONJ
+	9|8|COORD 10|7|PUNCT
+*PAR:	&oh man god I wanna that name .
+%mor:	n|man n|god pro:sub|I v|want~inf|to pro:dem|that n|name .
+%gra:	1|2|MOD 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR:	but uh gratma [* phon] is appear .
+%mor:	conj|but ?|uh ?|gratma cop|be&3S v|appear .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	so she got a new dress a carriage horses and &wuh &wuh butler .
+%mor:	co|so pro:sub|she v|get&PAST det:art|a adj|new n|dress det:art|a
+	n|carriage n|horse-PL coord|and n|butler .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*PAR:	and then &s and then Cinderella's going to the ball .
+%mor:	coord|and adv:tem|then coord|and adv:tem|then
+	n:prop|Cinderella~aux|be&3S part|go-PRESP prep|to det:art|the n|ball
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|7|JCT 5|7|SUBJ 6|7|AUX 7|3|COORD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	and <that prince lockerz  [* phon]> [//] the prince likes erella
+	[* phon] .
+%mor:	coord|and det:art|the n|prince v|like-3S ?|erella .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	cerella [* phon] so nice and pretty and .
+%mor:	?|cerella adv|so adj|nice coord|and adv|pretty coord|and .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|CONJ 4|3|CONJ 5|4|COORD 6|3|COORD 7|1|PUNCT
+*PAR:	but he need a &um gosh <some number> [//] or no [/] no number .
+%mor:	conj|but pro:sub|he v|need det:art|a co|gosh coord|or co|no
+	v|number .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|COM 8|6|COORD
+	9|3|PUNCT
+*PAR:	but hanging out or something .
+%mor:	conj|but part|hang-PRESP adv|out coord|or pro:indef|something .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	but &uh Cinderella needs you back on midnight because then its
+	broken for that spell .
+%mor:	conj|but n:prop|Cinderella v|need-3S pro:per|you adv|back prep|on
+	mid#n|night&dn conj|because adv:tem|then det:poss|its
+	part|break&PASTP prep|for pro:dem|that n|spell .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|11|LINK
+	9|11|JCT 10|11|MOD 11|3|CJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and then let's see so <next time> [//] or next day it is prince and
+	&uh servant for looking for that girl .
+%mor:	coord|and adv:tem|then v|let~pro:obj|us v|see adv|so coord|or
+	adj|next n|day pro:per|it cop|be&3S n|prince coord|and n|servant
+	prep|for n:gerund|look-PRESP prep|for pro:dem|that n|girl .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|11|SUBJ 11|9|CMOD 12|11|PRED 13|12|CONJ 14|13|COORD
+	15|14|NJCT 16|15|POBJ 17|16|JCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*PAR:	and &um sepmother [* phon] locks her Cinderella room .
+%mor:	coord|and ?|sepmother v|lock-3S pro:obj|her n:prop|Cinderella
+	n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&um so &s stepmom and stepsisters try it on .
+%mor:	adv|so step#n|mom coord|and step#n|sister-PL v|try pro:per|it
+	adv|on .
+%gra:	1|2|JCT 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*PAR:	but its too big .
+%mor:	conj|but det:poss|its adv|too adj|big .
+%gra:	1|4|LINK 2|4|MOD 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	and then the mice help [//] or locked [* s] the key .
+%mor:	coord|and adv:tem|then det:art|the n|mouse&PL coord|or v|lock-PAST
+	det:art|the n|key .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|8|DET
+	8|6|OBJ 9|1|PUNCT
+*PAR:	and you can open it up .
+%mor:	coord|and pro:per|you mod|can v|open pro:per|it adv|up .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and then Cinderella peer [* phon] .
+%mor:	coord|and adv:tem|then n:prop|Cinderella n|peer .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	so you can try the shoe .
+%mor:	co|so pro:per|you mod|can v|try det:art|the n|shoe .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and its [* phon] fits .
+%mor:	coord|and det:poss|its v|fit-3S .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	so [/] &um so the prince and cirinella [* phon] is &um sh upper
+	[* phon] ever haffer [* phon] .
+%mor:	co|so det:art|the n|prince coord|and ?|cirinella aux|be&3S ?|sh
+	adj|upper adv|ever ?|haffer .
+%gra:	1|3|COM 2|3|DET 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|AUX 7|0|ROOT 8|10|MOD
+	9|10|JCT 10|7|PRED 11|7|PUNCT
+@End

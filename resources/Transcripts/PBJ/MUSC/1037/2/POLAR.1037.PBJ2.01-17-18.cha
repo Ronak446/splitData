@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:10
+@Media:	1037_2_PBJ_January-17th-2018-11-59-19-am video
+*PAR:	sandwich .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut+butter and jelly and peanut+butter sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly coord|and
+	n|+n|peanut+n|butter n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+@End

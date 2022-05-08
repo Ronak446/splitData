@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	LARC.1005.PBJ-1 video
+*PAR:	beanut+butter [: peanut+butter] [* phon] and jelly and bread and
+	butter [* u] .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly coord|and n|bread coord|and
+	n|butter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|4|COORD 6|1|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	&uh jelly [/] jelly [/] jelly in there .
+%mor:	n|jelly prep|in n|there .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and peanapple+butter [: peanut+butter] [* s] [* phon] and sandwich
+	and prenut+butter [: peanut+butter] [* phon] on sandwich jing
+	[* phon] done .
+%mor:	coord|and n|+n|peanut+n|butter coord|and n|sandwich coord|and
+	n|+n|peanut+n|butter prep|on n|sandwich ?|jing part|do&PASTP .
+%gra:	1|10|LINK 2|10|SUBJ 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|2|NJCT
+	8|7|POBJ 9|10|AUX 10|0|ROOT 11|10|PUNCT
+@End

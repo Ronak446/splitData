@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:23
+@Media:	1026_BW3 video
+*PAR:	okay the boy kicked the football [* s] [//] no soccer ball .
+%mor:	co|okay det:art|the n|boy part|kick-PASTP det:art|the qn|no
+	n|soccer n|ball .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|XMOD 5|8|DET 6|7|QUANT 7|8|MOD 8|4|OBJ
+	9|3|PUNCT
+*PAR:	and it went through <the &s> [//] the window and the ball went too .
+%mor:	coord|and pro:per|it v|go&PAST prep|through det:art|the n|window
+	coord|and det:art|the n|ball v|go&PAST adv|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|3|CJCT 11|10|JCT 12|3|PUNCT
+*PAR:	and the &um the lamp went oh over and the ball went too .
+%mor:	coord|and det:art|the det:art|the n|lamp v|go&PAST co|oh adv|over
+	coord|and det:art|the n|ball v|go&PAST adv|too .
+%gra:	1|5|LINK 2|4|DET 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|COM 7|5|JCT 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|5|CJCT 12|11|JCT 13|5|PUNCT
+*PAR:	and the man was sitting there .
+%mor:	coord|and det:art|the n|man aux|be&PAST&13S part|sit-PRESP
+	adv|there .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	<and oh> [//] and the ball went .
+%mor:	coord|and det:art|the n|ball v|go&PAST .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the man catched [* phon] the ball and <looked at the window outside
+	the window> [//] no [/] no the man looked out the window when the
+	hole the window .
+%mor:	det:art|the n|man v|catch-PAST det:art|the n|ball coord|and qn|no
+	det:art|the n|man cop|look-PAST prep|out det:art|the n|window
+	conj|when det:art|the n|hole det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|LINK 7|9|QUANT 8|9|DET
+	9|10|SUBJ 10|3|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|16|DET
+	16|14|COORD 17|18|DET 18|16|OBJ 19|3|PUNCT
+*PAR:	I can't catch it .
+%mor:	pro:sub|I mod|can~neg|not v|catch pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the crack the window .
+%mor:	det:art|the n|crack det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	okay alright .
+%mor:	co|okay co|alright .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

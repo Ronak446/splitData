@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1007_5_BrokenWindow_Y2017_M03_D08_H10_M52_S53 video
+*PAR:	&um &uh .
+*PAR:	boy playing .
+%mor:	co|boy part|play-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	&ih it broke .
+%mor:	pro:per|it adj|broke .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	the man man [/] and man [/] .
+%mor:	det:art|the n|man coord|and .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+@End

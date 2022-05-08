@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1056_2_BrokenWindow_October-2nd-2018-10-12-45-am video
+*PAR:	a pow [* phon] &f .
+%mor:	det:art|a on|pow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	neeya [* phon] hol [* phon] finbing [* phon] .
+*PAR:	and fu [* phon] .
+%mor:	coord|and ?|fu .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	eeba [* phon] &hm .
+*PAR:	and then ih [* phon] oal [* phon] &hm no .
+%mor:	coord|and adv:tem|then ?|ih ?|oal co|no .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|COM 6|3|PUNCT
+@End

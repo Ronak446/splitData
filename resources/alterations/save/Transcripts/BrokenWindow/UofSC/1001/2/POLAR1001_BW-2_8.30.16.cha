@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:43
+@Media:	1001_2_BrokenWindow_Y2016_M08_D30_H10_M07_S43 video
+*PAR:	the little boy kicks the door into xxx [* phon] .
+%mor:	det:art|the adj|little n|boy v|kick-3S det:art|the n|door prep|into
+	.
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and and [/] in [: it] [* phon] hits the xxx [* phon] .
+%mor:	coord|and pro:per|it v|hit-3S det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	we don't know its its [/] words and there but anyway .
+%mor:	pro:sub|we mod|do~neg|not v|know det:poss|its n|word-PL coord|and
+	adv|there conj|but adv|anyway .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|CONJ 10|9|COORD 11|4|PUNCT
+*PAR:	he xxx [* phon] there .
+%mor:	pro:sub|he adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and he says &wawawa .
+%mor:	coord|and pro:sub|he v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	he xxx [* phon] his bird [* u] .
+%mor:	pro:sub|he det:poss|his n|bird .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	holding the birds [* u] .
+%mor:	part|hold-PRESP det:art|the n|bird-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	POLAR_1049_PBJ4 video
+*PAR:	I take two pieces of bread and lay them on the table .
+%mor:	pro:sub|I v|take det:num|two n|piece-PL prep|of n|bread coord|and
+	v|lay pro:obj|them prep|on det:art|the n|table .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|CONJ
+	8|7|COORD 9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and spread the &k creamy xxx+butter [* phon] and then the jelly .
+%mor:	coord|and v|spread&ZERO det:art|the adj|cream&dn-Y ?|xxx+butter
+	coord|and adv:tem|then det:art|the n|jelly .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|CONJ 7|9|JCT 8|9|DET
+	9|6|COORD 10|2|PUNCT
+*PAR:	and then another piece of &bu &b &bet butter [* u] on top .
+%mor:	coord|and adv:tem|then qn|another n|piece prep|of n|butter prep|on
+	n|top .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|NJCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	and then serve it to &er customers .
+%mor:	coord|and adv:tem|then v|serve pro:per|it prep|to n|customer-PL .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+@End

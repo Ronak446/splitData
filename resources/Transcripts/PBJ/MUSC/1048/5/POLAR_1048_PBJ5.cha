@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	POLAR_1048_PBJ5 video
+*PAR:	get <two &bi> [//] two pieces bread .
+%mor:	v|get det:num|two n|piece-PL n|bread .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	on one side spread out jelly .
+%mor:	prep|on det:num|one n|side v|spread&ZERO adv|out n|jelly .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	on the other side spread jelly [* s] .
+%mor:	prep|on det:art|the qn|other n|side v|spread&ZERO n|jelly .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	put the two pieces ugether [* phon] and eat .
+%mor:	v|put&ZERO det:art|the det:num|two n|piece-PL ?|ugether coord|and
+	v|eat .
+%gra:	1|0|ROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|4|POSTMOD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+@End

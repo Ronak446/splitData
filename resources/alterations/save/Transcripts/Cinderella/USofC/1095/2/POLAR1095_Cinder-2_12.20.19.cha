@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1095.Cind-2 video
+@Time Duration:	00:01:10
+*PAR:	okay xxx [* phon] &uh &d oh okay xxx [* phon] .
+%mor:	co|okay co|oh co|okay .
+*PAR:	and [/] &uh and xxx [* phon] okay xxx [* phon] .
+%mor:	coord|and co|okay .
+*PAR:	xxx [* phon] and &uh &ah xxx [* phon] .
+%mor:	coord|and .
+*PAR:	no &um &um xxx [* phon] okay one two three .
+%mor:	co|no co|okay det:num|one det:num|two det:num|three .
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+*PAR:	okay xxx [* phon] xxx [* phon] .
+%mor:	co|okay .
+*PAR:	xxx [* phon] no [/] no xxx [* phon] hey xxx [* phon] hey xxx
+	[* phon] .
+%mor:	co|no co|hey co|hey .
+*PAR:	yes xxx [* phon] yes oh xxx [* phon] .
+%mor:	co|yes co|yes co|oh .
+*PAR:	and oh xxx [* phon] &shh .
+%mor:	coord|and co|oh .
+*PAR:	hey &uhuh yes xxx [* phon] .
+%mor:	co|hey co|yes .
+@End

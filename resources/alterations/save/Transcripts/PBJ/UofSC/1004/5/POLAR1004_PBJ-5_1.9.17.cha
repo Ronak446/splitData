@@ -1,0 +1,106 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:35
+@Media:	1004_5_PBJ_Y2017_M01_D09_H14_M51_S57 video
+*PAR:	four loaves of bread .
+%mor:	det:num|four n|loaf-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and one and two .
+%mor:	coord|and det:num|one coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	make it things in the bed [* u] .
+%mor:	v|make pro:per|it n|thing-PL prep|in det:art|the n|bed .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	loaves [* s] .
+%mor:	n|loaf-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and loaves [* s] .
+%mor:	coord|and n|loaf-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and then for making &cere [//] not cereal [* s] .
+%mor:	coord|and adv:tem|then conj|for n:gerund|make-PRESP neg|not
+	n|cereal .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|NEG 6|4|JCT 7|1|PUNCT
+*PAR:	&uh xxx [* phon] .
+*PAR:	fork [* s] and fork [* s] .
+%mor:	n|fork coord|and n|fork .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and spoon [* s] .
+%mor:	coord|and n|spoon .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &uh xxx [* phon] &uh limit can't xxx [* phon] .
+%mor:	coord|and n|limit mod|can~neg|not .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|NEG 5|1|PUNCT
+*PAR:	&s &spoo &uh .
+*PAR:	&s &ket ketchup [* s] .
+%mor:	n|ketchup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s &s knife spoon [* s] fork [* s] &um .
+%mor:	n|knife n|spoon n|fork .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	spread spread [/] .
+%mor:	v|spread&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and in the layer of .
+%mor:	coord|and prep|in det:art|the n|layer prep|of .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|1|PUNCT
+*PAR:	&ba not banana [* s] .
+%mor:	neg|not n|banana .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	&mil not milk .
+%mor:	neg|not v|milk .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+*PAR:	&s &s &uh .
+*PAR:	&br &ba not bacon [* s] .
+%mor:	neg|not n|bacon .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	but xxx [* phon] .
+%mor:	conj|but .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh &s spoons [* s] &s .
+%mor:	n|spoon-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ke ketchup [* s] .
+%mor:	n|ketchup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	spoon [* s] .
+%mor:	n|spoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&break breaking bed [* phon] .
+%mor:	part|break-PRESP n|bed .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what that called it's &um .
+%mor:	det:int|what det:dem|that part|call-PASTP pro:per|it~aux|be&3S .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|3|OBJ 5|3|XCOMP 6|1|PUNCT
+*PAR:	<ketchup [* s]> [//] not ketchup [* s] .
+%mor:	neg|not n|ketchup .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	spoon [* s] fork [* s] .
+%mor:	n|spoon n|fork .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	for spoon [* s] .
+%mor:	prep|for n|spoon .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	&uh well it's going very well and .
+%mor:	co|well pro:per|it~aux|be&3S part|go-PRESP adv|very adv|well
+	coord|and .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|CONJ 8|4|PUNCT
+*PAR:	breaking bread and xxx [* phon] &yum .
+%mor:	part|break-PRESP n|bread coord|and .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	good good [/] good [/] .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

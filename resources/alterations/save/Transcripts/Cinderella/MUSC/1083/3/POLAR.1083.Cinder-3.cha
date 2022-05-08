@@ -1,0 +1,129 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_3_Cinderella_July-23rd-2019-10-19-08-am video
+@Time Duration:	00:04:57
+*PAR:	well peanut [* u] &um &m &wenu &um oh .
+%mor:	co|well n|peanut co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*PAR:	two white [/] white girls .
+%mor:	det:num|two n|white n|girl-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&eh &hu two <white girls> [/] &um two white girls &um two white [//]
+	you girls know that .
+%mor:	det:num|two det:num|two n|white n|girl-PL det:num|two pro:per|you
+	n|girl-PL v|know pro:dem|that .
+%gra:	1|4|QUANT 2|3|QUANT 3|4|MOD 4|8|JCT 5|7|QUANT 6|7|SUBJ 7|8|SUBJ
+	8|0|ROOT 9|8|OBJ 10|8|PUNCT
+*PAR:	okay two white girls &um &um in the <when the> [/] when the washing
+	[* u] the white girls .
+%mor:	adj|okay det:num|two adj|white n|girl-PL prep|in det:art|the
+	conj|when det:art|the n:gerund|wash-PRESP det:art|the n|white
+	n|girl-PL .
+%gra:	1|4|MOD 2|4|QUANT 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|4|ENUM 10|12|DET 11|12|MOD 12|9|OBJ 13|4|PUNCT
+*PAR:	&um &um two white yeah two white girls from .
+%mor:	det:num|two n|white co|yeah det:num|two adj|white n|girl-PL
+	prep|from .
+%gra:	1|2|QUANT 2|0|INCROOT 3|6|COM 4|6|QUANT 5|6|MOD 6|2|ENUM 7|6|NJCT
+	8|2|PUNCT
+*PAR:	you [/] you [/] &ya you got &um yoo [: two]
+	[* phon] white girls <in heya> [//] in there .
+%mor:	pro:per|you v|get&PAST det:num|two adj|white n|girl-PL prep|in
+	n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] &um and white girls in here .
+%mor:	coord|and n|white n|girl-PL prep|in n|here .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	&um &um two white girls &um &um .
+%mor:	det:num|two n|white n|girl-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	the [/] the one in the washing &um two white girls in the &um when
+	the washing [* u] there step on there .
+%mor:	det:art|the det:num|one prep|in det:art|the n:gerund|wash-PRESP
+	det:num|two adj|white n|girl-PL prep|in det:art|the conj|when
+	det:art|the n:gerund|wash-PRESP adv|there n|step prep|on n|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|8|QUANT 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|DET 13|8|ENUM 14|15|JCT 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|2|PUNCT
+*PAR:	&um &um girls from the &um you [/] you [/] you &ni &um &um &wi .
+%mor:	n|girl-PL prep|from det:art|the pro:per|you .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	we [: three] [* phon] white girls .
+%mor:	det:num|three n|white n|girl-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um then &um the winding [//] washing the wush [//] washing [* u]
+	the white girls from the &um what the washing [* u] the white girls
+	&um .
+%mor:	adv:tem|then det:art|the n:gerund|wash-PRESP det:art|the
+	n:gerund|wash-PRESP det:art|the n|white n|girl-PL prep|from
+	det:art|the pro:int|what det:art|the n:gerund|wash-PRESP det:art|the
+	n|white n|girl-PL .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|DET 13|8|CMOD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|3|PUNCT
+*PAR:	&um two [/] &um &um &um two white girls &um &um <the way> [/]
+	&sh the way &sh &um the when the washing [* u] and the white guy
+	&um .
+%mor:	det:num|two n|white n|girl-PL det:art|the n|way det:art|the
+	conj|when det:art|the n:gerund|wash-PRESP coord|and det:art|the
+	adj|white n|guy .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|CONJ 8|9|DET
+	9|7|COORD 10|9|CONJ 11|13|DET 12|13|MOD 13|10|COORD 14|3|PUNCT
+*PAR:	that step out &um &um they wanted the big one that tell be back
+	home .
+%mor:	comp|that v|step adv|out pro:sub|they v|want-PAST det:art|the
+	adj|big pro:indef|one pro:rel|that v|tell cop|be adv|back adv|home .
+%gra:	1|2|LINK 2|5|CJCT 3|2|JCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|LINK 10|8|CMOD 11|10|OBJ 12|10|JCT 13|10|JCT 14|5|PUNCT
+*PAR:	and so the white girls &um washing [* u] window [* u] &um &um
+	and [/] and then the windows .
+%mor:	coord|and co|so det:art|the n|white n|girl-PL part|wash-PRESP
+	n|window coord|and adv:tem|then det:art|the n|window-PL .
+%gra:	1|7|LINK 2|7|COM 3|5|DET 4|5|MOD 5|7|MOD 6|7|MOD 7|0|ROOT 8|7|CONJ
+	9|11|JCT 10|11|DET 11|8|COORD 12|7|PUNCT
+*PAR:	&um they'll wipe then washing [* u] window [* u] .
+%mor:	pro:sub|they~mod|will v|wipe adv:tem|then part|wash-PRESP n|window
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|XJCT 6|5|OBJ 7|3|PUNCT
+*PAR:	and then they decided &um &um they gonna go back home .
+%mor:	coord|and adv:tem|then pro:sub|they v|decide-PAST pro:sub|they
+	part|go-PRESP~inf|to v|go adv|back adv|home .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|XMOD 7|8|INF 8|6|COMP
+	9|8|JCT 10|8|JCT 11|4|PUNCT
+*PAR:	and they &um XXX [* phon] run into &um house and [/] &um and they
+	going to go back home .
+%mor:	coord|and pro:sub|they n:prop|XXX v|run prep|into n|house coord|and
+	pro:sub|they part|go-PRESP inf|to v|go adv|back adv|home .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|INF 11|9|COMP 12|11|JCT 13|11|JCT 14|4|PUNCT
+*PAR:	and &um washing [* u] the windows [* u] .
+%mor:	coord|and part|wash-PRESP det:art|the n|window-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&um &um &um they going go back home and washing [* u] <the windows>
+	[/] the windows [* u] &um when the caught [//] caughting
+	something .
+%mor:	pro:sub|they n:gerund|go-PRESP v|go adv|back adv|home coord|and
+	part|wash-PRESP det:art|the n|window-PL conj|when det:art|the
+	?|caughting pro:indef|something .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|3|PUNCT
+*PAR:	and the &um windows [/] &um &um windows [* u] got caught
+	in something else &um &um they want the girl to know that when [/]
+	&um when the washing [* u] the girl &uh &um .
+%mor:	coord|and det:art|the n|window-PL aux|get&PAST part|catch&PASTP
+	prep|in pro:indef|something post|else pro:sub|they v|want
+	det:art|the n|girl inf|to v|know adv|that conj|when det:art|the
+	n:gerund|wash-PRESP det:art|the n|girl .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|SUBJ 10|8|CMOD 11|12|DET 12|10|OBJ 13|14|INF 14|12|XMOD 15|14|JCT
+	16|12|CONJ 17|18|DET 18|16|COORD 19|20|DET 20|18|OBJ 21|5|PUNCT
+*PAR:	when the washing [* u] .
+%mor:	conj|when det:art|the n:gerund|wash-PRESP .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+@End

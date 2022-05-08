@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:45
+@Media:	1041_1_PBJ_February-5th-2018-12-54-27-pm video
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	muslim [* u] men [* u] bruce [* u] &g &g jap [/] jap [* u] j-a-p
+	jack [* u] dentist [* u] .
+%mor:	adj|muslim n|man&PL ?|bruce ?|jap ?|j-a-p n|jack n|dentist .
+%gra:	1|2|MOD 2|7|MOD 3|7|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	butter [* s] better [/] better [/] better [* phon] &kl &kl &kle
+	butter [* s] peetle+butter [* phon] beat [* u] cleveland [* u] .
+%mor:	v|butter adj|good&CP n|butter ?|peetle+butter n|beat ?|cleveland .
+%gra:	1|0|ROOT 2|3|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|1|COMP 7|1|PUNCT
+@End

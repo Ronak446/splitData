@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_148_0_148_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	1109_1_PBJ_June-1-2020-zoom_0, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um first I'd get <the bread> [//] two slices of bread .
+%mor:	adv|first pro:sub|I~mod|genmod v|get det:num|two n|slice-PL prep|of
+	n|bread .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	then I'd spread on the peanut+butter .
+%mor:	adv:tem|then pro:sub|I~mod|genmod n|spread prep|on det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	then on top of the peanut+butter I'd get a knife and spread on the
+	jelly .
+%mor:	adv:tem|then adv|on n|top prep|of det:art|the n|+n|peanut+n|butter
+	pro:sub|I~mod|genmod v|get det:art|a n|knife coord|and v|spread&ZERO
+	prep|on det:art|the n|jelly .
+%gra:	1|9|JCT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|CONJ 13|12|COORD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|9|PUNCT
+*PAR:	then I'd put the two slices of bread together .
+%mor:	adv:tem|then pro:sub|I~mod|genmod v|put&ZERO det:art|the
+	det:num|two n|slice-PL prep|of n|bread adv|together .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|JCT 11|4|PUNCT
+*PAR:	and sometimes I don't know if everybody do I cut mine in half .
+%mor:	coord|and adv|sometimes pro:sub|I mod|do~neg|not v|know comp|if
+	pro:indef|everybody mod|do pro:sub|I v|cut&ZERO n|mine prep|in
+	n|half .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|SUBJ 11|6|COMP 12|11|OBJ 13|11|JCT 14|13|POBJ 15|6|PUNCT
+@End

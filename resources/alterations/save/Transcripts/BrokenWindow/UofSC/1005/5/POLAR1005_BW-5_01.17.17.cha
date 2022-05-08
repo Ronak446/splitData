@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	1005_5_BrokenWindow_Y2017_M01_D17_H10_M36_S14 video
+*PAR:	they [* u] was a ball .
+%mor:	pro:sub|they cop|be&PAST&13S det:art|a n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and bat [* u] and ball .
+%mor:	coord|and n|bat coord|and n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and go xxx [* phon] xxx [* phon] .
+%mor:	coord|and v|go .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	right there it's xxx [* phon] ball .
+%mor:	adv|right adv|there pro:per|it~cop|be&3S n|ball .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and bat [* u] and ball .
+%mor:	coord|and n|bat coord|and n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and I xxx [* phon] man he dis [* phon] one here .
+%mor:	coord|and pro:sub|I v|man pro:sub|he ?|dis pro:indef|one adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT 5|4|INCROOT 6|5|OBJ 7|6|NJCT
+	8|5|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] it go ball and chain [* u] in .
+%mor:	pro:per|it v|go n|ball coord|and n|chain adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|5|NJCT 7|2|PUNCT
+*PAR:	hey you what do you mean .
+%mor:	co|hey pro:per|you pro:int|what mod|do pro:per|you adj|mean .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|OBJ 4|5|AUX 5|3|OBJ 6|5|PRED 7|1|PUNCT
+*PAR:	hey you xxx [* phon] .
+%mor:	co|hey pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+@End

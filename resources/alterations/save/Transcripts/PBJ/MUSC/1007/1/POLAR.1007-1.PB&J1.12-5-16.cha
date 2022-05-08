@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:28
+@Media:	1007_PBJ_1 video
+*PAR:	butter [* s] and jelly .
+%mor:	n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	you eat <fun fun> [//] not f [* u] .
+%mor:	pro:per|you v|eat neg|not ?|f .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	&uh cut cut [/] cut [/] .
+%mor:	v|cut&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cut to eat your jelly jelly [/] yes .
+%mor:	v|cut&ZERO inf|to v|eat det:poss|your n|jelly co|yes .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|MOD 5|3|OBJ 6|3|COM 7|1|PUNCT
+*PAR:	your bread .
+%mor:	det:poss|your n|bread .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

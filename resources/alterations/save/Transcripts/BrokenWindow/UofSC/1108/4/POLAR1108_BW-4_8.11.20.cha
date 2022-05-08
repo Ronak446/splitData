@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1108_BW-4_8.11.20 video
+@Time Duration:	00:00:40
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kick [/] kick the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and we gonna &bl &blo kinda &w &blo &uh &bl right there .
+%mor:	coord|and pro:sub|we part|go-PRESP~inf|to adv|kinda adv|right
+	adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|5|JCT 8|3|PUNCT
+*PAR:	blow [* u] up the kinda because here &w &uh crash .
+%mor:	v|blow prep|up det:art|the adv|kinda conj|because pro:exist|here
+	n|crash .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+*PAR:	and not [/] not [/] not xxx [* phon] I mean not little carry the
+	ball .
+%mor:	coord|and neg|not pro:sub|I v|mean neg|not adj|little v|carry
+	det:art|the n|ball .
+%gra:	1|4|LINK 2|3|NEG 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|CJCT 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	and break [/] break the stuff .
+%mor:	coord|and v|break det:art|the n|stuff .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and then you gotta <big gate [* u]> [/] <big gate [* u]> [//] I mean
+	&uh <big gate [* u]> [/] big gate [* u] .
+%mor:	coord|and adv:tem|then pro:per|you mod|got~inf|to pro:sub|I v|mean
+	adj|big n|gate .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|7|AUX 5|7|INF 6|7|SUBJ 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|PUNCT
+*PAR:	I got you .
+%mor:	pro:sub|I v|get&PAST pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

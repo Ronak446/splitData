@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR||male|||Participant|||
+@Media:	1006_1_BrokenWindow_Y2016_M11_D18_H10_M23_S26, video
+@Time Duration:	00:00:12
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	in the tɛtwənz [* phon] .
+%mor:	prep|in det:art|the ?|tɛtwənz .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&n [//] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and ʃʌrdərər [* phon] .
+%mor:	coord|and ?|ʃʌrdərər .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

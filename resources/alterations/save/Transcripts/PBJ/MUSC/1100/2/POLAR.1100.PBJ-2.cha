@@ -1,0 +1,13 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1100.PBJ-2 video
+@Time Duration:	00:00:16
+*PAR:	bread beanut+butter [: peanut+butter] [* phon] .
+%mor:	n|bread n|+n|peanut+n|butter .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	eat .
+%mor:	v|eat .
+@End

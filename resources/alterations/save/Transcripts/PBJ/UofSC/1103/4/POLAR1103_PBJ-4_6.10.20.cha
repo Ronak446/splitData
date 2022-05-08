@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1103_PBJ-4_6.10.20 video
+@Time Duration:	00:01:12
+*PAR:	take the bread from the cubnet [//] cubet [//] cuben [//] cub
+	[: cabinet] [* u] the cub [: cabinet] [* u] &uh .
+%mor:	v|take det:art|the n|bread prep|from det:art|the n|cabinet
+	det:art|the n|cabinet .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|1|OBJ
+	9|1|PUNCT
+*PAR:	&eh cub [: cabinet] [* u] can't say the word .
+%mor:	n|cabinet mod|can~neg|not v|say det:art|the n|word .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	take the bread out of the cubnet [//] and <cubnet xxx [* phon]> [//]
+	not cubnet [//] cabinet .
+%mor:	v|take det:art|the n|bread adv|out prep|of det:art|the coord|and
+	neg|not n|cabinet .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|9|NEG
+	9|7|COORD 10|1|PUNCT
+*PAR:	and &eh get the &j jelly and peanut+butter from the refrigerator to
+	the counter .
+%mor:	coord|and v|get det:art|the n|jelly coord|and n|+n|peanut+n|butter
+	prep|from det:art|the n|refrigerator prep|to det:art|the n|counter .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|NJCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and <use the> [//] get the knife .
+%mor:	coord|and v|get det:art|the n|knife .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and spread the butter [//] peanut+butter on jelly <to the> [//] into
+	the &uh bread .
+%mor:	coord|and v|spread&ZERO det:art|the n|+n|peanut+n|butter prep|on
+	n|jelly prep|into det:art|the n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and put the other piece on top .
+%mor:	coord|and v|put&ZERO det:art|the qn|other n|piece prep|on n|top .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and [/] and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

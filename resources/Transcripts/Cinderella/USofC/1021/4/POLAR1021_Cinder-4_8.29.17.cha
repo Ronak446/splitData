@@ -1,0 +1,64 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:43
+@Media:	1021_4_Cinderella_August-29th-2017-10-49-53-am video
+*PAR:	xxx [* phon] first now &c &c cinerellas [* phon] has in xxx [* phon] .
+%mor:	adv|first adv|now ?|cinerellas aux|have&3S adv|in .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] xxx [* phon] who put it in .
+%mor:	coord|and pro:rel|who v|put&ZERO pro:per|it adv|in .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and cindrella [* phon] &foun found it .
+%mor:	coord|and ?|cindrella v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and cinera [* phon] &f funny [* u] on xxx [* phon] .
+%mor:	coord|and ?|cinera adj|fun&dn-Y adv|on .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POSTMOD 4|3|JCT 5|1|PUNCT
+*PAR:	and &frin &ah &cin cella [* phon] found it .
+%mor:	coord|and ?|cella v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	now cinana [//] cine [//] cina [//] cininerel [* phon] found it on
+	xxx [* phon] fon [* phon] xxx [* phon] .
+%mor:	adv|now ?|cininerel v|find&PAST pro:per|it prep|on ?|fon .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	ella [//] cinineralla [* phon] went cay [* phon] xxx [* phon] .
+%mor:	?|cinineralla v|go&PAST ?|cay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and &c ciner [* phon] went in &ha have a xxx [* phon] xxx [* phon] .
+%mor:	coord|and ?|ciner v|go&PAST prep|in v|have det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|DET 7|3|PUNCT
+*PAR:	&f &el &ci &ci cinerella [* phon] &w &f foot &um .
+%mor:	?|cinerella n|foot .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	now &f &fa &um .
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ci &ci cineer [* phon] .
+%mor:	?|cineer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f foot xxx [* phon] .
+%mor:	n|foot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fow [* phon] .
+%mor:	?|fow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fell down .
+%mor:	v|fall&PAST adv|down .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&f &fu down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f &fo foot .
+%mor:	n|foot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ci xxx [* phon] &cin &f &f .
+*PAR:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah yeah [/] yeah [/] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

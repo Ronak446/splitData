@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Time Duration:	00:00:42
+@Media:	BW1_1074 video
+*PAR:	Timmy was outside playing soccer .
+%mor:	n:prop|Timmy cop|be&PAST&13S adv|outside part|play-PRESP n|soccer .
+*PAR:	&uh he got a little over zealous .
+%mor:	pro:sub|he v|get&PAST det:art|a adj|little adv|over adj|zealous .
+*PAR:	and &um the ball &uh went toward the house and crashed into the
+	window .
+%mor:	coord|and det:art|the n|ball v|go&PAST prep|toward det:art|the
+	n|house coord|and v|crash-PAST prep|into det:art|the n|window .
+*PAR:	&uhh the window or the &w the window broke .
+%mor:	det:art|the n|window coord|or det:art|the det:art|the n|window
+	adj|broke .
+*PAR:	the ball went inside interrupting his dad's tv time .
+%mor:	det:art|the n|ball v|go&PAST adv|inside part|interrupt-PRESP
+	det:poss|his adj|dad&dn-POSS n|tv n|time .
+*PAR:	and his dad looked outside the window to see what had happened .
+%mor:	coord|and det:poss|his n|dad v|look-PAST prep|outside det:art|the
+	n|window inf|to v|see pro:int|what aux|have&PAST part|happen-PASTP .
+*PAR:	the end .
+%mor:	det:art|the n|end .
+@End

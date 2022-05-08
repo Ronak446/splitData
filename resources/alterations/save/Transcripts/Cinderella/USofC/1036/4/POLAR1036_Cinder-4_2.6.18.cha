@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:47
+@Media:	1036_Cinderella4 video
+*PAR:	shinderella [* phon] &um &um had a &um .
+%mor:	?|shinderella v|have&PAST det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	<Cinderella ha [* phon] boy [* s]> [//] &um no <Cinderella had bad>
+	[//] &um Cinderella had a &um bad &um grandma [* s] &um &um wis
+	[* phon] <two &um three [* s]> [/] &um &um &um two three [* s] &s
+	&um sisters .
+%mor:	co|no n:prop|Cinderella v|have&PAST det:art|a adj|bad grand#n|ma
+	?|wis det:num|two det:num|three n|sister-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|MOD 8|10|QUANT
+	9|10|QUANT 10|6|APP 11|3|PUNCT
+*PAR:	it was &um &um a &um &um Cinderella &um &um it was a ball .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n:prop|Cinderella pro:per|it
+	cop|be&PAST&13S det:art|a n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|8|DET 8|6|PRED
+	9|2|PUNCT
+*PAR:	and &um he &um &um &um &um went to &um &um &um .
+%mor:	coord|and pro:sub|he v|go&PAST prep|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&l <see [* phon] gonstom [* phon] foot [* s]> [//] &um &um she lost
+	&um &um shoe .
+%mor:	pro:sub|she v|lose&PAST n|shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&um and see [* phon] &um the prince &um found her .
+%mor:	coord|and v|see det:art|the n|prince v|found det:poss|her .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	&um and then she &um gave him some &um shoe .
+%mor:	coord|and adv:tem|then pro:sub|she v|give&PAST pro:obj|him qn|some
+	n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*PAR:	&um yeah &um and &um &um &um &um &reh &um found her .
+%mor:	co|yeah coord|and v|found det:poss|her .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+*PAR:	&um everly [* phon] after .
+%mor:	?|everly adv:tem|after .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+@End

@@ -1,0 +1,37 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+*PAR:	okay [/] okay <at one> [/] at one he xxx [* phon] he's having .
+%mor:	co|okay prep|at det:num|one pro:sub|he pro:sub|he~aux|be&3S
+	part|have-PRESP .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP
+	8|1|PUNCT
+*PAR:	then he is up in the air and it goes into &uh xxx .
+%mor:	adv:tem|then pro:sub|he cop|be&3S adv|up prep|in det:art|the n|air
+	coord|and pro:per|it v|go-3S prep|into .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|JCT 12|3|PUNCT
+*PAR:	and he goes oh no .
+%mor:	coord|and pro:sub|he v|go-3S co|oh co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|COM 5|3|OBJ 6|3|PUNCT
+*PAR:	and then he fell see they going in their or [/] or friends .
+%mor:	coord|and adv:tem|then pro:sub|he v|fall&PAST v|see pro:sub|they
+	part|go-PRESP prep|in det:poss|their coord|or n|friend-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|4|PUNCT
+*PAR:	and he fix the ladder [* u] .
+%mor:	coord|and pro:sub|he v|fix det:art|the n|ladder .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	he got oh my god he got the xxx [* phon] .
+%mor:	pro:sub|he v|get&PAST co|oh det:poss|my n|god pro:sub|he v|get&PAST
+	det:art|the .
+%gra:	1|2|SUBJ 2|7|JCT 3|2|COM 4|5|DET 5|2|OBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PUNCT
+*PAR:	and now he has to say oh .
+%mor:	coord|and adv:tem|now pro:sub|he aux|have&3S inf|to v|say co|oh .
+%gra:	1|6|LINK 2|6|SUBJ 3|4|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+@End

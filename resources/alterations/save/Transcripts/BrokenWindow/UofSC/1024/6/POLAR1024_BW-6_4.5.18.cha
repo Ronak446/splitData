@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	1024_BW6 video
+*PAR:	&um the bah [* phon] is kicking [/] kicking a soccer ball .
+%mor:	det:art|the n|bah aux|be&3S part|kick-PRESP det:art|a n|soccer
+	n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	he broke a &uh window .
+%mor:	pro:sub|he v|break&PAST det:art|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and the dad saw it .
+%mor:	coord|and det:art|the n|dad v|see&PAST pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and then oh gosh .
+%mor:	coord|and adv:tem|then co|oh co|gosh .
+%gra:	1|4|LINK 2|4|JCT 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	so dad [/] dad is thinking about timeout .
+%mor:	co|so n|dad aux|be&3S part|think-PRESP prep|about
+	n|+v|time+prep|out .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+@End

@@ -1,0 +1,132 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:08:35
+@Media:	1048_LARC_1_Cinderella_November-18th-2019-9-43-20-am video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there [/] there was this [/] <this man and this guy> [//] I mean
+	this man and this woman .
+%mor:	pro:exist|there cop|be&PAST&13S pro:sub|I v|mean det:dem|this n|man
+	coord|and det:dem|this n|woman .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+*PAR:	this man <had a [/] a daughter> [//] had &ce Cinderella .
+%mor:	det:dem|this n|man v|have&PAST n:prop|Cinderella .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	woman had two daughters .
+%mor:	n|woman v|have&PAST det:num|two n|daughter-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	well when <once they> [/] once they married and they the stepd
+	[: step] [* phon] Cinderella steptdaughters [: stepdaughters]
+	[* phon] [//] &sis step &si sisters treated Cinderellas horribles .
+%mor:	co|well conj|when conj|once pro:sub|they v|marry-PAST coord|and
+	pro:sub|they det:art|the n|step n:prop|Cinderella n|step n|sister-PL
+	v|treat-PAST n:prop|Cinderellas n:adj|horrible-PL .
+%gra:	1|5|COM 2|5|LINK 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|12|MOD 11|12|MOD 12|13|SUBJ 13|9|CMOD 14|13|OBJ 15|13|OBJ
+	16|5|PUNCT
+*PAR:	made her wash and dishes and .
+%mor:	v|make&PAST det:poss|her n|wash coord|and n|dish-PL coord|and .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*PAR:	<made her> [/] made her the move to the basement .
+%mor:	v|make&PAST pro:obj|her det:art|the n|move prep|to det:art|the
+	n|basement .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	all this stuff .
+%mor:	qn|all det:dem|this n|stuff .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	well <one day the> [//] one [/] <one day they were gonna to do with>
+	[//] <one day they were gonna do &w> [//] one day they were gonna &d
+	go to the [//] this ball and &ih <so was going to> [//] and so was
+	going to Cinderella .
+%mor:	co|well det:num|one n|day pro:sub|they aux|be&PAST
+	part|go-PRESP~inf|to v|go prep|to det:dem|this n|ball coord|and
+	coord|and co|so aux|be&PAST&13S part|go-PRESP prep|to
+	n:prop|Cinderella .
+%gra:	1|3|COM 2|3|QUANT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|16|LINK 14|16|COM 15|16|AUX
+	16|12|COORD 17|16|JCT 18|17|POBJ 19|6|PUNCT
+*PAR:	<and Cinderella made> [//] <and Cinderella has> [//] cinder
+	[: Cinderella] [* phon] &s had a dress .
+%mor:	n:prop|Cinderella v|have&PAST det:art|a n|dress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	but when she had a dress on they wibbit [: rip it] [* phon] [//]
+	rabit [: grab it] [* phon] off .
+%mor:	conj|but conj|when pro:sub|she v|have&PAST det:art|a n|dress adv|on
+	pro:sub|they v|grab pro:per|it adv|off .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|9|PUNCT
+*PAR:	well she [/] she met [: made] [* u] a wish and [/] and she made &a
+	and <this fairy &ta> [//] <this fairy little> [//] this fairy
+	wishmother [: godmother] [* s] [* phon] .
+%mor:	co|well pro:sub|she v|make&PAST det:art|a n|wish coord|and
+	pro:sub|she v|make&PAST coord|and det:dem|this n|fairy
+	n|+n|god+n|mother .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|3|PUNCT
+*PAR:	&w at <made her> [/] <made her a> [//] wished her a [//] <into a
+	marver [: marvelous] [* phon] marvelous> [//] <into a> [//] into
+	these &per &uh pretty dress and horse and &co &k &k carrich
+	[: carriage] [* phon] carriage and .
+%mor:	prep|at v|wish-PAST pro:obj|her prep|into det:dem|these adj|pretty
+	n|dress coord|and n|horse coord|and n|carriage n|carriage coord|and
+	.
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|OBJ 4|1|POBJ 5|7|DET 6|7|MOD 7|4|POBJ 8|4|CONJ
+	9|8|COORD 10|8|COORD 11|12|MOD 12|10|COORD 13|10|COORD 14|1|PUNCT
+*PAR:	but she said has to baey [: be] [* phon] back midnight .
+%mor:	conj|but pro:sub|she v|say&PAST aux|have&3S inf|to cop|be adv|back
+	mid#n|night .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|6|PRED
+	9|6|PUNCT
+*PAR:	<because if she ca> [//] because at that time she everything turns
+	back into .
+%mor:	conj|because prep|at det:dem|that n|time pro:sub|she
+	pro:indef|everything n|turn-PL adv|back prep|into .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|MOD 7|2|POBJ 8|7|NJCT
+	9|7|JCT 10|1|PUNCT
+*PAR:	so it that the <as she runs out she> [//] <but she> [//] as she runs
+	out she lost her shoe .
+%mor:	co|so pro:per|it comp|that det:art|the conj|as pro:sub|she v|run-3S
+	adv|out pro:sub|she v|lose&PAST det:poss|her n|shoe .
+%gra:	1|0|INCROOT 2|1|OBJ 3|10|LINK 4|5|DET 5|7|LINK 6|7|SUBJ 7|10|CJCT
+	8|7|JCT 9|10|SUBJ 10|2|CMOD 11|12|DET 12|10|OBJ 13|1|PUNCT
+*PAR:	<and at that time she> [//] <but when she> [//] <when [/] when that
+	officer find> [//] <but when the find &d> [//] <the officer finds>
+	[//] that officer finds the shoe [/] shoe finds the shoe she finds
+	ous [: out] [* phon] .
+%mor:	det:dem|that n|officer v|find-3S det:art|the n|shoe v|find-3S
+	det:art|the n|shoe pro:sub|she v|find-3S adv|out .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|10|SUBJ 10|3|CJCT 11|10|JCT 12|3|PUNCT
+*PAR:	anyway they went out to finds thish [: this] [* phon] .
+%mor:	co|anyway pro:sub|they v|go&PAST adv|out prep|to v|find-3S
+	pro:dem|this .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|OBJ 8|3|PUNCT
+*PAR:	anyway they go to house .
+%mor:	co|anyway pro:sub|they v|go inf|to v|house .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*PAR:	the desn't [: doesn't] [* phon] [/] desn't [: doesn't] [* phon] fit
+	&gi doesn [: doesn't] [* phon] any othy [: of the] [* phon] she
+	still stepsisters .
+%mor:	det:art|the mod|do&3S~neg|not v|fit&ZERO mod|do&3S~neg|not qn|any
+	prep|of det:art|the pro:sub|she adv|still step#n|sister-PL .
+%gra:	1|4|DET 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|AUX 6|5|NEG 7|4|COMP 8|7|JCT
+	9|12|DET 10|12|SUBJ 11|12|JCT 12|8|POBJ 13|4|PUNCT
+*PAR:	<it doesn't &hel> [//] <it does> [//] <it doesn't> [//] it does fit
+	Cinderella .
+%mor:	pro:per|it mod|do&3S n|fit n:prop|Cinderella .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	she does marry the brince [: prince] [* phon] .
+%mor:	pro:sub|she mod|do&3S v|marry det:art|the n|prince .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then therefore <they're mar [: married] [* phon]> [//] they [/]
+	they [/] <they happily> [/] they happily live hafter [: after]
+	[* phon] .
+%mor:	coord|and adv:tem|then adv|therefore pro:sub|they adv|happy&dadj-LY
+	adj|live adv:tem|after .
+%gra:	1|7|LINK 2|7|JCT 3|7|JCT 4|7|SUBJ 5|7|JCT 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+@End

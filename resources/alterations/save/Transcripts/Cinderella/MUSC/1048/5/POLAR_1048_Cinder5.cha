@@ -1,0 +1,116 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:23
+@Media:	POLAR_1048_Cinder5 video
+*PAR:	there was this girl named Cinderella .
+%mor:	pro:exist|there cop|be&PAST&13S pro:dem|this n|girl v|name-PAST
+	n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|OBJ 7|2|PUNCT
+*PAR:	she got introduced to her two steptsisters [* phon] and her
+	stepmother .
+%mor:	pro:sub|she aux|get&PAST part|introduce-PASTP prep|to det:poss|her
+	det:num|two ?|steptsisters coord|and det:poss|her step#n|mother .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|7|QUANT 7|4|POBJ 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|3|PUNCT
+*PAR:	they weret [* phon] very nice .
+%mor:	pro:sub|they ?|weret adv|very adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	<she made Cinderella wait> [//] <she had> [//] they made her wait on
+	them <head+and+foot [* s]> [//] hand and foot .
+%mor:	pro:sub|they v|make&PAST pro:obj|her v|wait prep|on pro:obj|them
+	n|hand coord|and n|foot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|MOD 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+*PAR:	she &al always trempts [* phon] of the castle .
+%mor:	pro:sub|she adv|always ?|trempts prep|of det:art|the n|castle .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	<one night they got a &inv an &i they w> [//] one night they got an
+	invitation to [/] to go to a bol [* phon] but not Cinderella .
+%mor:	det:num|one n|night pro:sub|they v|get&PAST det:art|a n|invitation
+	inf|to v|go prep|to det:art|a ?|bol conj|but neg|not
+	n:prop|Cinderella .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|CONJ 13|14|NEG 14|12|COORD 15|4|PUNCT
+*PAR:	she [//] <but she was &gon> [//] but she was gonna drry [* phon] .
+%mor:	conj|but pro:sub|she aux|be&PAST&13S mod:aux|gonna ?|drry .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	&sh she made this beautiful dress .
+%mor:	pro:sub|she v|make&PAST pro:dem|this adj|beautiful n|dress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	but they [/] they tore it up .
+%mor:	conj|but pro:sub|they v|tear&PAST pro:per|it adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and she [/] &c she [/] &c <she called upon the> [//] <she called>
+	[//] she called upon the fairy [/] fairy godmotho [* phon] .
+%mor:	coord|and pro:sub|she v|call-PAST prep|upon det:art|the n|fairy
+	?|godmotho .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|PUNCT
+*PAR:	she helped Cinderella .
+%mor:	pro:sub|she v|help-PAST n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	she [/] she [/] she got a beautiful dress .
+%mor:	pro:sub|she v|get&PAST det:art|a adj|beautiful n|dress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	<de [* phon] pumpin [* phon]> [//] the pumpkin turned a [//] into a
+	carriage .
+%mor:	det:art|the n|pumpkin v|turn-PAST prep|into det:art|a n|carriage .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the mice turned into stallions .
+%mor:	det:art|the n|mouse&PL v|turn-PAST prep|into n|stallion-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	<but she was> [//] <but she had to &ha &hav> [//] but she had to be
+	back before midnight because [/] &e &e because at midnight
+	everything &t turned back [/] back &i &tur .
+%mor:	conj|but pro:sub|she v|have&PAST inf|to cop|be adv|back prep|before
+	mid#n|night&dn conj|because prep|at mid#n|night&dn
+	pro:indef|everything v|turn-PAST adv|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|13|LINK 10|13|JCT 11|10|POBJ 12|13|SUBJ 13|3|CJCT 14|13|JCT 15|3|PUNCT
+*PAR:	the carrots [* phon] <turned back to &ma> [//] turned to a pumpkin
+	the horses to &m the mouses or mice .
+%mor:	det:art|the n|carrot-PL v|turn-PAST prep|to det:art|a n|pumpkin
+	det:art|the n|horse-PL prep|to det:art|the n|mouse-PL coord|or
+	n|mouse&PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|3|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|CONJ 13|12|COORD 14|3|PUNCT
+*PAR:	<but she had a &sh> [//] but she went .
+%mor:	conj|but pro:sub|she v|go&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she have the fun of her life .
+%mor:	coord|and pro:sub|she v|have det:art|the n|fun prep|of det:poss|her
+	n|life .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*PAR:	but right before she left at eleven fifty nine she [/] &le <she lost
+	her foot [* s]> [//] she lost her &sil slipper .
+%mor:	conj|but adv|right prep|before pro:sub|she v|leave&PAST prep|at
+	det:num|eleven det:num|fifty det:num|nine pro:sub|she v|lose&PAST
+	det:poss|her n|slipper .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|11|CJCT 6|5|JCT 7|8|QUANT 8|9|QUANT
+	9|6|POBJ 10|11|SUBJ 11|0|ROOT 12|13|MOD 13|11|OBJ 14|11|PUNCT
+*PAR:	so <the preeces [* phon]> [//] the prince's officers went around
+	&eve &everyw everyone [* s] trying to find this [//] the owner of
+	this &sil slipper .
+%mor:	co|so det:art|the adj|prince&dn-POSS n|officer-PL v|go&PAST
+	prep|around pro:indef|everyone part|try-PRESP inf|to v|find
+	det:art|the n|own&dv-AGT prep|of pro:dem|this n|slipper .
+%gra:	1|5|JCT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|XJCT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|5|PUNCT
+*PAR:	the stepsisters didn't fit .
+%mor:	det:art|the step#n|sister-PL mod|do&PAST~neg|not v|fit&ZERO .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	but it did fit Cinderella .
+%mor:	conj|but pro:per|it v|do&PAST part|fit&PASTP n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	so [/] so afterwards the prince married Cinderella .
+%mor:	co|so adv|afterwards det:art|the n|prince v|marry-PAST
+	n:prop|Cinderella .
+%gra:	1|5|COM 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	so Cinderella lived happily &e after .
+%mor:	co|so n:prop|Cinderella v|live-PAST adv|happy&dadj-LY conj|after .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+@End

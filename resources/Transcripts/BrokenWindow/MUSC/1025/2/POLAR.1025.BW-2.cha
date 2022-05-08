@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:00:17
+@Media:	1025_2_BrokenWindow_October-3rd-2017-10-17-21-am, video
+*PAR:	&bo [//] the boy get the ball and bust out the window .
+%mor:	det:art|the n|boy v|get det:art|the n|ball coord|and v|bust
+	prep|out det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and they <&k &k &uh> [//] came to see .
+%mor:	coord|and pro:sub|they v|come&PAST inf|to v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+@End

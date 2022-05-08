@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	1031_PBJ1 video
+*PAR:	peanut+butter and jellies [* phon] xxx [* phon] &ah .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	aha [* phon] .
+%mor:	?|aha .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah peanut+butter and belly [* phon] and ter [* phon] toast .
+%mor:	co|yeah n|+n|peanut+n|butter coord|and n|belly coord|and ?|ter
+	n|toast .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|2|PUNCT
+@End

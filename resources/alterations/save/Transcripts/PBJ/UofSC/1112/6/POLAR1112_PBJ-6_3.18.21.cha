@@ -1,0 +1,26 @@
+@UTF8
+@Window:	0_0_0_0_-1_-1_355_0_355_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:09
+@Media:	P1112_PBJ-6_3.18.21, video
+*PAR:	I &wu get two [/] &um two bread out &um peanut+butter and jelly .
+%mor:	pro:sub|I v|get det:num|two n|bread adv|out n|+n|peanut+n|butter
+	coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|6|CONJ
+	8|7|COORD 9|2|PUNCT
+*PAR:	get two out &um .
+%mor:	v|get det:num|two adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	one peanut+butter .
+%mor:	det:num|one n|+n|peanut+n|butter .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	two jelly .
+%mor:	det:num|two n|jelly .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&tr put it todether [: together] [* phon] and eat .
+%mor:	v|put&ZERO pro:per|it adv|together coord|and v|eat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|CONJ 5|4|COORD 6|1|PUNCT
+@End

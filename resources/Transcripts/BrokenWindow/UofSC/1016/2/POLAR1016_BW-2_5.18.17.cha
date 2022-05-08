@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:06
+@Media:	1016_2_BrokenWindow_May-18th-2017-9-59-41-am video
+*PAR:	wah [* phon] a ball .
+%mor:	co|wah det:art|a n|ball .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	pictures .
+%mor:	n|picture-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wall [* s] the pictures .
+%mor:	n|wall det:art|the n|picture-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and the pictures in the wall [* s] .
+%mor:	coord|and det:art|the n|picture-PL prep|in det:art|the n|wall .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	in the picture [//] pictures <in the> [//] in a ball .
+%mor:	prep|in det:art|the n|picture-PL prep|in det:art|a n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+@End

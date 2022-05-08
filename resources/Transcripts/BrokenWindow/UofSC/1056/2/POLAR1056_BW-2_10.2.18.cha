@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1056_BW2_R2 video
+*PAR:	a pow [* phon] &f .
+%mor:	det:art|a on|pow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	neeya [* phon] hol [* phon] finbing [* phon] .
+*PAR:	and fu [* phon] .
+%mor:	coord|and ?|fu .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	eeba [* phon] &hm .
+*PAR:	and then ih [: it] [* phon] oal [* phon] &hm no .
+%mor:	coord|and adv:tem|then pro:per|it ?|oal co|no .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COM 6|4|PUNCT
+@End

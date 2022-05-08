@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	POLAR_1057_PBJ3 video
+*PAR:	<a labo [: label] [* phon]> [//] a label in store .
+%mor:	det:art|a n|label prep|in n|store .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	leave it and walk .
+%mor:	v|leave pro:per|it coord|and n|walk .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|1|PUNCT
+@End

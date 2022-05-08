@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1081.BW-6 video
+@Time Duration:	00:01:06
+*PAR:	yeah &uh <it was a ha> [//] it was a hass [: house] [* phon] .
+%mor:	co|yeah pro:per|it cop|be&PAST&13S det:art|a n|house .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	it was a yeah .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and then &oh like &oh .
+%mor:	coord|and adv:tem|then conj|like .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	so ball and .
+%mor:	co|so n|ball coord|and .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	it was a house .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and you like .
+%mor:	coord|and pro:per|you v|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

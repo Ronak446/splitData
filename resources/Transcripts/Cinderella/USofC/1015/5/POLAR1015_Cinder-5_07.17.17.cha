@@ -1,0 +1,280 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:15:34
+@Media:	1015_Cinderella5 video
+*PAR:	&uh &muh &fuhf  [/] &fufh &uh &suh sesemmuh [* phon] &s &uh &m sala
+	[* phon] &suh [/] &suh sala [* phon] &uh &w .
+%mor:	?|sesemmuh ?|sala ?|sala .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the &uh &fah [/] &fah &fa [/] &fa [/] &fa fadder [* phon] &f &fa &f
+	fire [* u] fired [* u] &uh &fa fadder [* phon] &fa fired [* phon]
+	the &uh &ah arm [* u] &ah armprin [* phon] ampuh [* phon] &uh xxx
+	[* phon] &fah &am [/] &am and &uh &am [/] &am armpra [* phon] &am
+	armpin [* phon] &uh &pih picher [* phon] &pih [/] &pih but its &pih
+	pinch [* phon] yeah &uh &um &fah faderd [* phon] &fah &fah fired
+	[* phon] and silly [* u] sinished [* phon] &n &s &ih &t &tih .
+%mor:	det:art|the ?|fadder n|fire v|fire-PAST ?|fadder v|fire-PAST
+	det:art|the n|arm ?|armprin ?|ampuh coord|and ?|armpra ?|armpin
+	?|picher conj|but det:poss|its n|pinch co|yeah ?|faderd v|fire-PAST
+	coord|and co|silly ?|sinished .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|12|OBJ 14|13|XMOD 15|20|LINK
+	16|17|MOD 17|20|SUBJ 18|20|COM 19|20|SUBJ 20|14|CJCT 21|20|CONJ
+	22|23|COM 23|21|COORD 24|4|PUNCT
+*PAR:	and &uh &k &k kids [//] no &ra &k &ch &ch chose [* u] &ch &ch change
+	[* u] &oy &um &ah [/] &ah &am amperor [* phon] &ah [/] &ah anter
+	[* phon] &ah [/] &ah anter [* phon] [/] anter [* phon] &fuh &uh &th
+	they &uh &hou house [/] house [/] house and &uh &ah &ah &ah &ah aunt
+	[* s] &ah aunt [* s] house [/] house &ah [/] &ah ahnta [* phon]
+	ahnta [* phon] house &uh good [/] good goes go [/] go &z green [* u]
+	&uh woman [/] woman xxx [* phon] house the &uh seat [* phon] sitla
+	[* phon] &ta &s [/] &s [/] &s sitla [* phon] &s &s xxx [* phon]
+	create &uh the &uh house [/] house .
+%mor:	coord|and co|no v|choose&PAST n|change ?|amperor ?|anter ?|anter
+	pro:sub|they v|house coord|and n|aunt n|aunt n|house ?|ahnta ?|ahnta
+	n|house adj|good v|go-3S v|go adj|green n|woman n|house det:art|the
+	n|seat ?|sitla ?|sitla v|create det:art|the n|house .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|OBJ 7|9|JCT 8|9|SUBJ
+	9|6|CMOD 10|9|CONJ 11|13|MOD 12|13|MOD 13|10|COORD 14|13|CONJ 15|14|COORD
+	16|15|OBJ 17|16|XMOD 18|17|CMOD 19|18|OBJ 20|22|MOD 21|22|MOD 22|19|OBJ
+	23|24|DET 24|27|SUBJ 25|27|JCT 26|27|SUBJ 27|22|COMP 28|29|DET 29|27|OBJ
+	30|3|PUNCT
+*PAR:	&muh &meh &mou &me meel [* phon] meels [* phon] Amelia [* u] &uh &eh
+	wash [//] washing [/] washing the &uh &b rest of &th wash rest wash
+	[/] wash &uh &s house [/] house &ho house [//] household &um xxx
+	[* phon] .
+%mor:	?|meel ?|meels n:prop|Amelia part|wash-PRESP det:art|the n|rest
+	prep|of n|wash n|rest n|wash n|house n|household .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|OBJ 4|3|XJCT 5|6|DET 6|4|OBJ 7|6|NJCT 8|12|MOD
+	9|12|MOD 10|12|MOD 11|12|MOD 12|7|POBJ 13|1|PUNCT
+*PAR:	king [//] the king all [/] all [/] all the house all [/] all the &uh
+	they &k country &um all the little the dissus [* phon] &l littus
+	[* phon] &let letter all the round underneath the &d &p pol [* phon]
+	pol [* phon] &uh &b ball [/] ball [/] ball [/] ball [/] ball &uh &n
+	&d &k kartis [* phon] &k &k &h &k kartis [* phon] no &kah &uh &ee
+	&uh &r run &ah &ruh run it aroh [* phon] xxx [* phon] xxx [* phon] .
+%mor:	det:art|the n|king qn|all det:art|the n|house adv|all det:art|the
+	pro:sub|they n|country adv|all det:art|the adj|little det:art|the
+	?|dissus ?|littus n|letter adv|all det:art|the adv|round
+	prep|underneath det:art|the ?|pol ?|pol n|ball ?|kartis ?|kartis
+	co|no n|run n|run pro:per|it ?|aroh .
+%gra:	1|2|DET 2|0|INCROOT 3|5|QUANT 4|5|DET 5|2|XMOD 6|9|JCT 7|9|DET 8|9|MOD
+	9|5|XMOD 10|12|JCT 11|12|DET 12|9|CMOD 13|14|DET 14|12|OBJ 15|16|MOD
+	16|14|PRED 17|19|JCT 18|19|DET 19|16|JCT 20|16|NJCT 21|22|DET 22|20|POBJ
+	23|24|MOD 24|22|OBJ 25|24|CONJ 26|25|COORD 27|29|COM 28|29|MOD 29|26|OBJ
+	30|31|SUBJ 31|29|CMOD 32|2|PUNCT
+*PAR:	ugly [//] the &uh &s sister [//] sisters &ug ugly the &uh [/] &uh
+	the &uh &s [/] &s sitla [* phon] [/] &s sitlas [* phon] all [/] all
+	the &f [/] &f [/] &fr friends &fiy do &fry &uh &uhf freds [* phon]
+	&freh press [* phon] &dr &freh [/] &freh &uh &fleh &fluh &uh xxx
+	[* phon] press [* phon] &pruh &fr &uh &duh &fre &freh &d pres
+	[* phon] &uh &f &fr fren [* phon] dress [/] dress [/] dress [/]
+	dress [/] dress [/] dress [/] dress all room &bes saysenance
+	[* phon] .
+%mor:	det:art|the n|sister-PL adj|ugly det:art|the det:art|the ?|sitlas
+	adv|all det:art|the n|friend-PL v|do ?|freds n|press n|press ?|pres
+	?|fren n|dress adv|all n|room ?|saysenance .
+%gra:	1|2|DET 2|3|SUBJ 3|10|LINK 4|6|DET 5|6|DET 6|10|SUBJ 7|10|JCT 8|9|DET
+	9|10|SUBJ 10|0|ROOT 11|13|MOD 12|13|MOD 13|10|OBJ 14|13|CONJ 15|14|COORD
+	16|15|OBJ 17|18|JCT 18|19|MOD 19|16|NJCT 20|10|PUNCT
+*PAR:	all in &de all [/] all of the queen [* s] all [/] all [/] all [/]
+	all &th &p [/] &p ball xxx [* phon] all the &cre coil [* phon] <all
+	the> [/] <all the> [/] <all the> [/] all the &uh &pi &pi &pe people
+	&k &k casus [* phon] all the &kah boy [* s] .
+%mor:	adv|all adv|in pro:indef|all prep|of det:art|the n|queen adv|all
+	n|ball adv|all det:art|the n|coil adv|all det:art|the n|person&PL
+	?|casus adv|all det:art|the n|boy .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|JCT
+	8|3|INCROOT 9|11|JCT 10|11|DET 11|8|OBJ 12|14|JCT 13|14|DET 14|18|MOD 15|18|MOD
+	16|18|JCT 17|18|DET 18|11|OBJ 19|8|PUNCT
+*PAR:	and &muh &n &das &n &da &uh &s [/] &s &uh the &si sisters &f &fr
+	&fres [/] &fres &uh crie [* phon] crise [* phon] &n the &uh &buh the
+	&uh siluh [* phon] [/] siluh [* phon] &sih &sih siluh [* phon] solih
+	[* phon] solis [* phon] ushla [* phon] rang [* phon] a ring [* u]
+	&uh &d &cra ruckin [* phon] &ah &k &tah [/] &tah [/] &tah [/] &tah
+	[/] &tah tan [* phon] &t tan [* phon] &tah &n &uh .
+%mor:	coord|and det:art|the n|sister-PL ?|crie ?|crise det:art|the
+	det:art|the ?|siluh ?|siluh ?|solih ?|solis ?|ushla v|ring&PAST
+	det:art|a n|ring ?|ruckin adj|tan n|tan .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|8|DET 7|8|DET
+	8|5|OBJ 9|8|XMOD 10|13|LINK 11|13|JCT 12|13|SUBJ 13|9|COMP 14|15|DET 15|18|MOD
+	16|18|MOD 17|18|MOD 18|13|OBJ 19|1|PUNCT
+*PAR:	all the &uh all the &uh all of <the &uh> [/] <the &uh> [/] the &uh
+	&t the &uh &haw &haw hogs [* phon] hos [* phon] &daw dog and &uh not
+	&g &nee niece [* u] [/] niece [* u] [/] niece [* u] &d round &dr &r
+	xxx [* phon] &dr round the &uh &th <the &uh> [/] the &uh &f the &uh
+	[/] &uh &uhf &uh &fr &fruh [/] &fruh &fr freeuh [* phon] fris
+	[* phon] xxx [* phon] &uh &s [/] &s &d [/] &d &s &st frise [* phon]
+	&fr frise [* phon] &k &g gone [/] gone &uh &l &st the &uh &nie &uh
+	&ni nice &nah [/] &nah nice and &uh [/] &uh [/] &uh all <and all>
+	[/] <and all> [/] &um .
+%mor:	qn|all det:art|the adv|all det:art|the pro:indef|all prep|of
+	det:art|the det:art|the n|hog-PL ?|hos n|dog coord|and neg|not
+	n|niece adv|round adv|round det:art|the det:art|the det:art|the
+	?|freeuh ?|fris ?|frise ?|frise part|go&PASTP det:art|the adj|nice
+	adj|nice coord|and pro:indef|all .
+%gra:	1|5|QUANT 2|5|DET 3|5|JCT 4|5|DET 5|0|ROOT 6|5|NJCT 7|9|DET 8|9|DET
+	9|6|POBJ 10|9|CONJ 11|10|COORD 12|11|CONJ 13|14|NEG 14|12|COORD 15|16|JCT
+	16|14|NJCT 17|20|DET 18|20|DET 19|20|DET 20|14|CMOD 21|20|CONJ
+	22|21|COORD 23|22|OBJ 24|23|XMOD 25|27|DET 26|27|MOD 27|24|OBJ 28|27|CONJ
+	29|28|COORD 30|5|PUNCT
+*PAR:	and all &um fahluhf [* phon] &uh fallah [* phon] &f [/] &f father
+	[* u] no &d &f fallah [* phon] &qui queen [* u] &n de [* phon] &uh
+	&fah family [* u] &f [/] &f [/] &f [/] &f [/] &f family [* u]
+	federally [* phon] &n &ee &uh &w win [* u] &suh &lae &duh all the
+	&uh &um &puh [/] &puh pumpkin [/] pumpkin the &uh tal [* phon] fall
+	[* phon] thruh [* phon] thrall [* phon] three [/] three [/] three
+	pops [* phon] &n the &uh mees [* phon] meece [* phon] [/] meece
+	[* phon] .
+%mor:	coord|and qn|all ?|fahluhf ?|fallah n|father qn|no ?|fallah n|queen
+	?|de n|family n|family adv|federal&dadj-LY v|win adv|all det:art|the
+	n|pumpkin det:art|the ?|tal n|fall ?|thruh ?|thrall det:num|three
+	n|pop-PL det:art|the ?|mees ?|meece .
+%gra:	1|13|LINK 2|3|QUANT 3|13|JCT 4|11|MOD 5|11|MOD 6|11|QUANT 7|11|MOD
+	8|11|MOD 9|11|MOD 10|11|MOD 11|13|SUBJ 12|13|JCT 13|0|ROOT 14|16|JCT
+	15|16|DET 16|13|OBJ 17|19|DET 18|19|MOD 19|16|OBJ 20|19|CONJ 21|23|MOD
+	22|23|QUANT 23|20|COORD 24|25|DET 25|23|OBJ 26|25|PRED 27|13|PUNCT
+*PAR:	and &uh &tr triv [* phon] &tr triver [* phon] &d dog pumpkin pumpk
+	[* phon] .
+%mor:	coord|and ?|triv ?|triver n|dog n|pumpkin ?|pumpk .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|MOD 4|5|MOD 5|6|MOD 6|2|COMP 7|1|PUNCT
+*PAR:	and &n waving this around a little bit all of it all &fa [/] &fa
+	fally [* phon] foopri [* phon] .
+%mor:	coord|and part|wave-PRESP pro:dem|this prep|around det:art|a
+	adj|little n|bit pro:indef|all prep|of pro:per|it adv|all
+	adj|fall&dv-Y ?|foopri .
+%gra:	1|0|INCROOT 2|1|COORD 3|13|DET 4|13|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|13|MOD 9|8|NJCT 10|9|POBJ 11|12|JCT 12|13|MOD 13|2|OBJ 14|1|PUNCT
+*PAR:	now I said that [/] that the &uh and &uh fallory [* phon] &uh mice
+	miss [* phon] life [* phon] &luh &luh &luh lime [* phon] but rice
+	[* phon] nice [* phon] and &uh &w [/] &w white [* phon] wife
+	[* phon] &uh for &f &f nort [* phon] nef [* phon] xxx [* phon] nice
+	[* phon] and &eh nice [* phon] [/] nice [* phon] &um threst [* phon]
+	no &th the &uh &l &w wife [* phon] [/] wife [* phon] &wi white
+	[* phon] and &uh &uh knife [* phon] xxx [* phon] .
+%mor:	adv|now pro:sub|I v|say&PAST pro:rel|that det:art|the coord|and
+	?|fallory n|mouse&PL n|miss n|life n|lime conj|but n|rice adj|nice
+	coord|and adj|white n|wife prep|for ?|nort ?|nef adj|nice coord|and
+	adj|nice ?|threst co|no det:art|the n|wife n|white coord|and n|knife
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|INCROOT 5|31|DET 6|5|CONJ 7|11|MOD
+	8|11|MOD 9|11|MOD 10|11|MOD 11|6|COORD 12|11|CONJ 13|12|COORD 14|13|COORD
+	15|14|CONJ 16|17|MOD 17|15|COORD 18|17|NJCT 19|18|POBJ 20|19|CONJ
+	21|20|COORD 22|21|CONJ 23|28|MOD 24|28|MOD 25|28|COM 26|28|DET 27|28|MOD
+	28|22|COORD 29|21|CONJ 30|29|COORD 31|4|PUNCT
+*PAR:	all &th &j all [/] all the kall [* phon] the all the [/] the &uh all
+	on &uh the &h &haw [/] &haw halls [/] halls &haw horse lee [/] lee
+	&k come camp &k &k kansk [* phon] &k couch [* phon] &k [/] &k catch
+	[* phon] &con conce [* phon] be &uh [/] &uh cask [* phon] <&k kartis
+	[* phon]> [/] &k kartis [* phon] ball &b ball [/] ball &d dance [/]
+	dance <&n dance> [/] &n dance xxx [* phon] xxx [* phon] .
+%mor:	adv|all adv|all det:art|the ?|kall det:art|the adv|all det:art|the
+	adv|all prep|on det:art|the n|hall-PL n|horse n|lee v|come n|camp
+	?|kansk n|couch v|catch ?|conce cop|be n|cask ?|kartis n|ball n|ball
+	n|dance n|dance .
+%gra:	1|2|JCT 2|4|JCT 3|4|DET 4|0|ROOT 5|6|DET 6|4|JCT 7|9|DET 8|9|JCT
+	9|6|JCT 10|13|DET 11|13|MOD 12|13|MOD 13|14|SUBJ 14|9|POBJ 15|18|SUBJ
+	16|18|JCT 17|18|SUBJ 18|14|COMP 19|26|MOD 20|26|MOD 21|26|MOD 22|26|MOD
+	23|26|MOD 24|26|MOD 25|26|MOD 26|18|OBJ 27|4|PUNCT
+*PAR:	&s sininuh [* phon] xxx [*  phon] &the queen [* s] &nah &ah &uh
+	prince &pih &r prince all &rah &uh &o &w [/] &w white [* phon] [/]
+	white [* phon] xxx [* phon] dance &d &loh dance &n mance [* phon]
+	lance [* phon] dance [/] dance &ee mance [* phon] .
+%mor:	?|sininuh n|queen n|prince n|prince adv|all adj|white n|dance
+	n|dance ?|mance n|lance n|dance ?|mance .
+%gra:	1|11|MOD 2|4|MOD 3|4|MOD 4|8|MOD 5|6|JCT 6|8|MOD 7|8|MOD 8|11|MOD
+	9|11|MOD 10|11|MOD 11|12|SUBJ 12|0|ROOT 13|12|PUNCT
+*PAR:	&ee &d the [/] the &lah [/] &lah the lock [* phon] the &uh &cl &cl
+	clock one [* s] [/] one [* s] [//] no one [* s] &n &uh &n [/] &n [/]
+	&n &nie &n not [/] not &nie night [* s] [/] night [* s] .
+%mor:	det:art|the det:art|the n|lock det:art|the n|clock qn|no
+	pro:indef|one neg|not n|night .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|7|QUANT 7|5|XMOD 8|7|NEG
+	9|7|PRED 10|3|PUNCT
+*PAR:	&ee the &dee the &k &car &car &car carge [* phon] all of &uh all the
+	house [/] house all the house &s [/] &s &uh dance .
+%mor:	det:art|the det:art|the ?|carge adv|all prep|of qn|all det:art|the
+	n|house adv|all det:art|the n|house n|dance .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|JCT 5|3|JCT 6|8|QUANT 7|8|DET 8|5|POBJ
+	9|12|JCT 10|12|DET 11|12|MOD 12|3|APP 13|3|PUNCT
+*PAR:	&uh the &jus &si &si &si sipra [* phon] &uh the &si &si sitras
+	[* phon] &uh &th sislas [* phon] sitlus [* phon] wonders [* phon] &w
+	wasn't [* phon] &w [/] &w [/] &w one &uh &uh &um &ko &d &da dance .
+%mor:	det:art|the ?|sipra det:art|the ?|sitras ?|sislas ?|sitlus
+	v|wonder-3S aux|be&PAST&13S~neg|not det:num|one n|dance .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|7|SUBJ 7|5|XCOMP
+	8|10|AUX 9|8|NEG 10|11|QUANT 11|7|OBJ 12|2|PUNCT
+*PAR:	&h house [* phon] [/] house [* phon] &th &d &h horse one &d dog &ee
+	&uh &m meel [* phon] miss [* phon] [/] miss [* phon] &ah all &w all
+	do small [/] small &p xxx [* phon] .
+%mor:	n|house n|horse det:num|one n|dog ?|meel n|miss adv|all adv|all
+	v|do adj|small .
+%gra:	1|2|MOD 2|0|ROOT 3|4|QUANT 4|2|XMOD 5|9|COM 6|9|SUBJ 7|9|JCT 8|9|JCT
+	9|4|CMOD 10|9|JCT 11|2|PUNCT
+*PAR:	now this &puh [/] &puh pumpkin [/] pumpkin pumpin [* phon] .
+%mor:	adv|now pro:dem|this n|pumpkin ?|pumpin .
+%gra:	1|4|JCT 2|3|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and xxx [* phon] the &uh all advice [* phon] bout [* phon] the king
+	&d &kee king [/] king &lon &lis &s [/] &s [/] &s [/] &s [/] &s [/]
+	&s serpa [* phon] &jus us purpose [* phon] xxx [* phon] .
+%mor:	coord|and det:art|the qn|all n|advice n|bout det:art|the n|king
+	n|king ?|serpa pro:obj|us n|purpose .
+%gra:	1|5|LINK 2|5|DET 3|4|QUANT 4|5|MOD 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|XMOD 10|11|MOD 11|9|OBJ 12|5|PUNCT
+*PAR:	and run around all round all around [/] around the cities all the
+	&quee &k queen [* s] [/] queen [* s] [/] queen [* s] [//] queens
+	[* s] and the &uh &sol &sol solpas [* phon] &sol sorras [* phon] all
+	&r running around &r [/] &r <all the &hou > [//] <all the house> [/]
+	<all the house> [//] all the &dee &uh &th silla [* phon] sipras
+	[* phon] .
+%mor:	coord|and n|run prep|around adv|all adj|round adv|all prep|around
+	det:art|the n|city-PL adv|all det:art|the n|queen-PL coord|and
+	det:art|the ?|solpas ?|sorras adv|all part|run-PRESP prep|around
+	qn|all det:art|the ?|silla ?|sipras .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|JCT 5|3|POBJ 6|7|JCT 7|2|NJCT
+	8|9|DET 9|7|POBJ 10|12|JCT 11|12|DET 12|7|POBJ 13|18|LINK 14|15|DET 15|18|SUBJ
+	16|18|AUX 17|18|JCT 18|12|CMOD 19|18|JCT 20|22|QUANT 21|22|DET
+	22|19|POBJ 23|22|PRED 24|1|PUNCT
+*PAR:	&s &l &uh on onta [* phon] lock &r locks [//] lock [/] lock and &ee
+	&um &b &buh bacon [* phon] [//] better &l [/] &l lock or &s [/] &s
+	[/] &s sit up .
+%mor:	prep|on ?|onta n|lock n|lock coord|and adj|good&CP n|lock coord|or
+	v|sit adv|up .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|POBJ 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|7|CONJ 9|8|COORD 10|9|JCT 11|1|PUNCT
+*PAR:	&d &l little ran [//] run &uh &cree &n &uh &th meece [* phon] [/]
+	meece [* phon] ruh [* phon] round [/] round &k mice &k key .
+%mor:	adj|little part|run&PASTP ?|meece ?|ruh adv|round n|mouse&PL v|key
+	.
+%gra:	1|3|MOD 2|3|MOD 3|7|LINK 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	meece [* phon] lock &l rouw [* phon] &s xxx [* phon] &l &th house &k
+	queen [* s] &n [/] &n the &uh &uhf &f &l &pa [//] flupra [* phon]
+	&uh &m &ma &man &fl [/] &fl &fr &r &n &ah &ee &um sipras [* phon]
+	and &uh is bun [* phon] .
+%mor:	?|meece n|lock ?|rouw n|house n|queen det:art|the ?|flupra ?|sipras
+	coord|and aux|be&3S n|bun .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|ROOT 6|7|DET 7|5|CONJ 8|7|COORD
+	9|8|CONJ 10|11|AUX 11|9|COORD 12|5|PUNCT
+*PAR:	and &uh aunt [* s] &ah [/] &ah [/] &ah aunt [* s] auntra
+	[* phon] sipra [* phon] &rae &ka &krow crown runs around &m &s
+	around and &uh aleak [* phon] around and &uh suluh [* phon] [/]
+	suluh [* phon] &ee &uh &buh autie [* phon] &si &sl &si &si &si &sl
+	xxx [* phon] the &quee &uh the &uh &t &k &s silas [* phon] &si [/]
+	&si possible [* phon] &g [/] &g &p .
+%mor:	coord|and n|aunt n|aunt ?|auntra ?|sipra n|crown v|run-3S
+	adv|around adv|around coord|and ?|aleak adv|around coord|and ?|suluh
+	?|autie det:art|the det:art|the ?|silas adj|possible .
+%gra:	1|3|LINK 2|3|MOD 3|7|LINK 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|7|CONJ 11|10|COORD 12|13|JCT 13|11|CONJ 14|13|COORD 15|14|OBJ
+	16|18|DET 17|18|DET 18|15|OBJ 19|18|PRED 20|7|PUNCT
+*PAR:	&nah &uh wooding [* phon] [/] wooding [* phon] &pr [/] &pr [/] &pr
+	prince sila [* phon] xxx [* phon] ran or ran no gone &oh gosh wash
+	[* phon] [/] wash [* phon] .
+%mor:	part|wood-PRESP n|prince ?|sila v|run&PAST coord|or v|run&PAST
+	qn|no part|go&PASTP co|gosh n|wash .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|8|QUANT
+	8|6|OBJ 9|10|COM 10|8|OBJ 11|2|PUNCT
+@End

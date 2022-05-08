@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1029_2_PBJ_October-6th-2017-3-40-47-pm video
+*PAR:	okay I would &uh open <the bir> [//] the &uh the
+	[/] &uh bag to get the bread out .
+%mor:	co|okay pro:sub|I mod|will&COND v|open det:art|the n|bag v|toe
+	v|get det:art|the n|bread adv|out .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|10|DET 10|8|OBJ 11|7|JCT 12|4|PUNCT
+*PAR:	and I would get the &uh pop [//] &uh &um peanut+butter out .
+%mor:	coord|and pro:sub|I mod|will&COND v|get det:art|the
+	n|+n|peanut+n|butter adv|out .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and &uh swirch [//] &sw spread it onto the peanut+butter .
+%mor:	coord|and v|spread&ZERO pro:per|it prep|onto det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and then the jelly .
+%mor:	coord|and adv:tem|then det:art|the n|jelly .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	and then I would put them together .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	pro:obj|them adv|together .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*PAR:	and then I would eat it .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|eat pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@End

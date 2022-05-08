@@ -1,0 +1,85 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:48
+@Media:	POLAR.1084.Cind-2 video
+*PAR:	okay so the [/] &uh the two people got married together .
+%mor:	co|okay conj|so det:art|the det:num|two n|person&PL aux|get&PAST
+	part|marry-PASTP adv|together .
+%gra:	1|7|COM 2|7|LINK 3|5|DET 4|5|QUANT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*PAR:	one [/] one of the &uh daughters was Cilinrella [: Cinderella]
+	[* phon] and the other daughters were her sisters .
+%mor:	det:num|one prep|of det:art|the n|daughter-PL cop|be&PAST&13S
+	n:prop|Cinderella coord|and det:art|the qn|other n|daughter-PL
+	cop|be&PAST det:poss|her n|sister-PL .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PRED 7|6|CONJ 8|10|DET
+	9|10|QUANT 10|7|COORD 11|5|PRED 12|13|DET 13|11|PRED 14|5|PUNCT
+*PAR:	but <they mede> [/] they mede [: made] [* phon] Cinderella do all
+	the chores .
+%mor:	conj|but pro:sub|they v|make&PAST n:prop|Cinderella v|do qn|all
+	det:art|the n|chore-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|8|QUANT 7|8|DET 8|5|OBJ
+	9|5|PUNCT
+*PAR:	she had to do &um &a all the [/] &um &uh the animals .
+%mor:	pro:sub|she v|have&PAST inf|to v|do qn|all det:art|the n|animal-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|QUANT 6|7|DET 7|4|OBJ 8|2|PUNCT
+*PAR:	my Cinderella had to &p take care with them too .
+%mor:	det:poss|my n:prop|Cinderella v|have&PAST inf|to v|take n|care
+	prep|with pro:obj|them adv|too .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|JCT 10|3|PUNCT
+*PAR:	&s and they started doing music for to &m make the prince marry them
+	when they go over to his castle .
+%mor:	coord|and pro:sub|they v|start-PAST part|do-PRESP n|music prep|for
+	inf|to v|make det:art|the n|prince v|marry pro:obj|them conj|when
+	pro:sub|they v|go adv|over prep|to det:poss|his n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|4|JCT 7|8|INF 8|6|POBJ
+	9|10|DET 10|11|SUBJ 11|8|COMP 12|11|OBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|JCT 17|15|JCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*PAR:	and the animals in the story got a dress made for Cinderella .
+%mor:	coord|and det:art|the n|animal-PL prep|in det:art|the n|story
+	v|get&PAST det:art|a n|dress v|make&PAST prep|for n:prop|Cinderella
+	.
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|DET
+	9|10|SUBJ 10|7|COMP 11|10|JCT 12|11|POBJ 13|7|PUNCT
+*PAR:	so he [: she] [* s] went to the ball in that &tch dress .
+%mor:	co|so pro:sub|she v|go&PAST prep|to det:art|the n|ball prep|in
+	det:dem|that n|dress .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and they [/] &uh they danced around together .
+%mor:	coord|and pro:sub|they v|dance-PAST adv|around adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and when she was going home she dropped her shoe on the side of the
+	scairs [: stairs] [* phon] .
+%mor:	coord|and conj|when pro:sub|she aux|be&PAST&13S part|go-PRESP
+	adv|home pro:sub|she v|drop-PAST det:poss|her n|shoe prep|on
+	det:art|the n|side prep|of det:art|the n|stair-PL .
+%gra:	1|8|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|8|PUNCT
+*PAR:	and the &um <his man> [//] his &m right mahan [: hand] [* phon] man
+	went to their house .
+%mor:	coord|and det:art|the det:poss|his n|right n|hand n|man v|go&PAST
+	prep|to det:poss|their n|house .
+%gra:	1|7|LINK 2|6|DET 3|5|DET 4|5|MOD 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*PAR:	and the &sss shoe went on &cil Cinderella's foot .
+%mor:	coord|and det:art|the n|shoe v|go&PAST prep|on
+	adj|Cinderella&dn-POSS n|foot .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*PAR:	and then they went to the carriage then got married .
+%mor:	coord|and adv:tem|then pro:sub|they v|go&PAST prep|to det:art|the
+	n|carriage adv:tem|then v|get&PAST part|marry-PASTP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|JCT
+	9|4|CJCT 10|9|COMP 11|4|PUNCT
+*PAR:	and they luved [: lived] [* phon] hapti [//] hafily [: happily]
+	[* phon] ever after amen .
+%mor:	coord|and pro:sub|they v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after co|amen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|COM 8|3|PUNCT
+@End

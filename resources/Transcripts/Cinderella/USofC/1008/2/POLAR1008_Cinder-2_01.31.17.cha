@@ -1,0 +1,157 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:24
+@Media:	1008_2_Cinderella_Y2017_M01_D31_H11_M37_S00 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	begin by he [* s] like to to [/] gare [* phon] .
+%mor:	v|begin adv|by pro:sub|he v|like prep|to ?|gare .
+%gra:	1|4|LINK 2|1|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and one go but he's [* s] very fang [* phon] badly this .
+%mor:	coord|and det:num|one v|go conj|but pro:sub|he~aux|be&3S adv|very
+	n|fang adv|bad&dadj-LY pro:dem|this .
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|3|OBJ
+	9|10|JCT 10|8|NJCT 11|3|PUNCT
+*PAR:	and he [* s] said no I have to see .
+%mor:	coord|and pro:sub|he v|say&PAST co|no pro:sub|I v|have inf|to v|see
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|8|INF 8|6|XCOMP
+	9|3|PUNCT
+*PAR:	or yay have to see .
+%mor:	coord|or co|yay v|have inf|to v|see .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	but they ko [* phon] with they bar [* u] es [* phon] .
+%mor:	conj|but pro:sub|they ?|ko prep|with pro:sub|they v|bar ?|es .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|SUBJ 6|4|POBJ 7|6|OBJ 8|3|PUNCT
+*PAR:	he [* s] said I have to glay [* phon] .
+%mor:	pro:sub|he v|say&PAST pro:sub|I v|have prep|to ?|glay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	but he [* s] said no no no .
+%mor:	conj|but pro:sub|he v|say&PAST co|no co|no co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|COM 6|3|OBJ 7|3|PUNCT
+*PAR:	you &k you [/] don't can ha ha .
+%mor:	pro:per|you mod|do~neg|not n|can co|ha co|ha .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COM 6|4|COM 7|4|PUNCT
+*PAR:	but he [* s] said until come xxx [* phon] .
+%mor:	conj|but pro:sub|he v|say&PAST conj|until v|come .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|CJCT 6|3|PUNCT
+*PAR:	he [* s] he [/] he [/] say okay gov [* phon] me sue [* phon] .
+%mor:	pro:sub|he v|say co|okay ?|gov pro:obj|me v|sue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|COM 4|6|JCT 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*PAR:	and then mother mother [/] said are you going .
+%mor:	coord|and adv:tem|then v|mother v|say&PAST aux|be&PRES pro:per|you
+	part|go-PRESP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|AUX 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	yes he [* s] said no .
+%mor:	co|yes pro:sub|he v|say&PAST co|no .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and then he [* s] came .
+%mor:	coord|and adv:tem|then pro:sub|he v|come&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and he [* s] said he [* s] likes .
+%mor:	coord|and pro:sub|he v|say&PAST pro:sub|he v|like-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*PAR:	I <I [/] want to> [//] I wash [* phon] to go .
+%mor:	pro:sub|I pro:sub|I v|wash inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	but I don't have it &m .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|have pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	but it <but it > [/] said I can do for you &uh .
+%mor:	conj|but pro:per|it v|say&PAST pro:sub|I mod|can v|do prep|for
+	pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	she said how okay I can get the comb [* u] .
+%mor:	pro:sub|she v|say&PAST adv:int|how adj|okay pro:sub|I mod|can v|get
+	det:art|the n|comb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|COMP 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*PAR:	and I have this month [* u] .
+%mor:	coord|and pro:sub|I v|have pro:dem|this n|month .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	it's going to be beautiful .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be adj|beautiful .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|PRED 7|3|PUNCT
+*PAR:	so he [* s] he [/] like and take it and take everything .
+%mor:	co|so pro:sub|he v|like coord|and v|take pro:per|it coord|and
+	v|take pro:indef|everything .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*PAR:	and &uh they loud [* u] is beautiful see .
+%mor:	coord|and pro:sub|they adj|loud aux|be&3S adj|beautiful v|see .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|SUBJ 4|6|AUX 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*PAR:	so he [* s] he [/] has some bait [* u] .
+%mor:	co|so pro:sub|he v|have&3S qn|some n|bait .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and he said &m &um &ss .
+%mor:	coord|and pro:sub|he v|say&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	so he [* s] can <he can> [/] do that .
+%mor:	co|so pro:sub|he mod|can v|do pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	he [* s] he [/] he [/] does beautiful .
+%mor:	pro:sub|he v|do&3S adj|beautiful .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and suddenly time xxx [* phon] .
+%mor:	coord|and adv|sudden&dadj-LY n|time .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and then he [* s] said I have to go <I have to go> [/] &luh my empty .
+%mor:	coord|and adv:tem|then pro:sub|he v|say&PAST pro:sub|I v|have
+	inf|to v|go det:poss|my adj|empty .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|XCOMP
+	9|10|MOD 10|8|OBJ 11|4|PUNCT
+*PAR:	and he said no no [/] wait wait [/] for me .
+%mor:	coord|and pro:sub|he v|say&PAST co|no v|wait prep|for pro:obj|me .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|COM 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and he [* s] said .
+%mor:	coord|and pro:sub|he v|say&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and then left .
+%mor:	coord|and adv:tem|then v|leave&PAST .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and then he's [* s] doke [* phon] hand wanted to want to see .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S ?|doke n|hand
+	v|want-PAST inf|to v|want inf|to v|see .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|XCOMP 10|11|INF 11|9|XCOMP 12|7|PUNCT
+*PAR:	and he [* s] left to the home .
+%mor:	coord|and pro:sub|he v|leave&PAST prep|to det:art|the n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &uh they planned for &uh .
+%mor:	coord|and pro:sub|they v|plan-PAST prep|for .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	he [* s] he [/] he [/] find it .
+%mor:	pro:sub|he v|find pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	he [* s] said no it's not fey [* phon] another one like it &unti
+	until boy [* u] &m mother he [* s] go .
+%mor:	pro:sub|he v|say&PAST co|no pro:per|it~cop|be&3S neg|not ?|fey
+	qn|another pro:indef|one prep|like pro:per|it prep|until n|boy
+	n|mother pro:sub|he v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|SUBJ 5|2|COMP 6|5|NEG 7|5|PRED 8|9|QUANT
+	9|7|OBJ 10|9|NJCT 11|16|SUBJ 12|16|JCT 13|14|MOD 14|12|POBJ 15|16|SUBJ
+	16|10|POBJ 17|2|PUNCT
+*PAR:	and he [* s] left beautiful .
+%mor:	coord|and pro:sub|he v|leave&PAST adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	he [* s] said okay left me [* u] .
+%mor:	pro:sub|he v|say&PAST co|okay v|leave&PAST pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	and they buse [* phon] then tomorrow .
+%mor:	coord|and pro:sub|they ?|buse adv:tem|then adv:tem|tomorrow .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	and then he [* s] put me [* u] white .
+%mor:	coord|and adv:tem|then pro:sub|he v|put&ZERO pro:obj|me n|white .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*PAR:	and then good luck .
+%mor:	coord|and adv:tem|then adj|good n|luck .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@End

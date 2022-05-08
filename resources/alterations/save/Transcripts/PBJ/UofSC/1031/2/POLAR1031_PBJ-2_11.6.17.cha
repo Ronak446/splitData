@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1031_PBJ2 video
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	peanut+utter [* phon] and jelly .
+%mor:	?|peanut+utter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	eheh [* phon] oh cheebaldin [* phon] .
+%mor:	?|eheh co|oh ?|cheebaldin .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	pean+utter [* phon] and &b jelly and dip [* phon] ber [* phon] &buh
+	the sides .
+%mor:	?|pean+utter coord|and n|jelly coord|and n|dip ?|ber det:art|the
+	n|side-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|4|COORD 6|1|ENUM 7|8|DET
+	8|6|OBJ 9|1|PUNCT
+@End

@@ -1,0 +1,87 @@
+@UTF8
+@Window:	45_366_755_916_2502_1_2922_0_2922_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:42
+@Media:	POLAR1110_PJB-5_09-23-2020, video
+*PAR:	well we're seeing we're having a [/] &w a [/] a [/] &pe <a
+	peter+paidle [: peanut+butter] [* phon]> [//] a peter [: peanut]
+	[* phon] .
+%mor:	co|well pro:sub|we~aux|be&PRES part|see-PRESP
+	pro:sub|we~aux|be&PRES part|have-PRESP det:art|a n|peanut .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	but <we start> [//] I wouldn't use that kind .
+%mor:	conj|but pro:sub|I mod|will&COND~neg|not v|use det:dem|that
+	adj|kind .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	but I [//] we can still use a white &uh regular .
+%mor:	conj|but pro:sub|we mod|can adv|still v|use det:art|a n|white
+	adj|regular .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+%com:	claps hands together
+*PAR:	what do you call that when we have our &sh with our .
+%mor:	pro:int|what mod|do pro:per|you v|call pro:dem|that conj|when
+	pro:sub|we v|have det:poss|our prep|with det:poss|our .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	<we start the> [/] we start the first one .
+%mor:	pro:sub|we v|start det:art|the adj|first pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	make of the white [/] white bed [* phon] [//] bread
+	[//] the bread [//] white bread .
+%mor:	v|make prep|of det:art|the adj|white det:art|the adj|white n|bread
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|7|DET 4|7|MOD 5|7|DET 6|7|MOD 7|2|POBJ 8|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so we're starting about that .
+%mor:	adv|so pro:sub|we~aux|be&PRES part|start-PRESP prep|about
+	pro:dem|that .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so we are going to buy [* s] <some &pen &puh &puh penato [* phon]>
+	[//] &peh a &peh peter+pider [: peanut+butter] [* phon] [//] &uh
+	butter [* s] [/] butter [* s] and [/] &sah &sah and [/] and &s jelly
+	&um on the other side .
+%mor:	co|so pro:sub|we aux|be&PRES part|go-PRESP inf|to v|buy det:art|a
+	n|butter coord|and n|jelly prep|on det:art|the qn|other n|side .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|6|JCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|4|PUNCT
+*PAR:	and then you can have all [//] &uh a lot of stuff [* s] there .
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|have det:art|a n|lot
+	prep|of n|stuff adv|there .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|JCT 11|5|PUNCT
+*PAR:	and then you have <the other> [//] the white thing [* s] right there
+	.
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|the adj|white
+	n|thing adv|right adv|there .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|JCT
+	9|7|NJCT 10|4|PUNCT
+*PAR:	and then you do [* s] half of it .
+%mor:	coord|and adv:tem|then pro:per|you v|do n|half prep|of pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*PAR:	you [//] <I always say> [//] we [//] <I usually> [//] for [/] for
+	kids I do [* s] half on one side and the other tude [* u] on the
+	other side so they have little smaller ones [* s] since they don't
+	use [* s] it anyway .
+%mor:	prep|for n|kid-PL pro:sub|I v|do n|half prep|on det:num|one n|side
+	coord|and det:art|the qn|other ?|tude adv|on det:art|the qn|other
+	n|side conj|so pro:sub|they v|have adj|little adj|small-CP n|one-PL
+	conj|since pro:sub|they mod|do~neg|not v|use pro:per|it adv|anyway .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|CONJ 10|11|DET 11|12|QUANT 12|9|COORD 13|12|JCT 14|16|DET 15|16|QUANT
+	16|13|POBJ 17|19|LINK 18|19|SUBJ 19|4|CJCT 20|22|MOD 21|22|MOD
+	22|19|OBJ 23|27|LINK 24|27|SUBJ 25|27|AUX 26|25|NEG 27|19|CJCT 28|27|OBJ
+	29|27|JCT 30|4|PUNCT
+*PAR:	so that's it .
+%mor:	co|so pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1075_4_BrokenWindow_June-13th-2019-1-01-40-pm video
+*PAR:	well dat [: that] [* phon] one [/] one the fel [* phon] dat [: that] [* phon] com [* phon] xxx [* phon] chnain [* phon] .
+%mor:	co|well pro:dem|that pro:indef|one det:art|the ?|fel pro:dem|that
+	?|com ?|chnain .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|5|DET 5|3|XMOD 6|7|SUBJ 7|5|CMOD 8|7|PRED
+	9|3|PUNCT
+*PAR:	&gasp wote [* phon] .
+%mor:	?|wote .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<we de> [//] what da [: the] [* phon] fote [* phon] &gasp .
+%mor:	pro:int|what det:art|the ?|fote .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the [//] there [/] there wa [: was] [* phon] somebody get he &d
+	[/] he does it &lu love [* u] le [* phon] .
+%mor:	coord|and adv|there cop|be&PAST&13S pro:indef|somebody v|get
+	pro:sub|he pro:sub|he mod|do&3S pro:per|it v|love ?|le .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|10|SUBJ 7|10|SUBJ
+	8|10|AUX 9|10|SUBJ 10|5|COMP 11|10|OBJ 12|3|PUNCT
+*PAR:	that's somebody yelse [: else] [* phon] .
+%mor:	pro:dem|that~cop|be&3S pro:indef|somebody post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+*PAR:	she [: he] [* s] says dats [: that's] [* phon] my daughter [: son]
+	[* s] .
+%mor:	pro:sub|he v|say-3S pro:dem|that~cop|be&3S det:poss|my n|son .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|PRED 7|2|PUNCT
+*PAR:	and he's much xxx [* phon] .
+%mor:	coord|and pro:sub|he~cop|be&3S qn|much .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	but he ha [: have] [* phon] to fix it .
+%mor:	conj|but pro:sub|he v|have inf|to v|fix pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+@End

@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_3_BrokenWindow_March-5th-2020-9-51-41-am video
+@Time Duration:	00:00:25
+*PAR:	okay this a soccer ball .
+%mor:	co|okay det:dem|this det:art|a n|soccer n|ball .
+%gra:	1|5|COM 2|5|DET 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	the soccer ball who was playing with it and it went in and it [/] it
+	hit the window .
+%mor:	det:art|the n|soccer n|ball pro:rel|who aux|be&PAST&13S
+	part|play-PRESP prep|with pro:per|it coord|and pro:per|it v|go&PAST
+	adv|in coord|and pro:per|it v|hit&ZERO det:art|the n|window .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|11|JCT 13|15|LINK 14|15|SUBJ
+	15|11|CJCT 16|17|DET 17|15|OBJ 18|3|PUNCT
+*PAR:	and then it went out and it got the [/] the I don't know who that
+	guy is but anyway it went through the window .
+%mor:	coord|and adv:tem|then pro:per|it v|go&PAST adv|out coord|and
+	pro:per|it v|get&PAST det:art|the pro:sub|I mod|do~neg|not v|know
+	pro:int|who pro:dem|that n|guy cop|be&3S conj|but co|anyway
+	pro:per|it v|go&PAST prep|through det:art|the n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|13|DET 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|COMP 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|13|COMP 18|21|LINK 19|21|COM 20|21|SUBJ 21|13|CJCT 22|21|JCT
+	23|24|DET 24|22|POBJ 25|4|PUNCT
+*PAR:	and basically &um it ended up she [: he] [* s] had [: hit] [* u] the
+	window .
+%mor:	coord|and adv|basic&dadj-AL-LY pro:per|it v|end-PAST adv|up
+	pro:sub|he v|hit&ZERO det:art|the n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|4|CJCT 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	and he had the soccer ball .
+%mor:	coord|and pro:sub|he v|have&PAST det:art|the n|soccer n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+@End

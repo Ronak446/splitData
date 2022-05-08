@@ -1,0 +1,21 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_151_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:10
+@Media:	POLAR_1112_Cinderella-3_8.21.2020.zoom, video
+*PAR:	Cimlawella [: Cinderella] [* phon] &uh &um Cinderbrella
+	[: Cinderella] [* phon] &um .
+%mor:	n:prop|Cinderella n:prop|Cinderella .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*PAR:	<&um dass [: glass] [* phon] &sh shretter [: slipper] [* phon]> [//]
+	dass [: glass] [* phon] [/] <&de dass shepper [: slipper] [* phon]
+	&um> [//] gass [: glass] [* phon] stipper [: slipper] [* phon] .
+%mor:	n|glass n|slipper .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	happy ever afur [: after] [* phon] . 
+%mor:	adj|happy adv|ever adv:tem|after .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+@End

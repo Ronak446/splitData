@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1044_2_BrokenWindow_March-27th-2018-2-20-11-pm video
+*PAR:	this &uh the ball [* s] is shatter .
+%mor:	pro:dem|this det:art|the n|ball aux|be&3S v|shatter .
+%gra:	1|3|DET 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the man the <&uh uhoh> [/] &uh uhoh .
+%mor:	det:art|the n|man det:art|the co|uhoh .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|XMOD 5|2|PUNCT
+@End

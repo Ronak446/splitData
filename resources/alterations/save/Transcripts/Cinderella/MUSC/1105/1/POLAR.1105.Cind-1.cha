@@ -1,0 +1,63 @@
+@UTF8
+@Window:	45_363_755_916_617_1_1387_1_1387_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:36
+@Media:	POLAR.1105.Cind-1, video
+*PAR:	&um Cinderella has a stepmom and two stepsisters .
+%mor:	n:prop|Cinderella v|have&3S det:art|a step#n|mom coord|and
+	det:num|two step#n|sister-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|2|PUNCT
+*PAR:	and &um they get like a invitation from somebody for the dance .
+%mor:	coord|and pro:sub|they v|get prep|like det:art|a n|invite&dv-TION
+	prep|from pro:indef|somebody prep|for det:art|the n|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and &uh the animals make Cinderella a dress .
+%mor:	coord|and det:art|the n|animal-PL v|make n:prop|Cinderella
+	det:art|a n|dress .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|OBJ 8|4|PUNCT
+*PAR:	and &th stepsisters get upset about it and mess it all up .
+%mor:	coord|and step#n|sister-PL v|get v|upset prep|about pro:per|it
+	coord|and v|mess pro:per|it adv|all adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|3|PUNCT
+*PAR:	and I don't remember how the fairy godmother comes about .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|remember pro:int|how
+	det:art|the n|fairy n|+n|god+n|mother v|come-3S adv|about .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|5|COMP 11|10|JCT 12|5|PUNCT
+*PAR:	but anyway she appears and does her wand thing [* s] and makes the
+	animals into people and makes her a dress .
+%mor:	conj|but co|anyway pro:sub|she v|appear-3S coord|and mod|do&3S
+	det:poss|her n|wand n|thing coord|and v|make-3S det:art|the
+	n|animal-PL prep|into n|person&PL coord|and v|make-3S pro:obj|her
+	det:art|a n|dress .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|9|AUX 7|9|DET 8|9|MOD
+	9|5|COORD 10|4|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|11|JCT 15|14|POBJ
+	16|4|CONJ 17|16|COORD 18|17|OBJ2 19|20|DET 20|17|OBJ 21|4|PUNCT
+*PAR:	and then she gets to go to the dance .
+%mor:	coord|and adv:tem|then pro:sub|she v|get-3S inf|to v|go prep|to
+	det:art|the n|dance .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and then she leaves her shoe .
+%mor:	coord|and adv:tem|then pro:sub|she v|leave-3S det:poss|her n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	then a guy goes around trying to find the shoe .
+%mor:	adv:tem|then det:art|a n|guy v|go-3S adv|around part|try-PRESP
+	inf|to v|find det:art|the n|shoe .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|XJCT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and then it fits Cinderella so <she gets to be> [//] she gets to live
+	with &uh whoever the dance was for .
+%mor:	coord|and adv:tem|then pro:per|it v|fit-3S n:prop|Cinderella
+	conj|so pro:sub|she v|get-3S inf|to adj|live prep|with
+	pro:rel|whoever det:art|the n|dance cop|be&PAST&13S prep|for .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|10|INF 10|8|COMP 11|10|JCT 12|15|LINK 13|14|DET 14|15|SUBJ 15|11|CPOBJ
+	16|15|JCT 17|4|PUNCT
+@End

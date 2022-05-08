@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_1_Cinderella_June-3rd-2019-2-25-42-pm video
+@Time Duration:	00:01:29
+*PAR:	&um &um &um &um .
+*PAR:	peanut+butter [//] no [/] no &um &um &um .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&t you &um mhm &um .
+%mor:	pro:per|you co|mhm=yes .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	bin [//] pen [* u] &um .
+%mor:	n|pen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut [* u] &t &ch you &um chilli [: jelly] [* phon] sandwich [* u]
+	&um &um &um .
+%mor:	n|peanut pro:per|you n|jelly n|sandwich .
+%gra:	1|4|MOD 2|3|SUBJ 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the &m .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	don't know .
+%mor:	mod|do~neg|not v|know .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+@End

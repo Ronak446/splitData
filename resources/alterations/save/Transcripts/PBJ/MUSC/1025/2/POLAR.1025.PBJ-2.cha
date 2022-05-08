@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:00:23
+@Media:	POLAR.1025.PBJ-2, video
+*PAR:	do when oo [: you] [* phon] get the bed [: bread] [* phon] and the
+	&bi [//] &uh &um &uh peanut+butteh [: peanut+butter] [* phon] .
+%mor:	mod|do conj|when pro:per|you v|get det:art|the n|bread coord|and
+	det:art|the n|+n|peanut+n|butter .
+%gra:	1|4|AUX 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|4|PUNCT
+*PAR:	and swed [: spread] [* phon] it on the bed [: bread] [* phon] .
+%mor:	coord|and v|spread&ZERO pro:per|it prep|on det:art|the n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and tosgetha [: together] [* phon] &sette [* phon] .
+%mor:	coord|and adv|together .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and swed [: spread] [* phon] it on e [: the] [* phon] bed
+	[: bread] [* phon] [/] bed [: bread] [* phon] and put it toketter
+	[: together] [* phon] .
+%mor:	coord|and v|spread&ZERO pro:per|it prep|on det:art|the n|bread
+	coord|and v|put&ZERO pro:per|it adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|2|PUNCT
+@End

@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:13
+@Media:	POLAR_1065_BW2 video
+*PAR:	&um boy kicks the ball .
+%mor:	n|boy v|kick-3S det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	goes to the window .
+%mor:	v|go-3S prep|to det:art|the n|window .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	kicks it this &uh .
+%mor:	v|kick-3S pro:per|it pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*PAR:	&is catches it .
+%mor:	v|catch-3S pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and the fourth is looking at it .
+%mor:	coord|and det:art|the n|fourth aux|be&3S part|look-PRESP prep|at
+	pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+@End

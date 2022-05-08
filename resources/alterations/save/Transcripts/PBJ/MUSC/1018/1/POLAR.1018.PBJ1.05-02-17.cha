@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1018_1_PBJ_Y2017_M05_D02_H14_M20_S51 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'll take two slices bread .
+%mor:	pro:sub|I~mod|will v|take det:num|two n|slice-PL n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	I will take the &j &j the [/] jelly jelly [/] on one of the slice .
+%mor:	pro:sub|I mod|will v|take det:art|the n|jelly prep|on det:num|one
+	prep|of det:art|the n|slice .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and the the [/] &pe &pe paper [* u] on the other .
+%mor:	coord|and det:art|the n|paper prep|on det:art|the qn|other .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	and put them together .
+%mor:	coord|and v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+@End

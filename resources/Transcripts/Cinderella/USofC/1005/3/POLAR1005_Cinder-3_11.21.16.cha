@@ -1,0 +1,353 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:07:21
+@Media:	1005_3_Cindrella_Y2016_M11_D21_H10_M27_S58 video
+*PAR:	&um &um hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh drinderella [* phon] .
+%mor:	?|drinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	this one .
+%mor:	pro:dem|this pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	blus [* phon] two times and two .
+%mor:	?|blus det:num|two n|time-PL coord|and det:num|two .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and tinderella [* phon] bless her .
+%mor:	coord|and ?|tinderella v|bless pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	doing it in there .
+%mor:	part|do-PRESP pro:per|it prep|in adv|there .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	and then they rella [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|they ?|rella .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&um they are &um that they're .
+%mor:	pro:sub|they cop|be&PRES pro:rel|that pro:sub|they~aux|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*PAR:	oh man chinderella [* phon] why'd you go xxx [* phon] .
+%mor:	co|oh n|man ?|chinderella adv:int|why~mod|genmod pro:per|you v|go .
+%gra:	1|2|COM 2|7|SUBJ 3|7|COM 4|7|LINK 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	and doe [* phon] they're bad bad [/] bad [/] .
+%mor:	coord|and n|doe pro:sub|they~aux|be&PRES adj|bad .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	it's right in .
+%mor:	pro:per|it~cop|be&3S n|right adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|2|PUNCT
+*PAR:	they in there in I .
+%mor:	pro:sub|they adv|in adv|there adv|in pro:sub|I .
+%gra:	1|3|SUBJ 2|3|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	dinderella [* phon] xxx [* phon] .
+%mor:	?|dinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	happy and sad .
+%mor:	adj|happy coord|and adj|sad .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and you gotta go .
+%mor:	coord|and pro:per|you mod:aux|gotta v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the they're they're [/] they're [/] gonna [: going to] go .
+%mor:	det:art|the pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|go .
+%gra:	1|4|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*PAR:	where be gonna [: going to] go this church .
+%mor:	adv:int|where aux|be part|go-PRESP inf|to v|go pro:dem|this
+	n|church .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	and two times .
+%mor:	coord|and det:num|two n|time-PL .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	where xxx [* phon] Cinderella and and [/] happy baby [* u] .
+%mor:	adv:int|where n:prop|Cinderella coord|and adj|happy n|baby .
+%gra:	1|2|LINK 2|0|ROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	&um you got to go and xxx [* phon] .
+%mor:	pro:per|you v|get&PAST inf|to v|go coord|and .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	we're gonna sleep [* phon] sleeping [* phon] sleeping [/] [* phon] .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|sleep
+	n:gerund|sleep-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR:	and to ter [* phon] xxx [* phon] and write [* u] .
+%mor:	coord|and prep|to ?|ter coord|and v|write .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and bye .
+%mor:	coord|and co|bye .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&um .
+*PAR:	dress .
+%mor:	n|dress .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	<chank [* phon] you> [//] thank you xxx [* phon] .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	and &um they were &um .
+%mor:	coord|and pro:sub|they cop|be&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	bread [* u] and butter [* u] and jelly [* u] .
+%mor:	n|bread coord|and n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and dey're [* phon] dey're [* phon] [/] .
+%mor:	coord|and ?|dey're .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&um they xxx [* phon] .
+%mor:	pro:sub|they .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	they're gonna [: going to] .
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP inf|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	they the letter &th it's xxx [* phon] .
+%mor:	pro:sub|they det:art|the n|letter pro:per|it~cop|be&3S .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*PAR:	their their [/] letter for me and .
+%mor:	det:poss|their n|letter prep|for pro:obj|me coord|and .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|CONJ 6|2|PUNCT
+*PAR:	&m me too ?
+%mor:	pro:obj|me post|too ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	you too ?
+%mor:	pro:per|you post|too ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	and they were .
+%mor:	coord|and pro:sub|they cop|be&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	me too ?
+%mor:	pro:obj|me post|too ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	and they were just .
+%mor:	coord|and pro:sub|they aux|be&PAST adv|just .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	yes and no .
+%mor:	co|yes coord|and co|no .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and they were doing it there .
+%mor:	coord|and pro:sub|they aux|be&PAST part|do-PRESP pro:per|it
+	adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	braise [* phon] .
+%mor:	?|braise .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and jestice [* phon] .
+%mor:	coord|and ?|jestice .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and and [/] we're gonna [: going to] blow [* u] and &th .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|blow
+	coord|and .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*PAR:	no no [/] we're xxx [* phon] .
+%mor:	co|no pro:sub|we~aux|be&PRES .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and then xxx [* phon] .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	thank you it's good .
+%mor:	v|thank pro:per|you pro:per|it~cop|be&3S adj|good .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SUBJ 4|1|COMP 5|4|PRED 6|1|PUNCT
+*PAR:	and dey [* phon] were happy .
+%mor:	coord|and ?|dey cop|be&PAST adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	they were happy and sad between .
+%mor:	pro:sub|they cop|be&PAST adj|happy coord|and adj|sad prep|between .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|6|MOD 6|4|COORD 7|2|PUNCT
+*PAR:	and and [/] brother [* s] and two times durd [* phon] jester
+	[* phon] and one .
+%mor:	coord|and n|brother coord|and det:num|two n|time-PL ?|durd n|jester
+	coord|and pro:indef|one .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|QUANT 5|3|COORD 6|5|CONJ 7|6|COORD
+	8|7|CONJ 9|8|COORD 10|1|PUNCT
+*PAR:	and be happy and sad .
+%mor:	coord|and cop|be adj|happy coord|and adj|sad .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PRED 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	<be happy and sad> [/] .
+*PAR:	my dear brother [* s] and druster [* phon] .
+%mor:	det:poss|my adj|dear n|brother coord|and ?|druster .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	you're &um &um .
+%mor:	pro:per|you~cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	where they're xxx [* phon] .
+%mor:	adv:int|where pro:sub|they~cop|be&PRES .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] is &um .
+%mor:	cop|be&3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	right there .
+%mor:	adv|right adv|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	there [/] .
+*PAR:	and they right there .
+%mor:	coord|and pro:sub|they adv|right adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	better .
+%mor:	adv|good&CP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I blother [* phon] and sister [* s] and he [* s] braise
+	[* phon] <he braise> [* phon] [/] .
+%mor:	pro:sub|I ?|blother coord|and n|sister coord|and pro:sub|he
+	?|braise .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|CONJ 6|7|SUBJ 7|5|COORD
+	8|2|PUNCT
+*PAR:	he [//] [* s] he's [* s] happy and sad .
+%mor:	pro:sub|he~cop|be&3S adj|happy coord|and adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	and me and chu [* phon] ?
+%mor:	coord|and pro:obj|me coord|and ?|chu ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	yes xxx [* phon] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	letter be and me .
+%mor:	n|letter cop|be coord|and pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and brass [* phon] .
+%mor:	coord|and n|brass .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and xxx [* phon] chew [* phon] times he [* s] went xxx [* phon] and .
+%mor:	coord|and v|chew n|time-PL pro:sub|he v|go&PAST coord|and .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	&tu turn .
+%mor:	n|turn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &um he [* s] wad [* phon] happy .
+%mor:	coord|and pro:sub|he v|wad adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and xxx [* phon] sad he [* s] sad .
+%mor:	coord|and adj|sad pro:sub|he adj|sad .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|PRED 5|1|PUNCT
+*PAR:	and we [* s] &um we [* s] [/] got to &w .
+%mor:	coord|and pro:sub|we v|get&PAST inf|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the &um .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and they were doing it .
+%mor:	coord|and pro:sub|they aux|be&PAST part|do-PRESP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &um I don't know .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	and they were &um <they were> [/] gonna [: going to] .
+%mor:	coord|and pro:sub|they aux|be&PAST part|go-PRESP inf|to .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	he's [* s] happy and xxx [* phon] .
+%mor:	pro:sub|he~cop|be&3S adj|happy coord|and .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|2|PUNCT
+*PAR:	xxx [* phon] and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horses [* s] and camels [* s] bu [* phon] that there .
+%mor:	n|horse-PL coord|and n|camel-PL ?|bu pro:rel|that adv|there .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CMOD 5|4|COMP 6|5|JCT 7|1|PUNCT
+*PAR:	and oh and he [* s] was the letter for me .
+%mor:	coord|and co|oh coord|and pro:sub|he cop|be&PAST&13S det:art|the
+	n|letter prep|for pro:obj|me .
+%gra:	1|5|LINK 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	oh and he [* s] was &um he [* s] .
+%mor:	co|oh coord|and pro:sub|he cop|be&PAST&13S pro:sub|he .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	thank you for your time brother [* s] .
+%mor:	v|thank pro:per|you prep|for det:poss|your n|time n|brother .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	and thank you bye-bye bye-bye [/] .
+%mor:	coord|and v|thank pro:per|you ?|bye-bye .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	they were gonna [: going to] go .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP inf|to v|go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	oh me oh my xxx [* phon] xxx [* phon] .
+%mor:	co|oh pro:obj|me co|oh det:poss|my .
+%gra:	1|2|COM 2|0|ROOT 3|4|COM 4|2|PRED 5|2|PUNCT
+*PAR:	he he [/] [* s] was <he [* s] was> [/] xxx [* phon] xxx [* phon] .
+%mor:	pro:sub|he cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	what is that .
+%mor:	pro:int|what cop|be&3S pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	he [* s] was and he [* s] was .
+%mor:	pro:sub|he cop|be&PAST&13S coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|5|SUBJ 5|3|COORD 6|2|PUNCT
+*PAR:	oh no I can't do it .
+%mor:	co|oh co|no pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|6|COM 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	here I <got to go> [/] <got to go> [//] get to go .
+%mor:	adv|here pro:sub|I v|get inf|to v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	and then he [* s] was in there .
+%mor:	coord|and adv:tem|then pro:sub|he cop|be&PAST&13S prep|in adv|there
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and he [* s] was &k who's that .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S pro:int|who~cop|be&3S
+	pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	&slip [//] slipper .
+%mor:	n|slipper .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and he [* s] was in there .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|in adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and he [* s] was gonna [: going to] go .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|go-PRESP inf|to v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*PAR:	were gonna [: going to] go .
+%mor:	aux|be&PAST part|go-PRESP inf|to v|go .
+%gra:	1|2|AUX 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*PAR:	and &ah .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	slipper oh man .
+%mor:	n|slipper co|oh n|man .
+%gra:	1|3|MOD 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	and they [//] they're gonna [: going to] they're &gon .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go-PRESP prep|to
+	pro:sub|they~aux|be&PRES .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|POBJ 8|4|PUNCT
+*PAR:	no no [/] no [/] no [/] no [/] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and they're and then they're they're [/] they're [/] gonna
+	[: going to] go .
+%mor:	coord|and pro:sub|they~aux|be&PRES coord|and adv:tem|then
+	pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|8|JCT 6|8|SUBJ 7|8|AUX 8|4|COORD
+	9|10|INF 10|8|XCOMP 11|3|PUNCT
+*PAR:	duh [* phon] un [* phon] slipper .
+%mor:	co|duh ?|un n|slipper .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	me too !
+%mor:	pro:obj|me post|too !
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	and he [* s] what's gonna [: going to] xxx [* phon] .
+%mor:	coord|and pro:sub|he pro:int|what~aux|be&3S part|go-PRESP prep|to .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	blipper [* phon] .
+%mor:	?|blipper .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and he [* s] wants slipper .
+%mor:	coord|and pro:sub|he v|want-3S n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he [* s] .
+%mor:	coord|and pro:sub|he .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	ga [* phon] ga [* phon] goodnight .
+%mor:	?|ga ?|ga ?|goodnight .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	you're gonna [: going to] go xxx [* phon] .
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	bye-bye bye-bye [/] thank you .
+%mor:	?|bye-bye v|thank pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

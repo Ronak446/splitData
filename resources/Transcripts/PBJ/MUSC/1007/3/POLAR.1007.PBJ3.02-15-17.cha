@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	1007_3_PBJ_Y2017_M01_D18_H13_M38_S27 video
+*PAR:	sandwich .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut+butter &pe <peanut+butter> [/] .
+%mor:	n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and peanut+butter .
+%mor:	coord|and n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and together .
+%mor:	coord|and adv|together .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and I eat .
+%mor:	coord|and pro:sub|I v|eat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	pictures [* u] pictures [* u] [/] .
+%mor:	n|picture-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and eat .
+%mor:	coord|and v|eat .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and bread bread [/] bread [/] .
+%mor:	coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and pictures [* u] .
+%mor:	coord|and n|picture-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	I don't say the right thing honey I'm sorry .
+%mor:	pro:sub|I mod|do~neg|not v|say det:art|the adj|right n|thing
+	n|honey pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|OBJ
+	9|10|SUBJ 10|8|CMOD 11|10|PRED 12|4|PUNCT
+@End

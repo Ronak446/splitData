@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.Cind-4 video
+@Time Duration:	00:01:02
+*PAR:	okay Cinderella story .
+%mor:	co|okay n:prop|Cinderella n|story .
+*PAR:	<I don't know> [//] no &um Cinderella [//] there is &uh &uh two [/]
+	two women and an older woman .
+%mor:	co|no adv|there cop|be&3S det:num|two n|woman&PL coord|and
+	det:art|a adj|old-CP n|woman .
+*PAR:	and they were <very grumpy> [//] very mean to Cinderella .
+%mor:	coord|and pro:sub|they cop|be&PAST adv|very adj|mean prep|to
+	n:prop|Cinderella .
+*PAR:	and then &uh she decide to play with the [/] the mice and all that
+	stuff .
+%mor:	coord|and adv:tem|then pro:sub|she v|decide inf|to v|play prep|with
+	det:art|the n|mouse&PL coord|and qn|all pro:dem|that v|stuff .
+*PAR:	and then she [//] &um <oh god> [//] &uh <I don't know> [/] &um &uh
+	<I don't know> [/] I don't know .
+%mor:	coord|and adv:tem|then pro:sub|I mod|do~neg|not v|know .
+*PAR:	I really don't know .
+%mor:	pro:sub|I adv|real&dadj-LY mod|do~neg|not v|know .
+*PAR:	I forget okay .
+%mor:	pro:sub|I v|forget adj|okay .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+@End

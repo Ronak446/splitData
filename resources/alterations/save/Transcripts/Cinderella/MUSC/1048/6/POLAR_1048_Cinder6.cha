@@ -1,0 +1,172 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:10:03
+@Media:	POLAR_1048_Cinder6 video
+*PAR:	there was this little girl named Cinderella <who was no I don't
+	wanna &st> [//] .
+%mor:	pro:exist|there cop|be&PAST&13S pro:dem|this adj|little n|girl
+	v|name-PAST n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|PRED 7|6|OBJ 8|2|PUNCT
+*PAR:	there was this Cinderella with her &s &s &s &s <step and her> [//]
+	&si &s &s &s stepstisters [* phon] .
+%mor:	pro:exist|there cop|be&PAST&13S pro:dem|this n:prop|Cinderella
+	prep|with det:poss|her ?|stepstisters .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+*PAR:	and her stepsisters were so mean fo [* phon] her .
+%mor:	coord|and det:poss|her step#n|sister-PL cop|be&PAST adv|so adj|mean
+	?|fo pro:obj|her .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|JCT 8|7|OBJ
+	9|4|PUNCT
+*PAR:	<she always made her> [//] so she always made her well do laundry .
+%mor:	co|so pro:sub|she adv|always v|make&PAST det:poss|her n|well v|do
+	n|laundry .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|MOD 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*PAR:	and &s she was basically a I'm trying think of thing below maid &s
+	<stuck in the> [//] &s stuck in the basement [* s] .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|basic&dadj-AL-LY
+	det:art|a pro:sub|I~aux|be&1S part|try-PRESP v|think prep|of n|thing
+	prep|below n|maid v|stick&PAST prep|in det:art|the n|basement .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|PRED
+	9|8|COMP 10|9|JCT 11|10|POBJ 12|9|JCT 13|12|POBJ 14|9|XJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*PAR:	<but she was> [//] <but she [/] she always had> [//] but &cern
+	Cinderella made friends with the &a &a animals .
+%mor:	conj|but n:prop|Cinderella v|make&PAST n|friend-PL prep|with
+	det:art|the n|animal-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she always looked &an out the window .
+%mor:	coord|and pro:sub|she adv|always cop|look-PAST prep|out det:art|the
+	n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	<and [/] and she always looked and sawr [* phon]> [//] and she
+	always looked towards the castles .
+%mor:	coord|and pro:sub|she adv|always cop|look-PAST prep|towards
+	det:art|the n|castle-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	well one day <the queen [* u]> [//] or the [/] the stepmother had a
+	invitation <to the> [//] &in o [* phon] the castle for a dance or
+	<whatever they> [//] &can what they call it ball .
+%mor:	co|well det:num|one n|day coord|or det:art|the step#n|mother
+	v|have&PAST det:art|a n|invitation ?|o det:art|the n|castle prep|for
+	det:art|a n|dance coord|or pro:int|what pro:sub|they v|call
+	pro:per|it n|ball .
+%gra:	1|3|COM 2|3|QUANT 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|XMOD 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|12|CONJ 17|19|LINK 18|19|SUBJ 19|16|COORD 20|21|SUBJ 21|19|COMP
+	22|7|PUNCT
+*PAR:	and so Cinderella decided she wanted to go .
+%mor:	coord|and co|so n:prop|Cinderella v|decide-PAST pro:sub|she
+	v|want-PAST inf|to v|go .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|COMP
+	9|4|PUNCT
+*PAR:	and she decided to make [/] make a gown .
+%mor:	coord|and pro:sub|she v|decide-PAST inf|to v|make det:art|a n|gown
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	but the stepsisters rup [* phon] the dress up and laughed at her .
+%mor:	conj|but det:art|the step#n|sister-PL ?|rup det:art|the v|dress
+	adv|up coord|and v|laugh-PAST prep|at pro:obj|her .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|ENUM 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	well <she went so when she> [//] so she turned to her bairy [* phon]
+	godmother .
+%mor:	co|well conj|so pro:sub|she v|turn-PAST prep|to det:poss|her
+	?|bairy n|+n|god+n|mother .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and she asked her to a [/] <a wish> [/] <a wish that she> [//] <a
+	wish that she could> [//] <that she would &k grant her the wishga
+	[* phon] &wa she> [//] wish that she granted her the [/] the to
+	allow <to go the> [//] to go to the ball .
+%mor:	coord|and pro:sub|she v|ask-PAST pro:obj|her prep|to n|wish
+	pro:rel|that pro:sub|she v|grant-PAST pro:obj|her det:art|the inf|to
+	v|allow inf|to v|go prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|13|DET 12|13|INF 13|9|COMP 14|15|INF 15|13|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*PAR:	so she did .
+%mor:	co|so pro:sub|she v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	so she give the ball [* u] to the dress .
+%mor:	co|so pro:sub|she v|give det:art|the n|ball prep|to det:art|the
+	n|dress .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	<the [/] the &mi messs [* phon] to the> [//] <she turned the masst
+	[* phon] to> [//] she turned the mice to the horses turn the pumpkin
+	to the carriage and turn the horse to the stallion .
+%mor:	pro:sub|she v|turn-PAST det:art|the n|mouse&PL prep|to det:art|the
+	n|horse-PL n|turn det:art|the n|pumpkin prep|to det:art|the
+	n|carriage coord|and v|turn det:art|the n|horse prep|to det:art|the
+	n|stallion .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|DET 10|4|ENUM 11|10|NJCT 12|13|DET 13|11|POBJ 14|2|CONJ 15|14|COORD
+	16|17|DET 17|15|OBJ 18|15|JCT 19|20|DET 20|18|POBJ 21|2|PUNCT
+*PAR:	but the only stipulation was that she be back by midnight because at
+	&min midnight &s everything &tur turn back .
+%mor:	conj|but det:art|the qn|only n|stipulation cop|be&PAST&13S
+	pro:rel|that pro:sub|she cop|be adv|back prep|by mid#n|night&dn
+	conj|because prep|at mid#n|night&dn pro:indef|everything n|turn
+	adv|back .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|PRED
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|16|LINK 13|16|JCT 14|13|POBJ 15|16|SUBJ
+	16|8|CJCT 17|16|NJCT 18|5|PUNCT
+*PAR:	and so Cinderella promised it .
+%mor:	coord|and co|so n:prop|Cinderella v|promise-PAST pro:per|it .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	so she did everything .
+%mor:	co|so pro:sub|she v|do&PAST pro:indef|everything .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	she had a blast .
+%mor:	pro:sub|she v|have&PAST det:art|a n|blast .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	so &uh <rushing so [/] so &whe when she was running out <so when she
+	were> [/] so when she weres [* phon] <running out the> [/] running
+	out the was so> [//] &rus &rus rushing out at midnight <she left
+	her &cin was at rush she was it she &wa she was> [//] &s she left
+	her slippers .
+%mor:	co|so part|rush-PRESP adv|out prep|at mid#n|night&dn pro:sub|she
+	adj|left det:poss|her n|slipper-PL .
+%gra:	1|2|COM 2|9|XJCT 3|2|JCT 4|2|JCT 5|4|POBJ 6|9|SUBJ 7|9|MOD 8|9|MOD
+	9|0|INCROOT 10|9|PUNCT
+*PAR:	got back at [/] <at the> [//] &ho <at the home> [//] at her house .
+%mor:	v|get&PAST adv|back prep|at det:poss|her n|house .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*PAR:	everything &re returned to as usual .
+%mor:	pro:indef|everything v|return-PAST prep|to adv|as adv|usual .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|3|POBJ 6|2|PUNCT
+*PAR:	<well at the> [//] well the chief or the king whatever he was [//]
+	&s says he is found the slippers .
+%mor:	co|well det:art|the n|chief coord|or det:art|the n|king
+	pro:int|whatever pro:sub|he v|say-3S pro:sub|he aux|be&3S
+	part|find&PASTP det:art|the n|slipper-PL .
+%gra:	1|3|COM 2|3|DET 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|9|LINK 8|9|SUBJ
+	9|0|ROOT 10|12|SUBJ 11|12|AUX 12|9|COMP 13|14|DET 14|12|OBJ 15|9|PUNCT
+*PAR:	wants to know what it is .
+%mor:	v|want-3S inf|to v|know pro:int|what pro:per|it cop|be&3S .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|1|PUNCT
+*PAR:	so he goins [* phon] to every [//] &s everybody there .
+%mor:	co|so pro:sub|he ?|goins prep|to pro:indef|everybody adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|3|PUNCT
+*PAR:	they [/] they lock &sar Cinderella &l up .
+%mor:	pro:sub|they v|lock n:prop|Cinderella adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	<she get she> [//] &esc she escapes .
+%mor:	pro:sub|she v|escape-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	<finds it he fits [* u] her> [//] he finds Cinderella so &s finds
+	[//] &s Cinderella finds that [/] that the slippers &fi fits her .
+%mor:	pro:sub|he v|find-3S n:prop|Cinderella adv|so n:prop|Cinderella
+	v|find-3S comp|that det:art|the n|slipper-PL v|fit-3S pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|SUBJ 6|2|CJCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|10|OBJ 12|2|PUNCT
+*PAR:	and she marries the &fr &p prince and happily eftert [* phon] after .
+%mor:	coord|and pro:sub|she v|marry-3S det:art|the n|prince coord|and
+	adv|happy&dadj-LY ?|eftert adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|8|JCT 8|6|COORD
+	9|8|JCT 10|3|PUNCT
+@End

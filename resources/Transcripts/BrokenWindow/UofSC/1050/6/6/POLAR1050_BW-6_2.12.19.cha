@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1050_6_BrokenWindow_February-12th-2019-12-00-59-pm video
+*PAR:	this is &j joot [* phon] .
+%mor:	pro:dem|this cop|be&3S ?|joot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	says soe [* phon] .
+%mor:	v|say-3S ?|soe .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	says ote [* phon] .
+%mor:	v|say-3S ?|ote .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and sayes [* phon] .
+%mor:	coord|and ?|sayes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	sayes [* phon] .
+*PAR:	&joo joot [* phon] .
+*PAR:	eses [* phon] <oh jote> [/] oh jote [* phon] sayes [* phon] .
+%mor:	?|eses co|oh ?|jote ?|sayes .
+%gra:	1|4|LINK 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	sajote [* phon] eses [* phon] .
+@End

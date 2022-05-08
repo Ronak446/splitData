@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:31
+@Media:	1012_BW3 video
+*PAR:	kick .
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	broken issa [* phon] base [* phon] .
+%mor:	part|break&PASTP ?|issa n|base .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	issa [* phon] vase broken .
+%mor:	?|issa n|vase part|break&PASTP .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+*PAR:	kick .
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	iss [* phon] issa [* phon] look .
+%mor:	cop|be&3S-3S ?|issa v|look .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	that's it alright issa [* phon] .
+%mor:	pro:dem|that~cop|be&3S pro:per|it co|alright ?|issa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|COM 5|3|ENUM 6|2|PUNCT
+@End

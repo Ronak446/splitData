@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.BW-3 video
+@Time Duration:	00:00:43
+*PAR:	okay here's a little boy .
+%mor:	co|okay pro:exist|here~cop|be&3S det:art|a adj|little n|boy .
+*PAR:	he's kicking a ball .
+%mor:	pro:sub|he~aux|be&3S part|kick-PRESP det:art|a n|ball .
+*PAR:	and the ball hits the window .
+%mor:	coord|and det:art|the n|ball v|hit-3S det:art|the n|window .
+*PAR:	<the &ihh it> [//] and a guy's sitting in the window &ih when it
+	breaks the window .
+%mor:	coord|and det:art|a n|guy~aux|be&3S part|sit-PRESP prep|in
+	det:art|the n|window conj|when pro:per|it v|break-3S det:art|the
+	n|window .
+*PAR:	and it hits the lamp .
+%mor:	coord|and pro:per|it v|hit-3S det:art|the n|lamp .
+*PAR:	<and it> [/] <and it> [/] and it <rolls> [//] &uh <hits the> [/] &p
+	hits the lamp .
+%mor:	coord|and pro:per|it v|hit-3S det:art|the n|lamp .
+*PAR:	and I can't tell what he's there doing there .
+%mor:	coord|and pro:sub|I mod|can~neg|not v|tell pro:int|what
+	pro:sub|he~aux|be&3S adv|there part|do-PRESP adv|there .
+*PAR:	I don't know what he's doing there .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP adv|there .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*PAR:	well he [//] &uh maybe he's just looking at the window and holding
+	the ball .
+%mor:	adv|well adv|maybe pro:sub|he~aux|be&3S adv|just part|look-PRESP
+	prep|at det:art|the n|window coord|and part|hold-PRESP det:art|the
+	n|ball .
+*PAR:	I guess .
+%mor:	pro:sub|I v|guess .
+@End

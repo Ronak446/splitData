@@ -1,0 +1,87 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:32
+@Media:	POLAR_1045_Cinder6 video
+*PAR:	so it's her &um I think it's just a &s stepmom .
+%mor:	co|so pro:per|it~cop|be&3S pro:obj|her pro:sub|I v|think
+	pro:per|it~aux|be&3S adj|just det:art|a step#n|mom .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|SUBJ 5|6|SUBJ 6|3|CJCT 7|11|SUBJ 8|11|AUX
+	9|11|MOD 10|11|DET 11|6|OBJ 12|3|PUNCT
+*PAR:	and it's her and Cinderella and a man and a daughter .
+%mor:	coord|and pro:per|it~cop|be&3S pro:obj|her coord|and
+	n:prop|Cinderella coord|and det:art|a n|man coord|and det:art|a
+	n|daughter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|CONJ 8|9|DET
+	9|7|COORD 10|9|CONJ 11|12|DET 12|10|COORD 13|3|PUNCT
+*PAR:	<she's [* s] nice> [//] &um or he's nice and the lady's mean .
+%mor:	coord|or pro:sub|he~cop|be&3S adj|nice coord|and det:art|the
+	n|lady~aux|be&3S adj|mean .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|7|DET 7|8|SUBJ 8|5|COORD
+	9|8|PRED 10|3|PUNCT
+*PAR:	so they're getting a ticket to the ball .
+%mor:	co|so pro:sub|they~aux|be&PRES part|get-PRESP det:art|a n|ticket
+	prep|to det:art|the n|ball .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	&um they figure that out .
+%mor:	pro:sub|they v|figure pro:dem|that adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	&um she thinks her sisters are gonna get that .
+%mor:	pro:sub|she v|think-3S det:poss|her n|sister-PL aux|be&PRES
+	mod:aux|gonna v|get pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|AUX 7|2|COMP 8|7|OBJ
+	9|2|PUNCT
+*PAR:	but it's actually cinderel [* phon] [//] I can't say that word
+	&cinter &cinla &cin &cinter cinderlater [* phon] [//] she gets the
+	ticket .
+%mor:	conj|but pro:per|it~aux|be&3S adv|actual&dadj-LY pro:sub|I
+	mod|can~neg|not v|say comp|that n|word pro:sub|she v|get-3S
+	det:art|the n|ticket .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|PRED
+	9|12|LINK 10|12|JCT 11|12|SUBJ 12|8|COMP 13|14|DET 14|12|OBJ 15|3|PUNCT
+*PAR:	&um she's doing books .
+%mor:	pro:sub|she~aux|be&3S part|do-PRESP n|book-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	she's trying to &um get a dress .
+%mor:	pro:sub|she~aux|be&3S part|try-PRESP inf|to v|get det:art|a n|dress
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	&um the animals are helping with her the mouse .
+%mor:	det:art|the n|animal-PL aux|be&PRES part|help-PRESP prep|with
+	pro:obj|her det:art|the n|mouse .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|DET 8|4|OBJ
+	9|4|PUNCT
+*PAR:	&um I don't know why but <the sister or the &um not the sister but>
+	[//] a &um &um stepsister takes her <neckle [* phon] off> [//] or
+	&um necklex [* phon] off .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|why conj|but det:art|a
+	step#n|sister v|take-3S pro:obj|her coord|or ?|necklex adv|off .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|CJCT 10|9|OBJ 11|9|CONJ 12|11|COORD 13|12|JCT 14|4|PUNCT
+*PAR:	&um then the &um I can't say her either is the [/] &um &g <gother
+	[* phon]> [//] &um lady [//] the really nice lady &um god [* s]
+	something or other .
+%mor:	adv:tem|then det:art|the pro:sub|I mod|can~neg|not v|say
+	pro:obj|her adv|either cop|be&3S det:art|the adv|real&dadj-LY
+	adj|nice n|lady n|god pro:indef|something coord|or qn|other .
+%gra:	1|6|JCT 2|6|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|9|JCT
+	9|6|COMP 10|14|DET 11|12|JCT 12|14|MOD 13|14|MOD 14|9|PRED 15|14|XMOD
+	16|15|CONJ 17|16|COORD 18|6|PUNCT
+*PAR:	and &um she helps her out .
+%mor:	coord|and pro:sub|she v|help-3S pro:obj|her adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	she gives her the carriage .
+%mor:	pro:sub|she v|give-3S pro:obj|her det:art|the n|carriage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*PAR:	and she says you need to be back by midnight .
+%mor:	coord|and pro:sub|she v|say-3S pro:per|you v|need inf|to cop|be
+	adv|back prep|by mid#n|night&dn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|3|PUNCT
+*PAR:	so she goes to the ball .
+%mor:	co|so pro:sub|she v|go-3S prep|to det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+@End

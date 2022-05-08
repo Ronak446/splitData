@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	POLAR_1048_BW4 video
+*PAR:	this boy who was gicking [* phon] there <he was &h> [//] he was
+	kicking his soccer ball .
+%mor:	pro:dem|this n|boy pro:rel|who cop|be&PAST&13S ?|gicking adv|there
+	pro:sub|he aux|be&PAST&13S part|kick-PRESP det:poss|his n|soccer
+	n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|9|JCT 6|5|JCT 7|9|SUBJ 8|9|AUX
+	9|4|PRED 10|12|MOD 11|12|MOD 12|9|OBJ 13|2|PUNCT
+*PAR:	but it [* s] <akidentally [* phon]> [//] &acci atsidentally [* phon]
+	kick it through the window where the other man was sitting there .
+%mor:	conj|but pro:per|it ?|atsidentally v|kick pro:per|it prep|through
+	det:art|the n|window pro:rel|where det:art|the qn|other n|man
+	aux|be&PAST&13S part|sit-PRESP adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|14|LINK 10|12|DET 11|12|QUANT 12|14|SUBJ 13|14|AUX 14|8|CMOD 15|14|JCT
+	16|4|PUNCT
+*PAR:	and he got very [/] very mad .
+%mor:	coord|and pro:sub|he v|get&PAST adv|very adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+@End

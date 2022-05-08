@@ -1,0 +1,175 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:33
+@Media:	1023_3_Cinderella_August-10th-2017-11-00-19-am video
+
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	this is about our the .
+%mor:	pro:dem|this cop|be&3S prep|about det:poss|our det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	start with it .
+%mor:	v|start prep|with pro:per|it .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	<talk with> [//] talking talking [/] with .
+%mor:	part|talk-PRESP prep|with .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	our young lady <our young lady> [/] was was [/] talking to a xxx
+	[* phon] xxx [* phon] xxx [* phon] .
+%mor:	det:poss|our adj|young n|lady aux|be&PAST&13S part|talk-PRESP
+	prep|to det:art|a .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	talking to mer [* phon] <Amber [* s] no not Amber [* s]>
+	[//] Maria [* s] .
+%mor:	part|talk-PRESP prep|to ?|mer n:prop|Maria .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|APP 5|1|PUNCT
+*PAR:	talking with .
+%mor:	part|talk-PRESP prep|with .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	talking to her with a going to say about the other .
+%mor:	part|talk-PRESP prep|to pro:obj|her prep|with det:art|a
+	part|go-PRESP inf|to v|say prep|about det:art|the qn|other .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*PAR:	she was talking to the ladies .
+%mor:	pro:sub|she aux|be&PAST&13S part|talk-PRESP prep|to det:art|the
+	n|lady-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &th the started with the other .
+%mor:	coord|and det:art|the part|start-PASTP prep|with det:art|the
+	qn|other .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	the &f .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<mother and &uh father [* s]> [//] no the mother .
+%mor:	qn|no det:art|the n|mother .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	women were were [/] being ugly .
+%mor:	n|woman&PL aux|be&PAST part|be-PRESP adj|ugly .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and when they talk talk [/] to her .
+%mor:	coord|and conj|when pro:sub|they v|talk prep|to pro:obj|her .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	they were trying say they were not being good .
+%mor:	pro:sub|they aux|be&PAST part|try-PRESP v|say pro:sub|they
+	aux|be&PAST neg|not part|be-PRESP adj|good .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|8|PRED 10|3|PUNCT
+*PAR:	and they didn't like the other lady .
+%mor:	coord|and pro:sub|they mod|do&PAST~neg|not v|like det:art|the
+	qn|other n|lady .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|5|PUNCT
+*PAR:	and so they went ahead .
+%mor:	coord|and co|so pro:sub|they v|go&PAST adv|ahead .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	she was going to started talking to the other [/] the other
+	[/] <keeple [* phon] keeple [* phon] there keeple [* phon]> [//] the
+	other people .
+%mor:	pro:sub|she aux|be&PAST&13S part|go-PRESP prep|to part|start-PASTP
+	part|talk-PRESP prep|to det:art|the det:art|the det:art|the qn|other
+	n|person&PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|XJCT 7|6|JCT 8|12|DET
+	9|12|DET 10|12|DET 11|12|QUANT 12|7|POBJ 13|3|PUNCT
+*PAR:	<the ladies> [//] no the couple .
+%mor:	qn|no det:art|the n|couple .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the man no the .
+%mor:	det:art|the n|man qn|no det:art|the .
+%gra:	1|2|DET 2|0|INCROOT 3|4|QUANT 4|5|DET 5|2|PUNCT
+*PAR:	young and man .
+%mor:	adj|young coord|and n|man .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	they were going to try to walk .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP inf|to v|try prep|to n|walk
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	go to go together .
+%mor:	v|go inf|to v|go adv|together .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|1|PUNCT
+*PAR:	and she the young lady decided to go back with her .
+%mor:	coord|and pro:sub|she det:art|the adj|young n|lady v|decide-PAST
+	inf|to v|go adv|back prep|with pro:obj|her .
+%gra:	1|6|LINK 2|6|SUBJ 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|6|PUNCT
+*PAR:	little boys [* s] .
+%mor:	adj|little n|boy-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	the man .
+%mor:	det:art|the n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	no they went to go <to go> [/] .
+%mor:	co|no pro:sub|they v|go&PAST inf|to v|go .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	she couldn't go to sleep [* u] with them .
+%mor:	pro:sub|she mod|could~neg|not v|go prep|to n|sleep prep|with
+	pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	the the [/] &m the other father [* s] .
+%mor:	det:art|the det:art|the qn|other n|father .
+%gra:	1|4|DET 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	the the [/] women no the the [/] .
+%mor:	det:art|the n|woman&PL qn|no det:art|the .
+%gra:	1|2|DET 2|0|INCROOT 3|4|QUANT 4|5|DET 5|2|PUNCT
+*PAR:	she couldn't father the <father the> [/] no the &m .
+%mor:	pro:sub|she mod|could~neg|not n|father det:art|the qn|no
+	det:art|the .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|7|QUANT 7|8|DET 8|4|PUNCT
+*PAR:	starts with a her going to go to &s going to talk to the other xxx
+	[* phon] .
+%mor:	v|start-3S prep|with det:art|a pro:obj|her part|go-PRESP inf|to
+	v|go prep|to n:gerund|go-PRESP prep|to n|talk prep|to det:art|the
+	qn|other .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|XJCT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+*PAR:	I'm just really confusing .
+%mor:	pro:sub|I~aux|be&1S adv|just adv|real&dadj-LY part|confuse-PRESP .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	so I know that .
+%mor:	co|so pro:sub|I v|know pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I'm just having trouble sorry saying the right words .
+%mor:	pro:sub|I~aux|be&1S adv|just part|have-PRESP n|trouble adj|sorry
+	part|say-PRESP det:art|the adj|right n|word-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|POSTMOD 7|6|XJCT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|4|PUNCT
+*PAR:	&uh it's like I know exactly how to do it and what it is .
+%mor:	pro:per|it~cop|be&3S conj|like pro:sub|I v|know adv|exact&dadj-LY
+	adv:int|how inf|to v|do pro:per|it coord|and pro:int|what pro:per|it
+	cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|5|COMP 8|9|INF
+	9|7|XCOMP 10|9|OBJ 11|9|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD 15|2|PUNCT
+*PAR:	but I just can't make my conference [* u] trying to say right things .
+%mor:	conj|but pro:sub|I adv|just mod|can~neg|not v|make det:poss|my
+	n|conference part|try-PRESP inf|to v|say n|right n|thing-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|XJCT 10|11|INF 11|9|XCOMP 12|13|MOD 13|11|OBJ 14|6|PUNCT
+*PAR:	&k &k okay let me try again .
+%mor:	co|okay v|let&ZERO pro:obj|me v|try adv|again .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*PAR:	okay okay [/] okay [/] .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	alirght the conference [* u] .
+%mor:	?|alirght det:art|the n|conference .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	she went to bathe [* s] go to bed [* s] no .
+%mor:	pro:sub|she v|go&PAST inf|to v|bathe v|go prep|to n|bed co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|5|JCT 7|6|POBJ 8|5|COM
+	9|2|PUNCT
+*PAR:	okay I'm not I'm gonna quit now .
+%mor:	co|okay pro:sub|I~cop|be&1S neg|not pro:sub|I~aux|be&1S
+	mod:aux|gonna v|quit&ZERO adv|now .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|8|SUBJ 6|8|AUX 7|8|AUX 8|3|PRED
+	9|8|JCT 10|3|PUNCT
+*PAR:	not doing that right .
+%mor:	neg|not part|do-PRESP pro:dem|that n|right .
+%gra:	1|2|NEG 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

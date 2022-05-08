@@ -1,0 +1,130 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:18
+@Media:	1059_Cinderella4 video
+
+*PAR:	okay the [//] Cinderella's father took her to meet her aunt [: stepmother] [* s] to and the &unc the [/] the [/] the cousins [: stepsisters] [* s] that she was supposed to stay with .
+%mor:	co|okay adj|Cinderella&dn-POSS n|father v|take&PAST pro:obj|her
+	inf|to v|meet det:poss|her step#n|mother prep|to coord|and
+	det:art|the det:art|the step#n|sister-PL pro:rel|that pro:sub|she
+	aux|be&PAST&13S part|suppose-PASTP inf|to cop|stay prep|with .
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|9|MOD
+	9|7|OBJ 10|7|JCT 11|10|CONJ 12|14|DET 13|14|DET 14|11|COORD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CMOD 19|20|INF 20|18|COMP 21|20|JCT 22|4|PUNCT
+*PAR:	when she went there they made her the [/] the slave .
+%mor:	conj|when pro:sub|she v|go&PAST adv|there pro:sub|they v|make&PAST
+	pro:obj|her det:art|the n|slave .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|6|PUNCT
+*PAR:	&uh she took care of everything .
+%mor:	pro:sub|she v|take&PAST n|care prep|of pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*PAR:	the animals &f took care of Cinderella .
+%mor:	det:art|the n|animal-PL v|take&PAST n|care prep|of
+	n:prop|Cinderella .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and Cinderella was happy with the animals .
+%mor:	coord|and n:prop|Cinderella cop|be&PAST&13S adj|happy prep|with
+	det:art|the n|animal-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	the animals took her .
+%mor:	det:art|the n|animal-PL v|take&PAST pro:obj|her .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and then <there was> [//] she looked out the [/] the window .
+%mor:	coord|and adv:tem|then pro:sub|she cop|look-PAST prep|out
+	det:art|the n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and there was a castle .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and then the man came to her aunt [: stepmother] [* s] and wanted her to &uh invite them to the castle .
+%mor:	coord|and adv:tem|then det:art|the n|man v|come&PAST prep|to
+	det:poss|her step#n|mother coord|and v|want-PAST pro:obj|her inf|to
+	v|invite pro:obj|them prep|to det:art|the n|castle .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|13|INF 13|10|COMP 14|13|OBJ 15|13|JCT
+	16|17|DET 17|15|POBJ 18|5|PUNCT
+*PAR:	and cinda [: Cinderalla] [* phon] had a little dress she was gonna wear .
+%mor:	coord|and n:prop|Cinderalla v|have&PAST det:art|a adj|little
+	n|dress pro:sub|she aux|be&PAST&13S mod:aux|gonna v|wear .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|6|CMOD 11|3|PUNCT
+*PAR:	and this [//] the cousins [: stepsisters] [* s] got mad at her and ripped it and took it away from her .
+%mor:	coord|and det:art|the step#n|sister-PL v|get&PAST adj|mad prep|at
+	pro:obj|her coord|and v|rip-PAST pro:per|it coord|and v|take&PAST
+	pro:per|it adv|away prep|from pro:obj|her .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ 11|4|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|15|POBJ 17|4|PUNCT
+*PAR:	and [/] and they got ready for the [/] the [/] &dre the [/] the dance .
+%mor:	coord|and pro:sub|they v|get&PAST adj|ready prep|for det:art|the
+	n|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she was just sitting there all by herself .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|just part|sit-PRESP
+	adv|there adv|all prep|by pro:refl|herself .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	and she was sad .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|sad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and [/] and &um she felt like she should go .
+%mor:	coord|and pro:sub|she v|feel&PAST conj|like pro:sub|she mod|should
+	v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|3|PUNCT
+*PAR:	and the fairy godmother came to her and wanted her to go .
+%mor:	coord|and det:art|the n|fairy n|+n|god+n|mother v|come&PAST prep|to
+	pro:obj|her coord|and v|want-PAST pro:obj|her inf|to v|go .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|9|OBJ 11|12|INF 12|9|COMP 13|5|PUNCT
+*PAR:	and [/] &uh and she [//] &um they <got her to> [//] &um got her dressed up and put her in the [/] &c &um &ca the little &um pumpkin cart [: carriage] [* s] .
+%mor:	coord|and pro:sub|they v|get&PAST det:poss|her part|dress-PASTP
+	adv|up coord|and v|put&ZERO pro:obj|her prep|in det:art|the
+	adj|little n|pumpkin n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|14|DET 12|14|MOD 13|14|MOD 14|10|POBJ 15|3|PUNCT
+*PAR:	and she took off to the [/] the dance .
+%mor:	coord|and pro:sub|she v|take&PAST adv|off prep|to det:art|the
+	n|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she was dancing with the prince .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|dance-PRESP prep|with
+	det:art|the n|prince .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and it came twelve o'clock .
+%mor:	coord|and pro:per|it v|come&PAST det:num|twelve n|o'clock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and she ran out .
+%mor:	coord|and pro:sub|she v|run&PAST adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and she lost one of her shoes .
+%mor:	coord|and pro:sub|she v|lose&PAST det:num|one prep|of det:poss|her
+	n|shoe-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*PAR:	and she went on to the castle [: house] [* s] .
+%mor:	coord|and pro:sub|she v|go&PAST adv|on prep|to det:art|the n|house
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she was continuing to do all that stuff she normally did .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|continue-PRESP inf|to
+	v|do qn|all pro:dem|that n|stuff pro:sub|she adv|normal&dadj-LY
+	v|do&PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|12|XJCT 5|6|INF 6|4|COMP 7|9|QUANT 8|9|DET
+	9|6|OBJ 10|12|SUBJ 11|12|JCT 12|0|ROOT 13|12|PUNCT
+*PAR:	and the castle [: prince] [* u] &c came and tried the shoe on her .
+%mor:	coord|and det:art|the n|prince v|come&PAST coord|and v|try-PAST
+	det:art|the n|shoe prep|on pro:obj|her .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|4|PUNCT
+*PAR:	and it fit .
+%mor:	coord|and pro:per|it v|fit&ZERO .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and they married and lived happily ever after .
+%mor:	coord|and pro:sub|they v|marry-PAST coord|and v|live-PAST
+	adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+@End

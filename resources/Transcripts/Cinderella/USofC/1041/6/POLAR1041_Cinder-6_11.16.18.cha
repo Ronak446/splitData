@@ -1,0 +1,182 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:03
+@Media:	1041_6_Cinderella_November-16th-2018-9-50-59-am video
+*PAR:	why the girl get there I don't know there .
+%mor:	pro:rel|why det:art|the n|girl v|get adv|there pro:sub|I
+	mod|do~neg|not v|know adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*PAR:	she goes back to that place xxx [* phon] house .
+%mor:	pro:sub|she v|go-3S adv|back prep|to det:dem|that v|place n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|ENUM 7|6|OBJ 8|2|PUNCT
+*PAR:	but people there are awful .
+%mor:	conj|but n|person&PL adv|there cop|be&PRES adj|awful .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|NJCT 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	she doesn't &luh Cinderella she doesn't like him [* s] you know .
+%mor:	pro:sub|she mod|do&3S~neg|not n:prop|Cinderella pro:sub|she
+	mod|do&3S~neg|not v|like pro:obj|him pro:per|you v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|OBJ 10|11|SUBJ 11|8|CJCT 12|8|PUNCT
+*PAR:	and the two girls are bad [//] mad .
+%mor:	coord|and det:art|the det:num|two n|girl-PL cop|be&PRES adj|mad .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	she's mad .
+%mor:	pro:sub|she~cop|be&3S adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and oh man that xxx [* phon] mean to Cinderella mean [/] mean
+	everything .
+%mor:	coord|and co|oh n|man pro:rel|that adj|mean prep|to
+	n:prop|Cinderella v|mean pro:indef|everything .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ 8|5|ENUM
+	9|8|OBJ 10|3|PUNCT
+*PAR:	pull them around .
+%mor:	v|pull pro:obj|them adv|around .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	<do this do this> [/] do this do .
+%mor:	mod|do det:dem|this v|do .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	has nothing .
+%mor:	aux|have&3S pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	she has nothing at all .
+%mor:	pro:sub|she aux|have&3S pro:indef|nothing prep|at pro:indef|all .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	she just looks around .
+%mor:	pro:sub|she adv|just cop|look-3S adv|around .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	she sees the &a &a animals .
+%mor:	pro:sub|she v|see-3S det:art|the n|animal-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	she love those things except the cat .
+%mor:	pro:sub|she v|love pro:dem|those n|thing-PL prep|except det:art|the
+	n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	doesn't like <the cat> [//] the bad cat .
+%mor:	mod|do&3S~neg|not prep|like det:art|the adj|bad n|cat .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	she talks sus [* phon] people .
+%mor:	pro:sub|she v|talk-3S ?|sus n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	all muh [* phon] sudden some time sees the beautiful prince .
+%mor:	qn|all ?|muh n|sudden qn|some n|time v|see-3S det:art|the
+	adj|beautiful n|prince .
+%gra:	1|5|QUANT 2|5|MOD 3|5|MOD 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*PAR:	they're gonna xxx [* phon] a ball .
+%mor:	pro:sub|they~aux|be&PRES mod:aux|gonna det:art|a n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	oh I've got it ready for that .
+%mor:	co|oh pro:sub|I~aux|have part|get&PASTP pro:per|it v|ready prep|for
+	pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	she look those places look &o .
+%mor:	pro:sub|she cop|look pro:dem|those n|place-PL co|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|COM 6|2|PUNCT
+*PAR:	and the people <pulled them out> [/] pulled them out of the car
+	beautiful car those two scissorz [* phon] midder [* phon] sisters
+	[/] not sisters but people pull them up [/] up xxx [* phon] .
+%mor:	coord|and det:art|the n|person&PL v|pull-PAST pro:obj|them adv|out
+	prep|of det:art|the n|car adj|beautiful n|car pro:dem|those
+	det:num|two ?|scissorz adj|mid-CP neg|not n|sister-PL conj|but
+	n|person&PL v|pull pro:obj|them adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|JCT 8|9|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|13|DET 13|14|QUANT 14|4|OBJ 15|17|MOD
+	16|17|NEG 17|20|SUBJ 18|17|CONJ 19|18|COORD 20|14|COMP 21|20|OBJ 22|20|JCT
+	23|4|PUNCT
+*PAR:	all ma [* phon] sudden she's got beautiful cahs [//] car [* s]
+	dresses made by xxx [* phon] himself .
+%mor:	qn|all n|ma adj|sudden pro:sub|she~aux|be&3S v|get&PAST
+	adj|beautiful n|car n|dress-PL part|make&PASTP prep|by
+	pro:refl|himself .
+%gra:	1|2|QUANT 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|OBJ 10|9|XMOD 11|10|JCT 12|11|POBJ 13|6|PUNCT
+*PAR:	she put this play luhl [* phon] name came her &prprincess [/] no
+	princess is she look well .
+%mor:	pro:sub|she v|put&ZERO pro:dem|this n|play ?|luhl n|name
+	v|come&PAST pro:obj|her qn|no n|princess cop|be&3S pro:sub|she
+	cop|look adv|well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|OBJ2
+	9|10|QUANT 10|11|SUBJ 11|7|CJCT 12|13|SUBJ 13|11|PRED 14|13|JCT
+	15|2|PUNCT
+*PAR:	and the girl came there like the &fair fairy [/] fairy [* s] .
+%mor:	coord|and det:art|the n|girl v|come&PAST adv|there prep|like
+	det:art|the n|fairy .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	she saw the people .
+%mor:	pro:sub|she v|see&PAST det:art|the n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	baught [* phon] the people there .
+%mor:	?|baught det:art|the n|person&PL adv|there .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|1|PUNCT
+*PAR:	looked well .
+%mor:	v|look-PAST adv|well .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	they drove the place .
+%mor:	pro:sub|they v|drive&PAST det:art|the n|place .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and she drinks [* u] out that place .
+%mor:	coord|and pro:sub|she v|drink-3S adv|out pro:dem|that n|place .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and every time the prince loves them .
+%mor:	coord|and qn|every n|time det:art|the n|prince v|love-3S
+	pro:obj|them .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|5|DET 5|6|SUBJ 6|3|CMOD 7|6|OBJ
+	8|3|PUNCT
+*PAR:	and he dump and dump dring [/] dring [/] dring [/] dring [/] dring
+	[* phon] funny [/] funny .
+%mor:	coord|and pro:sub|he v|dump coord|and v|dump ?|dring adj|fun&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|6|POSTMOD
+	8|3|PUNCT
+*PAR:	she fell towne [* phon] and the [/] the show came down .
+%mor:	pro:sub|she v|fall&PAST n|towne coord|and det:art|the n|show
+	v|come&PAST adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|7|LINK 5|6|DET 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|2|PUNCT
+*PAR:	she lost it one .
+%mor:	pro:sub|she v|lose&PAST pro:per|it pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*PAR:	and she came back left the place he's gonna leave house early before
+	the xxx [* phon] takes us back .
+%mor:	coord|and pro:sub|she v|come&PAST adv|back v|leave&PAST det:art|the
+	n|place pro:sub|he~aux|be&3S mod:aux|gonna v|leave n|house adv|early
+	conj|before det:art|the v|take-3S pro:obj|us adv|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|7|DET 7|5|OBJ 8|11|SUBJ
+	9|11|AUX 10|11|AUX 11|5|COMP 12|11|OBJ 13|11|JCT 14|11|JCT 15|16|DET
+	16|14|CPOBJ 17|16|OBJ 18|16|JCT 19|3|PUNCT
+*PAR:	and she's got that xxx [* phon] .
+%mor:	coord|and pro:sub|she~aux|be&3S part|get&PASTP pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	so they looked around find out where that thing went the one [/] one
+	showe [* phon] where'd it go .
+%mor:	co|so pro:sub|they cop|look-PAST prep|around v|find adv|out
+	pro:rel|where pro:dem|that n|thing v|go&PAST det:art|the
+	pro:indef|one ?|showe pro:rel|where~mod|genmod pro:per|it v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CPOBJ 11|12|DET 12|10|OBJ 13|10|OBJ 14|17|LINK 15|17|AUX
+	16|17|SUBJ 17|13|CMOD 18|3|PUNCT
+*PAR:	went that place find that place there .
+%mor:	v|go&PAST pro:dem|that n|place v|find pro:dem|that n|place
+	adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	they found that there .
+%mor:	pro:sub|they v|find&PAST comp|that adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*PAR:	and that house was Cinderella .
+%mor:	coord|and pro:dem|that n|house cop|be&PAST&13S n:prop|Cinderella .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	he had it .
+%mor:	pro:sub|he v|have&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	then they got the prince .
+%mor:	adv:tem|then pro:sub|they v|get&PAST det:art|the n|prince .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and they got married .
+%mor:	coord|and pro:sub|they aux|get&PAST part|marry-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+@End

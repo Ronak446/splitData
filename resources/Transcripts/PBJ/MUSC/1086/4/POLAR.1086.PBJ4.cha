@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:55
+@Media:	1086_4_PBJ_November-12th-2019-10-34-42-am video
+*PAR:	two slices of white bread .
+%mor:	det:num|two n|slice-PL prep|of adj|white n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	first you [/] you smother [: spread] [* s] the peanut+butter on the
+	white bread .
+%mor:	adv|first pro:per|you v|spread&ZERO det:art|the
+	n|+n|peanut+n|butter prep|on det:art|the adj|white n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	after you have completed task you find raspberry jelly .
+%mor:	prep|after pro:per|you v|have part|complete-PASTP v|task
+	pro:per|you v|find n|raspberry n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|XJCT 5|3|COMP 6|7|SUBJ 7|5|COMP 8|9|MOD
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and you take the same amount of peanut+butter to cover the [/] the
+	[/] the raspberry over the peanut+butter .
+%mor:	coord|and pro:per|you v|take det:art|the adj|same n|amount prep|of
+	n|+n|peanut+n|butter inf|to v|cover det:art|the n|raspberry
+	prep|over det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|3|XJCT 11|12|DET 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*PAR:	and after which you put the second piece of bread above [: on top]
+	[* s] .
+%mor:	coord|and prep|after pro:rel|which pro:per|you v|put&ZERO
+	det:art|the adj|second n|piece prep|of n|bread prep|on n|top .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|5|JCT 12|11|POBJ 13|5|PUNCT
+*PAR:	and that's you become [* u] for peanut+butter jelly sandwich .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|you part|become&PASTP
+	prep|for n|+n|peanut+n|butter n|jelly n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|5|JCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+@End

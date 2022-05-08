@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1006_5_PBJ_Y2017_M03_D09_H09_M54_S27 video
+
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's a <it's a> [/] .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	put it in there .
+%mor:	v|put&ZERO pro:per|it prep|in adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	she said one here .
+%mor:	pro:sub|she v|say&PAST det:num|one adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|POSTMOD 5|2|PUNCT
+*PAR:	and one here .
+%mor:	coord|and det:num|one adv|here .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and put it right dere [* phon] .
+%mor:	coord|and v|put&ZERO pro:per|it adv|right ?|dere .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	and this is right there together .
+%mor:	coord|and pro:dem|this cop|be&3S adv|right adv|there adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	and it's .
+%mor:	coord|and pro:per|it~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and then slice it .
+%mor:	coord|and adv:tem|then v|slice pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

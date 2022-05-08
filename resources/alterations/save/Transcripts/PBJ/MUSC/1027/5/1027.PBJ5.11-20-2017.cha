@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:09
+@Media:	1027_PBJ5 video
+
+*PAR:	zeuh [* phon] and cheppa [* phon] bubba [* phon] .
+%mor:	?|zeuh coord|and ?|cheppa n|bubba .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	and spooh [* phon] .
+%mor:	coord|and ?|spooh .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

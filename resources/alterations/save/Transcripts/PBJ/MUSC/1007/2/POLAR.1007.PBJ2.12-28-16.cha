@@ -1,0 +1,56 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	1007_2_PBJ_Y2016_M12_D28_H11_M14_S24 video
+*PAR:	&c &cah cut cut [/] the fla [* phon] .
+%mor:	v|cut&ZERO det:art|the ?|fla .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	cut cut [/] my .
+%mor:	v|cut&ZERO co|my .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+*PAR:	and then .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&fl .
+*PAR:	yeah like this .
+%mor:	co|yeah prep|like pro:dem|this .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	&pic &pic my picture is .
+%mor:	det:poss|my n|picture cop|be&3S .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&ho hand [* u] picture .
+%mor:	n|hand n|picture .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	my picture .
+%mor:	det:poss|my n|picture .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&fl .
+*PAR:	I cut <I cut> [/] all this .
+%mor:	pro:sub|I v|cut&ZERO qn|all pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	now two of them .
+%mor:	adv|now det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	she has two of them .
+%mor:	pro:sub|she v|have&3S det:num|two prep|of pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	a pih [* phon] .
+%mor:	det:art|a ?|pih .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	knife my knife <my knife> [/] .
+%mor:	n|knife det:poss|my n|knife .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	and then over here is two kinds .
+%mor:	coord|and adv:tem|then adv|over adv|here cop|be&3S det:num|two
+	n|kind-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|7|QUANT 7|5|PRED 8|5|PUNCT
+*PAR:	that's bad isn't it .
+%mor:	pro:dem|that~cop|be&3S adj|bad cop|be&3S~neg|not pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|NEG 6|4|PRED 7|2|PUNCT
+*PAR:	yeah cause you can eat .
+%mor:	co|yeah v|cause pro:per|you mod|can v|eat .
+%gra:	1|2|COM 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+@End

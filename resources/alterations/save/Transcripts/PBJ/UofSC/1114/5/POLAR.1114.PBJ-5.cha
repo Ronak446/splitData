@@ -1,0 +1,23 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+*PAR:	two pieces of bread [/] bread xxx [* phon] .
+%mor:	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	I had one xxx [* phon] for long .
+%mor:	pro:sub|I v|have&PAST pro:indef|one prep|for adv|long .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	the other xxx [* phon] .
+%mor:	det:art|the qn|other .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	you cut it the sides .
+%mor:	pro:per|you v|cut&ZERO pro:per|it det:art|the n|side-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+*PAR:	you xxx [* phon] the butter and xxx [* phon] .
+%mor:	pro:per|you det:art|the n|butter coord|and .
+%gra:	1|3|SUBJ 2|3|DET 3|0|INCROOT 4|3|CONJ 5|3|PUNCT
+@End

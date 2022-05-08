@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	1034_4_PBJ_February-7th-2018-11-13-34-am video
+*PAR:	alright first you you [/] want peabutter [* phon] .
+%mor:	co|alright adv|first pro:per|you v|want ?|peabutter .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	so then bread .
+%mor:	adv|so adv:tem|then n|bread .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	good rite [* phon] rite [/] .
+%mor:	adj|good n|rite .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the some jam .
+%mor:	coord|and det:art|the qn|some n|jam .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|COORD 5|1|PUNCT
+*PAR:	and &uh &wha what you do is take peabutter [* phon] on one piece of
+	bread .
+%mor:	coord|and pro:int|what pro:per|you v|do aux|be&3S v|take
+	?|peabutter adv|on det:num|one n|piece prep|of n|bread .
+%gra:	1|6|LINK 2|4|LINK 3|4|SUBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|6|PUNCT
+*PAR:	sper [* phon] xxx [* phon] there .
+%mor:	?|sper adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and then put jam on on [/] that .
+%mor:	coord|and adv:tem|then v|put&ZERO n|jam prep|on pro:dem|that .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	the other piece of &uh pepper [//] &uh paper [* s] ped [* phon] .
+%mor:	det:art|the qn|other n|piece prep|of n|paper ?|ped .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	the next piece of bread .
+%mor:	det:art|the adj|next n|piece prep|of n|bread .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	jam on the xxx [* phon] &s &uh per [* phon] .
+%mor:	n|jam prep|on det:art|the prep|per .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	helped <to &uh is a> [//] gives you a peabu [//] pbj .
+%mor:	part|help-PASTP v|give-3S pro:per|you det:art|a ?|pbj .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+@End

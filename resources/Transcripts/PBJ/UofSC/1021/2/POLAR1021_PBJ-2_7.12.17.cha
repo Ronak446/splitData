@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:59
+@Media:	1021_2_PBJ_July-12th-2017-11-33-21-am video
+*PAR:	rut [* phon] &ta &ta &tu &ta two .
+%mor:	v|rut det:num|two .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	but tata [* phon] &ah be .
+%mor:	conj|but co|tata cop|be .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	maha [* phon] &ta &ta .
+%mor:	?|maha .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	two [/] two four .
+%mor:	det:num|two det:num|four .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	that's two [/] two one two .
+%mor:	pro:dem|that~cop|be&3S det:num|two det:num|one det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|QUANT 5|2|PRED 6|2|PUNCT
+*PAR:	and four &da &na half  &ta .
+%mor:	coord|and det:num|four n|half .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	apple [* s] xxx [* phon] xxx [* phon] dat [* phon] xxx
+	[* phon] apple [* s] ten [* phon] .
+%mor:	n|apple ?|dat n|apple det:num|ten .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &puh &puh nine .
+%mor:	det:num|nine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and put it put &an &ta &ta two .
+%mor:	coord|and v|put&ZERO pro:per|it v|put&ZERO det:num|two .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+@End

@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:31
+@Media:	1004_2_BrokenWindow_Y2016_M11_D03_H11_M56_S39 video
+*PAR:	what was <what was> [/] .
+%mor:	pro:int|what cop|be&PAST&13S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	what &s inning [* u] was the .
+%mor:	pro:int|what n|inning cop|be&PAST&13S det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	what was in was .
+%mor:	pro:int|what cop|be&PAST&13S prep|in cop|be&PAST&13S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	&gol golf [* s] .
+%mor:	n|golf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what was kick &wa kick was .
+%mor:	pro:int|what aux|be&PAST&13S v|kick v|kick cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	and &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ah few &g golf [* s] thing .
+%mor:	qn|few n|golf n|thing .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and it was hitting in the field [* u] .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|hit-PRESP prep|in
+	det:art|the n|field .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	&boom .
+*PAR:	and oh !
+%mor:	coord|and co|oh !
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	things were things it oh in fast all the way in the field [* u] .
+%mor:	n|thing-PL cop|be&PAST n|thing-PL pro:per|it co|oh prep|in n|fast
+	qn|all det:art|the n|way prep|in det:art|the n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|10|COM 6|5|JCT 7|6|POBJ
+	8|10|QUANT 9|10|DET 10|3|XMOD 11|10|NJCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	and it was things golf [* s] .
+%mor:	coord|and pro:per|it cop|be&PAST&13S n|thing-PL n|golf .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	feel oh .
+%mor:	v|feel co|oh .
+%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+*PAR:	gonna [: going to] get it !
+%mor:	part|go-PRESP inf|to v|get pro:per|it !
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*PAR:	&uh .
+*PAR:	story the story .
+%mor:	n|story det:art|the n|story .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@End

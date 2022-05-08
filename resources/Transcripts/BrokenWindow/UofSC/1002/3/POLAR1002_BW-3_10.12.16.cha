@@ -1,0 +1,59 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1002_3_BrokenWindow_Y2016_M10_D12_H14_M31_S12 video
+*PAR:	&um &th they &uh .
+%mor:	pro:sub|they .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the boy playing around .
+%mor:	det:art|the n|boy part|play-PRESP adv|around .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and the kick [//] kicked the ball .
+%mor:	coord|and det:art|the part|kick-PASTP det:art|the n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and &uh and [/] the the [/] &uh .
+%mor:	coord|and det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	get get [/] away .
+%mor:	aux|get adv|away .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	and &uh break &um .
+%mor:	coord|and v|break .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	&uh the ball is break break [/] the window .
+%mor:	det:art|the n|ball cop|be&3S v|break det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and that is &uh in the the [/] scene .
+%mor:	coord|and pro:rel|that cop|be&3S prep|in det:art|the n|scene .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	it it [/] &uh &uh &bro xxx [* phon] &uh &uh lampshade .
+%mor:	pro:per|it n|+n|lamp+n|shade .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &uh in the <in the> [/] man is &uh .
+%mor:	coord|and prep|in det:art|the n|man cop|be&3S .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	wow what is really wrong there .
+%mor:	co|wow pro:int|what aux|be&3S adv|real&dadj-LY adj|wrong adv|there
+	.
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and &uh and [/] &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	see a saw is at &uh son was kicking in the .
+%mor:	v|see det:art|a n|saw cop|be&3S prep|at n|son aux|be&PAST&13S
+	part|kick-PRESP prep|in det:art|the .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|JCT 6|8|SUBJ 7|8|AUX 8|4|PRED
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+*PAR:	the kick the in the soccer .
+%mor:	det:art|the v|kick det:art|the prep|in det:art|the n|soccer .
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and it [* s] is <it [* s] is> [/] mad .
+%mor:	coord|and pro:per|it cop|be&3S adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	really very mad .
+%mor:	adv|real&dadj-LY adv|very adj|mad .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+@End

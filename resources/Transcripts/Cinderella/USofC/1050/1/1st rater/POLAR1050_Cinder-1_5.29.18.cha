@@ -1,0 +1,50 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:36
+@Media:	1050_1_Cinderella_May-29th-2018-10-20-34-am video
+*PAR:	&uh a sheet [* u] &ha yes .
+%mor:	det:art|a n|sheet co|yes .
+%gra:	1|2|DET 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*PAR:	joot [* phon] .
+*PAR:	and &uh kay [* phon] .
+%mor:	coord|and ?|kay .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and sheet [* u] yeah .
+%mor:	coord|and n|sheet co|yeah .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and jooo [* phon] yas [* phon] .
+%mor:	coord|and ?|jooo ?|yas .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	and joo [* phon] yeah .
+%mor:	coord|and ?|joo co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|1|PUNCT
+*PAR:	and ogay [* phon] shishu [* phon] yas [* phon] &neigh joot [* phon]
+	fyep [* phon] .
+%mor:	coord|and ?|ogay ?|shishu ?|yas ?|joot ?|fyep .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and &j jjoot [* phon] .
+%mor:	coord|and ?|jjoot .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &j yes .
+%mor:	coord|and co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh [/] oh joot [* phon] .
+%mor:	co|oh ?|joot .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	I [/] I see eet [* phon] .
+%mor:	pro:sub|I v|see ?|eet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	joot [* phon] yes .
+%mor:	?|joot co|yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	&j &j joot [* phon] .
+*PAR:	&j &j yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

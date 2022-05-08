@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:34
+@Media:	1039_3_Cinderella_February-19th-2018-12-28-24-pm video
+*PAR:	&uh rong [: long] [* phon] time go [: ago] [* phon] .
+%mor:	adj|long n|time post|ago .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	XXX [* phon] shall [//] no .
+%mor:	n:prop|XXX co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	XXX [* phon] twinnerella [: Cinderella] [* phon] .
+%mor:	n:prop|XXX n:prop|Cinderella .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*PAR:	dwead [: mean] [* phon] mean [/] mean [/] mean .
+%mor:	adj|mean adj|mean .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh wittle [: little] [* phon] .
+%mor:	adj|little .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I know how to jae [: say] [* phon] it .
+%mor:	pro:sub|I v|know pro:int|how inf|to v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|INF 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	&uh at .
+%mor:	prep|at .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	beed [: mean] [* phon] yeah mean .
+%mor:	adj|mean co|yeah v|mean .
+%gra:	1|0|INCROOT 2|3|COM 3|1|CMOD 4|1|PUNCT
+*PAR:	yeah [/] yeah treen [: mean] [* phon] bean [: mean] [* phon] trep
+	[: step] [* phon] [//] no .
+%mor:	co|yeah adj|mean adj|mean co|no .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	wucky [: lucky] [* phon] .
+%mor:	adj|luck&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&wa wong [: long] [* phon] time .
+%mor:	adj|long n|time .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:57
+@Media:	1046_2_PBJ_April-10th-2018-12-39-44-pm video
+*PAR:	&um the okay peter+butter [* phon] and jelly sandwich is &um the &uh bread
+	&um &um over which you &um the &uh cover [/] &um cover I [/] I don't
+	know &um .
+%mor:	det:art|the co|okay ?|peter+butter coord|and n|jelly n|sandwich
+	cop|be&3S det:art|the n|bread adv|over pro:rel|which pro:per|you
+	det:art|the n|cover pro:sub|I mod|do~neg|not v|know .
+%gra:	1|2|DET 2|7|COM 3|6|MOD 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|9|NJCT 11|9|XMOD 12|11|OBJ 13|14|DET 14|12|OBJ 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|14|CMOD 19|7|PUNCT
+*PAR:	&um so peanut+butter and jelly sandwich is the &uh &uh bread .
+%mor:	co|so n|+n|peanut+n|butter coord|and n|jelly n|sandwich cop|be&3S
+	det:art|the n|bread .
+%gra:	1|5|COM 2|5|MOD 3|2|CONJ 4|3|COORD 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*PAR:	&um so you fold over the bread .
+%mor:	co|so pro:per|you n|fold adv|over det:art|the n|bread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+@End

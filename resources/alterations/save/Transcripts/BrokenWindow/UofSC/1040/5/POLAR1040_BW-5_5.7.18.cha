@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	1040_5_BrokenWindow_May-7th-2018-9-39-35-am video
+*PAR:	the boy kick the ball .
+%mor:	det:art|the n|boy v|kick det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the wintow [* phon] crack .
+%mor:	coord|and det:art|the ?|wintow n|crack .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and <the> [/] the man sit on the chair .
+%mor:	coord|and det:art|the n|man v|sit prep|on det:art|the n|chair .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and the glass and the ball inside crack .
+%mor:	coord|and det:art|the n|glass coord|and det:art|the n|ball
+	adv|inside n|crack .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|8|SUBJ 7|8|JCT
+	8|4|COORD 9|1|PUNCT
+*PAR:	and <the> [/] the lamp slip over .
+%mor:	coord|and det:art|the n|lamp v|slip adv|over .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and <the> [/] the boy get up .
+%mor:	coord|and det:art|the n|boy v|get adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and <the> [/] the carin [* u] the ball .
+%mor:	coord|and det:art|the ?|carin det:art|the n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and the window crack everywhere .
+%mor:	coord|and det:art|the n|window n|crack n|everywhere .
+%gra:	1|5|LINK 2|5|DET 3|4|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

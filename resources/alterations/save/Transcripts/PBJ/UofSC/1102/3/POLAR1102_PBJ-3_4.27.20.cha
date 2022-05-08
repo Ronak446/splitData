@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_432_0_432_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:42
+@Media:	1102_3_PBJ_April-27-2020-zoom_1, video
+*PAR:	boring [* u] jelly <banana [* s]> [//] no [/] no [/] &bana no
+	pumpanickel [: pumpernickel] [* phon] &mhm sandwich &um jelly drape
+	[: grape] [* phon] .
+%mor:	part|bore-PRESP n|jelly qn|no n|pumpernickel n|sandwich n|jelly
+	n|grape .
+%gra:	1|2|MOD 2|0|INCROOT 3|7|QUANT 4|7|MOD 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+*PAR:	banana [* s] [//] <no onion [* s]> [//] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	two of them spreading .
+%mor:	det:num|two prep|of pro:obj|them part|spread-PRESP .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|XJCT 5|1|PUNCT
+*PAR:	banana [* s] [//] oh my god stop .
+%mor:	co|oh det:poss|my n|god n|stop .
+%gra:	1|4|COM 2|3|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	yes sandwich [//] oh my god .
+%mor:	co|yes co|oh det:poss|my n|god .
+%gra:	1|4|COM 2|4|COM 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	two of them &um &uh &eh .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+@End

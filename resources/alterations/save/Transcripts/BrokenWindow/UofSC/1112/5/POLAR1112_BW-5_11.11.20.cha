@@ -1,0 +1,31 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_137_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:42
+@Media:	POLAR1112_BW-5_11.11.20, video
+*PAR:	&um &tuh &hmm hid [: hit] [* phon] da [: the] [* phon] ball . 
+%mor:	v|hit&ZERO det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	bochen [: broken] [* phon] jass [: grass] [* phon] come in .
+%mor:	part|break&PASTP n|grass v|come adv|in .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&s &sum &uh &um boten [: broken] [* phon] &d dass [: glass]
+	[* phon] . 
+%mor:	part|break&PASTP n|glass .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	tum [: come] [* phon] hin [: in] [* phon] . 
+%mor:	v|come adv|in .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&na &je why ju [: you] [* phon] do dat [: that] [* phon] . 
+%mor:	pro:int|why pro:per|you v|do pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&ah &ah &ah &ata why ju [: you] [* phon] do dat [: that] [* phon] . 
+%mor:	pro:int|why pro:per|you v|do pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I don't know . 
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

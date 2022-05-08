@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	1044_4_BrokenWindow_May-21st-2018-2-07-45-pm video
+*PAR:	&uh this &uh &uh the ball is &uh arviously [* phon] boken [* phon] .
+%mor:	pro:dem|this det:art|the n|ball cop|be&3S ?|arviously ?|boken .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|OM 7|4|PUNCT
+*PAR:	and &uh &uh leg &uh &uh .
+%mor:	coord|and n|leg .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	he's mad &uh the [/] &uh the ball .
+%mor:	pro:sub|he~cop|be&3S adj|mad det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	and that's that .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

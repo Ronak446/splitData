@@ -1,0 +1,23 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+*PAR:	first the ball picks
+	[: kicks] [* phon] the ball <&i kiss the>
+	[//] kiss [: kicks] [* phon] it then it a break it xxx [* phon] .
+%mor:	adv|first det:art|the n|ball v|kick-3S det:art|the n|ball v|kick-3S
+	pro:per|it adv:tem|then pro:per|it det:art|a n|break pro:per|it .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|8|JCT 10|9|OBJ 11|12|DET 12|10|OBJ 13|12|OBJ 14|4|PUNCT
+*PAR:	&um he accuse and have to look .
+%mor:	pro:sub|he v|accuse coord|and v|have inf|to v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|6|INF 6|4|COMP 7|2|PUNCT
+*PAR:	the night [* u] goes can tell that he did that the xxx [* phon] .
+%mor:	det:art|the n|night v|go-3S mod|can v|tell comp|that pro:sub|he
+	v|do&PAST comp|that det:art|the .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|AUX 5|3|PUNCT 6|8|LINK 7|8|SUBJ 8|5|ROOT
+	9|8|INCROOT 10|11|DET 11|9|PUNCT
+@End

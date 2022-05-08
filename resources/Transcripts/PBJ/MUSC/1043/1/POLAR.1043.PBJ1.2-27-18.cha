@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1043_PBJ1 video
+
+*PAR:	commercial [* u] and then commercial [* u] .
+%mor:	adj|commercial coord|and adv:tem|then n|commercial .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	and bestard [* phon] to commercial behd [* phon] .
+%mor:	coord|and ?|bestard prep|to n|commercial ?|behd .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*PAR:	and the other commercial [* u] .
+%mor:	coord|and det:art|the qn|other n|commercial .
+%gra:	1|4|LINK 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	the three together and three commercials [* u] .
+%mor:	det:art|the det:num|three adv|together coord|and det:num|three
+	n|commercial-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|2|CONJ 5|6|QUANT 6|4|COORD 7|2|PUNCT
+@End

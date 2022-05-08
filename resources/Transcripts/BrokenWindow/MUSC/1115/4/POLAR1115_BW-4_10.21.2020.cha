@@ -1,0 +1,24 @@
+@UTF8
+@Window:	0_0_0_0_0_0_290_1_290_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:55
+@Media:	1115_BrokenWindow_4_2020, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh kid [/] &uh kid &uh kicked [/] kicked ball .
+%mor:	n|kid part|kick-PASTP n|ball .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|1|PUNCT
+*PAR:	and <kick &uh window> [//] kicked window .
+%mor:	coord|and v|kick-PAST n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and ball &uh crash &uh man .
+%mor:	coord|and n|ball n|crash n|man .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and ball and &uh man angry .
+%mor:	coord|and n|ball coord|and n|man adj|angry .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+@End

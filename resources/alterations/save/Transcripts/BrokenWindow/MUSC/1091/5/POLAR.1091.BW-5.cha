@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.BW-5 video
+@Time Duration:	00:00:49
+*PAR:	ok there's a little boy kicking a ball .
+%mor:	?|ok pro:exist|there~cop|be&3S det:art|a adj|little n|boy
+	part|kick-PRESP det:art|a n|ball .
+*PAR:	and it goes in the air with his one foot up and other foot down .
+%mor:	coord|and pro:per|it v|go-3S prep|in det:art|the n|air prep|with
+	det:poss|his det:num|one n|foot adv|up coord|and qn|other n|foot
+	adv|down .
+*PAR:	and then the ball moves to the window .
+%mor:	coord|and adv:tem|then det:art|the n|ball v|move-3S prep|to
+	det:art|the n|window .
+*PAR:	and it goes through the window .
+%mor:	coord|and pro:per|it v|go-3S prep|through det:art|the n|window .
+*PAR:	and then the guy sit [//] sitting there &uh there's a &la &m lamps
+	[//] lamp &nuh next to him and where the ball comes through and hits
+	the lamp .
+%mor:	coord|and adv:tem|then det:art|the n|guy part|sit-PRESP adv|there
+	pro:exist|there~cop|be&3S det:art|a n|lamp adv|next prep|to
+	pro:obj|him coord|and pro:int|where det:art|the n|ball v|come-3S
+	prep|through coord|and v|hit-3S det:art|the n|lamp .
+*PAR:	and <I [/] I cannot &s> [//] I can't see what he has there &um .
+%mor:	coord|and pro:sub|I mod|can~neg|not v|see pro:int|what pro:sub|he
+	aux|have&3S adv|there .
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+*PAR:	<I don't> [//] I can't make out <what it says> [//] or what it looks
+	like .
+%mor:	pro:sub|I mod|can~neg|not v|make adv|out coord|or pro:int|what
+	pro:per|it v|look-3S conj|like .
+*PAR:	so that's the end .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the n|end .
+@End

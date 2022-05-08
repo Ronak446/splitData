@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:47
+@Media:	1031_PBJ6 video
+*PAR:	&p bedda [* phon] bruh [* phon] &duh &buh &uh bread ih [* phon] turn
+	ohduh [* phon] teanut+butter [* phon] and jelly .
+%mor:	?|bedda ?|bruh n|bread ?|ih n|turn ?|ohduh ?|teanut+butter
+	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|7|CONJ 9|8|COORD 10|1|PUNCT
+*PAR:	&m miy [* phon] &uh make a sanwich [* phon] .
+%mor:	?|miy v|make det:art|a ?|sanwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	yup bread and preanut+butter and jelssiy [* phon] &y settavich
+	[* phon] &uh jelly .
+%mor:	co|yup n|bread coord|and ?|preanut+butter coord|and ?|jelssiy
+	?|settavich n|jelly .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|8|MOD
+	8|6|OBJ 9|2|PUNCT
+*PAR:	yeah budumbum [* phon] eheheh [* phon] .
+%mor:	co|yeah ?|budumbum ?|eheheh .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I don't muh [* phon] .
+%mor:	pro:sub|I mod|do~neg|not ?|muh .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

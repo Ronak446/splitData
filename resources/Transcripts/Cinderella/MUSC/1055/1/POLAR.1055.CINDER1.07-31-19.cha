@@ -1,0 +1,50 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:07
+@Media:	1055_1_Cinderella_July-31st-2018-3-29-52-pm video
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	oh boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	oh boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	<oh boy oh boy> [/] oh boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+@End

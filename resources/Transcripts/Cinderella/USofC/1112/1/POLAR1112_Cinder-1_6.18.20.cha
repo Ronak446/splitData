@@ -1,0 +1,18 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_139_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:41
+@Media:	POLAR1112_Cinder-1_6.19.20, video
+*PAR:	&thu &uh lehla [* phon] &um cidafella [: Cinderella] [* phon] .
+%mor:	?|lehla n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&um butiwetter [* phon] &we wutiwetter [* phon] butiwetter [* phon] .
+%mor:	?|butiwetter ?|wutiwetter ?|butiwetter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&du dashfetcher [* phon] .
+%mor:	?|dashfetcher .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

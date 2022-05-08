@@ -1,0 +1,100 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:00
+@Media:	1033_1_BrokenWindow_October-24th-2017-12-28-24-pm video
+*PAR:	okay this is a man [* s] that's kicking a &uh small &s &um &um .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|a n|man
+	pro:rel|that~aux|be&3S part|kick-PRESP det:art|a adj|small .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	playing &s &s like &um &mu &um like &um an &uh &uh &w &r round ball
+	like .
+%mor:	part|play-PRESP prep|like prep|like det:art|a adj|round n|ball
+	prep|like .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|6|DET 5|6|MOD 6|3|POBJ 7|6|NJCT
+	8|1|PUNCT
+*PAR:	and he's kicking it .
+%mor:	coord|and pro:sub|he~aux|be&3S part|kick-PRESP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and he's playing in this game .
+%mor:	coord|and pro:sub|he~aux|be&3S part|play-PRESP prep|in pro:dem|this
+	n|game .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	that's what he's doing .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|PRED 7|2|PUNCT
+*PAR:	<this is a> [//] I don't know what this is .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:dem|this cop|be&3S
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	this is a looks like a movie [* s] screen [* s] that's got a movie
+	[* s] in it .
+%mor:	pro:dem|this cop|be&3S det:art|a v|look-3S prep|like det:art|a
+	n|movie n|screen pro:rel|that~aux|be&3S v|get&PAST det:art|a n|movie
+	prep|in pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|13|DET 13|11|OBJ 14|8|NJCT 15|14|POBJ
+	16|2|PUNCT
+*PAR:	and he's watching it .
+%mor:	coord|and pro:sub|he~aux|be&3S part|watch-PRESP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	<this is a> [//] it's the same player that was over here .
+%mor:	pro:per|it~cop|be&3S det:art|the adj|same n|play&dv-AGT
+	pro:dem|that cop|be&PAST&13S adv|over adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|SUBJ 7|5|XMOD 8|9|JCT
+	9|7|PRED 10|2|PUNCT
+*PAR:	but he's got his hat off .
+%mor:	conj|but pro:sub|he~aux|be&3S part|get&PASTP det:poss|his n|hat
+	adv|off .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and he's got that same piece back on &h his yard here .
+%mor:	coord|and pro:sub|he~aux|be&3S part|get&PASTP pro:dem|that adj|same
+	n|piece adv|back prep|on det:poss|his n|yard adv|here .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|12|JCT
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|7|NJCT 13|4|PUNCT
+*PAR:	but he's not kicking it .
+%mor:	conj|but pro:sub|he~aux|be&3S neg|not part|kick-PRESP pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	&uh it's being hit by some well maybe .
+%mor:	pro:per|it~cop|be&3S n|being n|hit prep|by qn|some adv|well
+	adv|maybe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|7|QUANT 7|8|JCT 8|5|POBJ
+	9|2|PUNCT
+*PAR:	no he's not kicking it .
+%mor:	co|no pro:sub|he~aux|be&3S neg|not part|kick-PRESP pro:per|it .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	but it's come through the window .
+%mor:	conj|but pro:per|it~aux|be&3S part|come&PASTP prep|through
+	det:art|the n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and he's gotta look at it .
+%mor:	coord|and pro:sub|he~aux|be&3S mod:aux|gotta v|look prep|at
+	pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	and he's trying to keep it from hitting him .
+%mor:	coord|and pro:sub|he~aux|be&3S part|try-PRESP inf|to v|keep
+	pro:per|it prep|from n:gerund|hit-PRESP pro:obj|him .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|9|OBJ 11|4|PUNCT
+*PAR:	he's gonna catch it I guess .
+%mor:	pro:sub|he~aux|be&3S mod:aux|gonna v|catch pro:per|it pro:sub|I
+	v|guess .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	this is the same man .
+%mor:	pro:dem|this cop|be&3S det:art|the adj|same n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	he's got it caught in his hand .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP pro:per|it v|catch&PAST prep|in
+	det:poss|his n|hand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|XCOMP 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and he's looking at the picture [* s] that it came through .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|at det:art|the
+	n|picture pro:rel|that pro:per|it v|come&PAST adv|through .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|4|PUNCT
+@End

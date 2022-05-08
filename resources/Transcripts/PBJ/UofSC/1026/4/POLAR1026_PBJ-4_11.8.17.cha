@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:54
+@Media:	1026_PBJ4 video
+*PAR:	okay you get <two &pee peanut [* s]> [//] &um no okay stop two
+	pieces of bread .
+%mor:	co|okay pro:per|you v|get qn|no adj|okay n|stop det:num|two
+	n|piece-PL prep|of n|bread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|OBJ 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and place them out .
+%mor:	coord|and v|place pro:obj|them adv|out .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and you get a peanut+butter and the jelly .
+%mor:	coord|and pro:per|you v|get det:art|a n|+n|peanut+n|butter
+	coord|and det:art|the n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*PAR:	and take the peanut+butter and first dip it .
+%mor:	coord|and v|take det:art|the n|+n|peanut+n|butter coord|and
+	adj|first n|dip pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|7|MOD 7|5|COORD 8|7|OBJ
+	9|2|PUNCT
+*PAR:	and all the way around .
+%mor:	coord|and qn|all det:art|the n|way prep|around .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and then you get the peanut [* s] [//] nope jelly and on the other
+	side .
+%mor:	coord|and adv:tem|then pro:per|you v|get det:art|the co|nope
+	n|jelly coord|and prep|on det:art|the qn|other n|side .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|COM 7|4|OBJ 8|7|CONJ
+	9|8|COORD 10|12|DET 11|12|QUANT 12|9|POBJ 13|4|PUNCT
+*PAR:	&um and its gonna snide [* phon] all over .
+%mor:	coord|and det:poss|its part|go-PRESP~inf|to adj|snide adv|all
+	adv|over .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|JCT 7|5|JCT 8|3|PUNCT
+*PAR:	and then its gonna take and &snap .
+%mor:	coord|and adv:tem|then det:poss|its part|go-PRESP~inf|to v|take
+	coord|and .
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*PAR:	and its right to eat .
+%mor:	coord|and det:poss|its n|right inf|to v|eat .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|5|INF 5|3|XCOMP 6|1|PUNCT
+@End

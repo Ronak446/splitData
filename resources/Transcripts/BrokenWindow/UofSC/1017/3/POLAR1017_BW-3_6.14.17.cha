@@ -1,0 +1,57 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:58
+@Media:	1017_3_BrokenWindow_Y2017_M06_D14_H10_M59_S47 video
+*PAR:	&um he's [//] &uh it's &uh xxx [* phon] it's &uh .
+%mor:	pro:per|it~aux|be&3S pro:per|it~aux|be&3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&um right here it's hey .
+%mor:	adv|right adv|here pro:per|it~cop|be&3S co|hey .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	&um xxx [* phon] it's just &oop .
+%mor:	pro:per|it~cop|be&3S adj|just .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and then oh my goodness .
+%mor:	coord|and adv:tem|then co|oh det:poss|my co|goodness .
+%gra:	1|5|LINK 2|5|JCT 3|5|COM 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	oh my gooness [* phon] oh man almost oh my goodness .
+%mor:	co|oh det:poss|my n|goo-NESS co|oh n|man adv|almost co|oh
+	det:poss|my co|goodness .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|5|COM 5|3|XMOD 6|7|JCT 7|9|COM 8|9|MOD
+	9|5|COM 10|3|PUNCT
+*PAR:	and then him <oh my &guh> [//] oh my goodness oh wow .
+%mor:	coord|and adv:tem|then pro:obj|him co|oh det:poss|my co|goodness
+	co|oh co|wow .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|COM 5|6|MOD 6|8|COM 7|8|COM 8|3|COM
+	9|3|PUNCT
+*PAR:	I can't man I gotta you know .
+%mor:	pro:sub|I mod|can~neg|not v|man pro:sub|I mod:aux|gotta pro:per|you
+	v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*PAR:	&mmm &mmm you know that .
+%mor:	pro:per|you v|know pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and then uh oh look at you .
+%mor:	coord|and adv:tem|then ?|uh co|oh v|look prep|at pro:per|you .
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|COM 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	you see that .
+%mor:	pro:per|you v|see pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&mmm &mmm &mmm &mmm .
+*PAR:	so yes him .
+%mor:	co|so co|yes pro:obj|him .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	and then oh my goodness .
+%mor:	coord|and adv:tem|then co|oh det:poss|my co|goodness .
+%gra:	1|5|LINK 2|5|JCT 3|5|COM 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and all that .
+%mor:	coord|and qn|all pro:dem|that .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and then &mm .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

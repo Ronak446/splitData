@@ -1,0 +1,109 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:55
+@Media:	1004_4_Cinderella_Y2016_M12_D19_H15_M17_S02 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um any &wuh wuhs [* phon] everything was the same .
+%mor:	qn|any ?|wuhs pro:indef|everything cop|be&PAST&13S det:art|the
+	adj|same .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	and one two three ladies .
+%mor:	coord|and det:num|one det:num|two det:num|three n|lady-PL .
+%gra:	1|5|LINK 2|5|QUANT 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*PAR:	but one was &f &f for one for the other one .
+%mor:	conj|but pro:indef|one cop|be&PAST&13S prep|for pro:indef|one
+	prep|for det:art|the qn|other pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|3|PUNCT
+*PAR:	and then was the the lady that was win [* u] for the other one was
+	all that xxx [* phon] that .
+%mor:	coord|and adv:tem|then cop|be&PAST&13S det:art|the det:art|the
+	n|lady pro:rel|that cop|be&PAST&13S n|win prep|for det:art|the
+	qn|other pro:indef|one aux|be&PAST&13S adv|all det:dem|that
+	pro:dem|that .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|DET 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|8|PRED 10|9|NJCT 11|13|DET 12|13|QUANT 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|10|POBJ 17|16|OBJ 18|3|PUNCT
+*PAR:	and then now they was going to twell [* phon] a story about
+	anything for worth being every but one little things xxx [* phon] .
+%mor:	coord|and adv:tem|then adv|now pro:sub|they aux|be&PAST&13S
+	part|go-PRESP inf|to ?|twell det:art|a n|story prep|about
+	pro:indef|anything prep|for adj|worth n:gerund|be-PRESP qn|every
+	conj|but pro:indef|one adj|little n|thing-PL .
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|14|OBJ
+	16|15|OBJ 17|15|CONJ 18|20|MOD 19|20|MOD 20|17|COORD 21|6|PUNCT
+*PAR:	oh that's good <that's good> [/] .
+%mor:	co|oh pro:dem|that~cop|be&3S adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	but that's xxx [* phon] for everything .
+%mor:	conj|but pro:dem|that~cop|be&3S prep|for pro:indef|everything .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and then all lady that was going have time for all that thing .
+%mor:	coord|and adv:tem|then qn|all n|lady pro:rel|that aux|be&PAST&13S
+	part|go-PRESP v|have n|time conj|for adv|all pro:dem|that n|thing .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|QUANT 4|2|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|7|OBJ 9|8|OBJ 10|13|LINK 11|12|JCT 12|13|DET 13|7|CJCT 14|1|PUNCT
+*PAR:	and now says let's go .
+%mor:	coord|and adv|now v|say-3S v|let~pro:obj|us v|go .
+%gra:	1|4|LINK 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+*PAR:	but then every xxx [* phon] the color was &ah &uh so .
+%mor:	conj|but adv:tem|then qn|every det:art|the n|color cop|be&PAST&13S
+	adv|so .
+%gra:	1|3|LINK 2|3|JCT 3|5|QUANT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	oh scgoing [* phon] xxx [* phon] order it's going think .
+%mor:	co|oh ?|scgoing n|order pro:per|it~aux|be&3S part|go-PRESP v|think
+	.
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|OBJ 8|3|PUNCT
+*PAR:	and now xxx [* phon] scgoing [* phon] oh forever what's going .
+%mor:	coord|and adv|now ?|scgoing co|oh adv:tem|forever
+	pro:int|what~aux|be&3S part|go-PRESP .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|8|COM 5|8|JCT 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|3|PUNCT
+*PAR:	she has oh what's going said &boom .
+%mor:	pro:sub|she aux|have&3S co|oh pro:int|what~aux|be&3S part|go-PRESP
+	part|say&PASTP .
+%gra:	1|6|SUBJ 2|6|AUX 3|6|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	it's going good everything worth leti [* phon] &le .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adj|good pro:indef|everything
+	adj|worth ?|leti .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|MOD 7|5|PRED 8|3|PUNCT
+*PAR:	it's going xxx [* phon] good eh yeah .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP adj|good co|eh co|yeah .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|COM 6|3|COM 7|3|PUNCT
+*PAR:	and so everything's going well it's xxx [* phon] .
+%mor:	coord|and co|so pro:indef|everything~aux|be&3S part|go-PRESP
+	adv|well pro:per|it~cop|be&3S .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*PAR:	everything it's good good [/] good [/] .
+%mor:	pro:indef|everything pro:per|it~cop|be&3S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and oh everything's &ooo xxx [* phon] xxx [* phon] .
+%mor:	coord|and co|oh pro:indef|everything~cop|be&3S .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and xxx [* phon] says &ugh .
+%mor:	coord|and v|say-3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	it's oooo xxx [* phon] xxx [* phon] xxx [* phon] &eh .
+%mor:	pro:per|it~cop|be&3S ?|oooo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and then &s so they going &eh good good [/] yeah .
+%mor:	coord|and adv:tem|then conj|so pro:sub|they part|go-PRESP adj|good
+	co|yeah .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*PAR:	so xxx [* phon] xxx [* phon] xxx [* phon] oh xxx [* phon] .
+%mor:	co|so co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and let's go let's good good [/] good [/] .
+%mor:	coord|and v|let~pro:obj|us v|go v|let~pro:obj|us adj|good .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SRL 5|2|COMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*PAR:	just a happy ending .
+%mor:	adv|just det:art|a adj|happy n|ending .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@End

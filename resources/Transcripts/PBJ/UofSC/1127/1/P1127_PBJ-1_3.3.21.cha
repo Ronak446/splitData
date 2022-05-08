@@ -1,0 +1,31 @@
+@UTF8
+@Window:	0_0_0_0_-1_-1_354_0_354_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:23
+@Media:	P1127_PBJ-1_3.3.21, video
+*PAR:	okay I'd &uh take the bread .
+%mor:	co|okay pro:sub|I~mod|genmod v|take det:art|the n|bread .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and I would first put &uh the knife in the peanut+butter and smear it on the bottom &uh slice of bread .
+%mor:	coord|and pro:sub|I mod|will&COND adv|first v|put&ZERO det:art|the
+	n|knife prep|in det:art|the n|+n|peanut+n|butter coord|and v|smear
+	pro:per|it prep|on det:art|the adj|bottom n|slice prep|of n|bread .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+*PAR:	and then I would put the jelly &uh on top of that .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	det:art|the n|jelly prep|on n|top prep|of pro:dem|that .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|9|NJCT 11|10|POBJ 12|5|PUNCT
+*PAR:	and then put <the bread on top> [//] of the second &uh piece of bread on top of that to make the sandwich . 
+%mor:	coord|and adv:tem|then v|put&ZERO prep|of det:art|the adj|second
+	n|piece prep|of n|bread prep|on n|top prep|of pro:dem|that inf|to
+	v|make det:art|the n|sandwich .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|15|INF 15|3|XJCT
+	16|17|DET 17|15|OBJ 18|3|PUNCT
+@End

@@ -1,0 +1,21 @@
+@UTF8
+@Window:	65_383_755_916_0_0_147_1_147_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:12
+@Media:	POLAR.1101.PBJ-3, video
+*PAR:	you have to tie [//] have two pieces of bread .
+%mor:	pro:per|you v|have inf|to v|have det:num|two n|piece-PL prep|of
+	n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	and peader+butter [: peanut+butter] [* phon] and delly [: jelly]
+	[* phon] .
+%mor:	coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and put it all together .
+%mor:	coord|and v|put&ZERO pro:per|it adv|all adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+@End

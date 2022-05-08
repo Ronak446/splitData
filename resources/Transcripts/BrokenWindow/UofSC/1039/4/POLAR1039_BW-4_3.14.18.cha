@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	1039_BW4 video
+*PAR:	bashaball [* phon] [//] &m bater [* phon] [//] shoccer [* phon] .
+%mor:	?|shoccer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rake [* phon] a picher [* phon] [//] &m &uh baker [* phon] shisher
+	[* phon] rake [* phon] &m  make [* phon] a window .
+%mor:	v|rake det:art|a n|bake&dv-AGT ?|shisher n|rake v|make det:art|a
+	n|window .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	mol [* phon] &yuh well yeah [/] yeah .
+%mor:	?|mol adv|well co|yeah .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COM 4|1|PUNCT
+@End

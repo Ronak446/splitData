@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:04:10
+@Media:	1036_LARC_BrokenWindow_August-29th-2019-4-21-17-pm video
+*PAR:	ball [//] &um &s <boy was playing &uh football> [//] no was [//] &um
+	boy was playing soccer .
+%mor:	qn|no n|boy aux|be&PAST&13S part|play-PRESP n|soccer .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	<ball was &um in a> [//] was [//] &um is &um playing &um soccer &um .
+%mor:	aux|be&3S part|play-PRESP n|soccer .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	<man and> [//] man &hm &hm .
+%mor:	n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<man and> [//] man &um shit I don't know .
+%mor:	n|man n|shit pro:sub|I mod|do~neg|not v|know .
+%gra:	1|2|MOD 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|CMOD 7|2|PUNCT
+*PAR:	man &um &uh was kinking [: kicking] [* phon] &um a ball &um .
+%mor:	n|man aux|be&PAST&13S part|kick-PRESP det:art|a n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	man &um with the ball &um .
+%mor:	n|man prep|with det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	sad &um &um &um yeah [/] yeah .
+%mor:	adj|sad co|yeah .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	it was sad &um .
+%mor:	pro:per|it cop|be&PAST&13S adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	broken window &um .
+%mor:	part|break&PASTP n|window .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	angry &um .
+%mor:	adj|angry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um &um I don't know &um .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	yeah [/] yeah &um .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

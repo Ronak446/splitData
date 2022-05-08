@@ -1,0 +1,80 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:06
+@Media:	044_4_Cinderella_May-21st-2018-2-13-32-pm video
+*PAR:	well &um Cinderelly [* phon] &uh &ih &um the &uh Cinderella and I
+	don't know the name &uh &uh .
+%mor:	co|well n:prop|Cinderelly det:art|the n:prop|Cinderella coord|and
+	pro:sub|I mod|do~neg|not v|know det:art|the n|name .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|2|CJCT 10|11|DET 11|9|OBJ 12|2|PUNCT
+*PAR:	green [* u] &um stepmodder [* phon] is &uh &uh two &uh &uh this &um
+	&bre Cinderetta [* phon] is two girls .
+%mor:	n|green ?|stepmodder aux|be&3S det:num|two det:dem|this
+	n:prop|Cinderetta aux|be&3S det:num|two n|girl-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|QUANT 5|0|ROOT 6|9|MOD 7|6|POSS 8|9|QUANT
+	9|5|OBJ 10|5|PUNCT
+*PAR:	&um the green [* u] erv [* phon] of the is &uh maid or &uh .
+%mor:	det:art|the n|green ?|erv prep|of det:art|the cop|be&3S n|maid
+	coord|or .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|8|MOD 8|6|PRED
+	9|2|PUNCT
+*PAR:	we gream [* phon] erv [* phon] a thinderelly [* phon] is &uh &uh
+	green [* u] .
+%mor:	pro:sub|we ?|gream ?|erv det:art|a ?|thinderelly cop|be&3S
+	adj|green .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|PRED 8|2|PUNCT
+*PAR:	&um the &uh &um the [/] &uh the [/] the [/] maid and Cinderella is
+	&uh &uh the &um fair and &um &uh .
+%mor:	det:art|the n|maid coord|and n:prop|Cinderella cop|be&3S
+	det:art|the adj|fair coord|and .
+%gra:	1|2|DET 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*PAR:	now &uh the &a again I gwee [* phon] and the maid is gone &um whisk
+	erway [* phon] and well &uh &uh as &uh sterry [* phon] [//] sterry
+	[* phon] creem [* phon] .
+%mor:	adv|now det:art|the adv|again pro:sub|I ?|gwee coord|and
+	det:art|the n|maid aux|be&3S part|go&PASTP v|whisk ?|erway coord|and
+	adv|well conj|as ?|sterry ?|creem .
+%gra:	1|3|JCT 2|3|DET 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|10|COMP 12|11|OBJ 13|12|CONJ 14|13|COORD
+	15|16|COORD 16|14|POBJ 17|16|OBJ 18|5|PUNCT
+*PAR:	and &uh &uh the plants [* u] are &uh made &uh .
+%mor:	coord|and det:art|the n|plant-PL cop|be&PRES v|make&PAST .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	&um the maid is &uh in starmy [* phon] is thesus [* phon] .
+%mor:	det:art|the n|maid cop|be&3S prep|in ?|starmy aux|be&3S ?|thesus .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ 8|3|PUNCT
+*PAR:	and the &uh libah [//] lin [//] Cinderella is &uh a clop [* phon] is
+	scruk [* phon] &uh &uh .
+%mor:	coord|and det:art|the n:prop|Cinderella cop|be&3S det:art|a on|clop
+	cop|be&3S ?|scruk .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|PRED 8|7|PRED
+	9|4|PUNCT
+*PAR:	time to go home .
+%mor:	n|time inf|to v|go n|home .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XMOD 4|3|JCT 5|1|PUNCT
+*PAR:	&uh &uh the maid &uh lovee [* phon] &uh .
+%mor:	det:art|the n|maid ?|lovee .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&thinduh Cinderella is &uh gream [* phon] &uh the &uh maid with &uh
+	the &uh swince [* phon] is &uh the maid &uh thinderella [* phon] is
+	&uh okay .
+%mor:	n:prop|Cinderella aux|be&3S ?|gream det:art|the n|maid prep|with
+	det:art|the ?|swince cop|be&3S det:art|the n|maid ?|thinderella
+	cop|be&3S adj|okay .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|CMOD 10|11|DET 11|9|PRED 12|13|SUBJ 13|11|CMOD 14|13|PRED 15|3|PUNCT
+*PAR:	&uh Cinderella is &uh the .
+%mor:	n:prop|Cinderella cop|be&3S det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	pwince [* phon] deemee [* phon] &uh the sippers [* phon] .
+%mor:	?|pwince ?|deemee det:art|the n|sip&dv-AGT-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+*PAR:	and &um &uh live happily efter [* phon] the end .
+%mor:	coord|and v|live adv|happy&dadj-LY ?|efter det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|XJCT 5|6|DET 6|4|OBJ 7|2|PUNCT
+@End

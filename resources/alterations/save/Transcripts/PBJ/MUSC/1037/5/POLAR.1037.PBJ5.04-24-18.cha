@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1037_5_PBJ_April-24th-2018-1-43-59-pm video
+*PAR:	in &um bread in [/] in peanut+butter jelly sandwich and &uh in &oh snuckers [* phon] yeah .
+%mor:	prep|in n|bread prep|in n|+n|peanut+n|butter n|jelly n|sandwich
+	coord|and prep|in ?|snuckers co|yeah .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|1|CONJ
+	8|7|COORD 9|8|POBJ 10|9|COM 11|1|PUNCT
+*PAR:	and fold it open .
+%mor:	coord|and v|fold pro:per|it adj|open .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and cut it .
+%mor:	coord|and v|cut&ZERO pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,65 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1079_3_BrokenWindow_June-10th-2019-pm video
+@Time Duration:	00:01:21
+*PAR:	there was a little boy .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and he was playing with his soccer ball .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|play-PRESP prep|with
+	det:poss|his n|soccer n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and when he went to throw [: kick][* s] the soccer ball he hit <the
+	&ss screen> [//] no screen a &um window and broke .
+%mor:	coord|and conj|when pro:sub|he v|go&PAST inf|to v|kick det:art|the
+	n|soccer n|ball pro:sub|he v|hit&ZERO qn|no n|screen det:art|a
+	n|window coord|and adj|broke .
+%gra:	1|11|LINK 2|4|LINK 3|4|SUBJ 4|11|CJCT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|11|SUBJ 11|0|ROOT 12|13|QUANT 13|11|OBJ 14|15|DET 15|13|OBJ
+	16|15|CONJ 17|16|COORD 18|11|PUNCT
+*PAR:	and <then his father I changed it now> [//] &um the father was
+	watching tv .
+%mor:	coord|and det:art|the n|father aux|be&PAST&13S part|watch-PRESP
+	n|tv .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and all of a sudden here comes this ball .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden adv|here
+	v|come-3S det:dem|this n|ball .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|JCT 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and he didn't know exactly what was going on .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|know adv|exact&dadj-LY
+	pro:int|what aux|be&PAST&13S part|go-PRESP adv|on .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|JCT 11|5|PUNCT
+*PAR:	and the [/] the &um lamp almost fell out .
+%mor:	coord|and det:art|the n|lamp adv|almost v|fall&PAST adv|out .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and when he turned around to see what in the world happened and who
+	did this he looked through the hole .
+%mor:	coord|and conj|when pro:sub|he v|turn-PAST adv|around inf|to v|see
+	pro:int|what prep|in det:art|the n|world v|happen-PAST coord|and
+	pro:rel|who mod|do&PAST det:dem|this pro:sub|he v|look-PAST
+	adj|through det:art|the n|hole .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|12|LINK
+	9|12|JCT 10|11|DET 11|9|POBJ 12|7|COMP 13|12|CONJ 14|18|LINK 15|18|AUX
+	16|18|DET 17|18|SUBJ 18|13|COORD 19|21|MOD 20|21|DET 21|18|OBJ 22|4|PUNCT
+*PAR:	and there was his son .
+%mor:	coord|and adv|there cop|be&PAST&13S det:poss|his n|son .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and he realized that <he had taken> [//] he had hit the ball .
+%mor:	coord|and pro:sub|he v|realize-PAST comp|that pro:sub|he
+	v|have&PAST n|hit det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and came through the window .
+%mor:	coord|and v|come&PAST prep|through det:art|the n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and broke it .
+%mor:	coord|and v|break&PAST pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:06
+@Media:	1062_6_PBJ_July-25th-2019-11-45-56-am video
+*PAR:	okay &um two &la &um bread .
+%mor:	co|okay det:num|two n|bread .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um &um &bi peanduh [: peanut+butter] [* phon] and jam .
+%mor:	n|+n|peanut+n|butter coord|and n|jam .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&um spread the &um &s &um jam .
+%mor:	v|spread&ZERO det:art|the n|jam .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&um &um and bad [//] &mm beadut [//] spread the &um butter
+	[: peanut+butter] [* s] .
+%mor:	coord|and v|spread&ZERO det:art|the n|+n|peanut+n|butter .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and [/] and close the &um and xxx [* phon] yeah .
+%mor:	coord|and v|close det:art|the coord|and co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+@End

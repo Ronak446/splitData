@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:02
+@Media:	1021_4_PBJ_August-29th-2017-10-43-19-am video
+*PAR:	&f &f &fa &je &je xxx [* phon] that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that that [/] put it .
+%mor:	pro:dem|that v|put&ZERO pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	that put it in .
+%mor:	pro:dem|that v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and &f &f put it in xxx [* phon] .
+%mor:	coord|and v|put&ZERO pro:per|it adv|in .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	that that [/] that [/] that [/] that [/] that [/] .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that xxx [* phon] xxx [* phon] .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Media:	1005_1_PBJ video
+@Time Duration:	00:00:21
+*PAR:	&um &a &a &r reanut [* phon] butter and jelly and pɛtər [* phon]
+	fʌnɪf [* phon] .
+%mor:	?|reanut n|butter coord|and n|jelly coord|and ?|pɛtər ?|fʌnɪf .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|CONJ 6|7|MOD 7|5|COORD
+	8|1|PUNCT
+*PAR:	tænk [* phon] [/] tænk [* phon] [/] tænk
+	[* phon] ɛntu [* phon] .
+%mor:	?|tænk ?|ɛntu .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	butter [* s] and jelly .
+%mor:	n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and pɛdʒɪ [* phon] on the pan .
+%mor:	coord|and ?|pɛdʒɪ adv|on det:art|the n|pan .
+%gra:	1|5|LINK 2|5|MOD 3|5|JCT 4|5|DET 5|0|INCROOT 6|5|PUNCT
+@End

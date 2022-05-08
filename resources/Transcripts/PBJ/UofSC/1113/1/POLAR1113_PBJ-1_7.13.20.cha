@@ -1,0 +1,43 @@
+@UTF8
+@Window:	85_536_401_583_0_0_392_0_392_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_PBJ-1_7.13.20 video
+@Time Duration:	00:00:34
+*PAR:	&um make a sandwich .
+%mor:	v|make det:art|a n|sandwich .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	you start with two pieces of bread .
+%mor:	pro:per|you v|start prep|with det:num|two n|piece-PL prep|of
+	n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	&um one has &um jelly on it on one side .
+%mor:	det:num|one v|have&3S n|jelly prep|on pro:per|it prep|on
+	det:num|one n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|JCT 7|8|QUANT 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and nothing else on the &o other side .
+%mor:	coord|and pro:indef|nothing post|else prep|on det:art|the qn|other
+	n|side .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|2|JCT 5|7|DET 6|7|QUANT 7|4|POBJ
+	8|1|PUNCT
+*PAR:	&uh separate piece of bread have peanut+butter on one side .
+%mor:	adj|separate n|piece prep|of n|bread v|have n|+n|peanut+n|butter
+	prep|on det:num|one n|side .
+%gra:	1|2|MOD 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|QUANT
+	9|7|POBJ 10|5|PUNCT
+*PAR:	nothing else on the other side .
+%mor:	pro:indef|nothing post|else prep|on det:art|the qn|other n|side .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|1|PUNCT
+*PAR:	you put the two together .
+%mor:	pro:per|you v|put&ZERO det:art|the det:num|two adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	&um it's pretty much there a peanut+butter and jelly sandwich .
+%mor:	pro:per|it~cop|be&3S adj|pretty adv|much adv|there det:art|a
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|2|PUNCT
+@End

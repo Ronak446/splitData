@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1044_4_PBJ_May-21st-2018-2-09-21-pm video
+*PAR:	samwithes [* phon] &uh bread &uh beddet+butter [* phon] &uh jam and
+	another &uh topping on the pizza [* s] [//] &uh bread .
+%mor:	?|samwithes n|bread ?|beddet+butter n|jam coord|and qn|another
+	n|topping prep|on det:art|the n|bread .
+%gra:	1|4|OBJ 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|CONJ 6|7|QUANT 7|5|COORD 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

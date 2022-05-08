@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:56
+@Media:	1031_BW2 video
+*PAR:	oh bibloh [* phon] mad [* phon] chick [* phon] the gall [* phon] .
+%mor:	co|oh ?|bibloh adj|mad n|chick det:art|the n|gall .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and dirk [* phon] &la &mah man .
+%mor:	coord|and ?|dirk n|man .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &bih ball &de der [* phon] &s &s uhuhahey [* phon] eh [* phon]
+	marde [* phon] &uh .
+%mor:	coord|and n|ball ?|der ?|uhuhahey co|eh ?|marde .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|6|COM 6|4|COMP 7|1|PUNCT
+*PAR:	ee [* phon] beh [* phon] man is kick ball .
+%mor:	co|ee ?|beh n|man cop|be&3S v|kick n|ball .
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|OBJ 7|4|PUNCT
+*PAR:	and &r &r &r redeh [* phon] .
+%mor:	coord|and ?|redeh .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	shickjall [* phon] and buh [* phon] man is come .
+%mor:	?|shickjall coord|and ?|buh n|man aux|be&3S part|come&PASTP .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|1|PUNCT
+*PAR:	and &y xxx [* phon] he &w [//] it bawl [* phon] lamp .
+%mor:	coord|and pro:sub|he pro:per|it v|bawl n|lamp .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &n kick it .
+%mor:	coord|and v|kick pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&uh loog [* phon] out .
+%mor:	?|loog adv|out .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+@End

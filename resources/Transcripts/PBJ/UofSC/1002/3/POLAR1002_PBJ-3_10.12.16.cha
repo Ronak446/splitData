@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1002_3_PBJ_Y2016_M10_D12_H14_M29_S22 video
+*PAR:	In the <in the> [/] &uh plate .
+%mor:	n:prop|In art|the n|plate .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	And the &uh sandwich .
+%mor:	n:prop|And art|the n|sandwich .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	In two loaves [* s] mean &uh <the two breads> [//] [* phon] .
+%mor:	n:prop|In det:num|two n|loaf-PL adj|mean .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|CJCT 4|3|PRED 5|1|PUNCT
+*PAR:	And one is peanut butter and jelly .
+%mor:	n:prop|And pro:indef|one cop|be&3S n|peanut n|butter coord|and
+	n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+*PAR:	&Bam .
+*PAR:	And it's peanut butter and jelly .
+%mor:	n:prop|And pro|it~aux|be&3S n|peanut n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|OBJ 3|5|AUX 4|5|MOD 5|2|OBJ 6|2|CONJ 7|6|COORD
+	8|1|PUNCT
+@End

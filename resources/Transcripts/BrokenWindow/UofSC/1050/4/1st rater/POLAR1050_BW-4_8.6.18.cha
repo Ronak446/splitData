@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:26
+@Media:	1050_4_BrokenWindow_August-6th-2018-10-43-03-am video
+*PAR:	okay siss [* phon] chooch [* phon] seyes [* phon] xxx [* phon] .
+%mor:	co|okay ?|siss ?|chooch ?|seyes .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	yes says ball .
+%mor:	co|yes v|say-3S n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	says xxx [* phon] &zoom .
+%mor:	v|say-3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it says xxx [* phon] joot [* phon] .
+%mor:	pro:per|it v|say-3S ?|joot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	1011_2_Cinderella_Y2017_M03_D06_H10_M01_S29 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Cinderella must xxx [* phon] .
+%mor:	n:prop|Cinderella mod|must .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	making the ball .
+%mor:	part|make-PRESP det:art|the n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] on the sequence [* s] .
+%mor:	prep|on det:art|the n|sequence .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	and numbers [* s] <and numbers> [/] .
+%mor:	coord|and n|number-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

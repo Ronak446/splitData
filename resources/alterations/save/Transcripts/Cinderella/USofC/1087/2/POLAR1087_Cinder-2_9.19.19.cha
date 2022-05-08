@@ -1,0 +1,143 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:08:51
+@Media:	1087_2_Cinderella_September-19th-2019-11-22-14-am video
+*PAR:	okay &um &um story about Cinderella .
+%mor:	co|okay n|story prep|about n:prop|Cinderella .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and Cinderella [/] &uh <Cinderella be> [/] &um be [/] <be happy>
+	[//] no Cinderella be happy .
+%mor:	coord|and co|no n:prop|Cinderella cop|be adj|happy .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and &uh &um &um &c &um &d &um prince and [/] &um and <Cinderella &um
+	happen to be> [/] <happen to be> [/] &um &ah man &um &um Cinderella
+	happen to be &uh &ah man &um .
+%mor:	coord|and n|prince coord|and n|man n:prop|Cinderella v|happen
+	inf|to cop|be n|man .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|CONJ 4|3|COORD 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|6|PUNCT
+*PAR:	put up <with it> [/] <with it> [/] with [/] <with it> [/] <of niece>
+	[//] no with it &um man &um &w <with is>  [/] <with is> [/] &um
+	<with is> [/] <with is> [/] &um niece [/] niece [/] niece [//] no
+	<with ih> [/] &um <with ih> [/] &um &um &w with [/] ah man oh okay
+	<with ih> [/] &um &s one [//] <with ih> [/] &s three [/] three [/]
+	three [/] <with ih> [/] <three sisters> [/] and &um &um &s with ih
+	[* phon] three sisters .
+%mor:	v|put&ZERO adv|up co|no prep|with pro:per|it v|man co|no co|ah
+	n|man co|oh co|okay coord|and prep|with ?|ih det:num|three
+	n|sister-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|1|COM 4|1|JCT 5|6|SUBJ 6|4|POBJ 7|9|COM 8|9|COM
+	9|6|OBJ 10|11|COM 11|9|CMOD 12|11|CONJ 13|12|COORD 14|16|MOD 15|16|QUANT
+	16|13|POBJ 17|1|PUNCT
+*PAR:	and &um Cinderella and &um try to go on to the &s &um palace and
+	<dance with a lady>  [//] no <dance with the king> [//] queen [//]
+	and [/] and &um queen [//] dance with the <king and> [//] king
+	[: prince] [* s] .
+%mor:	coord|and n:prop|Cinderella coord|and v|try inf|to v|go adv|on
+	prep|to det:art|the n|palace coord|and co|no coord|and n|dance
+	prep|with det:art|the n|prince .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|CONJ 4|3|COORD 5|6|INF 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|CONJ 12|11|COORD 13|12|CONJ 14|13|COORD
+	15|14|NJCT 16|17|DET 17|15|POBJ 18|6|PUNCT
+*PAR:	and [/] &um and [/] &um &eh &s &um &uh and [/] &um and &um &g &th
+	&th the <clock went up to> [/] to [/] &um clock went up to twelve
+	o'clock .
+%mor:	coord|and det:art|the n|clock v|go&PAST adv|up prep|to
+	det:num|twelve n|o'clock .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and happen to be Cinderella [/] &um &Cin Cinderella [/] &um &um &um
+	man &um Cinderella [/] &um &um &s &uh Cinderella &um man .
+%mor:	coord|and v|happen inf|to cop|be n|man n:prop|Cinderella n|man .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|COMP 5|7|MOD 6|7|MOD 7|4|PRED 8|2|PUNCT
+*PAR:	&um &s <after that> [//] &um &um &ah man &um &s Cinderella and after
+	that lost her slippers .
+%mor:	n|man n:prop|Cinderella coord|and prep|after adv|that v|lose&PAST
+	det:poss|her n|slipper-PL .
+%gra:	1|2|MOD 2|6|SUBJ 3|2|CONJ 4|3|COORD 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and [/] &um okay and &um &um &s she got home with one slipper .
+%mor:	co|okay coord|and pro:sub|she v|get&PAST adv|home prep|with
+	det:num|one n|slipper .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and key [//] &uh &um <little mouse> [/] &l little mouse and keys &a
+	and lock [: unlock] [* s] the door .
+%mor:	coord|and adj|little n|mouse coord|and n|key-PL coord|and un#v|lock
+	det:art|the n|door .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|CONJ 7|6|COORD
+	8|9|DET 9|7|OBJ 10|3|PUNCT
+*PAR:	and [/] &uh and [/] &sh shoe [//] <she went out> [//] and [/] and
+	[/] no and [/] &uh and [/] and &uh lock the door .
+%mor:	co|no coord|and v|lock det:art|the n|door .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and &uh she went out and [/] and [/] &uh &mm and [/] &ah man and [/]
+	and .
+%mor:	coord|and pro:sub|she v|go&PAST prep|out n|man coord|and .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|3|PUNCT
+*PAR:	<serving guy went [/] went> [//] and [/] and serving [//] &g &ah man
+	sit her down .
+%mor:	coord|and n|man v|sit pro:obj|her adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	&uh because [/] and because serving guy put her shoes on .
+%mor:	coord|and conj|because n:gerund|serve-PRESP n|guy part|put&PASTP
+	det:poss|her n|shoe-PL adv|on .
+%gra:	1|5|LINK 2|5|LINK 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+*PAR:	and [/] &um and [/] and [/] &um and &l lot of &um &s &um &p men .
+%mor:	coord|and n|lot prep|of n|man&PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*PAR:	&a and [/] &um and [/] and &um <it worked> [/] it worked out .
+%mor:	coord|and pro:per|it v|work-PAST adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&um and [/] &um &um and &s &um Cinderella and [/] &um &um <went
+	back> [/] and [/] &a and [/] &um &a and [/] and [/] and [/] &uh &ah
+	man &um went back and dantin [//] dancing with the king [: prince]
+	[* s] .
+%mor:	coord|and n:prop|Cinderella n|man v|go&PAST adv|back coord|and
+	part|dance-PRESP prep|with det:art|the n|prince .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	I [/] <I know> [/] I know <ah man> [/] &ah man okay .
+%mor:	pro:sub|I v|know n|man adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|POSTMOD 5|2|PUNCT
+*PAR:	dancing with king [: prince] [* s] and &um &um with [/] with [/]
+	with &um &ah man [/] &um &um &ah &s Cinderella &ah man [/] &um oh
+	man [/] &ah man .
+%mor:	part|dance-PRESP prep|with n|prince coord|and prep|with
+	n:prop|Cinderella co|oh n|man .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|5|POBJ 7|8|COM
+	8|5|POBJ 9|1|PUNCT
+*PAR:	&um <three wishes> [//] no three [//] no <one wish> [//] &h <she had
+	to lay down> [//] and [/] and [/] &uh oh man and [/] &uh three [//]
+	&w and &um wishes [//] that [/] &a that [/] that [//] se [: she]
+	[* phon] had to &um &um &ah man &um &uh &um &k &uh &um tih [//] twee
+	[//] three [/] three &w no &um &um &uh &h &ho <horses and> [/] &um
+	horses and &uh chariot .
+%mor:	co|no co|no co|oh n|man coord|and pro:sub|she v|have&PAST inf|to
+	v|man det:num|three qn|no n|horse-PL coord|and n|chariot .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|INF
+	9|7|COMP 10|12|QUANT 11|12|QUANT 12|9|OBJ 13|12|CONJ 14|13|COORD
+	15|4|PUNCT
+*PAR:	and [/] &um man gotted [: got] [* phon] her the horses .
+%mor:	n|man v|get&PAST pro:obj|her det:art|the n|horse-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*PAR:	and [/] and &um &w &se <she went up that to the courtyard> [//] no
+	[/] &co no courtyard [//] she went up there to the &um &c &c castle .
+%mor:	coord|and co|no pro:sub|she v|go&PAST prep|up n|there prep|to
+	det:art|the n|castle .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and [/] and that's why she met a king [/] yeah king [/] king
+	[: prince] [* s] .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|why pro:sub|she
+	v|meet&PAST det:art|a co|yeah n|prince .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|9|DET 8|9|MOD
+	9|6|OBJ 10|3|PUNCT
+*PAR:	&um and &um king &um &um &um man &um yeah .
+%mor:	coord|and n|king n|man co|yeah .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+@End

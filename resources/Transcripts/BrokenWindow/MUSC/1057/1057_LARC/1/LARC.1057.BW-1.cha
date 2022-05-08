@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:04
+@Media:	1057_LARC_1_BrokenWindow_December-3rd-2019-10-46-15-am
+*PAR:	foothole [* phon] right tere [: there] [* phon] .
+%mor:	?|foothole adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	foothole [* phon] .
+%mor:	?|foothole .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

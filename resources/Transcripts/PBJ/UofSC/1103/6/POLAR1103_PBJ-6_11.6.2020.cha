@@ -1,0 +1,51 @@
+@UTF8
+@Window:	167_907_362_511_297_0_616_0_616_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1103_PBJ-6_11.6.2020 video
+@Time Duration:	00:01:52
+*PAR:	take the bread out of the &cu cupboard .
+%mor:	v|take det:art|the n|bread adv|out prep|of det:art|the n|cupboard .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	&uh put it on the &uh shit the &uh &m xxx [* phon] the counter .
+%mor:	v|put&ZERO pro:per|it prep|on det:art|the n|shit det:art|the
+	det:art|the n|counter .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|8|DET 7|8|DET 8|1|OBJ
+	9|1|PUNCT
+*PAR:	&uh and take the &uh bread and jammie [//] jam out of the
+	refrigerator .
+%mor:	coord|and v|take det:art|the n|bread coord|and v|jam adv|out
+	prep|of det:art|the n|refrigerator .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	and get [//] put it on the counter .
+%mor:	coord|and v|put&ZERO pro:per|it prep|on det:art|the n|counter .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	get the knife &uh counter of the shelf .
+%mor:	v|get det:art|the n|knife n|counter prep|of det:art|the n|shelf .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	<and &um use the> [//] and open up the jam and peanut+butter .
+%mor:	coord|and v|open prep|up det:art|the n|jam coord|and
+	n|+n|peanut+n|butter .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|2|PUNCT
+*PAR:	and use the knife to &s spray [/] spray [//] spread the jam [//]
+	peanut+butter <onto the> [/] onto the bread .
+%mor:	coord|and v|use det:art|the n|knife inf|to v|spread&ZERO
+	det:art|the n|+n|peanut+n|butter prep|onto det:art|the n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|2|XJCT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and put the other piece over bread on [//] onto it .
+%mor:	coord|and v|put&ZERO det:art|the qn|other n|piece adv|over n|bread
+	prep|onto pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	and put away the jam &m &pot peanut+butter .
+%mor:	coord|and v|put&ZERO adv|away det:art|the n|jam
+	n|+n|peanut+n|butter .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

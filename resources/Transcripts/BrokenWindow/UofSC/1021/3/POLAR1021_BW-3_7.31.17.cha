@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:56
+@Media:	1021_3_BrokenWindow_July-31st-2017-9-45-31-am video
+*PAR:	ouf [* phon] &ff &ff &ff xxx [* phon] xxx [* phon] .
+%mor:	?|ouf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] &puh &puh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	poop [* u] xxx [* phon] xxx [* phon] .
+%mor:	n|poop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	then xxx [* phon] .
+%mor:	adv:tem|then .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] leg .
+%mor:	n|leg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] fom [* phon] .
+%mor:	?|fom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

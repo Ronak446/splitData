@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:00:46
+@Media:	1080_1_BrokenWindow_May-13th-2019-12-35-07-pm, video
+*PAR:	he [/] he put <all &br far &uh> [//] soccer ball .
+%mor:	pro:sub|he v|put&ZERO n|soccer n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	broke the window .
+%mor:	v|break&PAST det:art|the n|window .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	then upset &=laughs .
+%mor:	adv:tem|then v|upset .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:52
+@Media:	1021_5_BrokenWindow_September-25th-2017-10-36-24-am video
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] kake [* phon] &kk &kk kick .
+%mor:	?|kake v|kick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&um &kk &kk &kk kick xxx [* phon] .
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah &uh .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&kk &kk &kk key [* phon] xxx [* phon] .
+%mor:	n|key .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um &fff &fff &ki .
+*PAR:	and kick .
+%mor:	coord|and v|kick .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	&bea ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kick .
+%mor:	v|kick .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx [* phon] &ki &ki xxx [* phon] .
+*PAR:	xxx [* phon] &um .
+*PAR:	yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ki &ki &ca call [* phon] ball .
+%mor:	n|call n|ball .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&kuh call [* phon] &ki &ki xxx [* phon] .
+%mor:	n|call .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

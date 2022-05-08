@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	1011_6_BrokenWindow_November-15th-2017-10-24-51-am video
+*PAR:	icking [* phon] the ball .
+%mor:	?|icking det:art|the n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	upside down .
+%mor:	adv|upside adv|down .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	crashing through the middle .
+%mor:	part|crash-PRESP prep|through det:art|the n|middle .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	and hole .
+%mor:	coord|and n|hole .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	middle .
+%mor:	adj|middle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pushing through the middle .
+%mor:	part|push-PRESP prep|through det:art|the n|middle .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	middle and end .
+%mor:	adj|middle coord|and n|end .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+@End

@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1034_BrokenWindow6 video
+
+*PAR:	okay so young bau [* phon] is &uh kicking iz [* phon] ball .
+%mor:	co|okay adv|so adj|young ?|bau aux|be&3S part|kick-PRESP ?|iz
+	n|ball .
+%gra:	1|3|COM 2|3|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+*PAR:	lookuh [* phon] a soccer ball .
+%mor:	?|lookuh det:art|a n|soccer n|ball .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	<ulay [* phon] kicks> [//] he kicks awar [* phon] away .
+%mor:	pro:sub|he v|kick-3S ?|awar adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*PAR:	he &uh broke glass .
+%mor:	pro:sub|he v|break&PAST n|glass .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	then the ball bumps in hit the man hiz [* phon] his hands .
+%mor:	adv:tem|then det:art|the n|ball n|bump-PL prep|in v|hit&ZERO
+	det:art|the n|man ?|hiz det:poss|his n|hand-PL .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|XMOD 10|11|MOD 11|9|OBJ 12|6|PUNCT
+*PAR:	and he look around .
+%mor:	coord|and pro:sub|he cop|look adv|around .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	hey wheda [* phon] the &uh ball come from yeah .
+%mor:	co|hey ?|wheda det:art|the n|ball v|come prep|from co|yeah .
+%gra:	1|2|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+@End

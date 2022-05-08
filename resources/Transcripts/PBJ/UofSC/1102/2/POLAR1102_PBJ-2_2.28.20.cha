@@ -1,0 +1,18 @@
+@UTF8
+@Window:	0_0_0_0_0_0_273_0_273_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1102_2_PBJ_February-28th-2020-12-21-44-pm, video
+*PAR:	&mm ballberrys [: strawberries] [* phon] .
+%mor:	n|strawberry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um banana [//] no smooth grape [: jelly] [* s] .
+%mor:	qn|no adj|smooth n|jelly .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	two of them smooth .
+%mor:	det:num|two prep|of pro:obj|them v|smooth .
+%gra:	1|4|QUANT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|PUNCT
+@End

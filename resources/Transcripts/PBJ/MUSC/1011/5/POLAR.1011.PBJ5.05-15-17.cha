@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:00
+@Media:	1011_5_PBJ_Y2017_M05_D15_H09_M09_S26 video
+*PAR:	peanut-butter .
+%mor:	?|peanut-butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce [* s] lettuce [/] .
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut-butter .
+%mor:	?|peanut-butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce [* s] .
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tomato [* s] .
+%mor:	n|tomato .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut-butter and lettuce [* s] lettuce [/] .
+%mor:	?|peanut-butter coord|and n|lettuce .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce [* s] .
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut-butter .
+%mor:	?|peanut-butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jelly .
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and lettuce [* s] .
+%mor:	coord|and n|lettuce .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	yeah peanut-butter .
+%mor:	co|yeah ?|peanut-butter .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+@End

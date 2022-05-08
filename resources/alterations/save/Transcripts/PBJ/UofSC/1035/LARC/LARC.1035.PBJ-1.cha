@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	LARC.1035.PBJ-1 video
+*PAR:	obay [: okay] [* phon] there two of this bread [/] bread two of them .
+%mor:	co|okay adv|there det:num|two prep|of det:dem|this n|bread
+	det:num|two prep|of pro:obj|them .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|QUANT 8|3|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	&um beanut+butter [: peanut+butter] [* phon] good and delly
+	[: jelly] [* phon] good .
+%mor:	n|+n|peanut+n|butter adj|good coord|and n|jelly adj|good .
+%gra:	1|0|INCROOT 2|5|MOD 3|2|CONJ 4|3|COORD 5|1|POSTMOD 6|1|PUNCT
+*PAR:	but pathear [* phon] and good .
+%mor:	conj|but ?|pathear coord|and adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I luh [: love] [* phon] them &mmm good .
+%mor:	pro:sub|I v|love pro:obj|them adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	&ah oh obay [: okay] [* phon] .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

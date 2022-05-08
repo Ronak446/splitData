@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:45
+@Media:	1075_1_BrokenWindow_March-26th-2019-1-24-19-pm video
+*PAR:	well xxx [* phon] bes [* phon] pronde [* phon] de [* phon] fun .
+%mor:	co|well cop|be-3S ?|pronde ?|de n|fun .
+%gra:	1|2|COM 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and then cho [* phon] .
+%mor:	coord|and adv:tem|then ?|cho .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and [/] and thed &ooh it's durde [* phon] wait .
+%mor:	coord|and ?|thed pro:per|it~cop|be&3S ?|durde v|wait .
+%gra:	1|4|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|PRED 7|4|PUNCT
+*PAR:	it didn't white [* u] to tho [* phon] fonkuh [* phon] .
+%mor:	pro:per|it mod|do&PAST~neg|not adj|white prep|to ?|tho ?|fonkuh .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|SRL 7|5|POBJ 8|4|PUNCT
+*PAR:	and that it was in a man's xxx [* phon] and that and [/] and xxx
+	[* phon] .
+%mor:	coord|and pro:rel|that pro:per|it cop|be&PAST&13S prep|in det:art|a
+	n|man~aux|be&3S coord|and pro:dem|that coord|and .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|POSS
+	9|8|CONJ 10|9|COORD 11|10|COORD 12|4|PUNCT
+*PAR:	and then he was standed xxx [* phon] nah [* phon] to .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S part|stand-PASTP
+	co|nah prep|to .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|COM 7|5|JCT 8|5|PUNCT
+*PAR:	it's a xxx [* phon] thing .
+%mor:	pro:per|it~cop|be&3S det:art|a n|thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	though he's [//] he said besho [* phon] xxx [* phon] .
+%mor:	adv|though pro:sub|he v|say&PAST ?|besho .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	but he widout [: without] [* phon] him .
+%mor:	conj|but pro:sub|he prep|without pro:obj|him .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+@End

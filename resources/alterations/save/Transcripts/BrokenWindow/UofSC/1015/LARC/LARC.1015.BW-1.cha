@@ -1,0 +1,59 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:02:21
+@Media:	LARC.1015.BW-1 video
+*PAR:	&fa &ba ball [/] ball [/] &uh &ba &uh ball &uh .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a boy [/] boy &ge xxx [* phon] .
+%mor:	det:art|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&f football [/] football [/] football [/] football and &f a ball .
+%mor:	n|+n|foot+n|ball coord|and det:art|a n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	&beh &um &b &bo boy xxx [* phon] football [/] &uh football [/]
+	football xxx [* phon] .
+%mor:	co|boy n|+n|foot+n|ball .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	<the ball> [/] <the ball> [/] <the ball> [/] <the ball> [//] &uh the
+	[/] &t <the boy> [/] the boy &uh xxx [* phon] window &ah .
+%mor:	det:art|the n|boy n|window .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	ball xxx [* phon] &b boy [/] boy [/] boy &w windows xxx [* phon] and
+	&uh &bre &buh &win &win &w &f football &uh .
+%mor:	n|ball n|boy n|window-PL coord|and n|+n|foot+n|ball .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	ball xxx [* phon] &win window [//] &win &wid winows [: window]
+	[* phon] and the football [/] &eh football .
+%mor:	n|ball n|window coord|and det:art|the n|+n|foot+n|ball .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*PAR:	and &bran &lam &lan lamp [/] lamp [/] &la &la lamp and the [/] &uh
+	the man [/] man I &uh &fa fala [: father] [* phon] [/] &fa fala
+	[: father] [* phon] &broh &es but the [/] the [/] the [/] the &la
+	lamp [/] &l lamp and [/] and [/] and [/] and [/] and a man .
+%mor:	coord|and n|lamp coord|and det:art|the n|man pro:sub|I n|father
+	conj|but det:art|the n|lamp coord|and det:art|a n|man .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|7|SUBJ 7|5|CMOD
+	8|7|CONJ 9|10|DET 10|8|COORD 11|10|CONJ 12|13|DET 13|11|COORD 14|1|PUNCT
+*PAR:	&b folly [* u] the &th &f folly [* u] [/] folly [//] fellow [/] &f
+	fellow [//] fuhlow [: fellow ] [* phon] [/] &f fuhlow [: fellow]
+	[* phon] [/] fuhlow [: fellow] [* phon] dot [//] &da dad &um .
+%mor:	n|folly det:art|the adj|fellow n|dad .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	xxx [* phon] &la &la &la xxx [* phon] &uh &fa &fa fala [: father]
+	[* phon] football he's xxx [* phon] .
+%mor:	n|father n|+n|foot+n|ball pro:sub|he~cop|be&3S .
+%gra:	1|2|MOD 2|0|ROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+*PAR:	xxx [* phon] look [/] look the boy oh the xxx [* phon] my ear &pff
+	fear [* u] [/] fear [* u] .
+%mor:	v|look det:art|the n|boy co|oh det:art|the det:poss|my n|ear n|fear
+	.
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|8|COM 5|8|DET 6|7|MOD 7|8|MOD 8|3|APP
+	9|1|PUNCT
+*PAR:	&pf yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

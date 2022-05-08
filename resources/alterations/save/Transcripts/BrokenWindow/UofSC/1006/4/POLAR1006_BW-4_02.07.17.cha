@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1006_4_BrokenWindow_Y2017_M02_D07_H12_M05_S37 video
+*PAR:	it's a ball .
+%mor:	pro:per|it~cop|be&3S det:art|a n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and it's a .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	oh my goodness !
+%mor:	co|oh det:poss|my co|goodness !
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	again !
+%mor:	adv|again !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and it's a xxx [* phon] .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	what in the world is this .
+%mor:	pro:int|what prep|in det:art|the n|world cop|be&3S pro:dem|this .
+%gra:	1|5|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and he says come here !
+%mor:	coord|and pro:sub|he v|say-3S v|come adv|here !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	1012_6_BrokenWindow_October-23rd-2017-9-45-34-am video
+*PAR:	it's the the [/] bull [* phon] [//] ball .
+%mor:	pro:per|it~cop|be&3S det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	this &uh this [/] &uh this [/] &uh ball .
+%mor:	pro:dem|this n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	it's a breaking .
+%mor:	pro:per|it~cop|be&3S det:art|a part|break-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a oh no what .
+%mor:	pro:per|it~cop|be&3S det:art|a co|oh co|no pro:int|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|COM 5|6|COM 6|2|PRED 7|2|PUNCT
+*PAR:	it's a <it's a> [/] light <it's a light> [/] light [/] .
+%mor:	pro:per|it~cop|be&3S det:art|a n|light .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a something .
+%mor:	pro:per|it~cop|be&3S det:art|a pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	light .
+%mor:	n|light .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	something like that .
+%mor:	pro:indef|something prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	it's a look .
+%mor:	pro:per|it~cop|be&3S det:art|a co|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's it's [/] .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	it's fine .
+%mor:	pro:per|it~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I don't .
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	I I [/] never .
+%mor:	pro:sub|I adv|never .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	I mean what .
+%mor:	pro:sub|I v|mean pro:int|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I mean <I I [/]  mean> [/] what .
+%mor:	pro:sub|I v|mean pro:int|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I I [/] know it's a .
+%mor:	pro:sub|I v|know pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+@End

@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1012_5_BrokenWindow_May-22nd-2017-10-37-52-am video
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ba .
+*PAR:	that's .
+%mor:	pro:dem|that~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	break break [/] .
+%mor:	v|break .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a lamp .
+%mor:	det:art|a n|lamp .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	man .
+%mor:	n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh look .
+%mor:	co|oh co|look .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I xxx [* phon] .
+%mor:	pro:sub|I .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

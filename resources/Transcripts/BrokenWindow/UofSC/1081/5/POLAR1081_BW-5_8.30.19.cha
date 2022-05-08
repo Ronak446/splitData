@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1081.BW-5 video
+@Time Duration:	00:02:20
+*PAR:	&uh ball and then &um .
+%mor:	n|ball coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	house .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and then .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	house [//] now he's [/] he's gone .
+%mor:	adv|now pro:sub|he~aux|be&3S part|go&PASTP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	hey it happens .
+%mor:	co|hey pro:per|it v|happen-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

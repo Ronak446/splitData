@@ -1,0 +1,38 @@
+@UTF8
+@Window:	45_366_755_916_0_0_113_1_129_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	POLAR.1105.PBJ-5, video
+*PAR:	&uh you get two pieces of bread and peanut+butter and jelly and two
+	knives if you don't want them to mix .
+%mor:	pro:per|you v|get det:num|two n|piece-PL prep|of n|bread coord|and
+	n|+n|peanut+n|butter coord|and n|jelly coord|and det:num|two
+	n|knife-PL conj|if pro:per|you mod|do~neg|not v|want pro:obj|them
+	prep|to n|mix .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|CONJ
+	8|7|COORD 9|8|CONJ 10|9|COORD 11|4|CONJ 12|13|QUANT 13|11|COORD 14|18|LINK
+	15|18|SUBJ 16|18|AUX 17|16|NEG 18|2|CJCT 19|18|OBJ 20|18|JCT 21|20|POBJ
+	22|2|PUNCT
+*PAR:	and I don't want them to so I get two .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|want pro:obj|them prep|to
+	conj|so pro:sub|I v|get det:num|two .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|7|POBJ 11|10|OBJ 12|5|PUNCT
+*PAR:	and you put peanut+butter on one side and jelly on the other side .
+%mor:	coord|and pro:per|you v|put&ZERO n|+n|peanut+n|butter prep|on
+	det:num|one n|side coord|and n|jelly prep|on det:art|the qn|other
+	n|side .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|3|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|3|PUNCT
+*PAR:	yeah and then you just put them together .
+%mor:	co|yeah coord|and adv:tem|then pro:per|you adv|just v|put&ZERO
+	pro:obj|them adv|together .
+%gra:	1|6|COM 2|1|CONJ 3|2|COORD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1011_3_Cinderella_Y2017_M03_D22_H13_M08_S32 video
+*PAR:	walking stick .
+%mor:	part|walk-PRESP n|stick .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	right xxx [* phon] on .
+%mor:	adv|right prep|on .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	wight [* phon] on the walking stick .
+%mor:	?|wight adv|on det:art|the part|walk-PRESP n|stick .
+%gra:	1|0|INCROOT 2|5|JCT 3|5|DET 4|5|MOD 5|1|ENUM 6|1|PUNCT
+*PAR:	dress dressed and xxx [* phon] .
+%mor:	n|dress v|dress-PAST coord|and .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and walking stick .
+%mor:	coord|and part|walk-PRESP n|stick .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	the whole way <whole way> [/] .
+%mor:	det:art|the n|whole n|way .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

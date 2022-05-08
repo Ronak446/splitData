@@ -1,0 +1,81 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:03
+@Media:	1003_4_BrokenWindow_Y2016_M11_D08_H15_M01_S57 video
+*PAR:	okay well .
+%mor:	co|okay co|well .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	little guy <it> [* s] [//] he's got the doing things .
+%mor:	adj|little n|guy pro:sub|he~aux|be&3S part|get&PASTP det:art|the
+	part|do-PRESP n|thing-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|8|DET 7|8|MOD 8|5|OBJ
+	9|2|PUNCT
+*PAR:	he's got the k-i-s-h-h [* phon] .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|the ?|k-i-s-h-h .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it [* s] trying to look with the &um for a .
+%mor:	coord|and pro:per|it part|try-PRESP inf|to v|look prep|with
+	det:art|the prep|for det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	xxx [* phon] [//] xxx [* phon] .
+*PAR:	anyway he goes out .
+%mor:	co|anyway pro:sub|he v|go-3S adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and next thing he goes and he [* s] goes through a w-o [* phon] .
+%mor:	coord|and adj|next n|thing pro:sub|he v|go-3S coord|and pro:sub|he
+	v|go-3S prep|through det:art|a ?|w-o .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|8|LINK 7|8|SUBJ
+	8|3|CJCT 9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and he [* s] goes through it xxx [* phon] .
+%mor:	coord|and pro:sub|he v|go-3S prep|through pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and he [* s] gets through the <three> [* s] [//] third one .
+%mor:	coord|and pro:sub|he v|get-3S prep|through det:art|the n|third
+	pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	the person just gets it between it .
+%mor:	det:art|the n|person adv|just v|get-3S pro:per|it prep|between
+	pro:per|it .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	and it [* s] had no idea but here it comes .
+%mor:	coord|and pro:per|it v|have&PAST qn|no n|idea conj|but adv|here
+	pro:per|it v|come-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|9|LINK 7|9|JCT 8|9|SUBJ
+	9|3|CJCT 10|3|PUNCT
+*PAR:	and &uh find it there and that guy ended up getting hurt very badly .
+%mor:	coord|and v|find pro:per|it adv|there coord|and pro:dem|that n|guy
+	v|end-PAST adv|up n:gerund|get-PRESP v|hurt&ZERO adv|very
+	adv|bad&dadj-LY .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|2|COMP
+	9|8|JCT 10|11|SUBJ 11|8|COMP 12|13|JCT 13|11|JCT 14|2|PUNCT
+*PAR:	anyway he looks over and looks at the first and he goes .
+%mor:	co|anyway pro:sub|he v|look-3S adv|over coord|and v|look-3S prep|at
+	det:art|the adj|first coord|and pro:sub|he v|go-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|CONJ 11|12|SUBJ 12|10|COORD 13|3|PUNCT
+*PAR:	you know it's bad or whatever our friend .
+%mor:	pro:per|you v|know pro:per|it~cop|be&3S adj|bad coord|or
+	pro:int|whatever det:poss|our n|friend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|5|CONJ 7|6|COORD 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+*PAR:	he says okay guys you have to come back and help me out .
+%mor:	pro:sub|he v|say-3S adj|okay n|guy-PL pro:per|you v|have inf|to
+	v|come n|back coord|and v|help pro:obj|me adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|SUBJ 6|4|CMOD 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|8|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|2|PUNCT
+*PAR:	so come back here and we'll do it .
+%mor:	adv|so v|come adv|back adv|here coord|and pro:sub|we~mod|will v|do
+	pro:per|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+*PAR:	nice guy .
+%mor:	adj|nice n|guy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	very xxx [* phon] .
+%mor:	adv|very .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

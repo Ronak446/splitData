@@ -1,0 +1,144 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:09
+@Media:	1019_3_Cinderella_Y2017_M07_D05_H13_M13_S54 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um there was this &um gentleman and this &l &uh girl .
+%mor:	pro:exist|there cop|be&PAST&13S pro:dem|this n|gentleman coord|and
+	pro:dem|this n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*PAR:	and he was marrying <the other girl> [//] or the lady .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|marry-PRESP coord|or
+	det:art|the n|lady .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|7|DET 7|5|COORD 8|4|PUNCT
+*PAR:	and had the two daughters .
+%mor:	coord|and v|have&PAST det:art|the det:num|two n|daughter-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*PAR:	but when they were &um meeting &uh the oh god .
+%mor:	conj|but conj|when pro:sub|they aux|be&PAST part|meet-PRESP
+	det:art|the co|oh n|god .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*PAR:	&uh it's so &uh .
+%mor:	pro:per|it~cop|be&3S adv|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	they were &um &um .
+%mor:	pro:sub|they cop|be&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	anyway they were &um at the next one they were saying &um Cimderella
+	[: Cinderella] [* phon] just come in .
+%mor:	co|anyway pro:sub|they cop|be&PAST prep|at det:art|the adj|next
+	pro:indef|one pro:sub|they aux|be&PAST part|say-PRESP
+	n:prop|Cinderella adv|just v|come adv|in .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|10|OBJ 12|13|JCT 13|10|XJCT 14|13|JCT 15|3|PUNCT
+*PAR:	and &uh she said &uh well I
+	don't know what we're gonna do but .
+%mor:	coord|and pro:sub|she v|say&PAST adv|well pro:sub|I mod|do~neg|not
+	v|know pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do
+	conj|but .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|INF 14|12|XCOMP 15|14|OBJ
+	16|3|PUNCT
+*PAR:	and they &uh were nasty [/] nasty
+	XXX [* phon] but as a [/] a bear .
+%mor:	coord|and pro:sub|they cop|be&PAST adj|nasty n:prop|XXX conj|but
+	prep|as det:art|a n|bear .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PRED 6|5|CONJ 7|6|COORD 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	&um .
+*PAR:	so &uh and the &uh dog <and cat were> [//] and the horse were out
+	there and they nessy [: messy] [* phon] too .
+%mor:	adv|so coord|and det:art|the n|dog coord|and det:art|the n|horse
+	aux|be&PAST adv|out adv|there coord|and pro:sub|they adj|mess&dn-Y
+	post|too .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|9|LINK 6|7|DET 7|9|SUBJ
+	8|9|AUX 9|4|CMOD 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|PRED 14|13|PQ 15|1|PUNCT
+*PAR:	and so &cinde &s I don't
+	know but I'm being so good .
+%mor:	coord|and co|so pro:sub|I mod|do~neg|not v|know conj|but
+	pro:sub|I~aux|be&1S part|be-PRESP adv|so adj|good .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|12|JCT 12|10|PRED 13|6|PUNCT
+*PAR:	why are they being nasty .
+%mor:	adv:int|why aux|be&PRES pro:sub|they part|be-PRESP adj|nasty .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	so anyway &um .
+%mor:	adv|so adv|anyway .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	then &uh .
+%mor:	adv:tem|then .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know who the man is but &uh the Cinderella looked out at the
+	picture and it was a beautiful picture of the nice &uh &uh &uh
+	castle .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|who det:art|the n|man
+	cop|be&3S conj|but det:art|the n:prop|Cinderella v|look-PAST adv|out
+	prep|at det:art|the n|picture coord|and pro:per|it cop|be&PAST&13S
+	det:art|a adj|beautiful n|picture prep|of det:art|the adj|nice
+	n|castle .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|OBJ 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|CJCT 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|12|CJCT 20|22|DET 21|22|MOD 22|19|PRED
+	23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|4|PUNCT
+*PAR:	and &uh &uh so she &um put her on her [/] her gown .
+%mor:	coord|and co|so pro:sub|she v|put&ZERO pro:obj|her prep|on
+	det:poss|her n|gown .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and &um
+	she was really getting nice .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|real&dadj-LY
+	part|get-PRESP adj|nice .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|PRED 7|3|PUNCT
+*PAR:	and &uh the &uh prince who &um was
+	dancing in and were &um and she was dancing and he was dancing so we
+	got it together .
+%mor:	coord|and det:art|the n|prince pro:rel|who aux|be&PAST&13S
+	part|dance-PRESP adv|in coord|and cop|be&PAST coord|and pro:sub|she
+	aux|be&PAST&13S part|dance-PRESP coord|and pro:sub|he
+	aux|be&PAST&13S n:gerund|dance-PRESP adv|so pro:sub|we v|get&PAST
+	pro:per|it adv|together .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT
+	8|3|CONJ 9|8|COORD 10|13|LINK 11|13|SUBJ 12|13|AUX 13|3|CMOD 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|COMP 18|20|JCT 19|20|SUBJ 20|17|JCT 21|20|OBJ
+	22|20|JCT 23|1|PUNCT
+*PAR:	then the &um clock hit midnight .
+%mor:	adv:tem|then det:art|the n|clock v|hit&ZERO mid#n|night&dn .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &um they said oh I'm gonna go up and &uh to bed and &uh .
+%mor:	coord|and pro:sub|they v|say&PAST co|oh pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|go adv|up coord|and prep|to n|bed coord|and .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|COM 5|7|SUBJ 6|7|AUX 7|3|COMP 8|9|INF
+	9|7|XCOMP 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|POBJ 14|13|COORD 15|3|PUNCT
+*PAR:	and I don't know &um what happened but &um .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:int|what
+	v|happen-PAST conj|but .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*PAR:	she &s I don't know she slept for a while and then &uh the prince
+	came around again .
+%mor:	pro:sub|she pro:sub|I mod|do~neg|not v|know pro:sub|she
+	v|sleep&PAST prep|for det:art|a n|while coord|and adv:tem|then
+	det:art|the n|prince v|come&PAST adv|around adv|again .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|CMOD 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|15|JCT 13|14|DET 14|15|SUBJ 15|11|COORD
+	16|15|JCT 17|15|JCT 18|1|PUNCT
+*PAR:	and &um and he was marrying her .
+%mor:	coord|and coord|and pro:sub|he aux|be&PAST&13S part|marry-PRESP
+	pro:obj|her .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	but [/] &um but anyway so &um and that's all I got .
+%mor:	conj|but adv|anyway adv|so coord|and pro:dem|that~cop|be&3S
+	pro:indef|all pro:sub|I v|get&PAST .
+%gra:	1|3|LINK 2|3|JCT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|9|JCT 8|9|SUBJ
+	9|6|PRED 10|6|PUNCT
+@End

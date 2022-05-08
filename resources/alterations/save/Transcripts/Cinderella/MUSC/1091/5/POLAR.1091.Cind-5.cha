@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.Cind-5 video
+@Time Duration:	00:01:12
+*PAR:	<I don't rem> [//] &um Cinderella I can't even remember what I &um .
+%mor:	n:prop|Cinderella pro:sub|I mod|can~neg|not adv|even v|remember
+	pro:int|what pro:sub|I .
+*PAR:	<I can't remember> [//] I mean I know it .
+%mor:	pro:sub|I v|mean pro:sub|I v|know pro:per|it .
+*PAR:	but I can't say it &um xxx [* phon] .
+%mor:	conj|but pro:sub|I mod|can~neg|not v|say pro:per|it .
+*PAR:	<I can't remember I don't> [//] &mmm okay Cinderella had two
+	sisters and then a stepmother that was mean .
+%mor:	co|okay n:prop|Cinderella v|have&PAST det:num|two n|sister-PL
+	coord|and adv:tem|then det:art|a step#n|mother pro:rel|that
+	cop|be&PAST&13S adj|mean .
+*PAR:	and she <oh god> [//] &uh I can't remember .
+%mor:	coord|and pro:sub|she pro:sub|I mod|can~neg|not v|remember .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*PAR:	I can't remember .
+%mor:	pro:sub|I mod|can~neg|not v|remember .
+*PAR:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+@End

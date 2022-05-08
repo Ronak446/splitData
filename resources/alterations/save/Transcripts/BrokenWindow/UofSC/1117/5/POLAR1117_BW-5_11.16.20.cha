@@ -1,0 +1,46 @@
+@UTF8
+@Window:	0_0_0_0_-1_-1_181_0_181_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	POLAR1117_BW-5_11.16.20, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there's a little kid was playing with a kick [: soccer] [* s] ball .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|little n|kid
+	aux|be&PAST&13S part|play-PRESP prep|with det:art|a n|soccer n|ball
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|2|PRED 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*PAR:	and all the sudden he kicked the ball up and up in the air .
+%mor:	coord|and qn|all det:art|the adj|sudden pro:sub|he v|kick-PAST
+	det:art|the n|ball adv|up coord|and adv|up prep|in det:art|the n|air
+	.
+%gra:	1|6|LINK 2|4|QUANT 3|4|DET 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|6|CONJ 11|10|COORD 12|11|JCT 13|14|DET 14|12|POBJ 15|6|PUNCT
+*PAR:	and it &boop and it busted the window .
+%mor:	coord|and pro:per|it coord|and pro:per|it v|bust-PAST det:art|the
+	n|window .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and it fell in and buss [: bust] [* phon] it .
+%mor:	coord|and pro:per|it v|fall&PAST adv|in coord|and v|bust pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ 8|3|PUNCT
+*PAR:	and then all the sudden it fell on his lap to the man that lives in the house .
+%mor:	coord|and adv:tem|then qn|all det:art|the adj|sudden pro:per|it
+	v|fall&PAST prep|on det:poss|his n|lap prep|to det:art|the n|man
+	pro:rel|that v|live-3S prep|in det:art|the n|house .
+%gra:	1|7|LINK 2|7|JCT 3|5|QUANT 4|5|DET 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|7|PUNCT
+*PAR:	and then [/] <then he> [//] after he got it he stood up and lowked [: looked] [* phon] over the window to see who did that .
+%mor:	coord|and prep|after pro:sub|he v|get&PAST pro:per|it pro:sub|he
+	v|stand&PAST adv|up coord|and v|look-PAST prep|over det:art|the
+	n|window inf|to v|see pro:int|who mod|do&PAST pro:dem|that .
+%gra:	1|7|LINK 2|7|JCT 3|4|SUBJ 4|2|POBJ 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|JCT 12|13|DET 13|11|POBJ 14|15|INF 15|10|XJCT
+	16|18|SUBJ 17|18|AUX 18|15|COMP 19|7|PUNCT
+@End

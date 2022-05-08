@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:32
+@Media:	1036_BW2 video
+*PAR:	bas [* phon] &um kicking the ball [/] ball &um kicking &um thas
+	[* phon] &um some &um boy is kicking a ball .
+%mor:	?|bas part|kick-PRESP det:art|the n|ball part|kick-PRESP ?|thas
+	qn|some n|boy aux|be&3S part|kick-PRESP det:art|a n|ball .
+%gra:	1|0|INCROOT 2|1|XJCT 3|4|DET 4|2|OBJ 5|4|XMOD 6|5|OBJ 7|8|QUANT
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|12|DET 12|10|OBJ 13|1|PUNCT
+*PAR:	&um breaking window .
+%mor:	part|break-PRESP n|window .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&um &um man [/] &um man &um kicking &um man [/] &um man &um the ball
+	&um &um man in is injur [* phon] [//] &um &um man &um &um man ist
+	[* phon] &um ball &um in man is &um &um &um &um kicking &um &um is
+	&um &um moken [* phon] window &um &um .
+%mor:	n|man part|kick-PRESP n|man det:art|the n|ball n|man prep|in
+	aux|be&3S n|man n|man ?|ist n|ball prep|in n|man aux|be&3S
+	n:gerund|kick-PRESP cop|be&3S ?|moken n|window .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|10|AUX
+	9|10|MOD 10|7|POBJ 11|6|XMOD 12|16|SUBJ 13|12|NJCT 14|13|POBJ 15|16|AUX
+	16|17|SUBJ 17|11|COMP 18|19|MOD 19|17|PRED 20|1|PUNCT
+*PAR:	ahs [* phon] it .
+%mor:	?|ahs pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+@End

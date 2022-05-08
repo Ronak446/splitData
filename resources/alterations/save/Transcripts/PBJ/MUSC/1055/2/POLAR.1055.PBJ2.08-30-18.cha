@@ -1,0 +1,69 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:35
+@Media:	1055_2_PBJ_August-30th-2018-1-41-09-pm video
+*PAR:	xxx [* phon] sanwish [: sandwich] [* phon] .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and dere [* phon] he was .
+%mor:	coord|and ?|dere pro:sub|he cop|be&PAST&13S .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|CMOD 5|1|PUNCT
+*PAR:	and backit [* phon] .
+%mor:	coord|and ?|backit .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	dackit [* phon] .
+*PAR:	and bahbuzz [* phon] .
+%mor:	coord|and ?|bahbuzz .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &d &r [/] and to have a dackit [* phon] xxx [* phon] .
+%mor:	coord|and coord|and prep|to v|have det:art|a ?|dackit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|POBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+*PAR:	you have a packit [* phon] xxx [* phon] .
+%mor:	pro:per|you v|have det:art|a ?|packit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and to button [* u] .
+%mor:	coord|and inf|to v|button .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|3|PUNCT
+*PAR:	&a and &ooh xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] want to have a button [* u] boove [* phon] .
+%mor:	v|want inf|to v|have det:art|a n|button ?|boove .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|6|SUBJ 6|3|COMP 7|1|PUNCT
+*PAR:	and a cutting .
+%mor:	coord|and det:art|a n:gerund|cut-PRESP .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	cookum [* phon] xxx [* phon] .
+*PAR:	cutting xxx [* phon] .
+%mor:	part|cut-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cutting xxx [* phon] cutting .
+%mor:	part|cut-PRESP part|cut-PRESP .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	to have a xxx [* phon] cutting .
+%mor:	inf|to v|have det:art|a n:gerund|cut-PRESP .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	xxx [* phon] cutting .
+%mor:	part|cut-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] cutting .
+%mor:	part|cut-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	to have a coobrush [* phon] .
+%mor:	inf|to v|have det:art|a ?|coobrush .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	to have a &ohhh .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	xxx [* phon] <to have a colebutton to have a colebutton to have a
+	colebutton to have a colebutton> [/] to have a colebutton [* phon] .
+%mor:	inf|to v|have det:art|a ?|colebutton .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	xxx [* phon] &ohhh .
+@End

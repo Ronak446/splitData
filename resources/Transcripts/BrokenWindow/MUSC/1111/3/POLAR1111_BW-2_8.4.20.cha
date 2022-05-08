@@ -1,0 +1,37 @@
+@UTF8
+@Window:	0_0_0_0_0_0_533_0_533_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:29
+@Media:	1111_BrokenWindow_3_2020-08-04-11-05-39, video
+*PAR:	&uh &uh &uh break &uh sprank [: break] [* phon] his .
+%mor:	n|break n|break det:poss|his .
+%gra:	1|2|MOD 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	and &uh with the ball .
+%mor:	coord|and prep|with det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&uh and &pik picked [: kicked] [* phon] it &uh off the xxx [* phon] .
+%mor:	coord|and v|kick-PAST pro:per|it prep|off det:art|the .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&uh which &uh landed &uh and broke the vase [//] &uh no &uh lamp and
+	&uh the window glass .
+%mor:	pro:int|which v|land-PAST coord|and v|break&PAST det:art|the qn|no
+	n|lamp coord|and det:art|the n|window n|glass .
+%gra:	1|2|LINK 2|0|ROOT 3|2|CONJ 4|3|COORD 5|7|DET 6|7|QUANT 7|4|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|2|PUNCT
+*PAR:	and then the neighbor was it a man &uh &uh &uh &uh &duh &uh oh went
+	and [/] &uh and [/] &uh and &uh &uh &sa &um &uh watched the kid &uh
+	with the .
+%mor:	coord|and adv:tem|then det:art|the n|neighbor cop|be&PAST&13S
+	pro:per|it det:art|a n|man co|oh v|go&PAST coord|and v|watch-PAST
+	det:art|the n|kid prep|with det:art|the .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|8|DET 8|6|OBJ
+	9|10|COM 10|8|CMOD 11|10|CONJ 12|11|COORD 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|15|POBJ 17|5|PUNCT
+*PAR:	and [/] &uh and &uh &uh took a ball to the window .
+%mor:	coord|and v|take&PAST det:art|a n|ball prep|to det:art|the n|window
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+@End

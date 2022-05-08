@@ -1,0 +1,133 @@
+@UTF8
+@Window:	0_0_0_0_84_1_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1104_PBJ-6_12.29.20 video
+@Time Duration:	00:03:34
+*PAR:	you <go to the school [: store] [* s]> [//] <go to> [/] go to the
+	&ss &ss store and get some peanut+butter and jelly .
+%mor:	pro:per|you v|go prep|to det:art|the n|store coord|and v|get
+	qn|some n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|QUANT
+	9|7|OBJ 10|9|CONJ 11|10|COORD 12|2|PUNCT
+*PAR:	I think we've got here .
+%mor:	pro:sub|I v|think pro:sub|we~aux|have part|get&PASTP adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+*PAR:	so I think we could have some here .
+%mor:	co|so pro:sub|I v|think pro:sub|we mod|could v|have qn|some
+	adv|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|QUANT 8|6|JCT
+	9|3|PUNCT
+*PAR:	and anyway you [/] &uh <you take out of the peanut &but> [//] you
+	<take the> [//] &um <take out the panc [: pantry] [* phon] [//]
+	pantor [: pantry] [* phon] [//] pantry> [//] take out the pantry <to
+	the> [//] &uh with the &uh peanut+butter and [/] and &uh put it on a
+	&um table [: plate] [* u] or something .
+%mor:	coord|and co|anyway pro:per|you v|take prep|out det:art|the
+	n|pantry prep|with det:art|the n|+n|peanut+n|butter coord|and
+	v|put&ZERO pro:per|it prep|on det:art|a n|plate coord|or
+	pro:indef|something .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|12|CONJ 18|17|COORD 19|4|PUNCT
+*PAR:	and <when I go> [//] then go get [//] to the refrigerator and get
+	the &uh jelly [/] jelly <onto the> [//] beside the &um table .
+%mor:	coord|and adv:tem|then v|go prep|to det:art|the n|refrigerator
+	coord|and v|get det:art|the n|jelly prep|beside det:art|the n|table
+	.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and then you [/] you &uh open both .
+%mor:	coord|and adv:tem|then pro:per|you v|open qn|both .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	you have a &uh spoon maybe a knife .
+%mor:	pro:per|you v|have det:art|a n|spoon adv|maybe det:art|a n|knife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	yeah both of them what I usually do .
+%mor:	co|yeah qn|both prep|of pro:obj|them pro:int|what pro:sub|I
+	adv|usual&dadj-LY v|do .
+%gra:	1|8|COM 2|8|QUANT 3|2|NJCT 4|3|POBJ 5|8|LINK 6|8|SUBJ 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*PAR:	but spread [//] oh take the bread .
+%mor:	conj|but co|oh v|take det:art|the n|bread .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	gotta get the bread over here .
+%mor:	mod|got~inf|to v|get det:art|the n|bread prep|over n|here .
+%gra:	1|3|AUX 2|3|INF 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	it won't help without the bread .
+%mor:	pro:per|it mod|will~neg|not v|help prep|without det:art|the n|bread
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	so you gotta go over here and get the bread that we have &uh right
+	beside the refrigerator I guess .
+%mor:	co|so pro:per|you mod|got~inf|to v|go prep|over n|here coord|and
+	v|get det:art|the n|bread pro:rel|that pro:sub|we v|have adv|right
+	prep|beside det:art|the n|refrigerator pro:sub|I v|guess .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|JCT
+	16|14|JCT 17|18|DET 18|16|POBJ 19|20|SUBJ 20|14|CJCT 21|5|PUNCT
+*PAR:	and anyway take it over here which is the table and <put the &frid>
+	[//] put the &uh <two sises [: slices] [* phon]> [//] <two spide
+	[: slices] [* phon]> [//] two slices of bread besides both of them .
+%mor:	coord|and co|anyway v|take pro:per|it prep|over n|here
+	pro:rel|which cop|be&3S det:art|the n|table coord|and v|put&ZERO
+	det:art|the det:num|two n|slice-PL prep|of n|bread prep|besides
+	qn|both prep|of pro:obj|them .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|PRED 11|10|CONJ 12|11|COORD 13|15|DET 14|15|QUANT 15|12|OBJ
+	16|15|NJCT 17|16|POBJ 18|10|NJCT 19|18|POBJ 20|19|NJCT 21|20|POBJ
+	22|3|PUNCT
+*PAR:	and then you take out the knife or whatever and [/] and [/] and &uh
+	spread on one of the &uh slices of bread .
+%mor:	coord|and adv:tem|then pro:per|you v|take prep|out det:art|the
+	n|knife coord|or pro:int|whatever coord|and v|spread&ZERO prep|on
+	det:num|one prep|of det:art|the n|slice-PL prep|of n|bread .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|CONJ 11|10|COORD 12|9|JCT 13|12|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|4|PUNCT
+*PAR:	and you put that peanut+butter and just <spra [: spread] [* phon] it
+	all the way> [//] spra [: spread] [* phon] [//] spread it all over .
+%mor:	coord|and pro:per|you v|put&ZERO pro:dem|that n|+n|peanut+n|butter
+	coord|and adv|just v|spread&ZERO pro:per|it adv|all adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|8|JCT 8|6|COORD
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|3|PUNCT
+*PAR:	and then we get it where you want when you get really just right .
+%mor:	coord|and adv:tem|then pro:sub|we v|get pro:per|it pro:int|where
+	pro:per|you v|want conj|when pro:per|you v|get adv|real&dadj-LY
+	adv|just co|right .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|PUNCT
+	9|11|LINK 10|11|SUBJ 11|8|ROOT 12|14|JCT 13|14|JCT 14|11|INCROOT
+	15|14|PUNCT
+*PAR:	and then you sit near there or [//] or go get another something .
+%mor:	coord|and adv:tem|then pro:per|you v|sit prep|near n|there coord|or
+	v|go v|get qn|another pro:indef|something .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SRL
+	9|4|CJCT 10|11|QUANT 11|9|OBJ 12|4|PUNCT
+*PAR:	what I usually do if I'm using jelly .
+%mor:	pro:int|what pro:sub|I adv|usual&dadj-LY v|do conj|if
+	pro:sub|I~aux|be&1S part|use-PRESP n|jelly .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|OBJ 10|4|PUNCT
+*PAR:	I guess when using jelly I need to use a spoon for that .
+%mor:	pro:sub|I n|guess pro:rel|when part|use-PRESP n|jelly pro:sub|I
+	v|need inf|to v|use det:art|a n|spoon prep|for pro:dem|that .
+%gra:	1|7|SUBJ 2|7|JCT 3|4|LINK 4|2|CMOD 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|12|POBJ 14|7|PUNCT
+*PAR:	so spoon onto the other piece of bread .
+%mor:	adv|so v|spoon prep|onto det:art|the qn|other n|piece prep|of
+	n|bread .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	and spread the jelly .
+%mor:	coord|and v|spread&ZERO det:art|the n|jelly .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and then you put them together .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO pro:obj|them
+	adv|together .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and then you eat it .
+%mor:	coord|and adv:tem|then pro:per|you v|eat pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

@@ -1,0 +1,64 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:40
+@Media:	1019_3_BrokenWindow_Y2017_M07_D05_H13_M09_S02 video
+*PAR:	so &um .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	do you have to be the [/] the beginning of that .
+%mor:	mod|do pro:per|you v|have inf|to cop|be det:art|the n|beginning
+	prep|of pro:dem|that .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and the end of that .
+%mor:	coord|and det:art|the n|end prep|of pro:dem|that .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<the little boy> [//] &uh or the big boy I think &um was playing
+	with the soccer ball .
+%mor:	coord|or det:art|the adj|big n|boy pro:sub|I v|think
+	aux|be&PAST&13S part|play-PRESP prep|with det:art|the n|soccer
+	n|ball .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|6|SUBJ 6|4|CMOD 7|8|AUX
+	8|6|COMP 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|1|PUNCT
+*PAR:	and he &uh lost [: kicked] [* u] it [/] it up .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	but he &um &uh hit <a window> [//] a very [/]  very &uh nasty thing .
+%mor:	conj|but pro:sub|he v|hit&ZERO det:art|a adv|very adj|nasty n|thing
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*PAR:	but then the [/] &le the man &um like what the heck happened to .
+%mor:	conj|but adv:tem|then det:art|the n|man prep|like pro:int|what
+	det:art|the n|heck v|happen-PAST prep|to .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|JCT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|POBJ 10|9|JCT 11|4|PUNCT
+*PAR:	so &um he &um went and got the ball .
+%mor:	co|so pro:sub|he v|go&PAST coord|and v|get&PAST det:art|the n|ball
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	and &um he looked out .
+%mor:	coord|and pro:sub|he v|look-PAST adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	<and there was a kid> [/] &uh I mean &uh &uh I don't know what
+	happened but it did .
+%mor:	pro:sub|I v|mean pro:sub|I mod|do~neg|not v|know pro:int|what
+	v|happen-PAST conj|but pro:per|it v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|8|SUBJ 8|6|COMP
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|2|PUNCT
+*PAR:	so well the man said I'm not giving the ball
+	back to you .
+%mor:	adv|so adv|well det:art|the n|man v|say&PAST pro:sub|I~cop|be&1S
+	neg|not part|give-PRESP det:art|the n|ball adv|back prep|to
+	pro:per|you .
+%gra:	1|2|JCT 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|NEG
+	9|7|XJCT 10|11|DET 11|9|OBJ 12|9|JCT 13|9|JCT 14|13|POBJ 15|5|PUNCT
+*PAR:	so that's the story .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the n|story .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@End

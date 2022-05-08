@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	LARC.1044.BW-1 video
+*PAR:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh &uh &s &uh the ball [: window] [* s] is &um cleara [: clearly]
+	[* phon] is &um &um &b broken .
+%mor:	co|oh det:art|the n|window aux|be&3S adv|clear&dadj-LY aux|be&3S
+	part|break&PASTP .
+%gra:	1|7|COM 2|3|DET 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*PAR:	the man &um the &um &um oh okay .
+%mor:	det:art|the n|man det:art|the co|oh co|okay .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|CMOD 5|4|COM 6|2|PUNCT
+*PAR:	the &uh &um clearly <the man> [//] &um the ball [: window] [* s] is
+	broken .
+%mor:	det:art|the adv|clear&dadj-LY det:art|the n|window aux|be&3S
+	part|break&PASTP .
+%gra:	1|2|DET 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

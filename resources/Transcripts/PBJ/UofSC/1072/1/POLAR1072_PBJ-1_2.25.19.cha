@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:51
+@Media:	1072_1_PBJ_February-25th-2019-11-33-34-am video
+*PAR:	&uh &um but [//] <put the> [/] &um put the &pep &pe &pep &pep
+	butter [: peanut+butter] [* s] &um &um put it yeah oh okay .
+%mor:	v|put&ZERO det:art|the n|+n|peanut+n|butter v|put&ZERO pro:per|it
+	co|yeah co|oh co|okay .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|COM 7|8|COM 8|4|COMP
+	9|4|PUNCT
+*PAR:	and [/] and &uh <then the> [/] then the telly [: jelly] [* phon] on
+	&puh &puh &ah in &t to the bread .
+%mor:	coord|and adv:tem|then det:art|the n|jelly adv|on adv|in prep|to
+	det:art|the n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|JCT 7|4|NJCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+@End

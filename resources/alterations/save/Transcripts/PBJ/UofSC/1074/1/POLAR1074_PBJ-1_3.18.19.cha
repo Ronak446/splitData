@@ -1,0 +1,52 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Time Duration:	00:01:48
+@Media:	1074_1_PBJ video
+*PAR:	I would get out a plate .
+%mor:	pro:sub|I mod|will&COND v|get adv|out det:art|a n|plate .
+*PAR:	and then I would gather my bread my peanut+butter and my jelly and
+	put it on the counter .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|gather det:poss|my
+	n|bread det:poss|my n|+n|peanut+n|butter coord|and det:poss|my
+	n|jelly coord|and v|put&ZERO pro:per|it prep|on det:art|the
+	n|counter .
+*PAR:	then I would &um take one piece of bread put it on plate .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|take det:num|one n|piece
+	prep|of n|bread v|put&ZERO pro:per|it prep|on n|plate .
+*PAR:	and then I would &um &uh use a knife and &um put &uh jelly on one
+	&ss <one p> [//] one piece of bread .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|use det:art|a
+	n|knife coord|and v|put&ZERO n|jelly prep|on det:num|one det:num|one
+	n|piece prep|of n|bread .
+*PAR:	&uh and then I would take the other piece of bread .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|take det:art|the
+	qn|other n|piece prep|of n|bread .
+*PAR:	and I would put .
+%mor:	coord|and pro:sub|I mod|will&COND part|put&PASTP .
+*PAR:	I can't remember what I did .
+%mor:	pro:sub|I mod|can~neg|not v|remember pro:int|what pro:sub|I
+	v|do&PAST .
+*PAR:	did I do jelly first ?
+%mor:	mod|do&PAST pro:sub|I v|do n|jelly adv|first ?
+*PAR:	if I did jelly first I would take and put then I would and use &um .
+%mor:	conj|if pro:sub|I v|do&PAST n|jelly adv|first pro:sub|I
+	mod|will&COND v|take coord|and v|put&ZERO adv:tem|then pro:sub|I
+	mod|will&COND coord|and n|use .
+*PAR:	I'd wipe off the knife .
+%mor:	pro:sub|I~mod|genmod v|wipe prep|off det:art|the n|knife .
+*PAR:	and I would put &um peanut+butter on the other side of the bread .
+%mor:	coord|and pro:sub|I mod|will&COND v|put&ZERO n|+n|peanut+n|butter
+	prep|on det:art|the qn|other n|side prep|of det:art|the n|bread .
+*PAR:	and then I would put them put them together &um &uh &um so the jelly
+	and the peanut+butter were touching .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	pro:obj|them v|put&ZERO pro:obj|them adv|together conj|so
+	det:art|the n|jelly coord|and det:art|the n|+n|peanut+n|butter
+	aux|be&PAST part|touch-PRESP .
+*PAR:	and then I would cut it in half and &um serve it .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|cut&ZERO
+	pro:per|it prep|in n|half coord|and v|serve pro:per|it .
+@End

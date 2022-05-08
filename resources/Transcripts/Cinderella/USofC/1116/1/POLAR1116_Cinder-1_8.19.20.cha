@@ -1,0 +1,80 @@
+@UTF8
+@Window:	0_0_0_0_0_0_275_0_275_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:42
+@Media:	POLAR_1116_1_Cinderella_8.19.2020, video
+*PAR:	he said to be .
+%mor:	pro:sub|he v|say&PAST inf|to cop|be .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*PAR:	I can't see gaday [: anything] [* phon] .
+%mor:	pro:sub|I mod|can~neg|not v|see pro:indef|anything .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I can't sue [: say] [* phon] it Danny . 
+%mor:	pro:sub|I mod|can~neg|not v|say pro:per|it n:prop|Danny .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	book [* u] .
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	just anything ?
+%mor:	adv|just pro:indef|anything ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	I [/] I can't do it xxx [* phon] .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	you are [//] I can't say it Jenny .
+%mor:	pro:per|you pro:sub|I mod|can~neg|not v|say pro:per|it n:prop|Jenny
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|5|PUNCT
+*PAR:	I see xxx [* phon] .
+%mor:	pro:sub|I v|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	car [: carriage] [* s] xxx [* phon] wand .
+%mor:	n|carriage n|wand .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	he was everset [* phon] .
+%mor:	pro:sub|he cop|be&PAST&13S ?|everset .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I &gr &gr gross [* u] .
+%mor:	pro:sub|I adj|gross .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I do not .
+%mor:	pro:sub|I mod|do neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	xxx [* phon] I cannot do it xxx [* phon] .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	not to a book [* u] .
+%mor:	neg|not prep|to det:art|a n|book .
+%gra:	1|2|NEG 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*PAR:	xxx [* phon] her and a &ba basu [* phon] .
+%mor:	pro:obj|her coord|and det:art|a ?|basu .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	I look &mhm xxx [* phon] . 
+%mor:	pro:sub|I v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx [* phon] book [* u] .
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and she went to the car [: carriage] [* s] . 
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and she went to the book [* u] .  
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|book .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and then he went to the xxx [* phon] . 
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST prep|to det:art|the .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and then she said xxx [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|she v|say&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	that's it .  
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:55
+@Media:	POLAR_1071_PBJ3 video
+*PAR:	kinspace [* phon] I <pick up the> [//] get the couple &p pieces of
+	bread .
+%mor:	?|kinspace pro:sub|I v|get det:art|the n|couple v|piece-3S prep|of
+	n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	I would spread it <on [/] on top of the bread> [//] on top of the
+	[/] the [/] the &uh peanut+butter [: bread] [* s] and again <on top
+	of the &bre> [//] on the [/] the [/] the cam [: jam] [* phon] [//]
+	pram [: jam] [* phon] .
+%mor:	pro:sub|I mod|will&COND v|spread&ZERO pro:per|it prep|on n|top
+	prep|of det:art|the n|bread coord|and adv|again prep|on det:art|the
+	n|jam .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|CONJ 11|12|JCT 12|10|COORD 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and then I put the part &o &pi &ol esclast [* phon] piece of bed
+	[: bread] [* phon] [//] bread and get it together and make it pris
+	[* phon] .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:art|the n|part
+	?|esclast n|piece prep|of n|bread coord|and v|get pro:per|it
+	adv|together coord|and v|make pro:per|it ?|pris .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|8|NJCT 10|9|POBJ 11|4|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|4|CONJ
+	16|15|COORD 17|16|OBJ 18|16|OBJ 19|4|PUNCT
+@End

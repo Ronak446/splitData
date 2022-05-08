@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:22
+@Media:	1026_BW1 video
+*PAR:	okay &um the boy hit the .
+%mor:	co|okay det:art|the n|boy v|hit&ZERO det:art|the .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	alright the boy played <the football [* s]> [//] no &bas [//] <oh
+	tennis [* s]> [//] nope oh god <the ball> [/] the ball .
+%mor:	co|alright det:art|the n|boy part|play-PASTP co|no co|nope co|oh
+	n|god det:art|the n|ball .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|XMOD 5|8|COM 6|8|COM 7|8|COM 8|4|OBJ
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	the [/] <the ball hit the window and &s &a> [//] the ball hit the
+	window there .
+%mor:	det:art|the n|ball v|hit&ZERO det:art|the n|window adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	ouch the said the dad .
+%mor:	v|ouch det:art|the part|say&PASTP det:art|the n|dad .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and he looks out the window .
+%mor:	coord|and pro:sub|he cop|look-3S prep|out det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and sees the kid .
+%mor:	coord|and v|see-3S det:art|the n|kid .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	I don't know oh god [//] <soccer god> [/] soccer god .
+%mor:	pro:sub|I mod|do~neg|not v|know co|oh n|soccer n|god .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|COM 6|7|MOD 7|4|OBJ 8|4|PUNCT
+@End

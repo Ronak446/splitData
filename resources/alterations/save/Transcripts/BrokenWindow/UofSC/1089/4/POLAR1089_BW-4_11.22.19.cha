@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_4_BrokenWindow_November-22nd-2019-11-14-28-am video
+@Time Duration:	00:01:29
+*PAR:	so this is a boy .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|a n|boy .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and he kicked the soccer [: ball] [* s] .
+%mor:	coord|and pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then the soccer [: ball] [* s] into the window .
+%mor:	coord|and adv:tem|then det:art|the n|ball prep|into det:art|the
+	n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and he broke the window .
+%mor:	coord|and pro:sub|he v|break&PAST det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	then he go the dad who the soccer [: ball] [* s] in the [/] the seat .
+%mor:	adv:tem|then pro:sub|he v|go det:art|the n|dad pro:rel|who
+	det:art|the n|ball prep|in det:art|the n|seat .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|DET 8|5|CMOD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and it hit the dad .
+%mor:	coord|and pro:per|it v|hit&ZERO det:art|the n|dad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then he saw the broken window and can see where the window
+	across the window it is inside where his [/] his soccer lived in his
+	window I guess .
+%mor:	coord|and adv:tem|then pro:sub|he v|see&PAST det:art|the
+	part|break&PASTP n|window coord|and mod|can v|see pro:int|where
+	det:art|the n|window prep|across det:art|the n|window pro:per|it
+	cop|be&3S adv|inside pro:int|where det:poss|his n|soccer v|live-PAST
+	prep|in det:poss|his n|window pro:sub|I v|guess .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|CONJ
+	9|10|AUX 10|8|COORD 11|18|LINK 12|13|DET 13|18|SUBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|18|SUBJ 18|10|COMP 19|18|JCT 20|23|LINK 21|22|DET 22|23|SUBJ
+	23|19|CPOBJ 24|23|JCT 25|26|DET 26|24|POBJ 27|28|SUBJ 28|23|CJCT
+	29|4|PUNCT
+@End

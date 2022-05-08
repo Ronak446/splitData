@@ -1,0 +1,183 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:06:28
+@Media:	1035_Cinderella5 video
+*PAR:	obay [* phon] teeny tiny boy [* s] ay [* phon] died .
+%mor:	?|obay adj|teeny adj|tiny n|boy co|ay v|die-PAST .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|6|COM 6|4|ENUM 7|4|PUNCT
+*PAR:	and boodiful [* phon] but &um wad [* phon] ih [* phon] mean [/] mean
+	man [* s] .
+%mor:	coord|and ?|boodiful conj|but v|wad ?|ih adj|mean n|man .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|7|MOD 6|7|MOD 7|4|OBJ
+	8|1|PUNCT
+*PAR:	oh by god .
+%mor:	co|oh prep|by n|god .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	girl girl girl three of dem [* phon] .
+%mor:	n|girl n|girl n|girl det:num|three prep|of ?|dem .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|3|XMOD 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	mean &ugh &h hen [* phon] hay [* phon] died &uh clyd [* phon] .
+%mor:	adj|mean n|hen n|hay v|die-PAST ?|clyd .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	girl wow [/] wow boodiful [* phon] good .
+%mor:	n|girl co|wow ?|boodiful adj|good .
+%gra:	1|0|INCROOT 2|3|COM 3|1|XMOD 4|3|JCT 5|1|PUNCT
+*PAR:	&dee &uh &dee &dee yes please .
+%mor:	co|yes co|please .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	well horse &m mouse a good friend .
+%mor:	co|well n|horse n|mouse det:art|a adj|good n|friend .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&um oh by dod [* phon] prince [/] prince .
+%mor:	co|oh prep|by ?|dod n|prince .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	&huh weird &ooh good doo [* phon] a doo [* phon] .
+%mor:	adj|weird adj|good n|doo det:art|a n|doo .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	hurry up .
+%mor:	v|hurry adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	me hold on wow obay [* phon] [/] obay [* phon] .
+%mor:	pro:obj|me v|hold prep|on co|wow ?|obay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|COM 5|3|POBJ 6|2|PUNCT
+*PAR:	hurry up .
+%mor:	v|hurry adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	me no [/] no [/] no [/] no [/] no [/] no .
+%mor:	pro:obj|me co|no .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	me and me no uhdeedor [* phon] no [/] no [/] no .
+%mor:	pro:obj|me coord|and pro:obj|me co|no ?|uhdeedor co|no .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|5|COM 5|0|ROOT 6|5|COM 7|5|PUNCT
+*PAR:	oh my &goh woah .
+%mor:	co|oh det:poss|my co|woah .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	bye [/] bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh man &um &um &bihbeebohbohbooboo yeah whatever .
+%mor:	co|oh n|man co|yeah pro:int|whatever .
+%gra:	1|2|COM 2|0|INCROOT 3|4|COM 4|2|ENUM 5|2|PUNCT
+*PAR:	what her I don't know .
+%mor:	pro:int|what pro:obj|her pro:sub|I mod|do~neg|not v|know .
+%gra:	1|2|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	well me &bihbeebohbohboobooboo &boom .
+%mor:	co|well pro:obj|me .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	wow really oh by [* phon] god .
+%mor:	co|wow adv|real&dadj-LY co|oh prep|by n|god .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	how .
+%mor:	pro:rel|how .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	thayt [* phon] you but bumpin [* phon] &bihbeebohbohbooboo
+	&boobuhbow .
+%mor:	?|thayt pro:per|you conj|but ?|bumpin .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	woah thayt [* phon] you dow [* phon] muh [* phon] .
+%mor:	co|woah ?|thayt pro:per|you ?|dow ?|muh .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*PAR:	&um hen [* phon] hurry up .
+%mor:	n|hen v|hurry adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	&um one well hurry up .
+%mor:	det:num|one n|well v|hurry adv|up .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	thayt [* phon] you dow [* phon] muh [* phon] bye .
+%mor:	?|thayt pro:per|you ?|dow ?|muh co|bye .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|COM 6|3|PUNCT
+*PAR:	&buh ben [* phon] oh by dod [* phon] .
+%mor:	?|ben co|oh prep|by ?|dod .
+%gra:	1|0|INCROOT 2|1|COM 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	ween [* phon] who dat [* phon] .
+%mor:	?|ween pro:rel|who ?|dat .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|1|PUNCT
+*PAR:	oh wow hello .
+%mor:	co|oh co|wow n|hello .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh me &ah good every day wow .
+%mor:	pro:obj|me adj|good qn|every n|day co|wow .
+%gra:	1|4|MOD 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|COM 6|4|PUNCT
+*PAR:	&ding &ding oh choclih [* phon] bye [/] bye .
+%mor:	co|oh ?|choclih co|bye .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	no [/] no &n bye [/] bye [/] bye [/] bye .
+%mor:	co|no co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	buhbens [* phon] &um <hurry up> [/] hurry up .
+%mor:	?|buhbens v|hurry adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	<one two> [* s] oh wow [/] wow &uh thayt [* phon] you tow [* phon]
+	muh [* phon] .
+%mor:	det:num|one det:num|two co|oh co|wow ?|thayt pro:per|you v|tow
+	?|muh .
+%gra:	1|2|QUANT 2|3|QUANT 3|7|COM 4|7|COM 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*PAR:	oh man helt [* phon] mouse hello .
+%mor:	co|oh n|man ?|helt n|mouse n|hello .
+%gra:	1|5|COM 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	I love him .
+%mor:	pro:sub|I v|love pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	obay [* phon] wow oh well .
+%mor:	?|obay co|wow co|oh co|well .
+%gra:	1|0|INCROOT 2|4|COM 3|4|COM 4|1|COM 5|1|PUNCT
+*PAR:	and &hm queen [* s] [/] &um queen [* s] &hm I don't know .
+%mor:	coord|and n|queen pro:sub|I mod|do~neg|not v|know .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|CMOD 7|1|PUNCT
+*PAR:	&buh &b where something right .
+%mor:	pro:rel|where pro:indef|something adj|right .
+%gra:	1|2|LINK 2|0|ROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	&um me yes oh by [* phon] dod [* phon] me lock .
+%mor:	pro:obj|me co|yes co|oh prep|by ?|dod pro:obj|me n|lock .
+%gra:	1|3|SUBJ 2|1|COM 3|0|INCROOT 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	no [/] no [/] no [/] no oh no don't [/] don't dory [* phon] .
+%mor:	co|no co|oh co|no mod|do~neg|not ?|dory .
+%gra:	1|6|COM 2|6|COM 3|6|COM 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	queen [* s] yes &g girls &gah so sorry .
+%mor:	n|queen co|yes n|girl-PL conj|so co|sorry .
+%gra:	1|3|MOD 2|3|COM 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	well one two &gah oh by [* phon] dod [* phon] so sorry .
+%mor:	co|well det:num|one det:num|two co|oh prep|by ?|dod adv|so
+	adj|sorry .
+%gra:	1|3|COM 2|3|QUANT 3|4|QUANT 4|8|COM 5|4|JCT 6|5|POBJ 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*PAR:	no two yeah mouse &bee tayt [* phon] you .
+%mor:	co|no det:num|two co|yeah n|mouse ?|tayt pro:per|you .
+%gra:	1|2|COM 2|4|QUANT 3|4|COM 4|0|ROOT 5|4|ENUM 6|5|OBJ 7|4|PUNCT
+*PAR:	hello [/] hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	who hah [* phon] dat [* phon] .
+%mor:	pro:rel|who co|hah ?|dat .
+%gra:	1|2|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	nothing .
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes ju [* phon] queen [* s] obay [* phon] .
+%mor:	co|yes ?|ju n|queen ?|obay .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	really yes a brincess [* phon] .
+%mor:	adv|real&dadj-LY co|yes det:art|a ?|brincess .
+%gra:	1|2|JCT 2|4|COM 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	uhoh by [* phon] dod [* phon] really .
+%mor:	co|uhoh prep|by ?|dod adv|real&dadj-LY .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|1|PUNCT
+*PAR:	thayt [* phon] you tha [* phon] torry [* phon] ih [* phon] mean [//]
+	her mean .
+%mor:	?|thayt pro:per|you ?|tha ?|torry ?|ih pro:obj|her adj|mean .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|5|COMP
+	8|3|PUNCT
+*PAR:	obay [* phon] bye [/] bye brincess [* phon] .
+%mor:	?|obay co|bye ?|brincess .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	bye [/] bye done .
+%mor:	co|bye part|do&PASTP .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+@End

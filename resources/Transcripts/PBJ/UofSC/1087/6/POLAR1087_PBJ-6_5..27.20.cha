@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.PBJ-6 video
+@Time Duration:	00:01:06
+*PAR:	okay &um &uh &uh two [/] two lice [: slice] [* phon] of bread .
+%mor:	co|okay det:num|two n|slice prep|of n|bread .
+*PAR:	and &um one [/] one [/] &um &um &um one [//] &um no [/] no &um one
+	&um &f &fal [//] no &ss one [/] one &um &n knife and one scoop and
+	&b butter [//] peanut+butter .
+%mor:	coord|and qn|no pro:indef|one qn|no det:num|one n|knife coord|and
+	det:num|one n|scoop coord|and n|+n|peanut+n|butter .
+*PAR:	and <one scoop of> [//] no one [/] one [/] one &um with my knife one
+	[/] one peanut+butter &um one jelly .
+%mor:	coord|and co|no det:num|one prep|with det:poss|my n|knife
+	det:num|one n|+n|peanut+n|butter det:num|one n|jelly .
+@End

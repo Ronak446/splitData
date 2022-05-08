@@ -1,0 +1,37 @@
+@UTF8
+@Window:	147_696_354_692_0_0_205_0_205_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1122_BW-1_11.18.20 video
+@Time Duration:	00:00:45
+*PAR:	the boy was kicking the ball .
+%mor:	det:art|the n|boy aux|be&PAST&13S part|kick-PRESP det:art|the
+	n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and it went into a [//] the neighbor's house [//] &uh &uh the window
+	&uh .
+%mor:	coord|and pro:per|it v|go&PAST prep|into det:art|the
+	adj|neighbor&dn-POSS det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|DET 8|4|POBJ
+	9|3|PUNCT
+*PAR:	and there was a man sitting in the house .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|man part|sit-PRESP
+	prep|in det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and the ball came into the house and knocked over the lamp .
+%mor:	coord|and det:art|the n|ball v|come&PAST prep|into det:art|the
+	n|house coord|and v|knock-PAST prep|over det:art|the n|lamp .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	and the &uh man was upset .
+%mor:	coord|and det:art|the n|man cop|be&PAST&13S adj|upset .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and he &l looked out the window to a little boy .
+%mor:	coord|and pro:sub|he v|look-PAST prep|out det:art|the n|window
+	prep|to det:art|a adj|little n|boy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+@End

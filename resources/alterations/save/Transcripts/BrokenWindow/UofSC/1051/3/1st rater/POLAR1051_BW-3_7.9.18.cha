@@ -1,0 +1,68 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:52
+@Media:	1051_3_BrokenWindow_July-9th-2018-1-11-16-pm video
+*PAR:	well &w he's &uh &uh placing [* s] the ball .
+%mor:	co|well pro:sub|he~aux|be&3S part|place-PRESP det:art|the n|ball .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he's he's [/] run to ball .
+%mor:	coord|and pro:sub|he~aux|be&3S v|run prep|to n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and he's uhoh .
+%mor:	coord|and pro:sub|he~aux|be&3S co|uhoh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	he's feeling it because he &uh &s &uh &s &uh spaned [* phon] the
+	ball &uh <spaned the ball> [/] .
+%mor:	pro:sub|he~aux|be&3S part|feel-PRESP pro:per|it conj|because
+	pro:sub|he ?|spaned det:art|the n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	&uh &wun wunned [* phon] the ball or &uh oh I can't say it .
+%mor:	?|wunned det:art|the n|ball coord|or co|oh pro:sub|I
+	mod|can~neg|not v|say pro:per|it .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|9|LINK 5|9|COM 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|CMOD 10|9|OBJ 11|1|PUNCT
+*PAR:	he he [/] running [* s] the ball .
+%mor:	pro:sub|he part|run-PRESP det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and he's hit the ball .
+%mor:	coord|and pro:sub|he~aux|be&3S v|hit&ZERO det:art|the n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and <he's &r running> [//] no he's &aw man &uh &w <he> [//] he's [/]
+	running [* s] the ball .
+%mor:	coord|and co|no pro:sub|he~cop|be&3S n|man part|run-PRESP
+	det:art|the n|ball .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|XMOD 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	but he's &r &r .
+%mor:	conj|but pro:sub|he~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	anyway he's running [* s] the ball .
+%mor:	co|anyway pro:sub|he~aux|be&3S part|run-PRESP det:art|the n|ball .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he's gokay [* phon] .
+%mor:	coord|and pro:sub|he~aux|be&3S ?|gokay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and he's got a ball .
+%mor:	coord|and pro:sub|he~aux|be&3S part|get&PASTP det:art|a n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he's running [* s] the ball .
+%mor:	coord|and pro:sub|he~aux|be&3S part|run-PRESP det:art|the n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he's okay .
+%mor:	coord|and pro:sub|he~cop|be&3S adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	&uh &r runned [* phon] it kay [* phon] &um soih [* phon] the kit
+	[* phon] for his kickis [* phon] kickis [/] no &uh running [* s] the
+	ball .
+%mor:	v|run-PAST pro:per|it ?|kay ?|soih det:art|the n|kit prep|for
+	det:poss|his ?|kickis co|no part|run-PRESP det:art|the n|ball .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|3|OBJ 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|11|COM 11|6|XMOD 12|13|DET 13|11|OBJ 14|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

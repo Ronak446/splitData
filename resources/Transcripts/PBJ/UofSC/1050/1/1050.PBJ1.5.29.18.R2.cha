@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:12
+@Media:	1050_PBJ1_R2 video
+*PAR:	yes [/] yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	joot [/] &j joot [/] joot [* phon] .
+*PAR:	and yes .
+%mor:	coord|and co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and nes [* phon] .
+%mor:	coord|and ?|nes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

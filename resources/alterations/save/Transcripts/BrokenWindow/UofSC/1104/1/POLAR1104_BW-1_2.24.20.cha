@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1104.BW-1 video
+@Time Duration:	00:02:04
+*PAR:	there is a I guess it's a boy kicking a &copp soccer ball .
+%mor:	pro:exist|there cop|be&3S det:art|a pro:sub|I v|guess
+	pro:per|it~cop|be&3S det:art|a n|boy part|kick-PRESP det:art|a
+	n|soccer n|ball .
+*PAR:	and went through a window and yeah through a window .
+%mor:	coord|and v|go&PAST prep|through det:art|a n|window coord|and
+	co|yeah prep|through det:art|a n|window .
+*PAR:	and &uh glass &gra &uh brote [: broke] [* phon] [//] broken glass
+	through the window .
+%mor:	coord|and n|glass part|break&PASTP n|glass prep|through det:art|the
+	n|window .
+*PAR:	and <it broke> [//] no it the [/] &uh the lamp threw that &fu the
+	lamp fell down .
+%mor:	coord|and co|no pro:per|it det:art|the n|lamp v|throw&PAST
+	comp|that det:art|the n|lamp v|fall&PAST adv|down .
+*PAR:	and look like it broke .
+%mor:	coord|and v|look conj|like pro:per|it adj|broke .
+*PAR:	I'm not sure kind of bent .
+%mor:	pro:sub|I~cop|be&1S neg|not adj|sure n|kind prep|of v|bend&PAST .
+*PAR:	and &uh yes that's a break .
+%mor:	coord|and co|yes pro:dem|that~cop|be&3S det:art|a n|break .
+*PAR:	<that's something else> [//] no that's a glass .
+%mor:	co|no pro:dem|that~cop|be&3S det:art|a n|glass .
+*PAR:	that's glass that broke inside .
+%mor:	pro:dem|that~cop|be&3S n|glass pro:rel|that v|break&PAST adv|inside
+	.
+*PAR:	and fellow there is not happy about that &er the excuse [* u] [//]
+	surchise [: surprise] [* phon] [//] &supr surprised over this .
+%mor:	coord|and adj|fellow pro:exist|there cop|be&3S neg|not adj|happy
+	adv|about pro:rel|that det:art|the part|surprise-PASTP adv|over
+	pro:dem|this .
+*PAR:	and <I don't think the boy's going to be nice about that> [//] I
+	mean I don't think the man's going to be nice about that .
+%mor:	coord|and pro:sub|I v|mean pro:sub|I mod|do~neg|not v|think
+	det:art|the n|man~cop|be&3S part|go-PRESP inf|to cop|be adj|nice
+	prep|about pro:dem|that .
+*PAR:	I know I wouldn't .
+%mor:	pro:sub|I v|know pro:sub|I mod|will&COND~neg|not .
+@End

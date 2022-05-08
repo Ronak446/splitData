@@ -1,0 +1,65 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:00
+@Media:	1066_6_PBJ_October-1st-2019-10-04-16-am video
+*PAR:	you get the &b blead [/] blead [: bread] [* phon] xxx [* phon] &sandwi sanwerch [: sandwich] [* phon] .
+%mor:	pro:per|you v|get det:art|the n|bread n|sandwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	to cut it &bloop &bloop down .
+%mor:	inf|to v|cut&ZERO pro:per|it adv|down .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	put one &peanutbed &butt peadu+butte [//] peaduh+buttor
+	[: peanut+butter] [* phon] &choo .
+%mor:	v|put&ZERO det:num|one n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	put &choochoochoochoo one <how you li> [//] how you like it .
+%mor:	v|put&ZERO pro:indef|one pro:rel|how pro:per|you v|like pro:per|it
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|OBJ 7|1|PUNCT
+*PAR:	and now [/] now &shooo put xxx [* phon] jeey [: jelly] [* phon] how
+	do you like it .
+%mor:	coord|and adv|now v|put&ZERO n|jelly pro:rel|how mod|do pro:per|you
+	v|like pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|AUX 7|8|SUBJ 8|3|COMP
+	9|8|OBJ 10|3|PUNCT
+*PAR:	den [: then] [* phon] &t &t &ta &ta take it piece of bujer
+	[: butter] [* phon] .
+%mor:	adv:tem|then v|take pro:per|it v|piece prep|of n|butter .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	put on pler [* phon] .
+%mor:	v|put&ZERO prep|on ?|pler .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	<do not p> [//] do not peak .
+%mor:	mod|do neg|not v|peak .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*PAR:	&d do not put xxx [* phon] on top &blooo .
+%mor:	mod|do neg|not part|put&PASTP prep|on n|top .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	one [//] xxx [* phon] two [//] dory [: sorry] [* phon] the &pe &pay
+	&peme peanuh+buttor [: peanut+butter] [* phon] xxx [* phon] cah
+	[* phon] &ka .
+%mor:	co|sorry det:art|the n|+n|peanut+n|butter ?|cah .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	put da [: the] [* phon] on top uh [: of] [* phon]
+	bloof [* phon] on top of toper [/] toper [* phon] .
+%mor:	v|put&ZERO det:art|the adv|on n|top prep|of ?|bloof adv|on n|top
+	prep|of n|top&dv-AGT .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|NJCT 6|5|POBJ 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*PAR:	to &k [/] to cut &shoo [/] cut in half &sh xxx [* phon] .
+%mor:	inf|to inf|to v|cut&ZERO v|cut&ZERO prep|in n|half .
+%gra:	1|4|INF 2|3|INF 3|4|SRL 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	but &um &uh &uh xxx [* phon] to ne [* phon] &uh &um <put the [/] the
+	&uh> [/] put the xxx [* phon] &shooo .
+%mor:	conj|but prep|to ?|ne v|put&ZERO det:art|the .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	pu [: put] [* phon] le [* phon] back .
+%mor:	v|put&ZERO ?|le adv|back .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	pu [: put] [* phon] xxx [* phon] .
+%mor:	v|put&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

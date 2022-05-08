@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:01:48
+@Media:	LARC.1005.Cinder-1 video
+*PAR:	&um princess and <there was> [//] they were a good [/] &ger good
+	gerson [: person] [* phon] and all of that flessing [: blessing]
+	[* phon] thank you .
+%mor:	n|princess coord|and pro:sub|they cop|be&PAST det:art|a adj|good
+	n|person coord|and pro:indef|all prep|of det:dem|that
+	n:gerund|bless-PRESP v|thank pro:per|you .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|7|DET 6|7|MOD 7|4|PRED
+	8|13|LINK 9|13|SUBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|CMOD 14|13|OBJ
+	15|1|PUNCT
+*PAR:	and God praising here we go my [/] my you are gonna go &shhh it's
+	<witches and> [/] witches and [/] &brah &mrah and all of that .
+%mor:	coord|and n:prop|God part|praise-PRESP adv|here pro:sub|we v|go
+	det:poss|my pro:per|you aux|be&PRES part|go-PRESP~inf|to v|go
+	pro:per|it~cop|be&3S n|witch-PL coord|and pro:indef|all prep|of
+	pro:dem|that .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|XJCT 4|3|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|12|INF 12|10|COMP 13|14|SUBJ 14|12|COMP 15|14|PRED
+	16|15|CONJ 17|16|COORD 18|17|NJCT 19|18|POBJ 20|6|PUNCT
+*PAR:	and he [/] he &um bungeon [: dungeon] [* phon] and dragon and &uh
+	ran here and jere [: there] [* phon] and everywhere .
+%mor:	coord|and pro:sub|he n|dungeon coord|and n|dragon coord|and
+	v|run&PAST adv|here coord|and adv|there coord|and n|everywhere .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|CONJ 7|6|COORD
+	8|7|JCT 9|3|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|3|PUNCT
+*PAR:	&g gonna go you and me and xxx [* phon] I [/] I &um these are horses
+	and dragon and I don't care .
+%mor:	part|go-PRESP~inf|to v|go pro:per|you coord|and pro:obj|me
+	coord|and pro:sub|I pro:dem|these cop|be&PRES n|horse-PL coord|and
+	n|dragon coord|and pro:sub|I mod|do~neg|not v|care .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|CONJ 6|5|COORD 7|10|LINK
+	8|10|SUBJ 9|10|SUBJ 10|1|CJCT 11|10|PRED 12|11|CONJ 13|12|COORD 14|18|LINK
+	15|18|SUBJ 16|18|AUX 17|16|NEG 18|10|CJCT 19|1|PUNCT
+*PAR:	it's &um horses &hoc &dum &dum &dum &dum and [/] and all of dat
+	[: that] [* phon] .
+%mor:	pro:per|it~cop|be&3S n|horse-PL coord|and pro:indef|all prep|of
+	pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	and dead [/] dead and there and then they are xxx [* phon] you're
+	it's gad [: sad] [* phon] sad and all of that and &sh and &meow
+	&meow <is in there> [/] is in there [/] is in there and bye bye xxx
+	[* phon] .
+%mor:	coord|and adj|dead coord|and adv|there coord|and adv:tem|then
+	pro:sub|they cop|be&PRES pro:per|you~cop|be&PRES
+	pro:per|it~cop|be&3S adj|sad adj|sad coord|and pro:indef|all prep|of
+	pro:dem|that coord|and coord|and cop|be&3S prep|in aux|be&3S prep|in
+	n|there coord|and co|bye co|bye .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|8|LINK 6|8|JCT 7|8|SUBJ
+	8|4|CPOBJ 9|10|SUBJ 10|8|PRED 11|12|SUBJ 12|10|PRED 13|12|PRED 14|13|JCT
+	15|14|CONJ 16|15|COORD 17|16|NJCT 18|17|POBJ 19|14|CONJ 20|19|COORD
+	21|20|COORD 22|21|JCT 23|22|POBJ 24|23|NJCT 25|24|POBJ 26|23|CONJ 27|28|COM
+	28|26|COORD 29|1|PUNCT
+@End

@@ -1,0 +1,24 @@
+@UTF8
+@Window:	0_0_0_0_0_0_461_0_461_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:30
+@Media:	POLAR1112_BW-2_7.27.20, video
+*PAR:	&um stocter [: soccer] [* phon] &um play &um &buh &um &um &j hit duh
+	[: the] [* phon] flas [: glass] [* phon] &uh .
+%mor:	n|soccer n|play v|hit&ZERO det:art|the n|glass .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&um doct [: knocked] [* phon] over duh [: the] [* phon] lamp .
+%mor:	v|knock-PAST prep|over det:art|the n|lamp .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&=laughs <do [: go] [* phon] dit [: get] [* phon] it> [/] &=laughs
+	&um &lu &=laughs <do [: go] [* phon] dit [: get] [* phon] it> [/] do
+	[: go] [* phon] dit [: get] [* phon] it &=laughs .
+%mor:	v|go v|get pro:per|it .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	yes [/] yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

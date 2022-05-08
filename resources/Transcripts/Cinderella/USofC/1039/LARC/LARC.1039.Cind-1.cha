@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:45
+@Media:	1039_LARC_Cinderella_January-16th-2020-2-36-08-pm video
+*PAR:	<long time> [/] &uh long time .
+%mor:	adj|long n|time .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	yeah jewihjehwla [: Cinderella] [* phon] &uh yeah .
+%mor:	co|yeah n:prop|Cinderella co|yeah .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

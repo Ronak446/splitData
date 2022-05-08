@@ -1,0 +1,22 @@
+@UTF8
+@Window:	0_0_0_0_0_0_143_0_143_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	POLAR1112_PBJ-5_11.11.20, video
+*PAR:	&t two pieces of bread .
+%mor:	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	let me &we peanut+butter on one si [: side] [* phon] . 
+%mor:	v|let&ZERO pro:obj|me n|+n|peanut+n|butter prep|on det:num|one
+	n|side .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|1|PUNCT
+*PAR:	jelly on the doder [: other] [* phon] .
+%mor:	n|jelly prep|on det:art|the qn|other .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&f &f &uh sandwich .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

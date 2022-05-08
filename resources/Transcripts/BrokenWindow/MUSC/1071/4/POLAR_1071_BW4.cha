@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	POLAR_1071_BW4 video
+*PAR:	and this is the basic where the boy kikes [//] kicks the ball .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the adj|basic
+	pro:rel|where det:art|the n|boy v|kick-3S det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|CMOD 10|11|DET 11|9|OBJ 12|3|PUNCT
+*PAR:	hits the window and &bre broke the &g window until dad come round .
+%mor:	v|hit-3S det:art|the n|window coord|and v|break&PAST det:art|the
+	n|window conj|until n|dad v|come adv|round .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|1|CJCT 11|10|JCT 12|1|PUNCT
+@End

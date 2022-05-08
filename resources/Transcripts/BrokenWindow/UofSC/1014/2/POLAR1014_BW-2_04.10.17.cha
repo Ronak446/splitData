@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1014_2_BrokenWindow_Y2017_M04_D10_H10_M58_S42 video
+*PAR:	boy &ki kicking the &buh <ball> [//] .
+%mor:	n|boy part|kick-PRESP det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	soccer ball .
+%mor:	n|soccer n|ball .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	it broke the window .
+%mor:	pro:per|it v|break&PAST det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&um xxx [* phon] house a man .
+%mor:	v|house det:art|a n|man .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	it &um xxx [* phon] xxx [* phon] window .
+%mor:	pro:per|it n|window .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+@End

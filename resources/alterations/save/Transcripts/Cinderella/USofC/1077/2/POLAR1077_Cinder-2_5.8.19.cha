@@ -1,0 +1,277 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:15
+@Media:	1077_2_Cinderella_May-8th-2019-2-29-20-pm video
+*PAR:	you want me to tell you .
+%mor:	pro:per|you v|want pro:obj|me inf|to v|tell pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|2|PUNCT
+*PAR:	okay well this was &um about a mean &um stepmother and <the three>
+	[//] <her sister> [//] her three [: two] [* s] children are mean and
+	not very nice .
+%mor:	co|okay n|well pro:dem|this cop|be&PAST&13S prep|about det:art|a
+	adj|mean step#n|mother coord|and det:poss|her det:num|two n|child&PL
+	cop|be&PRES adj|mean coord|and neg|not adv|very adj|nice .
+%gra:	1|2|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|13|LINK 10|12|MOD 11|12|QUANT 12|13|SUBJ 13|8|CMOD 14|13|PRED 15|13|CONJ
+	16|18|NEG 17|18|JCT 18|15|COORD 19|4|PUNCT
+*PAR:	and the little girl that [/] that lived there was [/] was very sweet
+	but just <not very nice> [//] I mean the he [: she] [* s] wasn't
+	given a lot to help everything she had to do the bad stuff .
+%mor:	coord|and det:art|the adj|little n|girl pro:rel|that v|live-PAST
+	adv|there cop|be&PAST&13S adv|very adj|sweet conj|but adv|just
+	pro:sub|I v|mean det:art|the pro:sub|she aux|be&PAST&13S~neg|not
+	part|give&PASTP det:art|a n|lot inf|to v|help pro:indef|everything
+	pro:sub|she v|have&PAST inf|to v|do det:art|the adj|bad n|stuff .
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|0|ROOT
+	9|10|JCT 10|8|PRED 11|14|LINK 12|14|JCT 13|14|SUBJ 14|8|CJCT 15|19|DET
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|14|OBJ 20|21|DET 21|19|OBJ 22|23|INF
+	23|21|XMOD 24|23|OBJ 25|26|SUBJ 26|23|COMP 27|28|INF 28|26|XCOMP 29|31|DET
+	30|31|MOD 31|28|OBJ 32|8|PUNCT
+*PAR:	&um she realizes that those are mean to her .
+%mor:	pro:sub|she v|realize-3S pro:rel|that pro:dem|those cop|be&PRES
+	adj|mean prep|to pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|PRED 7|5|JCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	and they never talk nice to her &um .
+%mor:	coord|and pro:sub|they adv|never n|talk adj|nice prep|to
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|POSTMOD 6|5|JCT 7|6|POBJ
+	8|4|PUNCT
+*PAR:	and she doesn't have a lot of &um people .
+%mor:	coord|and pro:sub|she mod|do&3S~neg|not v|have det:art|a n|lot
+	prep|of n|person&PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	but it's the special things that she sees outside like her &a the
+	little &um <animals downstairs> [//] or where she is .
+%mor:	conj|but pro:per|it~cop|be&3S det:art|the n|special n|thing-PL
+	pro:rel|that pro:sub|she v|see-3S adv|outside v|like pro:obj|her
+	det:art|the adj|little coord|or adv:int|where pro:sub|she cop|be&3S
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|11|JCT 11|9|COMP 12|11|OBJ 13|14|DET 14|11|OBJ 15|14|CONJ
+	16|18|LINK 17|18|SUBJ 18|15|COORD 19|3|PUNCT
+*PAR:	and they talk to her and teach her .
+%mor:	coord|and pro:sub|they v|talk prep|to pro:obj|her coord|and v|teach
+	pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|3|PUNCT
+*PAR:	and when &um they talked about &um the big father who's mean &um got
+	the [/] the paper from &um with the great big beautiful scene
+	[: ball] [* u] that's going to be .
+%mor:	coord|and conj|when pro:sub|they v|talk-PAST prep|about det:art|the
+	adj|big n|father pro:rel|who~aux|be&3S adj|mean v|get&PAST
+	det:art|the n|paper prep|from prep|with det:art|the adj|great
+	adj|big adj|beautiful n|ball pro:rel|that~aux|be&3S part|go-PRESP
+	inf|to cop|be .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|LINK 10|12|AUX 11|12|JCT 12|8|CMOD 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|POBJ 17|21|DET 18|21|MOD 19|21|MOD 20|21|MOD 21|16|POBJ 22|24|LINK
+	23|24|AUX 24|21|CMOD 25|26|INF 26|24|XCOMP 27|4|PUNCT
+*PAR:	and you could go and to her special people .
+%mor:	coord|and pro:per|you mod|could v|go coord|and prep|to det:poss|her
+	adj|special n|person&PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*PAR:	the mean one .
+%mor:	det:art|the adj|mean pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um it happen to all kind of see a woman that may be that they want
+	to make of .
+%mor:	pro:per|it v|happen prep|to qn|all n|kind prep|of v|see det:art|a
+	v|woman pro:dem|that mod|may cop|be pro:rel|that pro:sub|they v|want
+	inf|to v|make prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|9|DET
+	9|2|CJCT 10|12|SUBJ 11|12|AUX 12|9|COMP 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|17|INF 17|15|XCOMP 18|17|JCT 19|2|PUNCT
+*PAR:	but they did not make that one .
+%mor:	conj|but pro:sub|they mod|do&PAST neg|not v|make pro:dem|that
+	pro:indef|one .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	it was not nice at all .
+%mor:	pro:per|it cop|be&PAST&13S neg|not adj|nice prep|at pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	they told her she is not coming here .
+%mor:	pro:sub|they v|tell&PAST pro:obj|her pro:sub|she aux|be&3S neg|not
+	part|come-PRESP adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP 8|7|JCT
+	9|2|PUNCT
+*PAR:	and &um .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but her friends [//] or animal said that they would try to find
+	something for her so they made a beautiful little dress .
+%mor:	conj|but det:poss|her coord|or n|animal v|say&PAST pro:rel|that
+	pro:sub|they mod|will&COND v|try inf|to v|find pro:indef|something
+	prep|for det:poss|her adv|so pro:sub|they v|make&PAST det:art|a
+	adj|beautiful adj|little n|dress .
+%gra:	1|5|LINK 2|5|MOD 3|2|CONJ 4|3|COORD 5|0|ROOT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|11|INF 11|9|XCOMP 12|11|OBJ 13|11|JCT 14|17|MOD 15|17|JCT
+	16|17|SUBJ 17|13|POBJ 18|21|DET 19|21|MOD 20|21|MOD 21|17|OBJ 22|5|PUNCT
+*PAR:	and she was &uh beautiful from her friends and she was ready to go .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|beautiful prep|from
+	det:poss|her n|friend-PL coord|and pro:sub|she cop|be&PAST&13S
+	adj|ready inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|MOD 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|13|INF 13|11|XCOMP 14|3|PUNCT
+*PAR:	and her other sisters were so mean and pulled down her things and it
+	made her very [/] very sad .
+%mor:	coord|and pro:obj|her qn|other n|sister-PL cop|be&PAST adv|so
+	adj|mean coord|and v|pull-PAST prep|down det:poss|her n|thing-PL
+	coord|and pro:per|it v|make&PAST pro:obj|her adv|very adj|sad .
+%gra:	1|5|LINK 2|5|LINK 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|12|MOD 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|5|CJCT
+	16|15|OBJ 17|18|JCT 18|15|JCT 19|5|PUNCT
+*PAR:	but this wonderful woman [//] the mother [/] &um mother [//] <the
+	mom> [//] the man [: woman] [* s] but it's a beautiful woman who is
+	a special mother [: fairy godmother] [* s] &um but not &uh &uh
+	regular mother one who comes and puts a beautiful dress on her .
+%mor:	conj|but pro:dem|this adj|wonder-FULL det:art|the det:art|the
+	n|woman conj|but pro:per|it~cop|be&3S det:art|a adj|beautiful
+	n|woman pro:rel|who cop|be&3S det:art|a adj|special n|fairy
+	n|+n|god+n|mother conj|but neg|not adj|regular n|mother
+	pro:indef|one pro:rel|who v|come-3S coord|and v|put-3S det:art|a
+	adj|beautiful n|dress prep|on pro:obj|her .
+%gra:	1|6|LINK 2|6|DET 3|6|MOD 4|6|DET 5|6|DET 6|0|INCROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|12|DET 11|12|MOD 12|9|PRED 13|14|LINK 14|12|CMOD 15|18|DET
+	16|17|MOD 17|18|MOD 18|14|PRED 19|18|CONJ 20|19|NEG 21|22|MOD 22|19|COORD
+	23|22|OBJ 24|25|LINK 25|23|CMOD 26|25|CONJ 27|26|COORD 28|30|DET
+	29|30|MOD 30|27|OBJ 31|30|NJCT 32|31|POBJ 33|6|PUNCT
+*PAR:	and beautiful two chairs [: shoes] [* u] .
+%mor:	coord|and adj|beautiful det:num|two n|shoe-PL .
+%gra:	1|4|LINK 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	&um her hair .
+%mor:	det:poss|her n|hair .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	everything .
+%mor:	pro:indef|everything .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and she got to go into <a beautiful chair> [//] not a chair [* u] a
+	that's where she would work into this beautiful place where she'd go
+	to the space where the big chair [* u] would be .
+%mor:	coord|and pro:sub|she v|get&PAST inf|to v|go prep|into neg|not
+	det:art|a n|chair det:art|a pro:rel|that~aux|be&3S pro:rel|where
+	pro:sub|she mod|will&COND v|work prep|into pro:dem|this
+	adj|beautiful n|place pro:rel|where pro:sub|she~mod|genmod v|go
+	prep|to det:art|the n|space pro:rel|where det:art|the adj|big
+	n|chair mod|will&COND cop|be .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|NEG 8|9|DET
+	9|6|POBJ 10|11|DET 11|16|SUBJ 12|16|AUX 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|9|CMOD 17|16|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|20|CMOD 25|24|JCT 26|27|DET 27|25|POBJ 28|33|LINK 29|31|DET
+	30|31|MOD 31|33|SUBJ 32|33|AUX 33|27|CMOD 34|3|PUNCT
+*PAR:	well they would go there and she would get to go and go week [//]
+	<&um work out> [//] &uh or go outside in the big chair and they
+	would well to each other .
+%mor:	co|well pro:sub|they mod|will&COND v|go adv|there coord|and
+	pro:sub|she mod|will&COND v|get inf|to v|go coord|and v|go coord|or
+	v|go adv|outside prep|in det:art|the adj|big n|chair coord|and
+	pro:sub|they mod|will&COND adv|well prep|to qn|each qn|other .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|11|INF 11|9|XCOMP 12|11|CONJ 13|12|COORD 14|13|CONJ 15|14|COORD
+	16|15|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|15|CONJ
+	22|25|SUBJ 23|25|AUX 24|25|JCT 25|21|COORD 26|27|QUANT 27|25|POBJ 28|4|PUNCT
+*PAR:	of the people that would dance outside .
+%mor:	prep|of det:art|the n|person&PL pro:rel|that mod|will&COND v|dance
+	adv|outside .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|6|LINK 5|6|AUX 6|3|CMOD 7|6|JCT
+	8|1|PUNCT
+*PAR:	and right at &um twelve o'clock it was almost time for her to go so
+	she had to run .
+%mor:	coord|and adv|right prep|at det:num|twelve n|o'clock pro:per|it
+	cop|be&PAST&13S adv|almost n|time prep|for pro:obj|her inf|to v|go
+	conj|so pro:sub|she v|have&PAST inf|to v|run .
+%gra:	1|7|LINK 2|7|JCT 3|7|JCT 4|5|QUANT 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|PRED 10|9|NJCT 11|10|POBJ 12|13|INF 13|9|XMOD 14|16|LINK 15|16|SUBJ
+	16|13|CJCT 17|18|INF 18|16|XCOMP 19|7|PUNCT
+*PAR:	and when that happened she had to go back home but she left her feet
+	[: shoes] [* s] [//] <her special chair [: shoe] [* u]> [//] a
+	beautiful chair [: shoe] .
+%mor:	coord|and conj|when pro:rel|that v|happen-PAST pro:sub|she
+	v|have&PAST inf|to v|go adv|back n|home conj|but pro:sub|she
+	adj|left pro:obj|her det:art|a adj|beautiful n|shoe .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|6|SUBJ 6|4|COMP 7|8|INF
+	8|6|XCOMP 9|8|JCT 10|8|JCT 11|14|LINK 12|14|SUBJ 13|14|MOD 14|8|CJCT
+	15|17|DET 16|17|MOD 17|14|OBJ 18|1|PUNCT
+*PAR:	&um left her there .
+%mor:	part|leave&PASTP pro:obj|her adv|there .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	and when everybody was back home you know someone did come to the
+	house like the next day .
+%mor:	coord|and conj|when pro:indef|everybody cop|be&PAST&13S adv|back
+	n|home pro:per|you v|know pro:indef|someone mod|do&PAST v|come
+	prep|to det:art|the n|house prep|like det:art|the adj|next n|day .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|4|CMOD
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|4|PUNCT
+*PAR:	and trying to find out who had this beautiful chair [: shoe] [* u]
+	for the &er foot [: shoe] [* s] from this woman .
+%mor:	coord|and part|try-PRESP inf|to v|find adv|out pro:rel|who
+	v|have&PAST pro:dem|this adj|beautiful n|shoe prep|for det:art|the
+	n|shoe prep|from pro:dem|this n|woman .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|LINK 7|4|CJCT
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|NJCT
+	15|16|DET 16|14|POBJ 17|1|PUNCT
+*PAR:	and what happened was the beautiful sweet [/] sweet little person
+	who's not nice to the other one in there her sisters and her father
+	&um were so mean but she was very sweet .
+%mor:	coord|and pro:int|what v|happen-PAST cop|be&PAST&13S det:art|the
+	adj|beautiful adj|sweet adj|little n|person pro:rel|who~aux|be&3S
+	neg|not adj|nice prep|to det:art|the qn|other pro:indef|one adv|in
+	adv|there det:poss|her n|sister-PL coord|and det:poss|her n|father
+	cop|be&PAST adv|so v|mean conj|but pro:sub|she cop|be&PAST&13S
+	adv|very co|sweet .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|9|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|4|PRED 10|13|LINK 11|13|AUX 12|11|NEG 13|9|CMOD 14|13|JCT 15|17|DET
+	16|17|QUANT 17|25|SUBJ 18|19|JCT 19|25|JCT 20|21|MOD 21|25|SUBJ 22|21|CONJ
+	23|24|MOD 24|22|COORD 25|14|POBJ 26|27|JCT 27|13|CJCT 28|30|LINK 29|30|SUBJ
+	30|27|COMP 31|32|JCT 32|30|PRED 33|3|PUNCT
+*PAR:	and the man came up to saw her at the same place that they were at
+	and they ended up loving each other and [/] and growing [/] growing
+	up together .
+%mor:	coord|and det:art|the n|man v|come&PAST adv|up prep|to n|saw
+	det:poss|her prep|at det:art|the adj|same n|place pro:rel|that
+	pro:sub|they cop|be&PAST prep|at coord|and pro:sub|they v|end-PAST
+	adv|up n:gerund|love-PRESP qn|each qn|other coord|and
+	part|grow-PRESP adv|up adv|together .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|XJCT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|15|JCT 17|19|LINK 18|19|SUBJ 19|16|POBJ 20|19|JCT 21|20|POBJ 22|23|QUANT
+	23|21|OBJ 24|23|CONJ 25|24|COORD 26|25|JCT 27|25|JCT 28|4|PUNCT
+*PAR:	&um stayed out to they had &s XXX [* phon] &uh what's the word the
+	wear [: married] [* u] each other and became mom [//] woman and man
+	stish [* u] .
+%mor:	cop|stay-PAST adv|out prep|to pro:sub|they v|have&PAST n:prop|XXX
+	pro:int|what~cop|be&3S det:art|the n|word det:art|the
+	part|marry-PASTP qn|each qn|other coord|and cop|become&PAST n|woman
+	coord|and n|man ?|stish .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|SUBJ 5|3|POBJ 6|5|OBJ 7|8|SUBJ 8|6|COMP
+	9|10|DET 10|8|PRED 11|12|DET 12|10|XMOD 13|14|QUANT 14|12|OBJ 15|14|CONJ
+	16|15|COORD 17|16|COORD 18|17|CONJ 19|20|MOD 20|18|COORD 21|1|PUNCT
+*PAR:	I can't talk .
+%mor:	pro:sub|I mod|can~neg|not v|talk .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	that's the story of everything .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|story prep|of
+	pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	they ended up getting a wearied [: married] [* u] there .
+%mor:	pro:sub|they v|end-PAST adv|up part|get-PRESP det:art|a
+	part|marry-PASTP adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|6|DET 6|4|OBJ 7|6|JCT 8|2|PUNCT
+*PAR:	a weary [: marry] [* phon] [//] stole [* u] .
+%mor:	det:art|a v|steal&PAST .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	&uh I can't think of the word .
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of det:art|the n|word .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	they glue [* u] on each other on the <man and woman> [//] husband
+	and wife .
+%mor:	pro:sub|they v|glue prep|on qn|each qn|other prep|on det:art|the
+	n|husband coord|and n|wife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+@End

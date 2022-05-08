@@ -1,0 +1,103 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:48
+@Media:	1015_3_BrokenWindow_Y2017_M05_D15_H14_M31_S21 video
+*PAR:	<the boy> [//] the the [/] &buh &buh boid [* phon] .
+%mor:	det:art|the ?|boid .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&fu &fu &fu football ball .
+%mor:	n|+n|foot+n|ball n|ball .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	and the [/] &la &guh &gah &gah &gah the [/] &gah the [/] &gah the
+	[/] &guh &guh &la &la the [/] the &guh &guh guys &guh &guh guhs
+	[* phon] .
+%mor:	coord|and det:art|the n|guy-PL ?|guhs .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	football &buh ball [/] ball &uh the [/] the foot the [/]
+	the &buh boy football .
+%mor:	n|+n|foot+n|ball n|ball det:art|the n|foot det:art|the n|boy
+	n|+n|foot+n|ball .
+%gra:	1|2|MOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|DET 6|7|MOD 7|4|APP 8|2|PUNCT
+*PAR:	&um &foi &uh &uh &fo &uh the &uh the [/] &uh the [/] the &uh bowl
+	[* phon] the bowl [* phon] the &bo &bo boy .
+%mor:	det:art|the det:art|the n|bowl det:art|the n|bowl det:art|the n|boy
+	.
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	the football [/] football [//] footfall [* phon] foot xxx [* phon]
+	xxx [* phon] &uh &uh &fuh .
+%mor:	det:art|the n|footfall n|foot .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	<the &la lat> [//] the &la the &la &lad &la &la &la &la lighd
+	[* phon] the &la &la &la .
+%mor:	det:art|the det:art|the ?|lighd det:art|the .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|DET 5|3|PUNCT
+*PAR:	&fo &fo I mean &ugh xxx [* phon] .
+%mor:	pro:sub|I v|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	boy oh &la &la laud [//] laut [* phon] the [/] <the football>
+	[//] ball football .
+%mor:	co|boy co|oh ?|laut n|ball n|+n|foot+n|ball .
+%gra:	1|5|COM 2|5|COM 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	the &uh &ff football .
+%mor:	det:art|the n|+n|foot+n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&la brother &ra &ra ride foot [/] foot &fall follow .
+%mor:	n|brother n|ride n|foot v|follow .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the &uh the [/] the [/] the house [/] house [/] house &an &nuh &uh
+	&uh &ruh &uh &uh &uh &fu windows .
+%mor:	det:art|the det:art|the n|house n|window-PL .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	football and the &ff football &buh the boy football and the &uh
+	&uh windows [//] winows [* phon] .
+%mor:	n|+n|foot+n|ball coord|and det:art|the n|+n|foot+n|ball det:art|the
+	n|boy n|+n|foot+n|ball coord|and det:art|the ?|winows .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|7|DET 6|7|MOD 7|4|CMOD
+	8|7|CONJ 9|10|DET 10|8|COORD 11|1|PUNCT
+*PAR:	and &nuh &nuh the [/] the .
+%mor:	coord|and det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	the &foot football [/] football .
+%mor:	det:art|the n|+n|foot+n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&pas &bah &bahs I .
+%mor:	pro:sub|I .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball and then the &ma man
+	[/] man the &la &la &la lamp [//] the &luh &luh &luh &la &lam &la
+	&luh &la &luh &nuh lamp [/] lamp .
+%mor:	n|ball coord|and adv:tem|then det:art|the n|man det:art|the
+	det:art|the n|lamp .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|JCT 4|5|DET 5|2|COORD 6|8|DET 7|8|DET 8|5|OBJ
+	9|1|PUNCT
+*PAR:	then the &fuh &duh is &sus xxx [* phon] .
+%mor:	adv:tem|then det:art|the cop|be&3S .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	&fa falls &fah .
+%mor:	n|fall-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&da dat [/] dat [* phon] &foo &la &sus &sus &sus susing [/] susing
+	[//] sising [* phon] .
+%mor:	?|dat ?|sising .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	&dat &dat the &ma man [/] man look &uh &la &la &la <look it> [/]
+	look it look windows .
+%mor:	det:art|the n|man v|look v|look pro:per|it v|look n|window-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|3|PUNCT
+*PAR:	and xxx [* phon] &fa &fa &fa &fa &far &fa &fa &far &fart &foot &foot
+	&foot football .
+%mor:	coord|and n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	ball [/] ball both the [/] the &buh boy .
+%mor:	v|ball qn|both det:art|the n|boy .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*PAR:	the &fuh &fuh youth air [/] air [/] air [/] air [/] air
+	[//] &uh ear the &uh the [/] &uh &ha &ma mad [* phon] &foo dat [/]
+	dat [* phon] boy [/] boy &uh &uh &e &e &e ear [/] ear .
+%mor:	det:art|the n|youth n|ear det:art|the adj|mad ?|dat n|boy n|ear .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|8|DET 5|8|MOD 6|8|MOD 7|8|MOD 8|3|APP
+	9|3|PUNCT
+@End

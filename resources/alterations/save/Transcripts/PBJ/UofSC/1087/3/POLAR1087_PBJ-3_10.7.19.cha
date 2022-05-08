@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.PBJ-3 video
+@Time Duration:	00:01:04
+*PAR:	&uh &um &l light bread &um make &um sandwich and open peanut+butter .
+%mor:	n|light n|bread v|make n|sandwich coord|and adj|open
+	n|+n|peanut+n|butter .
+*PAR:	and &un &um put the knife in it and &ss spead [: phon] [* phon] on a
+	&um spead [: spread] [* phon] on a light bread .
+%mor:	coord|and v|put&ZERO det:art|the n|knife prep|in pro:per|it
+	coord|and ?|phon adv|on det:art|a n|spread prep|on det:art|a n|light
+	n|bread .
+*PAR:	and &um &um spread on the light bread and &um jelly [//] and &um oh
+	man &um &j jelly .
+%mor:	coord|and v|spread&ZERO prep|on det:art|the n|light n|bread
+	coord|and coord|and co|oh n|man n|jelly .
+*PAR:	and &um &s spread on the light bread .
+%mor:	coord|and v|spread&ZERO prep|on det:art|the n|light n|bread .
+*PAR:	and [//] aw man and open wide .
+%mor:	co|aw n|man coord|and v|open adj|wide .
+@End

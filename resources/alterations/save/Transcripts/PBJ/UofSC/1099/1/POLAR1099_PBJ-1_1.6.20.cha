@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_1_PBJ_January-6th-2020-10-03-01-am video
+@Time Duration:	00:00:07
+*PAR:	I would take two pieces of bread .
+%mor:	pro:sub|I mod|will&COND v|take det:num|two n|piece-PL prep|of
+	n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and I would put the peanut+butter and the &um jam on it .
+%mor:	coord|and pro:sub|I mod|will&COND v|put&ZERO det:art|the
+	n|+n|peanut+n|butter coord|and det:art|the n|jam prep|on pro:per|it
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|9|DET
+	9|7|COORD 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+@End

@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:48
+@Media:	POLAR_1052_BW4 video
+*PAR:	the boy ponc [* phon] the &um circle [: ball] [* s] .
+%mor:	det:art|the n|boy ?|ponc det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	he hit the window the glass .
+%mor:	pro:sub|he v|hit&ZERO det:art|the n|window det:art|the n|glass .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	ban [: man] [* phon] bight [: right] [* phon] there in the house .
+%mor:	n|man adv|right adv|there prep|in det:art|the n|house .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	glass broken off in the ban [: man] [* phon] .
+%mor:	n|glass part|break&PASTP adv|off prep|in det:art|the n|man .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	then look out &uh father &um the ball thing &uh he look out .
+%mor:	adv:tem|then cop|look adv|out n|father det:art|the n|ball n|thing
+	pro:sub|he cop|look adv|out .
+%gra:	1|2|JCT 2|9|JCT 3|2|JCT 4|7|MOD 5|7|DET 6|7|MOD 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

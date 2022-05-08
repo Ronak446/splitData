@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Patient
+@ID:	eng|POLAR|PAR|||||Patient|||
+@Time Duration:	00:02:12
+@Media:	1018_Cinderella2 video
+*PAR:	okay the [/] the madam has three sister [* s] [//] and &uh &chil
+	[//] &uh women [//] girls [//] women .
+%mor:	co|okay det:art|the n|madam v|have&3S det:num|three coord|and
+	n|woman&PL .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD 8|4|PUNCT
+*PAR:	and the one lady's women [* s] is doing all of the work .
+%mor:	coord|and det:art|the det:num|one n|lady~poss|s n|woman&PL
+	aux|be&3S part|do-PRESP pro:indef|all prep|of det:art|the n|work .
+%gra:	1|8|LINK 2|6|DET 3|4|QUANT 4|6|MOD 5|4|POSS 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|8|PUNCT
+*PAR:	and the other two girls hate the girl .
+%mor:	coord|and det:art|the qn|other det:num|two n|girl-PL n|hate
+	det:art|the n|girl .
+%gra:	1|0|INCROOT 2|6|DET 3|5|QUANT 4|5|QUANT 5|6|MOD 6|1|COORD 7|8|DET
+	8|6|OBJ 9|1|PUNCT
+*PAR:	and the [/] the brinch [* phon] came to give the [/] the young lady
+	the surprise &um beautiful sheet [* u] [//] um [/] um a [/] a [/] a
+	[/] a sheet [* u] for her to wear .
+%mor:	coord|and det:art|the ?|brinch v|come&PAST inf|to v|give
+	det:art|the adj|young n|lady det:art|the adj|surprise adj|beautiful
+	?|um det:art|a n|sheet prep|for pro:obj|her inf|to v|wear .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|12|DET 11|12|MOD 12|9|XMOD 13|12|OBJ 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|19|INF 19|15|XMOD 20|4|PUNCT
+*PAR:	and the luhng [* phon] lady become happily [//] happy with the
+	brince [* phon] .
+%mor:	coord|and det:art|the ?|luhng n|lady cop|become adj|happy prep|with
+	det:art|the ?|brince .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and they come together and be happy .
+%mor:	coord|and pro:sub|they v|come adv|together coord|and cop|be
+	adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|PRED
+	8|3|PUNCT
+@End

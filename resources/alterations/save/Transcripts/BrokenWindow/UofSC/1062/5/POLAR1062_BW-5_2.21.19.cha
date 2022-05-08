@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	1062_5_BrokenWindow_February-21st-2019-1-51-18-pm video
+*PAR:	okay boy and &um ball .
+%mor:	co|okay n|boy coord|and n|ball .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&um crash &um &s &um window .
+%mor:	n|crash n|window .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um oh god .
+%mor:	co|oh n|god .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um book [//] &um bick [: pick] [* phon] up and see and .
+%mor:	v|pick adv|up coord|and v|see coord|and .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|OBJ 6|1|PUNCT
+*PAR:	who is it .
+%mor:	pro:rel|who aux|be&3S pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

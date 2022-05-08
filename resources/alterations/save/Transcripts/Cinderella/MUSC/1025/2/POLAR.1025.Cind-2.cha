@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:02:08
+@Media:	1025_2_Cinderella_October-3rd-2017-10-22-02-am, video
+*PAR:	&um when zhe [: she] [* phon] was &uh looking at some .
+%mor:	conj|when pro:sub|she aux|be&PAST&13S part|look-PRESP prep|at
+	qn|some .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	&=laughs &um she had a very mean &uh in &allsaw [* phon] .
+%mor:	pro:sub|she v|have&PAST det:art|a adv|very adj|mean adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|JCT 5|2|JCT 6|5|JCT 7|2|PUNCT
+*PAR:	whatever &=laughs .
+%mor:	pro:int|whatever .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and <tey [: they] [* phon] went>
+	[//] they was &l &uh lickin [: looking] [* phon] mad at her .
+%mor:	coord|and pro:sub|they aux|be&PAST&13S part|look-PRESP adj|mad
+	prep|at pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	and she &um .
+%mor:	coord|and pro:sub|she .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know &=laughs &ah .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	well &we [//] they went to the &uh ball .
+%mor:	co|well pro:sub|they v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &uh &sh [//] she lost her shoe .
+%mor:	coord|and pro:sub|she v|lose&PAST det:poss|her n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and she found it .
+%mor:	coord|and pro:sub|she v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	<and &uh &h> [//] and [/] and they all went &uh steep
+	[: sleep] [* phon] <and up> [/] and up for ner
+	[: their] [* phon] [//] their boy .
+%mor:	coord|and pro:sub|they post|all v|go&PAST n|sleep coord|and adv|up
+	prep|for det:poss|their n|boy .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|PQ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and they went &uh erer [: ever] [* phon] apter [: after] [* phon] .
+%mor:	coord|and pro:sub|they v|go&PAST adv|ever adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+@End

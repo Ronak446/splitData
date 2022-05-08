@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:57
+@Media:	1026_BW6 video
+*PAR:	okay this is the boy playing soccer .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|the n|boy part|play-PRESP
+	n|soccer .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|6|OBJ 8|3|PUNCT
+*PAR:	and ee [* phon] hits the ball .
+%mor:	coord|and co|ee v|hit-3S det:art|the n|ball .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and then &bam it hits the window over next door or at you know .
+%mor:	coord|and adv:tem|then pro:per|it v|hit-3S det:art|the n|window
+	adv|over adv|next n|door coord|or prep|at pro:per|you v|know .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|JCT
+	9|4|OBJ 10|9|CONJ 11|10|COORD 12|13|SUBJ 13|11|POBJ 14|4|PUNCT
+*PAR:	and the ball goes in .
+%mor:	coord|and det:art|the n|ball v|go-3S adv|in .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	the this &um gentleman .
+%mor:	det:art|the pro:dem|this n|gentleman .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and hits the ball after he hits the window .
+%mor:	coord|and v|hit-3S det:art|the n|ball conj|after pro:sub|he
+	v|hit-3S det:art|the n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*PAR:	and the man looks out the window gets up and stares at the little
+	boy outside .
+%mor:	coord|and det:art|the n|man v|look-3S prep|out det:art|the n|window
+	v|get-3S adv|up coord|and v|stare-3S prep|at det:art|the adj|little
+	n|boy adv|outside .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|8|SUBJ 8|5|POBJ
+	9|4|JCT 10|4|CONJ 11|10|COORD 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|11|JCT 17|4|PUNCT
+@End

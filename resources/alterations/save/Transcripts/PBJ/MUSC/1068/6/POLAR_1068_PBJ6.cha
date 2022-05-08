@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	POLAR_1068_PBJ6 video
+*PAR:	head [* u] one [* u] small [//] big_boys [* u] into boys [* u] too
+	[/] too <big_one [* u]> [/] <big_one [* u]> [/] big_one [* u] [/]
+	big_one [* u] .
+%mor:	v|head det:num|one ?|big_boys prep|into n|boy-PL adv|too ?|big_one
+	.
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|4|POBJ 6|7|JCT 7|1|CJCT 8|1|PUNCT
+*PAR:	and two [* u] says two [//] one and one .
+%mor:	coord|and det:num|two v|say-3S pro:indef|one coord|and
+	pro:indef|one .
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	eat [/] eat .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

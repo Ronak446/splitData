@@ -1,0 +1,41 @@
+File	POLAR.1030.PBJ4.12-14-17.cha
+Language	eng
+Corpus	POLAR
+Code	PAR
+Sem Paraphasias	0
+Phon Paraphasias	16
+Unk Paraphasias	0
+MTTR	0.623
+Role	Participant
+Education	.
+Custom_field	.
+Duration (sec)	111
+Total Utts	7
+MLU Utts	6
+MLU Words	9.167
+MLU Morphemes	9.667
+FREQ types	27
+FREQ tokens	64
+FREQ TTR	0.422
+Words/Min	34.595
+Verbs/Utt	0.571
+Word Errors	19
+Utt Errors	0
+density	0.391
+Nouns	6
+Plurals	0
+Verbs	4
+Aux	0
+3S	0
+1S/3S	0
+PAST	0
+PASTP	0
+PRESP	0
+prep|	6
+adj|	1
+adv|	4
+conj|	1
+det|	9
+pro|	13
+retracing[//]	2
+repetition[/]	5

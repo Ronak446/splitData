@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:31
+@Media:	1086_5_BrokenWindow_December-5th-2019-10-04-55-am video
+*PAR:	the boy kick the ball .
+%mor:	det:art|the n|boy v|kick det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the ball hit glass window .
+%mor:	det:art|the n|ball v|hit&ZERO n|glass n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	broke it .
+%mor:	v|break&PAST pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	ball went through a glass window <onto the man> [//] to the
+	gentleman's &w sitting down watching tv .
+%mor:	n|ball v|go&PAST prep|through det:art|a n|glass n|window prep|to
+	det:art|the n|gentleman~aux|be&3S part|sit-PRESP adv|down
+	part|watch-PRESP n|tv .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|11|AUX 11|2|XJCT 12|11|JCT 13|11|XJCT 14|13|OBJ 15|2|PUNCT
+*PAR:	he got up .
+%mor:	pro:sub|he v|get&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	picked up the soccer ball .
+%mor:	v|pick-PAST prep|up det:art|the n|soccer n|ball .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*PAR:	and said who did this .
+%mor:	coord|and v|say&PAST pro:rel|who mod|do&PAST det:dem|this .
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|INCROOT 6|5|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

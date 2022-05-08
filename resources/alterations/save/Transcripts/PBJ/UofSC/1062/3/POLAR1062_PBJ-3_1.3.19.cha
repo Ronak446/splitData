@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:20
+@Media:	1062_3_PBJ_January-3rd-2019-10-11-56-am video
+*PAR:	okay &um bread &um two &s &um liced [: sliced] [* phon] &mm .
+%mor:	co|okay n|bread det:num|two part|slice-PASTP .
+%gra:	1|3|COM 2|3|MOD 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	&um &um &um beanduh+butter [: peanut+butter] [* phon] &um open and
+	spoon and pread [: spread] [* phon] .
+%mor:	n|+n|peanut+n|butter adj|open coord|and n|spoon coord|and
+	v|spread&ZERO .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	&um &um jam &um &um off &um &um stelly [: jelly] [* phon] .
+%mor:	n|jam prep|off n|jelly .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and [/] &um and [/] and bread okay and &poof .
+%mor:	coord|and n|bread adj|okay coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

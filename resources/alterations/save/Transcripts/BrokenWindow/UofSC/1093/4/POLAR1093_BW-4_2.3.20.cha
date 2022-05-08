@@ -1,0 +1,62 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1093.BW-4 video
+@Time Duration:	00:00:51
+*PAR:	&um there's a boy and he was playing outside .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|boy coord|and pro:sub|he
+	aux|be&PAST&13S part|play-PRESP adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|2|PUNCT
+*PAR:	and he was kicking the ball .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|kick-PRESP det:art|the
+	n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and all of a sudden he kicked the ball .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden pro:sub|he
+	v|kick-PAST det:art|the n|ball .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and it went in through a [/] a window of somebody's house .
+%mor:	coord|and pro:per|it v|go&PAST adv|in prep|through det:art|a
+	n|window prep|of adj|somebody&dn-POSS n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+*PAR:	and I'm not sure whether it was his father or it's a stranger .
+%mor:	coord|and pro:sub|I~cop|be&1S neg|not adj|sure conj|whether
+	pro:per|it cop|be&PAST&13S det:poss|his n|father coord|or
+	pro:per|it~cop|be&3S det:art|a n|stranger .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|10|DET 10|8|PRED 11|13|LINK 12|13|SUBJ 13|8|CJCT 14|15|DET 15|13|PRED
+	16|3|PUNCT
+*PAR:	and the guys was sitting there .
+%mor:	coord|and det:art|the n|guy-PL aux|be&PAST&13S part|sit-PRESP
+	adv|there .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and he all of a sudden got this ball &um handed in his fingers .
+%mor:	coord|and pro:sub|he adv|all prep|of det:art|a adj|sudden
+	v|get&PAST det:dem|this n|ball adj|handed prep|in det:poss|his
+	n|finger-PL .
+%gra:	1|7|LINK 2|7|SUBJ 3|4|JCT 4|7|JCT 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|7|PUNCT
+*PAR:	and he wanted to find out who it was so he looked out the window .
+%mor:	coord|and pro:sub|he v|want-PAST inf|to v|find adv|out pro:int|who
+	pro:per|it cop|be&PAST&13S adv|so pro:sub|he v|look-PAST prep|out
+	det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|COMP 10|12|JCT 11|12|SUBJ 12|9|CPRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*PAR:	and <he saw that> [//] he didn't know whether he saw the boy or the
+	boy had disappeared .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|know comp|whether
+	pro:sub|he v|see&PAST det:art|the n|boy coord|or det:art|the n|boy
+	aux|have&PAST dis#part|appear-PASTP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|OBJ 11|10|CONJ 12|13|DET 13|15|SUBJ 14|15|AUX 15|11|COORD
+	16|5|PUNCT
+*PAR:	so that's all .
+%mor:	co|so pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

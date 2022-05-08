@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_3_Cinderella_November-25th-2019-10-37-19-am video
+@Time Duration:	00:00:45
+*PAR:	what happen .
+%mor:	pro:int|what v|happen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	take a piktur [: picture] [* phon] [/] piktur [: picture] [* phon]
+	animal .
+%mor:	v|take det:art|a n|picture n|animal .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	and <they take them> [/] they take them into far away .
+%mor:	coord|and pro:sub|they v|take pro:obj|them prep|into adj|far
+	adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|JCT 8|3|PUNCT
+*PAR:	they take them par [: far] [* phon] away .
+%mor:	pro:sub|they v|take pro:obj|them adv|far adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*PAR:	and each time they far away they less far away .
+%mor:	coord|and qn|each n|time pro:sub|they adv|far adv|away pro:sub|they
+	adj|less adv|far adv|away .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT 5|6|JCT 6|4|JCT 7|6|INCROOT
+	8|7|POSTMOD 9|10|JCT 10|8|JCT 11|7|PUNCT
+*PAR:	and they came ask for &uh got them up .
+%mor:	coord|and pro:sub|they v|come&PAST v|ask prep|for v|get&PAST
+	pro:obj|them adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|OBJ 8|6|JCT
+	9|3|PUNCT
+*PAR:	and XXX [* phon] out of them a far away .
+%mor:	coord|and n:prop|XXX adv|out prep|of pro:obj|them det:art|a adv|far
+	adv|away .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|JCT 5|4|POBJ 6|8|DET 7|8|JCT 8|2|JCT
+	9|1|PUNCT
+@End

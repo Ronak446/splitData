@@ -1,0 +1,18 @@
+@UTF8
+@Window:	0_0_0_0_0_0_164_1_164_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1100_BW-4_6.9.20 video
+@Time Duration:	00:00:10
+*PAR:	ball [/] ball &uh .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	broken glass .
+%mor:	part|break&PASTP n|glass .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

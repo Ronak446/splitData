@@ -1,0 +1,24 @@
+@UTF8
+@Window:	0_0_0_0_0_0_156_0_156_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	POLAR_1116_3_PBJ_10.12.2020, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant [* u] and a garagous [* phon] .
+%mor:	n|elephant coord|and det:art|a ?|garagous .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	and a colten [* phon] .
+%mor:	coord|and det:art|a ?|colten .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	I don't fucking know it .
+%mor:	pro:sub|I mod|do~neg|not n:gerund|fuck-PRESP v|know pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	that's it . 
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

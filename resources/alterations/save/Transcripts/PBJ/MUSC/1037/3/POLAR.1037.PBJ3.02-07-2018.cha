@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1037_3_PBJ_February-7th-2018-11-02-02-am video
+*PAR:	bread peanut [/] peanut+butter and jelly .
+%mor:	n|bread n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and sandwich it .
+%mor:	coord|and n|sandwich pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

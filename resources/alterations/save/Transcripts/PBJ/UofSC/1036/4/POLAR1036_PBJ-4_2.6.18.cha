@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:07
+@Media:	1036_PBJ4 video
+*PAR:	get the peanut+butter .
+%mor:	v|get det:art|the n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&um <bread and> [/] &um <bread and> [/] &um bread and &um jelly and
+	&um &um jelly and &um peanut+butter .
+%mor:	n|bread coord|and n|jelly coord|and n|jelly coord|and
+	n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|4|COORD 6|1|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	and &um &um &um make a sandwich .
+%mor:	coord|and v|make det:art|a n|sandwich .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

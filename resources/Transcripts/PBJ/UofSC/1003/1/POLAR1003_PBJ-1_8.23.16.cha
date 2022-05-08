@@ -1,0 +1,50 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:31
+@Media:	1003_PBJ1 video
+*PAR:	well you need a you know b-r-e-a-s-t [* phon] .
+%mor:	co|well pro:per|you v|need det:art|a pro:per|you v|know
+	?|b-r-e-a-s-t .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|3|PUNCT
+*PAR:	&uh you need two of it .
+%mor:	pro:per|you v|need det:num|two prep|of pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	and then you need this fella [* u] here .
+%mor:	coord|and adv:tem|then pro:per|you v|need pro:dem|this n|fella
+	adv|here .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|4|PUNCT
+*PAR:	you know the b-u-t-t-e-r [* phon] .
+%mor:	pro:per|you v|know det:art|the ?|b-u-t-t-e-r .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and maybe get one with you know just get that in one of it .
+%mor:	coord|and adv|maybe v|get pro:indef|one prep|with pro:per|you
+	v|know adv|just v|get pro:dem|that prep|in det:num|one prep|of
+	pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|SUBJ 7|5|POBJ 8|9|JCT
+	9|3|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+*PAR:	and then you have a friend [* u] .
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|a n|friend .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	maybe like a z-r-a-m-e [* phon] .
+%mor:	adv|maybe co|like det:art|a ?|z-r-a-m-e .
+%gra:	1|2|JCT 2|4|COM 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	and &um put it there .
+%mor:	coord|and v|put&ZERO pro:per|it adv|there .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and put it together .
+%mor:	coord|and v|put&ZERO pro:per|it adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and you have it .
+%mor:	coord|and pro:per|you v|have pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	of course if you take it off you might like to have it two it .
+%mor:	prep|of n|course conj|if pro:per|you v|take pro:per|it prep|off
+	pro:per|you mod|might v|like inf|to v|have pro:per|it det:num|two
+	pro:per|it .
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|5|OBJ 7|5|JCT
+	8|10|SUBJ 9|10|AUX 10|7|POBJ 11|12|INF 12|5|XCOMP 13|12|OBJ 14|15|QUANT
+	15|12|OBJ 16|1|PUNCT
+@End

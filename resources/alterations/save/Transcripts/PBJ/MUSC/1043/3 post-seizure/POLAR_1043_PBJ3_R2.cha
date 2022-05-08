@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	POLAR_1043_PBJ3_R2 video
+@Comment:	Perseveration.
+*PAR:	I want two &ts tups [* phon] of the commercials [* u] two of them .
+%mor:	pro:sub|I v|want det:num|two ?|tups prep|of det:art|the
+	n|commercial-PL det:num|two prep|of pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|XMOD
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*PAR:	and then I have commercial [* u] [/] commercial [* u] .
+%mor:	coord|and adv:tem|then pro:sub|I v|have n|commercial .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and afraid [* u] of the commercials [* u] .
+%mor:	coord|and adj|afraid prep|of det:art|the n|commercial-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	and then the commercial [* u] let commercial [* u] together with the
+	commercials [* u] .
+%mor:	coord|and adv:tem|then det:art|the n|commercial v|let&ZERO
+	n|commercial adv|together prep|with det:art|the n|commercial-PL .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	his [* u] is zummercials [: commercial] [* phon] .
+%mor:	det:poss|his cop|be&3S adj|commercial .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and hers [* u] is commercial [* u] .
+%mor:	coord|and pro:poss|hers cop|be&3S adj|commercial .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and when he [* u] use his [* u] commercial [* u] together .
+%mor:	coord|and conj|when pro:sub|he v|use det:poss|his n|commercial
+	adv|together .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	two [/] two tims [* phon] and two tims [* phon] .
+%mor:	det:num|two ?|tims coord|and det:num|two ?|tims .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|CONJ 4|5|QUANT 5|3|COORD 6|2|PUNCT
+*PAR:	that's the commercial [* u] of it together .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|commercial prep|of pro:per|it
+	adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|POSTMOD
+	8|2|PUNCT
+@End

@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:59
+@Media:	LARC.1046.PBJ-1 video
+*PAR:	alright so &um the two slices of bread .
+%mor:	co|alright conj|so det:art|the det:num|two n|slice-PL prep|of
+	n|bread .
+%gra:	1|2|COM 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and then she &uh it &um the [/] the .
+%mor:	coord|and adv:tem|then pro:sub|she pro:per|it det:art|the .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*PAR:	I don't know &um .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	so &um the peanut+butter and jelly &um were &uh &s &s &s slathered
+	on it .
+%mor:	co|so det:art|the n|+n|peanut+n|butter coord|and n|jelly
+	aux|be&PAST part|slather-PASTP prep|on pro:per|it .
+%gra:	1|7|COM 2|3|DET 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*PAR:	&um and then she [//] &uh &um the [//] &uh I &um would eat it .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|eat pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

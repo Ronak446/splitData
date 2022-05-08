@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:44
+@Media:	1041_4_PBJ_April-12th-2018-1-59-36-pm video
+*PAR:	take the bread kelly [* phon] [/] kelly [* phon] [/] kelly [* phon]
+	la [* phon] jam and peet+punter [* phon] &p that's for peter+butt
+	[* phon] .
+%mor:	v|take det:art|the n|bread ?|kelly co|la n|jam coord|and
+	?|peet+punter pro:rel|that~aux|be&3S prep|for ?|peter+butt .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|6|COM 6|4|COORD 7|6|CONJ 8|7|COORD
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|11|POBJ 13|1|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	three things .
+%mor:	det:num|three n|thing-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	all I can do .
+%mor:	pro:indef|all pro:sub|I mod|can v|do .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	make a sandwich of course .
+%mor:	v|make det:art|a n|sandwich prep|of n|course .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@Window:	0_0_0_0_0_0_325_1_325_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:55
+@Media:	POLAR_1116_2_Cinderella_9.15.2020, video
+*PAR:	Cidger [: Cinderella] [* phon] xxx [* phon] .
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one two ree [: three] [* phon] five .
+%mor:	det:num|one det:num|two det:num|three det:num|five .
+%gra:	1|4|DATE 2|3|QUANT 3|4|DATE 4|0|INCROOT 5|4|PUNCT
+*PAR:	then take it to the &s bed [* u] .
+%mor:	adv:tem|then v|take pro:per|it prep|to det:art|the n|bed .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	I can't even see it .
+%mor:	pro:sub|I mod|can~neg|not adv|even v|see pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	cars [: carriage] [* s] .
+%mor:	n|carriage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	new bed [* u] .
+%mor:	adj|new n|bed .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and he got the colsen [* phon] .
+%mor:	coord|and pro:sub|he v|get&PAST det:art|the ?|colsen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	see [: she] [* phon] got one &uh &th three [* u] .
+%mor:	pro:sub|she v|get&PAST det:num|one det:num|three .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DATE 4|2|OBJ 5|2|PUNCT
+*PAR:	and then she went in xxx [* phon] fall into a bed [* u] . 
+%mor:	coord|and adv:tem|then pro:sub|she v|go&PAST prep|in n|fall
+	prep|into det:art|a n|bed .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	I see it xxx [* phon] . 
+%mor:	pro:sub|I v|see pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	book [* u] .
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I can't even see it . 
+%mor:	pro:sub|I mod|can~neg|not adv|even v|see pro:per|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	book on the fahers [* phon] . 
+%mor:	n|book prep|on det:art|the ?|fahers .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	and then he xxx [* phon] the burs [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|he det:art|the ?|burs .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	and then de [: he] [* phon] ef [: left] [* phon] and bye . 
+%mor:	coord|and adv:tem|then pro:sub|he v|leave&PAST coord|and co|bye .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*PAR:	bye [/] bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

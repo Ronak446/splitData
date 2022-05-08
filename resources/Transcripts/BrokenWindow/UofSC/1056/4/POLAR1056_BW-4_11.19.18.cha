@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1056_4_BrokenWindow_November-19th-2018-10-40-47-am video
+@Comment:	Participant primarily uses jargon to communicate.
+*PAR:	okay be fwai [* phon] up &ah byoom [* phon] .
+%mor:	co|okay cop|be ?|fwai adv|up ?|byoom .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	a twee [* phon] oyee [* phon] eenu [* phon] hodee [* phon] &s suwuh
+	[* phon] .
+%mor:	det:art|a ?|twee ?|oyee ?|eenu ?|hodee ?|suwuh .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	eemee [* phon] fellee [* phon] .
+*PAR:	deehwa [* phon] au [* phon] toon [* phon] byoom [* phon] .
+%mor:	?|deehwa ?|au n|toon ?|byoom .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	and dee [* phon] ho [* phon] hau [* phon] oovode [* phon] oh he
+	&mhm .
+%mor:	coord|and ?|dee co|ho ?|hau ?|oovode co|oh pro:sub|he .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|4|COM 4|2|ROOT 5|4|INCROOT 6|7|COM 7|5|INCROOT
+	8|7|PUNCT
+@End

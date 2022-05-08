@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:28
+@Media:	1004_2_PBJ_Y2016_M11_D03_H11_M59_S26 video
+*PAR:	is bread and xxx [* phon] .
+%mor:	cop|be&3S n|bread coord|and .
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|CONJ 4|1|PUNCT
+*PAR:	and the bun [* s] and cook it .
+%mor:	coord|and det:art|the n|bun coord|and v|cook pro:per|it .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|5|OBJ 7|1|PUNCT
+*PAR:	and when it was the bread and bacon [* u] .
+%mor:	coord|and conj|when pro:per|it cop|be&PAST&13S det:art|the n|bread
+	coord|and n|bacon .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|CONJ 8|7|COORD
+	9|4|PUNCT
+*PAR:	bun [* s] was toast [* s] toast [* s] [/] but .
+%mor:	n|bun cop|be&PAST&13S n|toast conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+*PAR:	and then slice it up .
+%mor:	coord|and adv:tem|then v|slice pro:per|it adv|up .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and put it in a pie [* u] .
+%mor:	coord|and v|put&ZERO pro:per|it prep|in det:art|a n|pie .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and break it up to when the &s was feeling .
+%mor:	coord|and v|break pro:per|it adv|up prep|to conj|when det:art|the
+	aux|be&PAST&13S part|feel-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|9|LINK 7|9|DET 8|9|AUX
+	9|5|POBJ 10|2|PUNCT
+*PAR:	it was xxx [* phon] .
+%mor:	pro:per|it cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	good good [/] .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	for for [/] xxx [* phon] .
+%mor:	conj|for .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread and butter [* s] and &ba <butter [* s]> [//] not butter salt
+	[* s] .
+%mor:	n|bread coord|and n|butter coord|and neg|not n|butter n|salt .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|7|NEG 6|7|MOD 7|4|COORD
+	8|1|PUNCT
+*PAR:	butter [* s] and bread .
+%mor:	n|butter coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	one two things in with bread together .
+%mor:	det:num|one det:num|two n|thing-PL prep|in prep|with n|bread
+	adv|together .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|POBJ 7|6|NJCT
+	8|3|PUNCT
+@End

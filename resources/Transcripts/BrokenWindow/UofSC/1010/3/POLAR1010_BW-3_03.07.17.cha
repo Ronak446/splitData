@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1010_3_BrokenWindow_Y2017_M03_D07_H14_M00_S30 video
+*PAR:	xxx [* phon] much xxx [* phon] for .
+%mor:	adv|much prep|for .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	you look <you look> [/] xxx [* phon] .
+%mor:	pro:per|you v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	she [//] &wa she [/] he xxx [* phon] .
+%mor:	pro:sub|he .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	he felt .
+%mor:	pro:sub|he v|feel&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	his his [/] har [* phon] .
+%mor:	det:poss|his co|har .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	heh [* phon] xxx [* phon] .
+%mor:	co|heh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	har [* phon] xxx [* phon] .
+%mor:	co|har .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

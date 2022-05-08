@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	POLAR.1096.PBJ-2 video
+*PAR:	well I &s would &uh wheat bed [: bread] [* phon] also .
+%mor:	co|well pro:sub|I mod|will&COND n|wheat n|bread adv|also .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|JCT 7|5|PUNCT
+*PAR:	&buh &uh I [/] I bake [: take] [* phon] &la a bre [* phon] of that .
+%mor:	pro:sub|I v|take det:art|a ?|bre prep|of pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	and I kit [: get] [* phon] the petunbur [: peanut+butter] [* phon]
+	and spread it on the sandwich .
+%mor:	coord|and pro:sub|I v|get det:art|the n|+n|peanut+n|butter
+	coord|and v|spread&ZERO pro:per|it prep|on det:art|the n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and I get the tchelly [: jelly] [* phon] .
+%mor:	coord|and pro:sub|I v|get det:art|the n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it's &uh strawberry .
+%mor:	coord|and pro:per|it~cop|be&3S n|strawberry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	it's xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	that's what &uh wenda [* phon] leng [* phon] .
+%mor:	pro:dem|that~cop|be&3S pro:int|what ?|wenda ?|leng .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	but I pread [: spread] [* phon] &uh trawberry [: strawberry]
+	[* phon] on that .
+%mor:	conj|but pro:sub|I v|spread&ZERO n|strawberry prep|on pro:dem|that
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and I &peh puot [: put] [* phon] the sandwich [: piece] [* s] on top
+	of thit [: that] [* phon] .
+%mor:	coord|and pro:sub|I v|put&ZERO det:art|the n|piece prep|on n|top
+	prep|of pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and I eat it .
+%mor:	coord|and pro:sub|I v|eat pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

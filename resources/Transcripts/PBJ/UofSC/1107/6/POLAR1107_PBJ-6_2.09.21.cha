@@ -1,0 +1,70 @@
+@UTF8
+@Window:	124_858_354_692_84_1_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1107-PBJ-6_2.09.21 video
+@Time Duration:	00:01:48
+*PAR:	okay to make a peanut+butter and jelly sandwich you need to get &uh
+	two [/] two slices of bread .
+%mor:	co|okay inf|to v|make det:art|a n|+n|peanut+n|butter coord|and
+	n|jelly n|sandwich pro:per|you v|need inf|to v|get det:num|two
+	n|slice-PL prep|of n|bread .
+%gra:	1|10|COM 2|3|INF 3|10|JCT 4|8|DET 5|8|MOD 6|5|CONJ 7|6|COORD 8|3|OBJ
+	9|10|SUBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|14|QUANT 14|12|OBJ 15|14|NJCT
+	16|15|POBJ 17|10|PUNCT
+*PAR:	<a can> [//] a jar of peanut [: peanut+butter] [* s] and a jar of
+	jelly .
+%mor:	det:art|a n|jar prep|of n|+n|peanut+n|butter coord|and det:art|a
+	n|jar prep|of n|jelly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|CONJ 6|7|DET 7|5|COORD
+	8|7|NJCT 9|8|POBJ 10|2|PUNCT
+*PAR:	you also need a [/] a knife .
+%mor:	pro:per|you adv|also v|need det:art|a n|knife .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and you spread the jelly on one slice of bread .
+%mor:	coord|and pro:per|you v|spread&ZERO det:art|the n|jelly prep|on
+	det:num|one n|slice prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and on top of it <you pour> [//] you &s spread the jelly .
+%mor:	coord|and prep|on n|top prep|of pro:per|it pro:per|you
+	v|spread&ZERO det:art|the n|jelly .
+%gra:	1|7|LINK 2|7|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	then you take the second &s piece of bread and place it on top of
+	the second butter [: peanut+butter] [* s] which has the
+	peanut+butter and jelly on top of it .
+%mor:	adv:tem|then pro:per|you v|take det:art|the adj|second n|piece
+	prep|of n|bread coord|and v|place pro:per|it prep|on n|top prep|of
+	det:art|the adj|second n|+n|peanut+n|butter pro:rel|which v|have&3S
+	det:art|the n|+n|peanut+n|butter coord|and n|jelly prep|on n|top
+	prep|of pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|12|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|19|LINK 19|17|CMOD 20|21|DET 21|19|OBJ 22|21|CONJ
+	23|22|COORD 24|19|JCT 25|24|POBJ 26|25|NJCT 27|26|POBJ 28|3|PUNCT
+*PAR:	then you <take a> [//] take the knife and &sli slice the sandwich in
+	half .
+%mor:	adv:tem|then pro:per|you v|take det:art|the n|knife coord|and
+	v|slice det:art|the n|sandwich prep|in n|half .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	and you also have a glass of milk .
+%mor:	coord|and pro:per|you adv|also v|have det:art|a n|glass prep|of
+	n|milk .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	and you put it on a pan [//] I mean on a plate or [/] or plate .
+%mor:	coord|and pro:per|you v|put&ZERO pro:per|it prep|on det:art|a
+	pro:sub|I v|mean prep|on det:art|a n|plate coord|or n|plate .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|SUBJ 8|5|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|12|COORD 14|3|PUNCT
+*PAR:	and you sit down and bite it .
+%mor:	coord|and pro:per|you v|sit adv|down coord|and v|bite pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ 8|3|PUNCT
+*PAR:	and enjoy it .
+%mor:	coord|and v|enjoy pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

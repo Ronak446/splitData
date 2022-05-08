@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:51
+@Media:	1072_5_PBJ_June-11th-2019-11-32-55-am video
+*PAR:	okay &um you got two bread .
+%mor:	co|okay pro:per|you v|get&PAST det:num|two n|bread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	one &um that the the peanut+butter on .
+%mor:	pro:indef|one pro:rel|that det:art|the det:art|the
+	n|+n|peanut+n|butter adv|on .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|DET 4|5|DET 5|1|CMOD 6|5|NJCT 7|1|PUNCT
+*PAR:	and &t they &um put &um jelly on stop [: top] [* phon] of it [/] it
+	&um spread .
+%mor:	coord|and pro:sub|they v|put&ZERO n|jelly prep|on n|top prep|of
+	pro:per|it v|spread&ZERO .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|SUBJ
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and to put it [/] it all together .
+%mor:	coord|and prep|to v|put&ZERO pro:per|it adv|all adv|together .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+@End

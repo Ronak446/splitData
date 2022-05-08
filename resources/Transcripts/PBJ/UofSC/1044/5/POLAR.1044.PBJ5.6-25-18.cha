@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:36
+@Media:	1044_5_PBJ_June-25th-2018-4-19-49-pm video
+*PAR:	okay &yum &yum .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	first the bread is firm [* s] and cold [* s] .
+%mor:	adv|first det:art|the n|bread cop|be&3S adj|firm coord|and adj|cold
+	.
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|CONJ 7|6|COORD 8|4|PUNCT
+*PAR:	the &ma &uh peanut+butter and the delly [* phon] .
+%mor:	det:art|the n|+n|peanut+n|butter coord|and det:art|the
+	adj|dell&dn-Y .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*PAR:	then other jars is .
+%mor:	adv:tem|then qn|other n|jar-PL cop|be&3S .
+%gra:	1|4|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I mean went in and eat .
+%mor:	pro:sub|I v|mean v|go&PAST adv|in coord|and v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|3|CONJ 6|5|COORD 7|2|PUNCT
+@End

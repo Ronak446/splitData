@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:47
+@Media:	1039_LARC_PBJ_January-16th-2020-2-39-32-pm video
+*PAR:	alright [/] alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pidut+butter [: peanut+butter] [* phon] and jewwy [: jelly] [* phon] .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&uh yeah behd [: bread] [* phon] yeah behd [: bread] [* phon] beemee
+	[* phon] yeah .
+%mor:	co|yeah n|bread co|yeah n|bread ?|beemee co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|5|COM 4|5|MOD 5|2|ENUM 6|5|COM 7|2|PUNCT
+*PAR:	pam [: jam] [* phon] yeah pam [: jam] [* phon] .
+%mor:	n|jam co|yeah n|jam .
+%gra:	1|3|MOD 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	bett [: bread] [* phon] xxx [* phon] bedut+butter [: peanut+butter]
+	[* phon] and jewwy [: jelly] [* phon] &uh xxx [* phon] .
+%mor:	n|bread n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	yeah tumut+butter [: peanut+butter] [* phon] and jelly bun [//] no
+	bun [//] dwead [: bread] [* phon] .
+%mor:	co|yeah n|+n|peanut+n|butter coord|and n|jelly qn|no n|bread .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|6|MOD 5|6|QUANT 6|3|COORD 7|2|PUNCT
+@End

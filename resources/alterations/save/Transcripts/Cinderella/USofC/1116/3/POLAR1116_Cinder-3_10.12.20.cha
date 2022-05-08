@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_329_1_329_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:43
+@Media:	POLAR_1116_3_Cinderella_10.12.2020, video
+*PAR:	xxx [* phon] thing with me .
+%mor:	n|thing prep|with pro:obj|me .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	I [//] you and her amitures [* phon] . 
+%mor:	pro:per|you coord|and det:poss|her ?|amitures .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	her aphichers [* phon] .
+%mor:	det:poss|her ?|aphichers .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	I can't even xxx [* phon] her .
+%mor:	pro:sub|I mod|can~neg|not adv|even pro:obj|her .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	I [//] you [//] hers and her kitties [* u] . 
+%mor:	pro:poss|hers coord|and det:poss|her n|kitty-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I can't do it . 
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	1028_3_BrokenWindow_October-12th-2017-10-10-59-am video
+
+*PAR:	okay &uh this is [//] &uh was a &uh &uh fellow playing soccer
+	something .
+%mor:	co|okay pro:dem|this cop|be&PAST&13S det:art|a n|fellow
+	part|play-PRESP n|soccer pro:indef|something .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|8|MOD 8|6|OBJ
+	9|3|PUNCT
+*PAR:	he &uh and he kicked it into the window and broke the window .
+%mor:	pro:sub|he coord|and pro:sub|he v|kick-PAST pro:per|it prep|into
+	det:art|the n|window coord|and v|break&PAST det:art|the n|window .
+%gra:	1|4|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	and &uh the guy was certainly surprised of that .
+%mor:	coord|and det:art|the n|guy cop|be&PAST&13S adv|certain&dadj-LY
+	v|surprise-PAST prep|of pro:dem|that .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	but &uh he got up .
+%mor:	conj|but pro:sub|he v|get&PAST adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and &uh he's looking at the broken window .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|at det:art|the
+	part|break&PASTP n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and &uh xxx [* phon] xxx [* phon] did it I guess .
+%mor:	coord|and v|do&PAST pro:per|it pro:sub|I v|guess .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+@End

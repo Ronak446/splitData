@@ -1,0 +1,386 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:09:34
+@Media:	POLAR_1079_5_Cinderella_July-29-2019 video
+*PAR:	Cinderella and his [: her] [* s] father .
+%mor:	n:prop|Cinderella coord|and det:poss|her n|father .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	anyway so &um the stepmother then came and lived in her house with
+	her stepsisters .
+%mor:	co|anyway conj|so det:art|the step#n|mother adv:tem|then
+	v|come&PAST coord|and v|live-PAST prep|in det:poss|her n|house
+	prep|with det:poss|her step#n|sister-PL .
+%gra:	1|6|COM 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|6|PUNCT
+*PAR:	and they were very [/] very mean .
+%mor:	coord|and pro:sub|they cop|be&PAST adv|very adj|mean .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and so Cinderella actually &um had to go to the attic .
+%mor:	coord|and co|so n:prop|Cinderella adv|actual&dadj-LY v|have&PAST
+	inf|to v|go prep|to det:art|the n|attic .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	and she had her own little room there .
+%mor:	coord|and pro:sub|she v|have&PAST det:poss|her adj|own adj|little
+	n|room adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|JCT
+	9|3|PUNCT
+*PAR:	and so &um she would clean and cook .
+%mor:	coord|and co|so pro:sub|she mod|will&COND adj|clean coord|and
+	n|cook .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|6|COORD 8|5|PUNCT
+*PAR:	she did all kinds of things .
+%mor:	pro:sub|she v|do&PAST qn|all n|kind-PL prep|of n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	and that terrible stepmother and stepsisters were <very &ang> [//]
+	very nasty to her .
+%mor:	coord|and det:dem|that adj|terrible step#n|mother coord|and
+	step#n|sister-PL cop|be&PAST adv|very adj|nasty prep|to pro:obj|her
+	.
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|9|JCT 11|10|POBJ 12|7|PUNCT
+*PAR:	and there was going to have this ball at the palace .
+%mor:	coord|and adv|there aux|be&PAST&13S part|go-PRESP inf|to v|have
+	det:dem|this n|ball prep|at det:art|the n|palace .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and it was everyone over the land .
+%mor:	coord|and pro:per|it cop|be&PAST&13S pro:indef|everyone prep|over
+	det:art|the n|land .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and so &um the prince was trying to find a perfect &uh woman that
+	they could be married .
+%mor:	coord|and co|so det:art|the n|prince aux|be&PAST&13S part|try-PRESP
+	inf|to v|find det:art|a adj|perfect n|woman pro:rel|that
+	pro:sub|they mod|could aux|be part|marry-PASTP .
+%gra:	1|6|LINK 2|6|COM 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|16|AUX
+	16|11|CMOD 17|6|PUNCT
+*PAR:	and so there were &uh &ins &in invitations for everyone for all the
+	women especially .
+%mor:	coord|and co|so pro:exist|there cop|be&PAST n|invite&dv-TION-PL
+	prep|for pro:indef|everyone prep|for qn|all det:art|the n|woman&PL
+	adv|especial&dadj-LY .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|JCT
+	9|11|QUANT 10|11|DET 11|8|POBJ 12|11|NJCT 13|4|PUNCT
+*PAR:	and so Cinderella was so excited .
+%mor:	coord|and co|so n:prop|Cinderella aux|be&PAST&13S adv|so
+	part|excite-PASTP .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAR:	and in her [/] her bedroom <in the> [/] in the &um attic .
+%mor:	coord|and prep|in det:poss|her n|+n|bed+n|room prep|in det:art|the
+	n|attic .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*PAR:	there was a &um chest which was her mother's .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|chest pro:rel|which
+	cop|be&PAST&13S det:poss|her adj|mother&dn-POSS .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|6|PRED
+	9|2|PUNCT
+*PAR:	and so she decided that she was going to change some things about
+	her .
+%mor:	coord|and co|so pro:sub|she v|decide-PAST comp|that pro:sub|she
+	aux|be&PAST&13S part|go-PRESP inf|to v|change qn|some n|thing-PL
+	prep|about pro:obj|her .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|INF 10|8|COMP 11|12|QUANT 12|10|OBJ 13|10|JCT 14|13|POBJ 15|4|PUNCT
+*PAR:	you know use her [/] her clothing from her mother's .
+%mor:	pro:per|you v|know v|use det:poss|her n|clothing prep|from
+	det:poss|her adj|mother&dn-POSS .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and so of course all of the little animals especially the &um mice
+	and the &um birds &um they helped .
+%mor:	coord|and adv|so prep|of n|course adv|all prep|of det:art|the
+	adj|little n|animal-PL adv|especial&dadj-LY det:art|the n|mouse&PL
+	coord|and det:art|the n|bird-PL pro:sub|they v|help-PAST .
+%gra:	1|17|LINK 2|17|JCT 3|17|JCT 4|3|POBJ 5|6|JCT 6|17|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|CONJ 14|15|DET 15|13|COORD
+	16|17|SUBJ 17|0|ROOT 18|17|PUNCT
+*PAR:	and Cinderella came downstairs .
+%mor:	coord|and n:prop|Cinderella v|come&PAST adv|downstairs .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and she wanted to show that she's going <to the> [/] to the &um ball .
+%mor:	coord|and pro:sub|she v|want-PAST inf|to v|show comp|that
+	pro:sub|she~aux|be&3S part|go-PRESP prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and the mother said no you know .
+%mor:	coord|and det:art|the n|mother v|say&PAST co|no pro:per|you v|know
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	you cannot go to the [/] the [/] &um the party .
+%mor:	pro:per|you mod|can~neg|not v|go prep|to det:art|the n|party .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	you have to stay home .
+%mor:	pro:per|you v|have inf|to v|stay adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*PAR:	and she tore her dress .
+%mor:	coord|and pro:sub|she v|tear&PAST det:poss|her n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it hurt her so much .
+%mor:	coord|and pro:per|it v|hurt&ZERO pro:obj|her adv|so adv|much .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	so she went back upstairs .
+%mor:	co|so pro:sub|she v|go&PAST adv|back adv|upstairs .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and so &um she didn't know what she was gonna do .
+%mor:	coord|and co|so pro:sub|she mod|do&PAST~neg|not v|know pro:int|what
+	pro:sub|she aux|be&PAST&13S part|go-PRESP~inf|to v|do .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|12|INF 12|10|COMP 13|6|PUNCT
+*PAR:	and she said <I don't have a> [/] &haa I don't have a dress .
+%mor:	coord|and pro:sub|she v|say&PAST pro:sub|I mod|do~neg|not v|have
+	det:art|a n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and the all of sudden it was this magical step [/] step [//] no it
+	would be the fairy [/] fairy [/] fairy mother [: godmother] [* s] .
+%mor:	coord|and det:art|the pro:indef|all prep|of adj|sudden pro:per|it
+	cop|be&PAST&13S det:dem|this adj|magic&dn-AL co|no pro:per|it
+	mod|will&COND cop|be det:art|the n|fairy n|+n|god+n|mother .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|13|COM 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|16|DET 15|16|MOD
+	16|13|PRED 17|7|PUNCT
+*PAR:	and so <she said> [/] she said would you like to go to the [/] the
+	&um ball .
+%mor:	coord|and co|so pro:sub|she v|say&PAST mod|will&COND pro:per|you
+	v|like inf|to v|go prep|to det:art|the n|ball .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|AUX 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	and so of course she said yes she would .
+%mor:	coord|and adv|so prep|of n|course pro:sub|she v|say&PAST co|yes
+	pro:sub|she mod|will&COND .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|COM 8|6|PUNCT
+	9|8|INCROOT 10|9|PUNCT
+*PAR:	and she was so excited .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|so part|excite-PASTP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	and <she said> [/] she said well here is your dress .
+%mor:	coord|and pro:sub|she v|say&PAST adv|well adv|here cop|be&3S
+	det:poss|your n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|COMP 7|8|DET 8|6|PRED
+	9|3|PUNCT
+*PAR:	and it was gorgeous .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adj|gorgeous .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and she had a pair of &um &ss silver [//] not silver a glass
+	slippers .
+%mor:	coord|and pro:sub|she v|have&PAST det:art|a n|pair prep|of neg|not
+	adj|silver det:art|a n|glass n|slipper-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|NEG 8|11|MOD
+	9|11|DET 10|11|MOD 11|6|POBJ 12|3|PUNCT
+*PAR:	and she said but I have no place to [/] to ride .
+%mor:	coord|and pro:sub|she v|say&PAST conj|but pro:sub|I v|have qn|no
+	n|place prep|to n|ride .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and all of a sudden &boopityboopityboomp and here was this old .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden coord|and
+	adv|here cop|be&PAST&13S det:dem|this adj|old .
+%gra:	1|8|LINK 2|8|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|0|ROOT
+	9|10|DET 10|8|PRED 11|8|PUNCT
+*PAR:	it was just an [//] a &um pumpkin .
+%mor:	pro:per|it cop|be&PAST&13S adv|just det:art|a n|pumpkin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	and all of a sudden there's this gorgeous not a cherry but a .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden
+	pro:exist|there~cop|be&3S det:dem|this adj|gorgeous neg|not
+	det:art|a n|cherry conj|but det:art|a .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|12|MOD 10|9|NEG 11|12|DET 12|7|PRED 13|12|CONJ 14|13|COORD 15|7|PUNCT
+*PAR:	it would be not a wagon .
+%mor:	pro:per|it mod|will&COND cop|be neg|not det:art|a n|wagon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|3|PUNCT
+*PAR:	<it would be> [/] it would be a [/] <a carriage> [/] a carriage .
+%mor:	pro:per|it mod|will&COND cop|be det:art|a n|carriage .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and so then they needed to have four horses .
+%mor:	coord|and adv|so adv:tem|then pro:sub|they v|need-PAST inf|to
+	v|have det:num|four n|horse-PL .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|9|QUANT
+	9|7|OBJ 10|5|PUNCT
+*PAR:	well those were &um now &um mouse .
+%mor:	co|well pro:dem|those cop|be&PAST adv|now n|mouse .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and the mouse became the &um horses .
+%mor:	coord|and det:art|the n|mouse cop|become&PAST det:art|the
+	n|horse-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	and there is also a rider while they that he [//] she was in a
+	carriage .
+%mor:	coord|and adv|there cop|be&3S adv|also det:art|a n|ride&dv-AGT
+	conj|while pro:sub|they comp|that pro:sub|she cop|be&PAST&13S
+	prep|in det:art|a n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|11|LINK 8|11|SUBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|JCT 13|14|DET 14|12|POBJ
+	15|3|PUNCT
+*PAR:	and so she gets to the castle .
+%mor:	coord|and co|so pro:sub|she v|get-3S prep|to det:art|the n|castle .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and no one knew who she was .
+%mor:	coord|and qn|no pro:indef|one v|know&PAST pro:int|who pro:sub|she
+	cop|be&PAST&13S .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|4|PUNCT
+*PAR:	and there you know as she comes down the [/] the stairs everyone was
+	looking at who she is you know .
+%mor:	coord|and adv|there pro:per|you v|know conj|as pro:sub|she
+	v|come-3S prep|down det:art|the n|stair-PL pro:indef|everyone
+	aux|be&PAST&13S part|look-PRESP prep|at pro:int|who pro:sub|she
+	cop|be&3S pro:per|you v|know .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|13|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|4|COMP 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|14|CPOBJ 18|19|SUBJ 19|13|CJCT 20|4|PUNCT
+*PAR:	and of course the &ss stepsisters and stepmother they wanted one of
+	the girls to be married .
+%mor:	coord|and prep|of n|course det:art|the step#n|sister-PL coord|and
+	step#n|mother pro:sub|they v|want-PAST pro:indef|one prep|of
+	det:art|the n|girl-PL inf|to aux|be part|marry-PASTP .
+%gra:	1|9|LINK 2|9|JCT 3|2|POBJ 4|5|DET 5|9|SUBJ 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|INF 15|16|AUX
+	16|13|XMOD 17|9|PUNCT
+*PAR:	and so &um everyone's asking <who is she> [/] who is she .
+%mor:	coord|and adv|so pro:indef|everyone~aux|be&3S part|ask-PRESP
+	pro:int|who cop|be&3S pro:sub|she .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|5|PUNCT
+*PAR:	so she danced with &um the prince .
+%mor:	co|so pro:sub|she v|dance-PAST prep|with det:art|the n|prince .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and then right before midnight she realized that she had to leave .
+%mor:	coord|and adv:tem|then adv|right prep|before mid#n|night
+	pro:sub|she v|realize-PAST comp|that pro:sub|she v|have&PAST inf|to
+	v|leave .
+%gra:	1|7|LINK 2|7|JCT 3|4|JCT 4|7|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|12|INF 12|10|COMP 13|7|PUNCT
+*PAR:	and so she said I'm so sorry I have to leave .
+%mor:	coord|and co|so pro:sub|she v|say&PAST pro:sub|I~cop|be&1S adv|so
+	adj|sorry pro:sub|I v|have inf|to v|leave .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|JCT 8|6|PRED
+	9|10|SUBJ 10|4|CJCT 11|12|INF 12|10|COMP 13|4|PUNCT
+*PAR:	and so she's coming down the stairs .
+%mor:	coord|and adv|so pro:sub|she~aux|be&3S part|come-PRESP adv|down
+	det:art|the n|stair-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|5|OBJ
+	9|5|PUNCT
+*PAR:	and there was a [/] a &um because <she was so> [//] she had to go so
+	quickly that one of her &um shoes was found on the &um &um &ss
+	<a-b-c> [//] castle .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a conj|because
+	pro:sub|she v|have&PAST inf|to v|go adv|so adv|quick&dadj-LY
+	adv|that det:num|one prep|of det:poss|her n|shoe-PL aux|be&PAST&13S
+	part|find&PASTP prep|on det:art|the n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|INF
+	9|7|COMP 10|11|JCT 11|9|JCT 12|18|JCT 13|18|SUBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|18|AUX 18|9|XJCT 19|18|JCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+*PAR:	and so the [/] &um the &ss prince said I must find her .
+%mor:	coord|and co|so det:art|the n|prince v|say&PAST pro:sub|I mod|must
+	v|find pro:obj|her .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|8|OBJ 10|5|PUNCT
+*PAR:	so he did another ploclamation [: proclamation] [* phon] that every
+	girl in the village to see whose foot it &sff &ss &um fits .
+%mor:	co|so pro:sub|he v|do&PAST qn|another n|proclamation comp|that
+	qn|every n|girl prep|in det:art|the n|village inf|to v|see
+	det:int|whose n|foot pro:per|it v|fit-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|17|LINK 7|8|QUANT
+	8|17|SUBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|13|INF 13|17|XJCT 14|15|DET 15|13|OBJ
+	16|17|SUBJ 17|5|CMOD 18|3|PUNCT
+*PAR:	so of course Cinderella still had her [/] her &um &silv her &um
+	glass slippers but only one .
+%mor:	adv|so prep|of n|course n:prop|Cinderella adv|still v|have&PAST
+	det:poss|her det:poss|her n|glass n|slipper-PL conj|but adv|only
+	pro:indef|one .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|10|DET 8|10|DET
+	9|10|MOD 10|6|OBJ 11|6|CONJ 12|13|JCT 13|11|COORD 14|6|PUNCT
+*PAR:	and so then she &ss heard a noise .
+%mor:	coord|and adv|so adv:tem|then pro:sub|she v|hear&PAST det:art|a
+	n|noise .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and of course she was locked in her &um the allic [: attic] [* phon]
+	&aat attic .
+%mor:	coord|and prep|of n|course pro:sub|she aux|be&PAST&13S
+	part|lock-PASTP adv|in det:poss|her det:art|the n|attic n|attic .
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|11|DET
+	9|11|DET 10|11|MOD 11|7|POBJ 12|6|PUNCT
+*PAR:	and so one of the mouse saw the &um key .
+%mor:	coord|and adv|so pro:indef|one prep|of det:art|the n|mouse
+	v|see&PAST det:art|the n|key .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and it was underneath the floor [//] of [/] of the not the floor .
+%mor:	coord|and pro:per|it cop|be&PAST&13S prep|underneath det:art|the
+	prep|of det:art|the neg|not det:art|the n|floor .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|10|NEG
+	9|10|DET 10|6|POBJ 11|3|PUNCT
+*PAR:	<the &um> [//] let me think about this .
+%mor:	v|let&ZERO pro:obj|me v|think prep|about pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	<it would be the &um> [//] the key .
+%mor:	det:art|the n|key .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and so she got it .
+%mor:	coord|and co|so pro:sub|she v|get&PAST pro:per|it .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and she opened it .
+%mor:	coord|and pro:sub|she v|open-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and she went downstairs .
+%mor:	coord|and pro:sub|she v|go&PAST adv|downstairs .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and about that time she had a &um one of the other slippers which is
+	the prince who it would be .
+%mor:	coord|and prep|about det:dem|that n|time pro:sub|she v|have&PAST
+	det:art|a det:num|one prep|of det:art|the qn|other n|slipper-PL
+	pro:rel|which cop|be&3S det:art|the n|prince pro:rel|who pro:per|it
+	mod|will&COND cop|be .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|14|LINK 14|8|CMOD 15|16|DET
+	16|14|PRED 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|CMOD 21|6|PUNCT
+*PAR:	but it broke .
+%mor:	conj|but pro:per|it adj|broke .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	but Cinderella still had her slipper .
+%mor:	conj|but n:prop|Cinderella adv|still v|have&PAST det:poss|her
+	n|slipper .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and when she came in and she put that slipper on her .
+%mor:	coord|and conj|when pro:sub|she v|come&PAST adv|in coord|and
+	pro:sub|she v|put&ZERO pro:dem|that n|slipper prep|on pro:obj|her .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|11|POBJ 13|4|PUNCT
+*PAR:	they realized that she was the young lady who was Cinderella .
+%mor:	pro:sub|they v|realize-PAST comp|that pro:sub|she cop|be&PAST&13S
+	det:art|the adj|young n|lady pro:rel|who cop|be&PAST&13S
+	n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|8|DET 7|8|MOD 8|5|PRED
+	9|10|LINK 10|8|CMOD 11|10|PRED 12|2|PUNCT
+*PAR:	and so then there was a beautiful wedding .
+%mor:	coord|and adv|so adv:tem|then adv|there cop|be&PAST&13S det:art|a
+	adj|beautiful n|wedding .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*PAR:	but the &um yucky sisters and their mother &um then had to go and
+	work <for the> [/] &uh for the &um house .
+%mor:	conj|but det:art|the adj|yuck&dn-Y n|sister-PL coord|and
+	det:poss|their n|mother adv:tem|then v|have&PAST inf|to v|go
+	coord|and n|work prep|for det:art|the n|house .
+%gra:	1|9|LINK 2|4|DET 3|4|MOD 4|9|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|9|JCT
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|CONJ 13|12|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|9|PUNCT
+*PAR:	and she became married .
+%mor:	coord|and pro:sub|she cop|become&PAST part|marry-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and they went <in the> [//] in [//] and left .
+%mor:	coord|and pro:sub|they v|go&PAST coord|and v|leave&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	and that was the end of the story .
+%mor:	coord|and pro:dem|that cop|be&PAST&13S det:art|the n|end prep|of
+	det:art|the n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+@End

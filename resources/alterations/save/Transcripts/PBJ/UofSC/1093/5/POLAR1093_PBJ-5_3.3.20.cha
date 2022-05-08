@@ -1,0 +1,71 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1093.PBJ-5 video
+@Time Duration:	00:00:50
+*PAR:	a peanut+butter and jelly sandwich .
+%mor:	det:art|a n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	&uh you get a <piece of bread> [//] &ou piece of breads out .
+%mor:	pro:per|you v|get det:art|a n|piece prep|of n|bread-PL adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|JCT 8|2|PUNCT
+*PAR:	and you line them up .
+%mor:	coord|and pro:per|you v|line pro:obj|them adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and you &um get the jelly out of the refrigerator .
+%mor:	coord|and pro:per|you v|get det:art|the n|jelly adv|out prep|of
+	det:art|the n|refrigerator .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and the peanut+butter out of the cupboard .
+%mor:	coord|and det:art|the n|+n|peanut+n|butter adv|out prep|of
+	det:art|the n|cupboard .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	and you set them down .
+%mor:	coord|and pro:per|you v|set&ZERO pro:obj|them adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and one sandwich you get the jar of peanut+butter .
+%mor:	coord|and det:num|one n|sandwich pro:per|you v|get det:art|the
+	n|jar prep|of n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ
+	8|7|NJCT 9|8|POBJ 10|3|PUNCT
+*PAR:	and you &t &um take your knife .
+%mor:	coord|and pro:per|you v|take det:poss|your n|knife .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and you wipe [: spread] [* s] it all over the piece of bread .
+%mor:	coord|and pro:per|you v|spread&ZERO pro:per|it adv|all prep|over
+	det:art|the n|piece prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and the same thing with the other piece of bread .
+%mor:	coord|and det:art|the adj|same n|thing prep|with det:art|the
+	qn|other n|piece prep|of n|bread .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|8|DET 7|8|QUANT
+	8|5|POBJ 9|8|NJCT 10|9|POBJ 11|4|PUNCT
+*PAR:	you take the jelly out .
+%mor:	pro:per|you v|take det:art|the n|jelly adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and you &um take a big swab out .
+%mor:	coord|and pro:per|you v|take det:art|a adj|big v|swab adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|COMP 7|6|JCT 8|3|PUNCT
+*PAR:	and you &um put it all over the [/] &s the bread .
+%mor:	coord|and pro:per|you v|put&ZERO pro:per|it adv|all prep|over
+	det:art|the n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and then you have &um peanut+butter and jelly .
+%mor:	coord|and adv:tem|then pro:per|you v|have n|+n|peanut+n|butter
+	coord|and n|jelly .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD 8|4|PUNCT
+*PAR:	and you put it together .
+%mor:	coord|and pro:per|you v|put&ZERO pro:per|it adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and then you have a peanut+butter and jelly sandwich .
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|a
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|4|PUNCT
+@End

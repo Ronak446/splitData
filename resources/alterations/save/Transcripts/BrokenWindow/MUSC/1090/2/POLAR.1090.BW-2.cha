@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	POLAR.1090.BW-2 video
+*PAR:	story fu [* phon] father said whuy [* phon] fone [* phon] away sweek
+	[* phon] .
+%mor:	n|story ?|fu n|father v|say&PAST ?|whuy ?|fone adv|away ?|sweek .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|8|JCT 8|6|COORD
+	9|4|PUNCT
+*PAR:	well anyway when anoth [* phon] daughter [* u] is &s good and is got
+	kwazy [: crazy] [* phon] .
+%mor:	co|well adv|anyway conj|when ?|anoth n|daughter cop|be&3S adj|good
+	coord|and aux|be&3S part|get&PASTP adj|craze&dv-Y .
+%gra:	1|0|INCROOT 2|1|JCT 3|6|LINK 4|5|MOD 5|6|SUBJ 6|2|CPOBJ 7|6|PRED
+	8|6|CONJ 9|10|AUX 10|8|COORD 11|10|PRED 12|1|PUNCT
+*PAR:	well anyway he's thinking &k &k &k .
+%mor:	co|well adv|anyway pro:sub|he~aux|be&3S part|think-PRESP .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@End

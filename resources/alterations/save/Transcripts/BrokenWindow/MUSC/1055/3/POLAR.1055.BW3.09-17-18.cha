@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1055_3_BrokenWindow_September-17th-2018-2-58-54-pm video
+*PAR:	xxx [* phon] <get da [: the] [* phon] ball> [/] get da [: the]
+	[* phon] ball and xxx [* phon] .
+%mor:	v|get det:art|the n|ball coord|and .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|CONJ 5|1|PUNCT
+*PAR:	do one m [* phon] .
+%mor:	mod|do det:num|one ?|m .
+%gra:	1|3|AUX 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and do one xxx [* phon] xxx [* phon] .
+%mor:	coord|and v|do pro:indef|one .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and do xxx [* phon] .
+%mor:	coord|and v|do .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and do huzzle [* phon] [/] uzzle [* phon] .
+%mor:	coord|and v|do ?|uzzle .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and do xxx [* phon] .
+%mor:	coord|and v|do .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	<and do huzzle [* phon]> [/] and do huzzle [* phon] .
+%mor:	coord|and v|do ?|huzzle .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

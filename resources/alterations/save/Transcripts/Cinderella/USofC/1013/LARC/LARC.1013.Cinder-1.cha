@@ -1,0 +1,278 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:08:28
+@Media:	LARC.1013.Cinder-1 video
+*PAR:	&um there was a ball was about to happen at the castle .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|ball cop|be&PAST&13S
+	adv|about inf|to v|happen prep|at det:art|the n|castle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|8|JCT 7|8|INF 8|5|CPRED
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and Cinderella's stepmother &um got word that they were <about to
+	have a> [/] about to have a &um event [/] event at the castle .
+%mor:	coord|and adj|Cinderella&dn-POSS step#n|mother v|get&PAST n|word
+	pro:rel|that pro:sub|they cop|be&PAST adv|about inf|to v|have
+	det:art|a n|event prep|at det:art|the n|castle .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|JCT 10|11|INF 11|8|XJCT 12|13|DET 13|11|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*PAR:	<so the stepmother> [//] so &s Cinderella's mother was trying to get
+	her <real mother I mean> [//] real daughters ready to meet the
+	prince at the castle where the ball was gonna be &h held at .
+%mor:	adv|so adj|Cinderella&dn-POSS n|mother aux|be&PAST&13S
+	part|try-PRESP inf|to v|get det:poss|her adj|real n|daughter-PL
+	adj|ready inf|to v|meet det:art|the n|prince prep|at det:art|the
+	n|castle pro:rel|where det:art|the n|ball aux|be&PAST&13S
+	part|go-PRESP~inf|to cop|be v|hold&PAST prep|at .
+%gra:	1|2|JCT 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|13|SUBJ 11|10|POSTMOD 12|13|INF 13|7|COMP 14|15|DET 15|13|OBJ
+	16|13|JCT 17|18|DET 18|16|POBJ 19|23|LINK 20|21|DET 21|23|SUBJ 22|23|AUX
+	23|18|CMOD 24|25|INF 25|23|COMP 26|25|CPRED 27|26|JCT 28|5|PUNCT
+*PAR:	&um so Cinderella &s sisters started getting prepared getting they
+	outfits and dresses picked out or what have you .
+%mor:	co|so n:prop|Cinderella n|sister-PL v|start-PAST part|get-PRESP
+	part|prepare-PASTP part|get-PRESP pro:sub|they v|outfit-3S coord|and
+	n|dress-PL v|pick-PAST adv|out coord|or pro:int|what v|have
+	pro:per|you .
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|XJCT 6|5|COMP 7|9|XJCT 8|9|SUBJ
+	9|6|COMP 10|12|LINK 11|12|SUBJ 12|9|COMP 13|12|JCT 14|16|LINK 15|16|SUBJ
+	16|12|CJCT 17|16|OBJ 18|4|PUNCT
+*PAR:	and but the prince didn't have a date to the ball at the castle .
+%mor:	coord|and conj|but det:art|the n|prince mod|do&PAST~neg|not v|have
+	det:art|a n|date prep|to det:art|the n|ball prep|at det:art|the
+	n|castle .
+%gra:	1|7|LINK 2|7|LINK 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|15|DET 15|13|POBJ
+	16|7|PUNCT
+*PAR:	so the king sent his staff out to <put up> [//] put notices out <and
+	the> [//] in the [/] in the area so [/] so he can &pa possibly meet
+	or find a &w wife for his [/] his son or the prince .
+%mor:	co|so det:art|the n|king v|send&PAST det:poss|his n|staff adv|out
+	inf|to v|put&ZERO v|notice-3S prep|out adv|in prep|in det:art|the
+	n|area co|so pro:sub|he mod|can adv|possible&dadj-LY v|meet coord|or
+	v|find det:art|a n|wife prep|for det:poss|his n|son coord|or
+	det:art|the n|prince .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|INF
+	9|10|SRL 10|4|COMP 11|10|JCT 12|11|POBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|20|COM 17|20|SUBJ 18|20|AUX 19|20|JCT 20|4|CJCT 21|20|CONJ 22|21|COORD
+	23|24|DET 24|22|OBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|24|CONJ 29|30|DET
+	30|28|COORD 31|4|PUNCT
+*PAR:	&um so Cinderella got word that there's a possibility she could
+	probably &meh meet the prince .
+%mor:	co|so n:prop|Cinderella v|get&PAST n|word comp|that
+	pro:exist|there~cop|be&3S det:art|a n|possible&dadj-ITY pro:sub|she
+	mod|could adv|probable&dadj-LY v|meet det:art|the n|prince .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|DET
+	9|7|PRED 10|13|SUBJ 11|13|AUX 12|13|JCT 13|9|CMOD 14|15|DET 15|13|OBJ
+	16|3|PUNCT
+*PAR:	so she tried to figure out how she gonna <get a> [/] get a way there .
+%mor:	co|so pro:sub|she v|try-PAST inf|to v|figure adv|out pro:int|how
+	pro:sub|she part|go-PRESP~inf|to v|get det:art|a n|way adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|JCT 8|9|SUBJ
+	9|5|COMP 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|3|PUNCT
+*PAR:	and try to figure out how she gonna get a dress to the ball at the
+	castle .
+%mor:	coord|and v|try inf|to v|figure adv|out pro:int|how pro:sub|she
+	part|go-PRESP~inf|to v|get det:art|a n|dress prep|to det:art|the
+	n|ball prep|at det:art|the n|castle .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*PAR:	&um so she found a old dress in a ches [: chest] [* phon] .
+%mor:	co|so pro:sub|she v|find&PAST det:art|a adj|old n|dress prep|in
+	det:art|a n|chest .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and she tried it on .
+%mor:	coord|and pro:sub|she v|try-PAST pro:per|it adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and her sisters found out Cinderella <had a> [/] had a dress to wear
+	to the ball .
+%mor:	coord|and det:poss|her n|sister-PL v|find&PAST adv|out
+	n:prop|Cinderella v|have&PAST det:art|a n|dress inf|to v|wear
+	prep|to det:art|the n|ball .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|11|INF 11|9|XMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*PAR:	so they sabotage Cinderella's dress so she won't be able to go .
+%mor:	co|so pro:sub|they n|sabotage adj|Cinderella&dn-POSS n|dress co|so
+	pro:sub|she mod|will~neg|not cop|be adj|able inf|to v|go .
+%gra:	1|3|COM 2|3|SUBJ 3|5|MOD 4|5|MOD 5|0|INCROOT 6|10|COM 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|5|CMOD 11|10|PRED 12|13|INF 13|11|XMOD 14|5|PUNCT
+*PAR:	so [/] &um so &s Cinderella got upset and start crying because she
+	won't be able to meet the prince or go to the ball .
+%mor:	co|so n:prop|Cinderella v|get&PAST adj|upset coord|and v|start
+	part|cry-PRESP conj|because pro:sub|she mod|will~neg|not cop|be
+	adj|able inf|to v|meet det:art|the n|prince coord|or v|go prep|to
+	det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|7|SRL 7|5|COORD 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|3|CJCT 13|12|PRED 14|15|INF 15|13|XMOD
+	16|17|DET 17|15|OBJ 18|15|CONJ 19|18|COORD 20|19|JCT 21|22|DET
+	22|20|POBJ 23|3|PUNCT
+*PAR:	&um but Cinderella's godmother &um ask [/] ask her what was her
+	problem .
+%mor:	conj|but adj|Cinderella&dn-POSS n|+n|god+n|mother v|ask pro:obj|her
+	pro:int|what cop|be&PAST&13S det:poss|her n|problem .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|7|CJCT 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|7|PUNCT
+*PAR:	and she said she didn't have a dress to wear to the ball at the
+	castle .
+%mor:	coord|and pro:sub|she v|say&PAST pro:sub|she mod|do&PAST~neg|not
+	v|have det:art|a n|dress inf|to v|wear prep|to det:art|the n|ball
+	prep|at det:art|the n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|9|DET
+	9|7|OBJ 10|11|INF 11|9|XMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*PAR:	so her &m <step> [//] <or her mother> [//] &uh fairy godmother &um
+	made her a dress so she could wear <to the> [/] to the ball so she
+	can meet the prince .
+%mor:	adv|so det:poss|her n|fairy n|+n|god+n|mother v|make&PAST
+	pro:obj|her det:art|a n|dress conj|so pro:sub|she mod|could v|wear
+	prep|to det:art|the n|ball conj|so pro:sub|she mod|can v|meet
+	det:art|the n|prince .
+%gra:	1|5|JCT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|12|CJCT 20|21|DET 21|19|OBJ 22|5|PUNCT
+*PAR:	and but she nayvadry [* phon] a [/] a way to get <to the> [/] to the
+	ball at the castle .
+%mor:	coord|and conj|but pro:sub|she ?|nayvadry det:art|a n|way inf|to
+	v|get prep|to det:art|the n|ball prep|at det:art|the n|castle .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|POBJ 5|6|DET 6|4|OBJ 7|8|INF
+	8|6|XMOD 9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+*PAR:	so the <fairy god> [//] fairy godmother turned the mouse and the
+	other animals into a chariot [: carriage] [* s] &um so Cinderella
+	can go to the ball at the castle .
+%mor:	co|so det:art|the n|fairy n|+n|god+n|mother v|turn-PAST det:art|the
+	n|mouse coord|and det:art|the qn|other n|animal-PL prep|into
+	det:art|a n|carriage co|so n:prop|Cinderella mod|can v|go prep|to
+	det:art|the n|ball prep|at det:art|the n|castle .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|11|DET 10|11|QUANT 11|8|COORD 12|11|NJCT 13|14|DET 14|12|POBJ 15|18|COM
+	16|18|SUBJ 17|18|AUX 18|11|XMOD 19|18|JCT 20|21|DET 21|19|POBJ 22|18|JCT
+	23|24|DET 24|22|POBJ 25|5|PUNCT
+*PAR:	&um so she got there and she surprised her &s <step sistuh> [//]
+	step sisters at the ball .
+%mor:	co|so pro:sub|she v|get&PAST adv|there coord|and pro:sub|she
+	v|surprise-PAST pro:obj|her n|step n|sister-PL prep|at det:art|the
+	n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and they was shocked to see that she made it .
+%mor:	coord|and pro:sub|they aux|be&PAST&13S part|shock-PASTP inf|to
+	v|see comp|that pro:sub|she v|make&PAST pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|9|OBJ 11|4|PUNCT
+*PAR:	and Cinderella met the prince .
+%mor:	coord|and n:prop|Cinderella v|meet&PAST det:art|the n|prince .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and he was astonished when he first saw her .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|astonish-PASTP conj|when
+	pro:sub|he adv|first n|saw det:poss|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|LINK 6|9|SUBJ 7|9|JCT 8|9|MOD
+	9|4|CJCT 10|4|PUNCT
+*PAR:	and they start dancing and having a good time .
+%mor:	coord|and pro:sub|they v|start part|dance-PRESP coord|and
+	part|have-PRESP det:art|a adj|good n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|CONJ 6|5|COORD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|3|PUNCT
+*PAR:	but at twelve o'clock Cinderella had to [/] had to leave because her
+	the [/] &meh the spell <was gonna> [/] &um was gonna wear off at
+	twelve o'clock .
+%mor:	conj|but prep|at det:num|twelve n|o'clock n:prop|Cinderella
+	v|have&PAST v|have&PAST inf|to v|leave conj|because det:poss|her
+	det:art|the n|spell aux|be&PAST&13S part|go-PRESP~inf|to v|wear
+	adv|off prep|at det:num|twelve n|o'clock .
+%gra:	1|6|LINK 2|6|JCT 3|4|QUANT 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|COMP 8|9|INF
+	9|7|COMP 10|15|LINK 11|13|DET 12|13|DET 13|15|SUBJ 14|15|AUX 15|9|COMP
+	16|17|INF 17|15|COMP 18|17|JCT 19|17|JCT 20|21|QUANT 21|19|POBJ
+	22|6|PUNCT
+*PAR:	so she had to be [/] &huh &ba be back home &um &bef before twelve .
+%mor:	co|so pro:sub|she v|have&PAST inf|to cop|be adv|back adv|home
+	prep|before det:num|twelve .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|5|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	so she rushed out of the [/] the [/] the ball at the castle .
+%mor:	co|so pro:sub|she v|rush-PAST adv|out prep|of det:art|the n|ball
+	prep|at det:art|the n|castle .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	&um but she on the way leaving she left her slipper &um on the way
+	out .
+%mor:	conj|but pro:sub|she adv|on det:art|the n|way part|leave-PRESP
+	pro:sub|she adj|left pro:obj|her n|slipper prep|on det:art|the n|way
+	adv|out .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|OBJ 8|10|MOD
+	9|10|MOD 10|7|COMP 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|JCT 15|6|PUNCT
+*PAR:	and but the prince was trying to catch her and he didn't see her no
+	more .
+%mor:	coord|and conj|but det:art|the n|prince aux|be&PAST&13S
+	part|try-PRESP inf|to v|catch pro:obj|her coord|and pro:sub|he
+	mod|do&PAST~neg|not v|see pro:obj|her qn|no adv|more .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|6|CJCT 15|14|OBJ2
+	16|17|QUANT 17|14|JCT 18|6|PUNCT
+*PAR:	so &um he sent out a notice out in the public to try to find her .
+%mor:	co|so pro:sub|he v|send&PAST prep|out det:art|a n|notice adv|out
+	prep|in det:art|the n|public inf|to v|try inf|to v|find pro:obj|her
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|3|XJCT 13|14|INF 14|12|COMP 15|14|OBJ
+	16|3|PUNCT
+*PAR:	&um so he sent word out but so wedell [* phon] one &uh [/] one of
+	the &um his soldiers found a slipper that she wore at the dance .
+%mor:	co|so pro:sub|he v|send&PAST n|word adv|out conj|but adv|so
+	?|wedell det:num|one pro:indef|one prep|of det:art|the det:poss|his
+	n|soldier-PL v|find&PAST det:art|a n|slipper pro:rel|that
+	pro:sub|she v|wear&PAST prep|at det:art|the n|dance .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|8|JCT 8|6|COORD
+	9|10|QUANT 10|15|SUBJ 11|10|NJCT 12|14|DET 13|14|DET 14|11|POBJ 15|8|CMOD
+	16|17|DET 17|15|OBJ 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|JCT 22|23|DET
+	23|21|POBJ 24|3|PUNCT
+*PAR:	and he try to see if he can find [/] find her by letting other women
+	try on the [/] the slipper that Cinderella left so he could find
+	her .
+%mor:	coord|and pro:sub|he v|try inf|to v|see conj|if pro:sub|he mod|can
+	v|find pro:obj|her prep|by part|let-PRESP qn|other n|woman&PL v|try
+	prep|on det:art|the n|slipper pro:rel|that n:prop|Cinderella
+	adj|left co|so pro:sub|he mod|could v|find pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|14|QUANT 14|15|SUBJ 15|12|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|20|LINK 20|18|CMOD 21|20|PRED 22|25|COM
+	23|25|SUBJ 24|25|AUX 25|21|CMOD 26|25|OBJ 27|3|PUNCT
+*PAR:	&um but he never did find her <at that> [/] at that moment .
+%mor:	conj|but pro:sub|he adv|never mod|do&PAST v|find pro:obj|her
+	prep|at det:dem|that n|moment .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	but &um so Cinderella <heard it> [//] heard about people <tryin>
+	[//] <trynin her> [//] trying her shoe on but they couldn't fit it .
+%mor:	conj|but co|so n:prop|Cinderella v|hear&PAST prep|about n|person&PL
+	part|try-PRESP det:poss|her n|shoe adv|on conj|but pro:sub|they
+	mod|could~neg|not v|fit&ZERO pro:per|it .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|XMOD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|15|LINK 12|15|SUBJ 13|15|AUX 14|13|NEG 15|4|CJCT
+	16|15|OBJ 17|4|PUNCT
+*PAR:	&um &s so [/] so she tried it on <well she got word> [//] well one
+	of them guess the prince got word that he [/] <he had to> [//] &um
+	he wanted to see if she could fit the &cin slipper .
+%mor:	co|so pro:sub|she v|try-PAST pro:per|it adv|on adv|well
+	pro:indef|one prep|of pro:obj|them v|guess det:art|the n|prince
+	v|get&PAST n|word pro:rel|that pro:sub|he v|want-PAST inf|to v|see
+	conj|if pro:sub|she mod|could v|fit&ZERO det:art|the n|slipper .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|10|JCT 7|10|SUBJ 8|7|NJCT
+	9|8|POBJ 10|3|COMP 11|12|DET 12|13|SUBJ 13|10|COMP 14|13|OBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|19|INF 19|17|COMP 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|COMP 24|25|DET 25|23|OBJ 26|3|PUNCT
+*PAR:	&uh so she did try it on .
+%mor:	co|so pro:sub|she mod|do&PAST v|try pro:per|it adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and [/] and after that I guess they lived <happy> [//] <appy> [//]
+	happy after happy &ugh I guess I can't say the word .
+%mor:	coord|and prep|after adv|that pro:sub|I v|guess pro:sub|they
+	v|live-PAST adj|happy prep|after adj|happy pro:sub|I v|guess
+	pro:sub|I mod|can~neg|not v|say det:art|the n|word .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|16|JCT
+	9|8|JCT 10|9|POBJ 11|12|SUBJ 12|10|CMOD 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|7|COMP 17|18|DET 18|16|OBJ 19|5|PUNCT
+@End

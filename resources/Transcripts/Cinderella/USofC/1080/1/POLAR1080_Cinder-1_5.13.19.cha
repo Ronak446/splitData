@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:01:15
+@Media:	1080_1_Cinderella_May-13th-2019-12-40-44-pm, video
+*PAR:	funny &n .
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	match emotion .
+%mor:	n|match n|emote&dv-TION .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	he whyge [* phon] and .
+%mor:	pro:sub|he ?|whyge coord|and .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	&ch &ch &e &s &a and he .
+%mor:	coord|and pro:sub|he .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	Cinderweller [: Cinderella] [* phon] is a <fictional &f &e>
+	[//] fictional .
+%mor:	n:prop|Cinderella cop|be&3S det:art|a adj|fiction&dn-AL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	I don't know . 116881_126330
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

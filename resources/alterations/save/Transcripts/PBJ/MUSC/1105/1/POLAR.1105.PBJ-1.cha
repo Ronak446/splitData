@@ -1,0 +1,25 @@
+@UTF8
+@Window:	45_363_755_916_0_0_61_0_61_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	POLAR.1105.PBJ-1, video
+*PAR:	oh that's a picture of a sandwich .
+%mor:	co|oh pro:dem|that~cop|be&3S det:art|a n|picture prep|of det:art|a
+	n|sandwich .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	&um you get bread and put peanut+butter on one side and jelly on the
+	other .
+%mor:	pro:per|you v|get n|bread coord|and v|put&ZERO n|+n|peanut+n|butter
+	prep|on det:num|one n|side coord|and n|jelly prep|on det:art|the
+	qn|other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|5|OBJ 7|5|JCT 8|9|QUANT
+	9|7|POBJ 10|9|CONJ 11|10|COORD 12|5|JCT 13|14|DET 14|12|POBJ 15|2|PUNCT
+*PAR:	and then you put it together .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO pro:per|it
+	adv|together .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+@End

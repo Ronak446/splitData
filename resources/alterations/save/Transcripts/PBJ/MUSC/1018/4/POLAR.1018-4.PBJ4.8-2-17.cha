@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:48
+@Media:	1018_4_PBJ_Y2017_M08_D02_H11_M36_S13 video
+*PAR:	okay the first pick two slices of bread .
+%mor:	adj|okay det:art|the adj|first v|pick det:num|two n|slice-PL
+	prep|of n|bread .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|ENUM 5|6|QUANT 6|4|OBJ 7|6|NJCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	a xxx [* phon] xxx [* phon] paper &um brush on one &um white &um
+	bread .
+%mor:	det:art|a n|paper n|brush prep|on det:num|one n|white n|bread .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	and put &gi &gi ginder [* s] and another xxx [* phon] xxx
+	[* phon] on a second bread .
+%mor:	coord|and v|put&ZERO ?|ginder coord|and qn|another prep|on
+	det:art|a adj|second n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|6|QUANT 6|4|COORD 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	and put them together .
+%mor:	coord|and v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	that was it .
+%mor:	pro:dem|that cop|be&PAST&13S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

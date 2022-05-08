@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:10
+@Media:	1092_1_PBJ_October-7th-2019-12-56-59-pm video
+*PAR:	a sandwich .
+%mor:	det:art|a n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and a tater [* phon] busuh [* phon] &um .
+%mor:	coord|and det:art|a n|tater ?|busuh .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	potato [* u] the sandwich .
+%mor:	n|potato det:art|the n|sandwich .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@End

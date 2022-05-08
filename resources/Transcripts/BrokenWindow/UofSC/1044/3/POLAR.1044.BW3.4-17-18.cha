@@ -1,0 +1,31 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:05
+@Media:	1044_3_BrokenWindow_April-17th-2018-2-44-37-pm video
+*PAR:	kick &uh glass .
+%mor:	v|kick n|glass .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kicky [* phon] bwa [* phon] guh [* phon] &uh a ball and a ki
+	[* phon] &uh .
+%mor:	adj|kick&dv-Y ?|bwa ?|guh det:art|a n|ball coord|and det:art|a ?|ki
+	.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET
+	8|6|COORD 9|1|PUNCT
+*PAR:	ees [* phon] bwoken [* phon] .
+*PAR:	&uh the list [* u] &uh that is not too good .
+%mor:	det:art|the n|list pro:rel|that aux|be&3S neg|not adv|too adj|good
+	.
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|7|AUX 5|4|NEG 6|7|JCT 7|2|CMOD 8|2|PUNCT
+*PAR:	and &uh the ball &uh .
+%mor:	coord|and det:art|the n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	iss [* phon]  boken [* phon] .
+%mor:	cop|be&3S-3S ?|boken .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+@End

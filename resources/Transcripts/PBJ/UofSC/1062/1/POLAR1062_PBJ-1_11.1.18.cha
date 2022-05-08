@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+@Media:	1062_1_PBJ_November-1st-2018-11-16-43-am video
+*PAR:	&um bread jelly and &pe oh peanit+butter [: peanut+butter] [* phon] .
+%mor:	n|bread n|jelly coord|and co|oh n|+n|peanut+n|butter .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|5|COM 5|3|COORD 6|2|PUNCT
+*PAR:	&um &um &w okay &um bread one two .
+%mor:	co|okay n|bread det:num|one det:num|two .
+%gra:	1|4|COM 2|4|MOD 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	and <budder> [//] no peadut+butter [: peanut+butter] [* phon] &um
+	bread .
+%mor:	coord|and qn|no n|+n|peanut+n|butter n|bread .
+%gra:	1|4|LINK 2|4|QUANT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&um seldi [: jelly] [* phon] &um &um bake [* unk] &um bread .
+%mor:	n|jelly v|bake n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and [/] &um and top and good .
+%mor:	coord|and n|top coord|and adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

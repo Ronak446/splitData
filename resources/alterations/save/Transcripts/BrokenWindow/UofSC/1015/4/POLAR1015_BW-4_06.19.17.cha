@@ -1,0 +1,123 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:35
+@Media:	1015_4_BrokenWindow_Y2017_M06_D19_H13_M54_S01 video
+*PAR:	&la darkest [* u] football .
+%mor:	adj|dark-SP n|+n|foot+n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um ball ball [/] .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um son son [/] .
+%mor:	n|son .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh &la dogis [* phon] &d dog [* u] dog [/] .
+%mor:	coord|and ?|dogis n|dog .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&la &la &uh &la lad .
+%mor:	n|lad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball ball [/] .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and and [/] son .
+%mor:	coord|and n|son .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&la lad and the &l the [/] the [/] &uh lad lad [/] lad [/] lad [/] .
+%mor:	n|lad coord|and det:art|the n|lad .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	and football &uh son .
+%mor:	coord|and n|+n|foot+n|ball n|son .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	football xxx [* phon] xxx [* phon] .
+%mor:	n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&la all the &la &la <all the> [/] football xxx [* phon] xxx [* phon] .
+%mor:	qn|all det:art|the n|+n|foot+n|ball .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	foot &uh a ball <a ball> [/] ball [/] ball [/] &b .
+%mor:	n|foot det:art|a n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	all the the [/] &uh &la &la &la lad .
+%mor:	qn|all det:art|the n|lad .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	or son &uh football &uh .
+%mor:	coord|or n|son n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|1|PUNCT
+*PAR:	&b windoros [* phon] &win windoros [* phon] .
+%mor:	?|windoros ?|windoros .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	and the &uh &m man man [/] .
+%mor:	coord|and det:art|the n|man .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&sh &sh &sh &t &t &t &t tery [* phon] tery [/] .
+%mor:	?|tery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the &uh &m man .
+%mor:	coord|and det:art|the n|man .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and he's &sh &sh &sh sher [* phon] shers [* phon] &sh &sh shers [/] .
+%mor:	coord|and pro:sub|he~cop|be&3S ?|sher ?|shers .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|ENUM 6|3|PUNCT
+*PAR:	and that the &uh bann [* phon] xxx [* phon] &f &f &f football
+	football [/] .
+%mor:	coord|and pro:rel|that det:art|the ?|bann n|+n|foot+n|ball .
+%gra:	1|5|LINK 2|5|LINK 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and the &uh &pla plannt [* phon] the plam [* phon] the &uh lamp lamp
+	[/] lamp [/] lamp [/] .
+%mor:	coord|and det:art|the ?|plannt det:art|the ?|plam det:art|the
+	n|lamp .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|1|PUNCT
+*PAR:	and the xxx [* phon] man xxx [* phon] .
+%mor:	coord|and det:art|the n|man .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	l look look [/] it all the &b ball the son xxx [* phon] .
+%mor:	?|l co|look pro:per|it adv|all det:art|the n|ball det:art|the n|son
+	.
+%gra:	1|0|INCROOT 2|6|COM 3|6|SUBJ 4|6|JCT 5|6|DET 6|1|OBJ 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*PAR:	&da dad &uh son son [/] &l &l look odd <look odd> [/] &l &l &l <look
+	look odd> [/] &l &l &l &l look look [/] &win &win &win winrows
+	[* phon] .
+%mor:	n|dad n|son v|look adj|odd v|look ?|winrows .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] and son .
+%mor:	coord|and n|son .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and this man xxx [* phon] son or his xxx [* phon] &e &e ear xxx
+	[* phon] xxx [* phon] .
+%mor:	coord|and pro:dem|this n|man n|son coord|or det:poss|his n|ear .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|1|PUNCT
+*PAR:	son or the &uh son &uh &s man xxx [* phon] son .
+%mor:	n|son coord|or det:art|the n|son n|man n|son .
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|DET 4|5|MOD 5|6|MOD 6|2|COORD 7|1|PUNCT
+*PAR:	&ho house house [/] house [/] .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	son xxx [* phon] .
+%mor:	n|son .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and and [/] he <and he> [/] he [/] he [/] fell he he [/] and he xxx
+	[* phon] .
+%mor:	coord|and pro:sub|he v|fall&PAST pro:sub|he coord|and pro:sub|he .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	and fall his &s son son [/] .
+%mor:	coord|and v|fall det:poss|his n|son .
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	than son .
+%mor:	prep|than n|son .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	yeah I san [* phon] san [/] &uh &s son .
+%mor:	co|yeah pro:sub|I ?|san n|son .
+%gra:	1|4|COM 2|4|SUBJ 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and he &e ear ear [/] the lear [* phon] lear [/] the &ss son .
+%mor:	coord|and pro:sub|he n|ear det:art|the ?|lear det:art|the n|son .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	&e &e ears .
+%mor:	n|ear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1100.Cind-3 video
+@Time Duration:	00:01:19
+*PAR:	dederella [: Cinderella] [* phon] bad [/] bad [//] mad .
+%mor:	n:prop|Cinderella adj|mad .
+*PAR:	reed [//] ree [: three] [* phon] sidders [//] sidsers [: sisters]
+	[* phon] .
+%mor:	det:num|three n|sister-PL .
+*PAR:	xxx [* phon] no .
+%mor:	co|no .
+*PAR:	farry [//] fairy &bo .
+%mor:	n|fairy .
+*PAR:	&s xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] no .
+%mor:	co|no .
+@End

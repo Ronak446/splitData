@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	1016_1_brokenWindow_April-18th-2017-1-11-55-pm video
+*PAR:	a want .
+%mor:	det:art|a v|want .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	<I want to go home> [//] .
+*PAR:	I want to go home in the xxx [* phon] in the bar [* u] .
+%mor:	pro:sub|I v|want inf|to v|go n|home prep|in det:art|the prep|in
+	det:art|the n|bar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|4|JCT 7|6|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	I want to go home <in the bar [* u]> [/] .
+%mor:	pro:sub|I v|want inf|to v|go n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*PAR:	in [/] <in the bar [* u]> [/] .
+*PAR:	in the bar [* u] .
+%mor:	prep|in det:art|the n|bar .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+@End

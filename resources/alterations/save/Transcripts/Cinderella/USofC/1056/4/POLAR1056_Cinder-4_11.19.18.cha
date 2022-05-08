@@ -1,0 +1,134 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:36
+@Media:	1056_4_Cinderella_November-19th-2018-10-48-40-am video
+@Comment:	Participant uses jargon
+*PAR:	&um esso [* phon] &um &mm &mm .
+*PAR:	eksen [* phon] hoi [* phon] wahedoi [* phon] .
+*PAR:	and how &ah hodei [* phon] .
+%mor:	coord|and pro:rel|how ?|hodei .
+%gra:	1|3|LINK 2|3|LINK 3|0|INCROOT 4|3|PUNCT
+*PAR:	he hoday [* phon] aho [* phon] .
+%mor:	pro:sub|he ?|hoday ?|aho .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	lihu [* phon] liho [* phon] &mm new ei [* phon] ee [* phon] hoi
+	[* phon] he hald [* phon] &mhm .
+%mor:	?|lihu ?|liho adj|new ?|ei co|ee ?|hoi pro:sub|he ?|hald .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|8|LINK 5|8|COM 6|8|COM 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*PAR:	is dah [* phon] &uh heeda [* phon] &hm .
+%mor:	cop|be&3S ?|dah ?|heeda .
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*PAR:	now some &mm &um see hau [* phon] &hm .
+%mor:	adv|now qn|some v|see ?|hau .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	nan [* phon] &um eho [* phon] wei [* phon] wei [/] .
+%mor:	n|nan ?|eho ?|wei .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	wi [* phon] who di [* phon] you hau [* phon] issodei [* phon] .
+%mor:	?|wi pro:rel|who ?|di pro:per|you ?|hau ?|issodei .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|5|SUBJ 5|3|COMP 6|5|PRED 7|1|PUNCT
+*PAR:	and hodwho [* phon] .
+%mor:	coord|and ?|hodwho .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	eehou [* phon] ee [* phon] &h .
+%mor:	?|eehou co|ee .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	now I howei [* phon] hau [* phon] &mhm .
+%mor:	adv|now pro:sub|I ?|howei ?|hau .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	issowai [* phon] eewatai [* phon] I on do eeway [* phon] .
+%mor:	?|issowai ?|eewatai pro:sub|I adv|on v|do ?|eeway .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|JCT 5|1|COMP 6|5|OBJ 7|1|PUNCT
+*PAR:	eehai [* phon] &uh wunowei [* phon] &mm .
+*PAR:	wih [* phon] hih [* phon] wai [* phon] uns [* phon] &s &mm sibebadi
+	[* phon] .
+*PAR:	&mm sibi [* phon] nu [* phon] ai [* phon] &d &huh .
+*PAR:	oh hey wawa [* phon] goi [* phon] .
+%mor:	co|oh co|hey n|wawa ?|goi .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	au [* phon] dih [* phon] waus [* phon] he wuh [* phon] di [* phon]
+	wei [* phon] .
+%mor:	?|au ?|dih ?|waus pro:sub|he ?|wuh ?|di ?|wei .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|OBJ 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	owe [* phon]  hodee [* phon] &mm &mm .
+%mor:	v|owe ?|hodee .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	ee [* phon] ho [* phon] deeou [* phon] .
+%mor:	co|ee co|ho ?|deeou .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	oh dey [* phon] &haha .
+%mor:	co|oh ?|dey .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	then ihoi [* phon] haum [* phon] pentunei [* phon] &ah oh ehwei
+	[* phon] &mm &mm &hm .
+%mor:	adv:tem|then ?|ihoi ?|haum ?|pentunei co|oh ?|ehwei .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|6|COM 6|4|COMP 7|1|PUNCT
+*PAR:	yeah au [* phon] yeah &hm .
+%mor:	co|yeah ?|au co|yeah .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	ih [* phon] shuwedi [* phon] ihhu [* phon] &ka kadiho [* phon] who
+	we how &gw kau [* phon] udi [* phon] au [* phon] &g hau [* phon]
+	me .
+%mor:	?|ih ?|shuwedi ?|ihhu ?|kadiho pro:rel|who pro:sub|we pro:rel|how
+	?|kau ?|udi ?|au ?|hau pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|PUNCT 5|7|LINK 6|7|SUBJ 7|4|ROOT
+	8|7|CONJ 9|8|COORD 10|9|OBJ 11|10|OBJ 12|11|OBJ 13|7|PUNCT
+*PAR:	neh [* phon] huwuh [* phon] au [* phon] &uh &mm .
+*PAR:	hee [* phon] ho [* phon] do howdee [* phon] .
+%mor:	co|hee co|ho v|do ?|howdee .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	daud [* phon] hu [* phon] thuwai [* phon] &mm .
+*PAR:	eheway [* phon] isohau [* phon] &ah tisoni [* phon] baudi [* phon] .
+*PAR:	&mm difeego [* phon] hau [* phon] eeso [* phon] &uh ee [* phon] .
+%mor:	?|difeego ?|hau ?|eeso co|ee .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|COM 5|1|PUNCT
+*PAR:	nuwah [* phon] &mm daha [* phon] .
+*PAR:	nuheir [* phon] oney [* phon] ai [* phon] unbi [* phon] ahah
+	[* phon] eehu [* phon] weihai [* phon] wai [* phon] wee [* phon] wee
+	[/] wee [/] .
+%mor:	?|nuheir adj|one&dn-Y ?|ai ?|unbi ?|ahah ?|eehu ?|weihai ?|wai
+	adj|wee .
+%gra:	1|0|INCROOT 2|1|PRED 3|2|CONJ 4|3|COORD 5|4|OBJ 6|5|OBJ 7|6|OBJ 8|7|OBJ
+	9|8|PRED 10|1|PUNCT
+*PAR:	eeho [* phon] anobai [* phon] wai [* phon] &mhm &haha .
+*PAR:	umfee [* phon] ha [* phon] ee [* phon] wahe [* phon] waiyu [* phon]
+	okay .
+%mor:	?|umfee co|ha co|ee ?|wahe ?|waiyu adj|okay .
+%gra:	1|0|INCROOT 2|4|COM 3|4|COM 4|1|COMP 5|4|OBJ 6|5|PRED 7|1|PUNCT
+*PAR:	eeho [* phon] uwaid [* phon] her hroat [: throat] [* phon] weihowei
+	[* phon] .
+%mor:	?|eeho ?|uwaid det:poss|her n|throat ?|weihowei .
+%gra:	1|5|LINK 2|5|OBJ 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	okay uts [* phon] dow [* phon] en [* phon] hu [* phon] hei [* phon]
+	eeho [* phon] oh .
+%mor:	co|okay ?|uts ?|dow ?|en ?|hu ?|hei ?|eeho co|oh .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|OBJ 6|5|CONJ 7|6|COORD 8|7|COM
+	9|2|PUNCT
+*PAR:	ee [* phon] &uh &uh dahau [* phon] eehee [* phon] ahu [* phon] wei
+	[* phon] hau [* phon] deehau [* phon] &uh deehau [/] &uh &uh .
+%mor:	co|ee ?|dahau ?|eehee ?|ahu ?|wei ?|hau ?|deehau .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	ee [* phon] wucoilim [* phon] &mm you weg [* phon] wau [* phon] du
+	[* phon] &w &h no no [/] no [/] .
+%mor:	co|ee ?|wucoilim pro:per|you ?|weg ?|wau ?|du co|no .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|OBJ 6|5|OBJ 7|6|COM 8|2|PUNCT
+*PAR:	xxx [* phon] hoee [* phon] hodau [* phon] yeah .
+%mor:	?|hoee ?|hodau co|yeah .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|COM 4|1|PUNCT
+*PAR:	deehon [* phon] ee [* phon] waha [* phon] eehee [* phon] .
+%mor:	?|deehon co|ee ?|waha ?|eehee .
+%gra:	1|4|LINK 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	yeah huwee [* phon] huwa [* phon] yuee [* phon] wah [* phon] di
+	[* phon] okay okay [/] .
+%mor:	co|yeah ?|huwee ?|huwa ?|yuee co|wah ?|di adj|okay .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|6|COM 6|4|COMP 7|6|PRED 8|2|PUNCT
+*PAR:	ih [* phon] do [* phon] wa [* phon] okay .
+%mor:	?|ih v|do ?|wa adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|POSTMOD 5|2|PUNCT
+@End

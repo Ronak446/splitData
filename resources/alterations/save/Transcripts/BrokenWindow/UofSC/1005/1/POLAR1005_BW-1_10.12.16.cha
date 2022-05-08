@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later| PAR|||||Participant|||
+@Media:	1005_1_BrokenWindow video
+@Time Duration:	00:00:29
+*PAR:	bæt [* phon] [//] bad way krɑstæm [* phon] .
+%mor:	adj|bad n|way ?|krɑstæm .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	Is bad .
+%mor:	n:prop|Is adj|bad .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	&Um chase it .
+%mor:	v|chase pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	What ?
+%mor:	n:prop|What ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Is what der [* phon] ?
+%mor:	n:prop|Is pro:int|what ?|der ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	What ?
+%mor:	n:prop|What ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Right der [* phon] .
+%mor:	n:prop|Right ?|der .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	And bad and &w what .
+%mor:	n:prop|And adj|bad coord|and pro:int|what .
+%gra:	1|0|INCROOT 2|1|PRED 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	And who is that ?
+%mor:	n:prop|And pro:rel|who cop|be&3S pro:dem|that ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|PRED 5|1|PUNCT
+@End

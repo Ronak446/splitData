@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:43
+@Media:	1036_BW4 video
+*PAR:	<ball and> [/] ball and &um &um .
+%mor:	n|ball coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*PAR:	the ball and &um &um &um &um &um .
+%mor:	det:art|the n|ball coord|and .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	<the ball> [/] &um &um &um the ball and &um &um &um &um &um .
+%mor:	det:art|the n|ball coord|and .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	no yeah .
+%mor:	co|no co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

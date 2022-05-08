@@ -1,0 +1,174 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:06:01
+@Media:	1030_Cinderella4 video
+*PAR:	you okay iss [* phon] was a lizle [* phon] girl luz [* phon] &um
+	dinduhwinduh [* phon] .
+%mor:	pro:per|you co|okay cop|be&3S-3S cop|be&PAST&13S det:art|a ?|lizle
+	n|girl ?|luz ?|dinduhwinduh .
+%gra:	1|4|SUBJ 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|CONJ
+	9|8|COORD 10|4|PUNCT
+*PAR:	and she [//] <her mother died so this then had I [* s]> [//] no [/]
+	no[/] no not died .
+%mor:	coord|and co|no neg|not part|die-PASTP .
+%gra:	1|4|LINK 2|4|COM 3|4|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	and then okay &m her mother died .
+%mor:	coord|and adv:tem|then co|okay det:poss|her n|mother v|die-PAST .
+%gra:	1|6|LINK 2|6|JCT 3|6|COM 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	so he moving a stufanly [* phon] in .
+%mor:	co|so pro:sub|he part|move-PRESP det:art|a ?|stufanly adv|in .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|3|PUNCT
+*PAR:	and then they father died .
+%mor:	coord|and adv:tem|then pro:sub|they n|father v|die-PAST .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and then &uh they [/] they &d &um nuhting [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|they ?|nuhting .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and diw [* phon] dou [* phon] up .
+%mor:	coord|and ?|diw ?|dou adv|up .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COMP 4|3|JCT 5|1|PUNCT
+*PAR:	and then &um &s cindereda [* phon] was the thlade [* phon] to the
+	two sethsituhs [* phon] .
+%mor:	coord|and adv:tem|then ?|cindereda cop|be&PAST&13S det:art|the
+	?|thlade prep|to det:art|the det:num|two ?|sethsituhs .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|4|PUNCT
+*PAR:	and &um they wandedoh [* phon] to go with the &um pinsuw [* phon]
+	hading [* phon] a ball .
+%mor:	coord|and pro:sub|they ?|wandedoh inf|to v|go prep|with det:art|the
+	?|pinsuw ?|hading det:art|a n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|OBJ 10|11|DET 11|9|OBJ 12|3|PUNCT
+*PAR:	they said okay you guhn [* phon] go .
+%mor:	pro:sub|they v|say&PAST adj|okay pro:per|you ?|guhn v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|SUBJ 6|3|CMOD 7|2|PUNCT
+*PAR:	but you gotta genna [* phon] our house up first .
+%mor:	conj|but pro:per|you mod:aux|gotta ?|genna det:poss|our n|house
+	adv|up adv|first .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|4|PUNCT
+*PAR:	so he [* s] said okay .
+%mor:	co|so pro:sub|he v|say&PAST adj|okay .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and si [* phon] did .
+%mor:	coord|and ?|si v|do&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and [/] and she said you have to leave .
+%mor:	coord|and pro:sub|she v|say&PAST pro:per|you v|have inf|to v|leave
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|COMP 8|3|PUNCT
+*PAR:	for <they had the> [//] they left withouther [* phon] .
+%mor:	conj|for pro:sub|they v|leave&PAST ?|withouther .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and then but it was all done because the mof [* phon] and the &fa
+	taks [* phon] it was <all was> [/] all was butiful [* phon] .
+%mor:	coord|and adv:tem|then conj|but pro:per|it cop|be&PAST&13S adv|all
+	part|do&PASTP conj|because det:art|the ?|mof coord|and det:art|the
+	?|taks pro:per|it cop|be&PAST&13S adv|all cop|be&PAST&13S ?|butiful
+	.
+%gra:	1|7|LINK 2|7|JCT 3|5|LINK 4|5|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|CONJ
+	9|10|DET 10|8|COORD 11|10|CONJ 12|13|DET 13|11|COORD 14|15|SUBJ 15|13|CMOD
+	16|17|JCT 17|15|PRED 18|17|PRED 19|7|PUNCT
+*PAR:	di [* phon] [//] she's gotstha [* phon] dress and walked [* s] to
+	the ball .
+%mor:	pro:sub|she~cop|be&3S ?|gotstha n|dress coord|and v|walk-PAST
+	prep|to det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and they pick ather [* phon] and the <tore the> [//] tore tu
+	[* phon] [//] new [/] new the &kr dress up .
+%mor:	coord|and pro:sub|they v|pick ?|ather coord|and det:art|the
+	v|tear&PAST adj|new det:art|the v|dress adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|7|PRED
+	9|10|DET 10|8|CMOD 11|10|JCT 12|3|PUNCT
+*PAR:	and then dsi [* phon] went home .
+%mor:	coord|and adv:tem|then ?|dsi v|go&PAST n|home .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	but anoth [* phon] [//] and then she said daut [* phon] [//] fairy
+	godmother .
+%mor:	conj|but coord|and adv:tem|then pro:sub|she v|say&PAST n|fairy
+	n|+n|god+n|mother .
+%gra:	1|5|LINK 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*PAR:	and they &t &s she had said okay you say si [* phon] go home [//]
+	&uh no [/] no to the ball .
+%mor:	coord|and pro:sub|they pro:sub|she aux|have&PAST part|say&PASTP
+	adj|okay pro:per|you v|say ?|si v|go qn|no prep|to det:art|the
+	n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|8|JCT 7|8|SUBJ
+	8|5|CJCT 9|8|OBJ 10|11|SRL 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+*PAR:	but you'll have to be home by telve [* phon] .
+%mor:	conj|but pro:per|you~mod|will v|have inf|to cop|be n|home prep|by
+	?|telve .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	and she said &um and <guh [* phon] horses was tuwn [* phon] into>
+	[//] mouse was to taun [* phon] horses .
+%mor:	coord|and pro:sub|she v|say&PAST coord|and n|mouse cop|be&PAST&13S
+	inf|to ?|taun n|horse-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|9|INF 8|9|MOD
+	9|6|PRED 10|3|PUNCT
+*PAR:	and &um a punkin [* phon] was tunina [* phon] be a pear [* u] [//] I
+	mean &bau bauki [* phon] .
+%mor:	coord|and det:art|a ?|punkin cop|be&PAST&13S ?|tunina cop|be
+	det:art|a pro:sub|I v|mean ?|bauki .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|9|SUBJ 6|9|AUX 7|9|DET 8|9|SUBJ
+	9|4|PRED 10|9|OBJ 11|4|PUNCT
+*PAR:	okay any anyway &um so <he [* s] went> [//] she went to the ball and
+	had a nice time .
+%mor:	co|okay qn|any adv|anyway conj|so pro:sub|she v|go&PAST prep|to
+	det:art|the n|ball coord|and v|have&PAST det:art|a adj|nice n|time .
+%gra:	1|2|COM 2|3|QUANT 3|4|JCT 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|14|DET 13|14|MOD 14|11|OBJ 15|6|PUNCT
+*PAR:	and then &um isthistuh [* phon] is the phones [* u] [//] I mean the
+	glocksta [* phon] ringing .
+%mor:	coord|and adv:tem|then ?|isthistuh cop|be&3S det:art|the pro:sub|I
+	v|mean det:art|the ?|glocksta part|ring-PRESP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|SUBJ 7|4|PRED 8|9|DET
+	9|7|OBJ 10|9|XMOD 11|4|PUNCT
+*PAR:	and she said I gotta go .
+%mor:	coord|and pro:sub|she v|say&PAST pro:sub|I mod:aux|gotta v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|3|PUNCT
+*PAR:	and then she thef [* phon] her shoe .
+%mor:	coord|and adv:tem|then pro:sub|she ?|thef det:poss|her n|shoe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	and next day &um they [//] the [//] <he want a> [/] he want a shoe .
+%mor:	coord|and adj|next n|day pro:sub|he v|want det:art|a n|shoe .
+%gra:	1|5|LINK 2|3|MOD 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	so he want &uh house to house until he found <the &hau> [//] the
+	house .
+%mor:	co|so pro:sub|he v|want n|house inf|to v|house prep|until
+	pro:sub|he v|find&PAST det:art|the n|house .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|3|PUNCT
+*PAR:	and ee [* phon] &wan &um wondered what would do &t for xxx [* phon] .
+%mor:	coord|and co|ee v|wonder-PAST det:int|what mod|will&COND v|do
+	prep|for .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|3|PUNCT
+*PAR:	and <and he> [/] and he doing .
+%mor:	coord|and coord|and pro:sub|he part|do-PRESP .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|SUBJ 4|2|COORD 5|1|PUNCT
+*PAR:	and he dum [* phon] out of the room .
+%mor:	coord|and pro:sub|he co|dum adv|out prep|of det:art|the n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|3|PUNCT
+*PAR:	and &uh said <u [* phon] xxx [* phon] me> [//] you xxx [* phon] me .
+%mor:	coord|and v|say&PAST pro:per|you pro:obj|me .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*PAR:	and &de &um <they was> [//] he was &um sat down .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S v|sit&PAST adv|down .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and he puda [* phon] on .
+%mor:	coord|and pro:sub|he ?|puda adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&uh and he said the my [/] my cinwawedda [* phon] .
+%mor:	coord|and pro:sub|he v|say&PAST det:art|the det:poss|my
+	?|cinwawedda .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and [/] and they &li leved [* phon] happily lever [* phon] after .
+%mor:	coord|and pro:sub|they ?|leved adv|happy&dadj-LY n|lever conj|after
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|6|MOD 6|3|COORD 7|1|PUNCT
+@End

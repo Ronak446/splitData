@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1044_6_BrokenWindow_November-15th-2018-3-16-05-pm video
+*PAR:	kik [* phon] boll [* phon] es [* phon] &uh &um the boll [* phon]
+	bloke [* phon] .
+%mor:	?|kik n|boll ?|es det:art|the n|boll n|bloke .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|ENUM 4|6|DET 5|6|MOD 6|3|OBJ 7|2|PUNCT
+*PAR:	and the son [* s] is med [* phon] .
+%mor:	coord|and det:art|the n|son cop|be&3S n|med .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and &uh ee [* phon] wants su [* phon] fix it &uh ees [* phon] self .
+%mor:	coord|and co|ee v|want-3S ?|su v|fix pro:per|it ?|ees n|self .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+*PAR:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

@@ -1,0 +1,41 @@
+File	1033.BW4.1-25-18.cha
+Language	eng
+Corpus	POLAR
+Code	PAR
+Sem Paraphasias	0
+Phon Paraphasias	1
+Unk Paraphasias	4
+MTTR	0.804
+Role	Participant
+Education	.
+Custom_field	.
+Duration (sec)	87
+Total Utts	18
+MLU Utts	18
+MLU Words	12
+MLU Morphemes	13.278
+FREQ types	78
+FREQ tokens	216
+FREQ TTR	0.361
+Words/Min	148.966
+Verbs/Utt	2
+Word Errors	8
+Utt Errors	0
+density	0.5
+Nouns	27
+Plurals	0
+Verbs	41
+Aux	13
+3S	25
+1S/3S	0
+PAST	6
+PASTP	3
+PRESP	14
+prep|	21
+adj|	8
+adv|	16
+conj|	3
+det|	27
+pro|	41
+retracing[//]	3
+repetition[/]	1

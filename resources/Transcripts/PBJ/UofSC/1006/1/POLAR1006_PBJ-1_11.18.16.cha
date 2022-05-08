@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Media:	1006_1_PBJ_Y2016_M11_D18_H10_M22_S11, video
+@Time Duration:	00:00:17
+*PAR:	it's &uh . [+ gram]
+%mor:	pro:per|it~aux|be&3S^pro:per|it~cop|be&3S .
+*PAR:	right there . [+ gram]
+%mor:	n|right^co|right^adv|right^adj|right pro:exist|there^adv|there .
+*PAR:	right there . [+ gram]
+%mor:	n|right^co|right^adv|right^adj|right pro:exist|there^adv|there .
+*PAR:	and peanut+butter is tItotItotIto@u [: x@n] [* n:uk] .
+%mor:	coord|and n|peanut v|butter^n|butter cop|be&3S^aux|be&3S neo|x .
+*PAR:	and [/] . [+ gram] 5690_6189
+*PAR:	and [/] . [+ gram] 6189_6691
+*PAR:	and [/] tItItItI@u [: x@n] [* n:uk] . [+ gram]
+%mor:	neo|x .
+*PAR:	and then tʃItʃtʃI@u [: x@n] [* n:uk] . [+ gram]
+%mor:	coord|and adv:tem|then neo|x .
+*PAR:	and ya just . [+ gram]
+%mor:	coord|and pro:per|you adv|just^adj|just .
+*PAR:	and then it's all done .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S^pro:per|it~cop|be&3S
+	qn|all^pro:indef|all^post|all^adv|all part|do&PASTP .
+@End

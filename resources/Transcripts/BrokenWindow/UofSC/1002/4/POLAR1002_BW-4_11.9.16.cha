@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:21
+@Media:	1002_4_BrokenWindow_Y2016_M11_D09_H10_M17_S56 video
+
+*PAR:	&eh &eh the boy is walking through the neighborhood .
+%mor:	det:art|the n|boy aux|be&3S part|walk-PRESP prep|through
+	det:art|the n|neighborhood .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and the <and the> [/] mess around the &uh kickball
+	[//] &uh soccerball .
+%mor:	coord|and det:art|the n|mess prep|around det:art|the
+	n|+n|soccer+n|ball .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	and &uh then the &uh the [/] the [/] &uh professional fessional
+	[* phon] &uh soccer &stror strordenaire [* phon] .
+%mor:	coord|and adv:tem|then det:art|the n|professional ?|fessional
+	n|soccer ?|strordenaire .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|7|MOD 6|7|MOD 7|4|NJCT
+	8|1|PUNCT
+*PAR:	and &uh the boot [* u] .
+%mor:	coord|and det:art|the n|boot .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &uh it crashes in the &uh <in the &uh> [/] window .
+%mor:	coord|and det:art|the pro:per|it v|crash-3S prep|in det:art|the
+	n|window .
+%gra:	1|4|LINK 2|4|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &uh the break a lamp .
+%mor:	coord|and det:art|the v|break det:art|a n|lamp .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and and [/] the man &uh .
+%mor:	coord|and det:art|the n|man .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	it's a &uh superberlous [* phon] .
+%mor:	pro:per|it~cop|be&3S det:art|a ?|superberlous .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	that's a word .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|word .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and and [/] the <and the> [/] &uh man the &uh xxx
+	[* phon] &um the .
+%mor:	coord|and det:art|the n|man det:art|the det:art|the .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|DET 5|6|DET 6|3|PUNCT
+*PAR:	he goes where is that come from .
+%mor:	pro:sub|he v|go-3S pro:rel|where cop|be&3S pro:rel|that v|come
+	prep|from .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|COMP 5|6|LINK 6|4|CMOD 7|6|JCT 8|2|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,281 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:06:53
+@Media:	1002_4_Cinderella_Y2016_M11_D09_H10_M06_S43 video
+
+*PAR:	yep okay .
+%mor:	co|yep co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	once upon a time is a man &ih little &uh daughter .
+%mor:	adv|once prep|upon det:art|a n|time cop|be&3S det:art|a n|man
+	adj|little n|daughter .
+%gra:	1|5|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+*PAR:	and it's [* u] going to go away .
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP inf|to v|go adv|away .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+*PAR:	and that &uh little girl is they &uh &uh &uh nanny [* s] is a evil
+	woman .
+%mor:	coord|and pro:dem|that adj|little n|girl cop|be&3S pro:sub|they
+	n|nanny cop|be&3S det:art|a n|evil n|woman .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|8|LINK 6|8|SUBJ 7|8|SUBJ 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|PRED 12|8|PUNCT
+*PAR:	and two twins [* s] .
+%mor:	coord|and det:num|two n|twin-PL .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and that &you-know that but through the months &uh the
+	Cinderella is &ih is a slave .
+%mor:	coord|and pro:rel|that pro:dem|that conj|but prep|through
+	det:art|the n|month-PL det:art|the n:prop|Cinderella aux|be&3S
+	cop|be&3S det:art|a n|slave .
+%gra:	1|4|LINK 2|3|LINK 3|4|DET 4|11|LINK 5|11|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|PRED 14|11|PUNCT
+*PAR:	that &uh whims &uh whatever that &uh xxx [* phon] sweep
+	up &uh do the task whatever .
+%mor:	pro:dem|that n|whim-PL pro:int|whatever pro:dem|that v|sweep adv|up
+	v|do det:art|the n|task pro:int|whatever .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|5|COMP 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|2|PUNCT
+*PAR:	and while &you-know it's I'll do it and nice <and nice> [/] &uh
+	words .
+%mor:	coord|and conj|while pro:per|it~aux|be&3S pro:sub|I~mod|will v|do
+	pro:per|it coord|and adj|nice n|word-PL .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|CONJ 10|11|MOD 11|9|COORD 12|7|PUNCT
+*PAR:	and the &uh then the &uh the [/] king and the charge of affairs .
+%mor:	coord|and det:art|the adv:tem|then det:art|the n|king coord|and
+	det:art|the n|charge prep|of n|affair-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET
+	8|6|COORD 9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*PAR:	it's a &uh it is a &uh the prince [//] princess [//] [* s] I mean &uh
+	prince .
+%mor:	pro:per|it~cop|be&3S det:art|a pro:per|it cop|be&3S det:art|a
+	det:art|the pro:sub|I adj|mean n|prince .
+%gra:	1|2|SUBJ 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|10|DET 7|10|DET 8|10|MOD
+	9|10|MOD 10|5|PRED 11|5|PUNCT
+*PAR:	it's a &g its &uh a married to the &uh .
+%mor:	pro:per|it~cop|be&3S det:art|a det:poss|its det:art|a
+	part|marry-PASTP prep|to det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|DET 6|2|PRED 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	why can't have a girl .
+%mor:	adv:int|why mod|can~neg|not v|have det:art|a n|girl .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &uh that's &uh the that &um that [/] &you-know the &uh &um &uh .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the pro:rel|that
+	det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|LINK 6|7|DET 7|3|PUNCT
+*PAR:	go go [/] out in the kingdom is &uh the girl .
+%mor:	v|go adv|out prep|in det:art|the n|kingdom cop|be&3S det:art|the
+	n|girl .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|COMP 7|8|DET 8|6|PRED
+	9|1|PUNCT
+*PAR:	and the marry the prince .
+%mor:	coord|and det:art|the v|marry det:art|the n|prince .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and the <and the> [/] &uh &uh castle .
+%mor:	coord|and det:art|the n|castle .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &uh &uh cree [* phon] that &uh the &uh girls &uh single [//]
+	&uh marry I mean &uh &uh the prince .
+%mor:	coord|and det:art|the ?|cree pro:rel|that det:art|the n|girl-PL
+	v|marry pro:sub|I v|mean det:art|the n|prince .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CMOD
+	8|9|SUBJ 9|7|COMP 10|11|DET 11|9|OBJ 12|1|PUNCT
+*PAR:	they go wow .
+%mor:	pro:sub|they v|go co|wow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	and &uh that is a &uh that ok .
+%mor:	coord|and pro:dem|that cop|be&3S det:art|a pro:dem|that ?|ok .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|DET 6|3|PRED 7|3|PUNCT
+*PAR:	and Cinderella a dress or whatever .
+%mor:	coord|and n:prop|Cinderella det:art|a n|dress coord|or
+	pro:int|whatever .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and that &uh the evil twins [* s] saw which can do .
+%mor:	coord|and pro:rel|that det:art|the n|evil n|twin-PL n|saw
+	pro:rel|which mod|can v|do .
+%gra:	1|6|LINK 2|6|LINK 3|6|DET 4|5|MOD 5|6|MOD 6|0|ROOT 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|6|PUNCT
+*PAR:	it's a rip up the &uh &uh &uh beads whatever .
+%mor:	pro:per|it~cop|be&3S det:art|a v|rip prep|up det:art|the n|bead-PL
+	pro:int|whatever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|INCROOT 9|8|PUNCT
+*PAR:	and &uh it was a &uh .
+%mor:	coord|and pro:per|it cop|be&PAST&13S det:art|a .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and it's a sad &uh affair .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a adj|sad n|affair .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	but &um in in [/] the &uh &um pier [* phon] that &uh got &uh fairy
+	godmother .
+%mor:	conj|but prep|in det:art|the n|pier pro:rel|that v|get&PAST n|fairy
+	n|+n|god+n|mother .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|LINK 6|2|POBJ 7|8|MOD 8|6|OBJ
+	9|1|PUNCT
+*PAR:	and the &uh that the &um &uh it's &uh .
+%mor:	coord|and det:art|the pro:rel|that det:art|the pro:per|it~aux|be&3S
+	.
+%gra:	1|6|LINK 2|3|DET 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	that is okay .
+%mor:	pro:rel|that cop|be&3S adj|okay .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I will <I will> [/] take this and get the <get the> [/] that the &uh
+	&uh .
+%mor:	pro:sub|I mod|will v|take pro:dem|this coord|and v|get det:art|the
+	pro:rel|that det:art|the .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|OBJ
+	8|7|INCROOT 9|10|DET 10|8|PUNCT
+*PAR:	the &uh the carriage is &uh &uh is the poof .
+%mor:	det:art|the det:art|the n|carriage aux|be&3S cop|be&3S det:art|the
+	co|poof .
+%gra:	1|3|DET 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*PAR:	and the &uh &uh it the &uh the [/] the [/] the pumkin patch is a
+	beautiful &um &uh carriage .
+%mor:	coord|and det:art|the pro:per|it det:art|the det:art|the ?|pumkin
+	n|patch cop|be&3S det:art|a adj|beautiful n|carriage .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|7|DET 5|7|DET 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|PRED 12|8|PUNCT
+*PAR:	and the mouse a footman .
+%mor:	coord|and det:art|the n|mouse det:art|a n|footman .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and the ok .
+%mor:	coord|and det:art|the ?|ok .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and that &uh the it is the the [/] &uh princess [//] prince and gala
+	affair .
+%mor:	coord|and pro:rel|that det:art|the pro:per|it cop|be&3S det:art|the
+	n|prince coord|and adj|gala n|affair .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|5|PUNCT
+*PAR:	and the Cinderella and the prince dance away .
+%mor:	coord|and det:art|the n:prop|Cinderella coord|and det:art|the
+	n|prince n|dance adv|away .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD
+	8|7|NJCT 9|1|PUNCT
+*PAR:	and the twins [* s] and the evil woman said I can't be is that is
+	that Cinderella &eer &you-know .
+%mor:	coord|and det:art|the n|twin-PL coord|and det:art|the n|evil
+	n|woman v|say&PAST pro:sub|I mod|can~neg|not aux|be cop|be&3S
+	pro:dem|that cop|be&3S pro:rel|that n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|8|LINK 5|7|DET 6|7|MOD 7|8|SUBJ
+	8|3|CMOD 9|12|SUBJ 10|12|AUX 11|10|NEG 12|13|SUBJ 13|8|COMP 14|15|SUBJ
+	15|13|PRED 16|17|LINK 17|15|PRED 18|1|PUNCT
+*PAR:	and &um &uh &uh forget that &uh Cinderella goes wow it's it's [/]
+	happening .
+%mor:	coord|and v|forget pro:rel|that n:prop|Cinderella v|go-3S co|wow
+	pro:per|it~aux|be&3S part|happen-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|9|COM 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|2|PUNCT
+*PAR:	it's it &uh twelve &sco scot [* phon] &uh twelve &uh clock .
+%mor:	pro:per|it~aux|be&3S pro:per|it det:num|twelve ?|scot
+	det:num|twelve n|clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|7|QUANT 5|7|MOD 6|7|QUANT 7|2|PRED
+	8|2|PUNCT
+*PAR:	and is chiming .
+%mor:	coord|and aux|be&3S part|chime-PRESP .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and run run [/] through the &uh the [/] steps .
+%mor:	coord|and v|run prep|through det:art|the n|step-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and the loss shoe [* s] [//] &uh &ih slipper .
+%mor:	coord|and det:art|the n|loss n|slipper .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and &uh whisk away .
+%mor:	coord|and v|whisk adv|away .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and &uh that and strike it twelve .
+%mor:	coord|and pro:dem|that coord|and v|strike pro:per|it det:num|twelve
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|OBJ 6|4|OBJ 7|1|PUNCT
+*PAR:	and &uh the &poof .
+%mor:	coord|and det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	and then the pumpkin and the mouse or whatever .
+%mor:	coord|and adv:tem|then det:art|the n|pumpkin coord|and det:art|the
+	n|mouse coord|or pro:int|whatever .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD
+	8|7|CONJ 9|8|COORD 10|1|PUNCT
+*PAR:	and the <and the> [/] &uh &uh that &uh &ga &uh imm [* phon] be
+	&you-know .
+%mor:	coord|and det:art|the pro:dem|that ?|imm cop|be .
+%gra:	1|5|LINK 2|3|DET 3|5|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	well &you-know that &uh the king is frustrated .
+%mor:	co|well pro:rel|that det:art|the n|king aux|be&3S
+	part|frustrate-PASTP .
+%gra:	1|2|COM 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	and xxx [* phon] affairs .
+%mor:	coord|and n|affair-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and that the princess .
+%mor:	coord|and pro:rel|that det:art|the n|princess .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*PAR:	and the prince .
+%mor:	coord|and det:art|the n|prince .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	you know the <you know the> [/] where where [/] found me the the [/]
+	girl .
+%mor:	pro:per|you v|know det:art|the pro:rel|where v|find&PAST pro:obj|me
+	det:art|the n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|LINK 5|2|COMP 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|2|PUNCT
+*PAR:	&uh bring me the girl .
+%mor:	v|bring pro:obj|me det:art|the n|girl .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*PAR:	&uh &uh surround round [* phon] the kingdom .
+%mor:	v|surround adv|round det:art|the n|kingdom .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*PAR:	and I &uh the twins [* s] the evil one house .
+%mor:	coord|and pro:sub|I det:art|the n|twin-PL det:art|the n|evil
+	det:num|one n|house .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|6|DET 6|8|MOD 7|8|QUANT 8|4|APP
+	9|1|PUNCT
+*PAR:	and the the [/] twins [* s] &uh is is too big feet .
+%mor:	coord|and det:art|the n|twin-PL aux|be&3S cop|be&3S adv|too adj|big
+	n|foot&PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|JCT 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*PAR:	and meanwhile that that [/] &um &uh locked up to the key .
+%mor:	coord|and adv|meanwhile pro:rel|that v|lock-PAST adv|up prep|to
+	det:art|the n|key .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|4|JCT 6|4|JCT 7|8|DET
+	8|6|POBJ 9|1|PUNCT
+*PAR:	and &uh &uh the princess [//] mean &uh cinderella .
+%mor:	coord|and det:art|the adj|mean ?|cinderella .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	but the mouse jump the key .
+%mor:	conj|but det:art|the n|mouse n|jump det:art|the n|key .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and put up to the &uh lock [//] &uh unlocked the door .
+%mor:	coord|and v|put&ZERO adv|up prep|to det:art|the un#part|lock-PASTP
+	det:art|the n|door .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	and &um Cinderella and the &ss &uh .
+%mor:	coord|and n:prop|Cinderella coord|and det:art|the .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	it is they &uh &uh charge affairs .
+%mor:	pro:per|it cop|be&3S pro:sub|they v|charge n|affair-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|4|OBJ 6|2|PUNCT
+*PAR:	that that [/] is &uh it was &uh that is it is a slip [* u]  &uh
+	fit it .
+%mor:	pro:dem|that cop|be&3S pro:per|it cop|be&PAST&13S pro:dem|that
+	cop|be&3S pro:per|it cop|be&3S det:art|a n|slip v|fit&ZERO
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|SUBJ 6|4|PRED 7|8|SUBJ 8|6|PRED
+	9|10|DET 10|11|SUBJ 11|8|PRED 12|11|OBJ 13|2|PUNCT
+*PAR:	and it &uh well then the &um &uh then the &um &mar married the
+	Cinderella prince .
+%mor:	coord|and pro:per|it adv|well adv:tem|then det:art|the adv:tem|then
+	det:art|the part|marry-PASTP det:art|the n:prop|Cinderella n|prince
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|XMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|4|PUNCT
+*PAR:	and a &uh happily forever .
+%mor:	coord|and det:art|a adv|happy&dadj-LY adv:tem|forever .
+%gra:	1|4|LINK 2|3|DET 3|4|JCT 4|0|ROOT 5|4|PUNCT
+@End

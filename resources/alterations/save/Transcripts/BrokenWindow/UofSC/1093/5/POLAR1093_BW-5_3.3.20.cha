@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1093.BW-5 video
+@Time Duration:	00:00:24
+*PAR:	there was a boy .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	and he was outside playing .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S adv|outside part|play-PRESP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	and he decided he wanted to kick the ball .
+%mor:	coord|and pro:sub|he v|decide-PAST pro:sub|he v|want-PAST inf|to
+	v|kick det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	so he decided to kick the ball .
+%mor:	co|so pro:sub|he v|decide-PAST inf|to v|kick det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	and it went inside this man's house .
+%mor:	coord|and pro:per|it v|go&PAST prep|inside det:dem|this
+	adj|man&dn-POSS n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	and he was so mad .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|so adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and he got the ball .
+%mor:	coord|and pro:sub|he v|get&PAST det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and he took it .
+%mor:	coord|and pro:sub|he v|take&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he was looking out the window .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|look-PRESP prep|out
+	det:art|the n|window .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and he saw the kid .
+%mor:	coord|and pro:sub|he v|see&PAST det:art|the n|kid .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and [//] but he doesn't know what he's gonna do yet .
+%mor:	conj|but pro:sub|he mod|do&3S~neg|not v|know pro:int|what
+	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|do adv|yet .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|5|PUNCT
+@End

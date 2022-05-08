@@ -1,0 +1,27 @@
+@UTF8
+@Window:	-204_650_715_630_-1_-1_475_0_475_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:45
+@Media:	P1112_Cinderella-6_3.18.21, video
+*PAR:	&uh <nuddle dirl> [//] niddel [: little] [* phon] dirl [: girl] [* phon] . 
+%mor:	adj|little n|girl .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &um dop [/] dop [: drop] [* phon] .
+%mor:	n|drop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um little dirl [: girl] [* phon] dop [: drop] [* phon] &um shoe [/] &um shoe . 
+%mor:	adj|little n|girl n|drop n|shoe .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	I don't know . 
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&um I don't know . 
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&ham &uh &ha ever afer [: after] [* phon] . 
+%mor:	adv|ever adv:tem|after .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+@End

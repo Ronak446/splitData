@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:05
+@Media:	1039_BW6 video
+*PAR:	<bousing [* phon] ball> [/] &uh <bousing [* phon] ball> [/] &uh &uh
+	bousing [* phon] ball &um &m .
+%mor:	?|bousing n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	nol [* phon] bouing [* phon] ball &um &um you eh [* phon] out [//]
+	no &um yeah .
+%mor:	?|nol ?|bouing n|ball pro:per|you co|eh co|no co|yeah .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|7|SUBJ 5|7|COM 6|7|COM 7|3|CMOD 8|1|PUNCT
+*PAR:	bousing [* phon] ball &oooum .
+%mor:	?|bousing n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	mountain [* phon] fall [* phon] .
+%mor:	n|mountain v|fall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	ungry [* phon] [//] &ow .
+*PAR:	bouncing ball .
+%mor:	part|bounce-PRESP n|ball .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	birs [* phon] heard &uh breaking a gas [* phon] baking [* phon] a
+	gas [* phon] &ow &eh .
+%mor:	?|birs v|hear&PAST n:gerund|break-PRESP det:art|a n|gas
+	part|bake-PRESP det:art|a n|gas .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|5|XMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+@End

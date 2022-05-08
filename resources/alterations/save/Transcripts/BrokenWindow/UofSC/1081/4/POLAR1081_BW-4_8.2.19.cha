@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1081.BW-4 video
+@Time Duration:	00:00:44
+*PAR:	well &shhhh .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what happened &uh ball went <into the> [//] in the .
+%mor:	pro:int|what v|happen-PAST n|ball v|go&PAST prep|in det:art|the .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	it couldn't ball .
+%mor:	pro:per|it mod|could~neg|not n|ball .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|INCROOT 5|4|PUNCT
+*PAR:	and then it was &gg gone .
+%mor:	coord|and adv:tem|then pro:per|it aux|be&PAST&13S part|go&PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and like aw man what happened .
+%mor:	coord|and co|like co|aw n|man pro:int|what v|happen-PAST .
+%gra:	1|4|LINK 2|4|COM 3|4|COM 4|0|INCROOT 5|6|SUBJ 6|4|CMOD 7|4|PUNCT
+*PAR:	so that was it .
+%mor:	adv|so pro:dem|that cop|be&PAST&13S pro:per|it .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

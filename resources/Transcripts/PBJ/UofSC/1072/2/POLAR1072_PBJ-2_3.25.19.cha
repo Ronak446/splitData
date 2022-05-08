@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:49
+@Media:	POLAR_1072_PBJ2_secondrater video
+*PAR:	&um you &k put two &um &um &eh &um .
+%mor:	pro:per|you v|put&ZERO det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	it feels [* u] peanut+butter jelly on it &ah .
+%mor:	pro:per|it v|feel-3S n|+n|peanut+n|butter n|jelly prep|on
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	he [/] he has jelly on it and two piece of bread on the &b bottom
+	and the &s sop [: top] [* phon] and [/] and eat it .
+%mor:	pro:sub|he v|have&3S n|jelly prep|on pro:per|it coord|and
+	det:num|two n|piece prep|of n|bread prep|on det:art|the n|bottom
+	coord|and det:art|the n|top coord|and v|eat pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|CONJ 7|8|QUANT 8|6|COORD
+	9|8|NJCT 10|9|POBJ 11|2|JCT 12|13|DET 13|11|POBJ 14|2|CONJ 15|16|DET
+	16|14|COORD 17|2|CONJ 18|17|COORD 19|18|OBJ 20|2|PUNCT
+@End

@@ -1,0 +1,59 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:49
+@Media:	1051_5_BrokenWindow_September-4th-2018-11-04-09-am video
+*PAR:	&uh <I'm get> [//] I'm [: he's] [* s]  ready to pit [: hit] [* phon] .
+%mor:	pro:sub|he~cop|be&3S adj|ready inf|to v|hit&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|COMP 6|2|PUNCT
+*PAR:	because I'm [: he's] [* s] ready hit .
+%mor:	conj|because pro:sub|he~cop|be&3S adj|ready n|hit .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	and then &boom he <hat> [//] hit the <ball> [//] no <hit the> [/]
+	&uh &s not sundown &uh .
+%mor:	coord|and adv:tem|then pro:sub|he v|hit&ZERO det:art|the co|no
+	neg|not n|sundown .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|COM 7|8|NEG 8|4|OBJ
+	9|4|PUNCT
+*PAR:	what do you call it .
+%mor:	pro:int|what mod|do pro:per|you v|call pro:per|it .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&uh aw man &aw I can't say it .
+%mor:	co|aw n|man pro:sub|I mod|can~neg|not v|say pro:per|it .
+%gra:	1|2|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	&uh hit the <hit the> [//] ball .
+%mor:	v|hit&ZERO det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and then he comes down .
+%mor:	coord|and adv:tem|then pro:sub|he v|come-3S adv|down .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and he breaks sits [: it] [* phon] .
+%mor:	coord|and pro:sub|he v|break-3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and then he's look up .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S v|look adv|up .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and he'd say &uh &ma &uh &um amasin [* phon] thing .
+%mor:	coord|and pro:sub|he~mod|genmod v|say ?|amasin n|thing .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	he's &uh what do you call it &um &w aw man &uh he's aw man he coming
+	down and then <wait> [//] &uh waiting for something .
+%mor:	pro:sub|he~aux|be&3S pro:int|what mod|do pro:per|you v|call
+	pro:per|it co|aw n|man pro:sub|he~aux|be&3S co|aw n|man pro:sub|he
+	part|come-PRESP adv|down coord|and adv:tem|then part|wait-PRESP
+	prep|for pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|AUX 5|6|SUBJ 6|2|PRED 7|6|OBJ 8|9|COM
+	9|6|OBJ 10|13|SUBJ 11|13|AUX 12|13|COM 13|9|CMOD 14|13|OBJ 15|14|XMOD
+	16|15|JCT 17|15|CONJ 18|19|JCT 19|17|COORD 20|19|JCT 21|20|POBJ 22|2|PUNCT
+*PAR:	but I can't say it .
+%mor:	conj|but pro:sub|I mod|can~neg|not v|say pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	&uh something to not &aw man he kinit [* phon] .
+%mor:	pro:indef|something inf|to neg|not v|man pro:sub|he ?|kinit .
+%gra:	1|4|SUBJ 2|4|INF 3|4|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*PAR:	&ugh I can't say it .
+%mor:	pro:sub|I mod|can~neg|not v|say pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

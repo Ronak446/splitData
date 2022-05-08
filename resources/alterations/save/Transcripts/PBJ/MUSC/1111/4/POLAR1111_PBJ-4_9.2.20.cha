@@ -1,0 +1,50 @@
+@UTF8
+@Window:	0_0_0_0_0_0_291_0_291_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:08
+@Media:	1111_PBJ_4_2020, video
+*PAR:	to make a peanut+butter and delly [: jelly] [* phon] sandwich ju
+	[: you] [* phon] have to have two loaves of bread and pea+butter
+	[: peanut+butter] [* phon] and delly [: jelly] [* phon] .
+%mor:	inf|to v|make det:art|a n|+n|peanut+n|butter coord|and n|jelly
+	n|sandwich pro:per|you v|have inf|to v|have det:num|two n|loaf-PL
+	prep|of n|bread coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|INF 2|0|ROOT 3|7|DET 4|7|MOD 5|4|CONJ 6|5|COORD 7|2|OBJ 8|9|SUBJ
+	9|7|CMOD 10|11|INF 11|9|COMP 12|13|QUANT 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|13|CONJ 17|16|COORD 18|17|CONJ 19|18|COORD 20|2|PUNCT
+*PAR:	and &uh place a loaf of bread in the titchen [: kitchen] [* phon] .
+%mor:	coord|and v|place det:art|a n|loaf prep|of n|bread prep|in
+	det:art|the n|kitchen .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and &p place &uh &uh &uh sou [: scoop] [* phon] &uh &pea pea+butter
+	[: peanut+butter] [* phon]  in [/] in one of the &uh .
+%mor:	coord|and n|place n|scoop n|+n|peanut+n|butter prep|in det:num|one
+	prep|of det:art|the .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|7|POBJ 9|4|PUNCT
+*PAR:	smear on the pea+butter [: peanut+butter] [* phon] in [: on] [* s]
+	one of the bread .
+%mor:	n|smear prep|on det:art|the n|+n|peanut+n|butter prep|on
+	det:num|one prep|of det:art|the n|bread .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	and place &uh &uh soup [: scoop] [* phon] in [/] in the &st &uh
+	jelly in [: on] [* s] other bread .
+%mor:	coord|and n|place n|scoop prep|in det:art|the n|jelly prep|on
+	qn|other n|bread .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|JCT
+	8|9|QUANT 9|7|POBJ 10|3|PUNCT
+*PAR:	and &uh smear it on .
+%mor:	coord|and v|smear pro:per|it adv|on .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	<and then> [/] and then &uh take the sother [: other] [* phon] bread
+	and [/] and trix [* phon] it to make a sandwich .
+%mor:	coord|and adv:tem|then v|take det:art|the qn|other n|bread
+	coord|and ?|trix pro:per|it inf|to v|make det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|CONJ 8|7|COORD
+	9|11|SUBJ 10|11|INF 11|8|COMP 12|13|DET 13|11|OBJ 14|3|PUNCT
+@End

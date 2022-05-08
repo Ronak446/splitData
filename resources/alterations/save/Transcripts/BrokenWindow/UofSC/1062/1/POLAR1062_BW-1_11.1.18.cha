@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:02
+@Media:	1062_1_BrokenWindow_November-1st-2018-11-18-22-am video
+*PAR:	&um boy and &um &au &um <stop> [//] okay &um soccer &um &bang .
+%mor:	n|boy coord|and co|okay n|soccer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|1|PUNCT
+*PAR:	&um &um man &s and &s &uh &s &s &d and wet [* unk] and white &um .
+%mor:	n|man coord|and coord|and adj|wet coord|and adj|white .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	<go> [//] no boy and man bif [* phon] .
+%mor:	qn|no n|boy coord|and n|man ?|bif .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+@End

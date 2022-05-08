@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	POLAR_1071_BW1 video
+*PAR:	&yuh he kicked the ball .
+%mor:	pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	he broke the window .
+%mor:	pro:sub|he v|break&PAST det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the dad [//] or friend got in trouble .
+%mor:	det:art|the coord|or n|friend v|get&PAST prep|in n|trouble .
+%gra:	1|4|DET 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and found it out who did the problem .
+%mor:	coord|and v|find&PAST pro:per|it adv|out pro:int|who v|do&PAST
+	det:art|the n|problem .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+@End

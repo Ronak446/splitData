@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	1027_PBJ4 video
+
+*PAR:	spe [* phon] beh [* phon] .
+%mor:	?|spe ?|beh .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	atchu [* phon] abew [* phon] abah [* phon] &omp .
+%mor:	?|atchu ?|abew ?|abah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	iwuz [* phon] ezeebuh [* phon] and .
+%mor:	?|iwuz ?|ezeebuh coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+@End

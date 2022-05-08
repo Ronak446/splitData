@@ -1,0 +1,31 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1047_3_Cinderella_May-31st-2018-9-49-43-am video
+*PAR:	also you got grat [* phon] <vig [* phon]> [/] vig [* phon] boulder [* u] okay &n perper [* phon] yeah nah .
+%mor:	adv|also pro:per|you v|get&PAST ?|grat ?|vig n|boulder co|okay
+	?|perper co|yeah co|nah .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|MOD 6|4|OBJ 7|8|COM 8|6|XMOD
+	9|10|COM 10|8|COM 11|3|PUNCT
+*PAR:	yeah [/] yeah [/] yeah [/] yeah [/] yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and den [* phon] de [: the] [* phon] pron [* phon] would yeah .
+%mor:	coord|and n|den det:art|the ?|pron mod|will&COND co|yeah .
+%gra:	1|6|LINK 2|6|COM 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|INCROOT 7|6|PUNCT
+*PAR:	and dey [: they] [* phon] say yeah [/] yeah .
+%mor:	coord|and pro:sub|they v|say co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and yeah [/] yeah .
+%mor:	coord|and co|yeah .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	dat [: that] [* phon] all .
+%mor:	det:dem|that adv|all .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

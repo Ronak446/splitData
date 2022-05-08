@@ -1,0 +1,65 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:23
+@Media:	1044_6_Cinderella_November-15th-2018-3-20-20-pm video
+*PAR:	okay &um .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<Cinneretta is &uh twang thu> [//] Cinderella is &uh twang [* phon]
+	thu [* phon] &uh &tuh to name &uh .
+%mor:	n:prop|Cinderella cop|be&3S v|twang ?|thu prep|to n|name .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	&uh sory [* phon] goes &uh &uh &th the mother and father is .
+%mor:	adj|sore&dn-Y v|go-3S det:art|the n|mother coord|and n|father
+	cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|7|SUBJ 7|5|COORD 8|2|PUNCT
+*PAR:	the thu [* phon] &uh &uh groups are &uh &uh .
+%mor:	det:art|the ?|thu n|group-PL cop|be&PRES .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I mean &uh I see them .
+%mor:	pro:sub|I v|mean pro:sub|I v|see pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	but &um all I know is &uh Cinneretta [* phon] is &uh ket [* phon] .
+%mor:	conj|but adv|all pro:sub|I v|know aux|be&3S n:prop|Cinneretta
+	aux|be&3S ?|ket .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|AUX 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+*PAR:	and &uh &uh carri [* phon] botburger [* phon] is trying to &um go .
+%mor:	coord|and ?|carri ?|botburger aux|be&3S part|try-PRESP inf|to v|go
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|INF 7|5|COMP
+	8|1|PUNCT
+*PAR:	and &uh the <ork> [//] horses and &uh ragons [* phon] .
+%mor:	coord|and det:art|the n|horse-PL coord|and ?|ragons .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and thinderetta [* phon] is good .
+%mor:	coord|and ?|thinderetta cop|be&3S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	&uh the next one &uh dancing .
+%mor:	det:art|the adj|next pro:indef|one part|dance-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|3|PUNCT
+*PAR:	and one [* s] a glock [* phon] is &uh go the &uh hars [* phon] &uh .
+%mor:	coord|and det:num|one det:art|a ?|glock aux|be&3S v|go det:art|the
+	?|hars .
+%gra:	1|6|LINK 2|4|QUANT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	the &um sippers [* phon] .
+%mor:	det:art|the n|sip&dv-AGT-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &uh find &uh the maid [* u] is all &uh &s &uh .
+%mor:	coord|and v|find det:art|the n|maid aux|be&3S pro:indef|all .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|OBJ 7|2|PUNCT
+*PAR:	thought its &uh class [* phon] sippers [* phon] is works .
+%mor:	v|think&PAST det:poss|its n|class n|sip&dv-AGT-PL cop|be&3S
+	n|work-PL .
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|5|SUBJ 5|1|COMP 6|5|PRED 7|1|PUNCT
+*PAR:	and &the they're &uh happy kugether [* phon] .
+%mor:	coord|and pro:sub|they~aux|be&PRES adj|happy ?|kugether .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+@End

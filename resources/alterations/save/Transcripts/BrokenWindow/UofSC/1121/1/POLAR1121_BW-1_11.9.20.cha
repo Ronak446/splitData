@@ -1,0 +1,56 @@
+@UTF8
+@Window:	195_849_362_511_0_0_275_0_275_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1121_BW-1_11.9.20 video
+@Time Duration:	00:01:29
+*PAR:	the boy is kicking the soccer ball .
+%mor:	det:art|the n|boy aux|be&3S part|kick-PRESP det:art|the n|soccer
+	n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	the sun is shining through the window .
+%mor:	det:art|the n|sun aux|be&3S part|shine-PRESP prep|through
+	det:art|the n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	&hm &um &uh the soccer ball count [//] came inside and break the
+	window .
+%mor:	det:art|the n|soccer n|ball v|come&PAST adv|inside coord|and
+	v|break det:art|the n|window .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*PAR:	so and so the man is looking out the window where the soccer ball
+	came in .
+%mor:	adv|so coord|and co|so det:art|the n|man aux|be&3S part|look-PRESP
+	prep|out det:art|the n|window pro:rel|where det:art|the n|soccer
+	n|ball v|come&PAST adv|in .
+%gra:	1|7|JCT 2|7|LINK 3|7|COM 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|15|LINK 12|14|DET 13|14|MOD 14|15|SUBJ 15|10|CMOD
+	16|15|JCT 17|7|PUNCT
+*PAR:	and somebody will have face some consequences .
+%mor:	coord|and pro:indef|somebody mod|will v|have n|face qn|some
+	n|consequence-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|MOD 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*PAR:	so on number two I think I did that wrong cause the soccer ball was
+	coming in the window .
+%mor:	adv|so adv|on n|number det:num|two pro:sub|I v|think pro:sub|I
+	mod|do&PAST adv|that adj|wrong v|cause det:art|the n|soccer n|ball
+	aux|be&PAST&13S part|come-PRESP prep|in det:art|the n|window .
+%gra:	1|2|JCT 2|4|JCT 3|4|MOD 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|11|SUBJ 8|11|AUX
+	9|11|JCT 10|11|SUBJ 11|6|COMP 12|14|DET 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|11|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|6|PUNCT
+*PAR:	the man was catching the ball .
+%mor:	det:art|the n|man aux|be&PAST&13S part|catch-PRESP det:art|the
+	n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he was looking out the window see where the ball came in .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|look-PRESP prep|out
+	det:art|the n|window v|see pro:int|where det:art|the n|ball
+	v|come&PAST adv|in .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|ENUM
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|COMP 13|12|JCT 14|4|PUNCT
+*PAR:	is that good .
+%mor:	cop|be&3S det:dem|that adj|good .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+@End

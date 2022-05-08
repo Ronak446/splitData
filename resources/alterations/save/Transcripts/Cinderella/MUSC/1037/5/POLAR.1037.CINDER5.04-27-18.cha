@@ -1,0 +1,245 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:14:48
+@Media:	1037_5_Cinderella_April-27th-2018-1-23-17-pm video
+*PAR:	Cinderella thank you .
+%mor:	n:prop|Cinderella v|thank pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and Cinderella early on .
+%mor:	coord|and n:prop|Cinderella adv|early prep|on .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|JCT 4|2|JCT 5|1|PUNCT
+*PAR:	and Cinderella and &uh <two &uh sisters> [//] twin sisters not good
+	&mhm &mhm &mhm .
+%mor:	coord|and n:prop|Cinderella coord|and n|twin n|sister-PL neg|not
+	adj|good .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|7|NEG 7|0|ROOT 8|7|PUNCT
+*PAR:	and [/] &uh and Cinderella early on sleeping and happy face good .
+%mor:	coord|and n:prop|Cinderella adv|early prep|on n:gerund|sleep-PRESP
+	coord|and adj|happy n|face adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|JCT 5|4|POBJ 6|5|CONJ 7|8|MOD
+	8|6|COORD 9|8|POSTMOD 10|1|PUNCT
+*PAR:	and &uh &oh Cinderella [//] no but castle and &uh and all the &uh
+	castles and &um ousside [* phon] but woods yeah .
+%mor:	coord|and co|no conj|but n|castle coord|and coord|and qn|all
+	det:art|the n|castle-PL coord|and ?|ousside conj|but n|wood-PL
+	co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|9|QUANT
+	8|9|DET 9|6|COORD 10|9|CONJ 11|10|COORD 12|11|CONJ 13|12|COORD 14|13|COM
+	15|1|PUNCT
+*PAR:	<and &um> [/] and &um &uh eat &uh breffast [* phon] yeah .
+%mor:	coord|and v|eat ?|breffast co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|COM 5|2|PUNCT
+*PAR:	and go downstairs .
+%mor:	coord|and v|go adv|downstairs .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and &uh &uh sister [//] &uh little sisters not good .
+%mor:	coord|and adj|little n|sister-PL neg|not adj|good .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	sleeping .
+%mor:	part|sleep-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and hey &uh in okay &oh sit [/] sit okay .
+%mor:	coord|and co|hey prep|in adj|okay v|sit adj|okay .
+%gra:	1|5|LINK 2|5|COM 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and [/] and &uh tat [* phon] <not good> [/] &mhm &mhm not good .
+%mor:	coord|and v|tat neg|not adj|good .
+%gra:	1|2|LINK 2|0|ROOT 3|2|NEG 4|2|JCT 5|2|PUNCT
+*PAR:	and &uh in &s &uh big &uh sisters and &uh &golly <step sist> [//]
+	&uh stepmother yeah [/] yeah .
+%mor:	coord|and prep|in adj|big n|sister-PL coord|and step#n|mother
+	co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|MOD 4|2|POBJ 5|2|CONJ 6|5|COORD 7|6|COM
+	8|1|PUNCT
+*PAR:	and &um &uh eat &uh breffess [* phon] .
+%mor:	coord|and v|eat ?|breffess .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and &uh and go downstairs .
+%mor:	coord|and coord|and v|go adv|downstairs .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*PAR:	and &uh dawk [* phon] and &um anmal [* phon] and &um mouse and birs
+	[* phon] and cat [//] one cat and ouside [* phon] yeah .
+%mor:	coord|and ?|dawk coord|and ?|anmal coord|and n|mouse coord|and
+	?|birs coord|and det:num|one n|cat coord|and ?|ouside co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|2|CONJ
+	8|7|COORD 9|8|CONJ 10|11|QUANT 11|9|COORD 12|11|CONJ 13|12|COORD 14|13|COM
+	15|1|PUNCT
+*PAR:	but &um in corn [*  u] yeah [/] yeah .
+%mor:	conj|but prep|in n|corn co|yeah .
+%gra:	1|4|LINK 2|4|JCT 3|2|POBJ 4|0|INCROOT 5|4|PUNCT
+*PAR:	okay inside but in busy ironing and &um washing and all the time .
+%mor:	co|okay n|inside conj|but prep|in adj|busy part|iron-PRESP
+	coord|and part|wash-PRESP coord|and qn|all det:art|the n|time .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|6|JCT 5|4|POBJ 6|3|COORD 7|6|CONJ
+	8|7|COORD 9|8|CONJ 10|12|QUANT 11|12|DET 12|9|COORD 13|2|PUNCT
+*PAR:	and <in> [/] &um in knock [/] knock [/] knock hello .
+%mor:	coord|and prep|in n|knock n|hello .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	but okay &um oh xxx [* phon] one [/] one &uh madrick [* u] okay
+	thank  you .
+%mor:	conj|but co|okay co|oh det:num|one ?|madrick adj|okay v|thank
+	pro:per|you .
+%gra:	1|5|LINK 2|5|COM 3|5|COM 4|5|QUANT 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*PAR:	and [/] and [/] and &uh sisters and &uh girl and go in .
+%mor:	coord|and n|sister-PL coord|and n|girl coord|and v|go adv|in .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|6|JCT
+	8|1|PUNCT
+*PAR:	and piano and singing and okay .
+%mor:	coord|and n|piano coord|and part|sing-PRESP coord|and co|okay .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and &uh book yeah but yeah book .
+%mor:	coord|and n|book co|yeah conj|but co|yeah n|book .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|2|CONJ 5|6|COM 6|4|COORD 7|1|PUNCT
+*PAR:	and &um ball yeah ball nice ball okay and okay .
+%mor:	coord|and n|ball co|yeah n|ball adj|nice n|ball adj|okay coord|and
+	co|okay .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|COM 4|6|MOD 5|6|MOD 6|2|CONJ 7|6|COORD
+	8|7|CONJ 9|8|COORD 10|1|PUNCT
+*PAR:	and go upstairs .
+%mor:	coord|and v|go adv|upstairs .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	<and &uh> [/] and &uh [/] and &uh open da [* phon] &um &um gate [//]
+	no but &mhm  and door [//] no okay in lock da [* phon] gate but &oh .
+%mor:	coord|and coord|and adj|open ?|da co|no conj|but coord|and co|no
+	adj|okay prep|in n|lock ?|da n|gate conj|but .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|14|COM 9|14|MOD 10|9|JCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|7|COORD
+	15|1|PUNCT
+*PAR:	and <old &sui> [//] old &uh dress and necklace and broach and not
+	good .
+%mor:	coord|and adj|old n|dress coord|and n|necklace coord|and v|broach
+	coord|and neg|not adj|good .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|CONJ 7|6|COORD
+	8|7|CONJ 9|10|NEG 10|8|COORD 11|3|PUNCT
+*PAR:	but and busy and sewing and pretty &uh dress nice dress yeah .
+%mor:	conj|but coord|and adj|busy coord|and part|sew-PRESP coord|and
+	adj|pretty n|dress adj|nice n|dress co|yeah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|CONJ 7|8|MOD
+	8|10|MOD 9|10|MOD 10|6|COORD 11|10|COM 12|1|PUNCT
+*PAR:	and &uh okay downstairs &oh &oh <queen &uh> [//] king and [/] and
+	&um &uh and queen and king &um and babies [* u] all the time yeah .
+%mor:	coord|and co|okay adv|downstairs n|king coord|and coord|and n|queen
+	coord|and n|king coord|and v|baby-3S qn|all det:art|the n|time
+	co|yeah .
+%gra:	1|4|LINK 2|4|COM 3|4|JCT 4|0|ROOT 5|4|CONJ 6|5|CONJ 7|6|COORD 8|5|COORD
+	9|4|ENUM 10|9|CONJ 11|10|COORD 12|14|QUANT 13|14|DET 14|11|OBJ
+	15|14|COM 16|4|PUNCT
+*PAR:	and go .
+%mor:	coord|and v|go .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and okay and ball .
+%mor:	coord|and adj|okay coord|and n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	sister and big not good .
+%mor:	n|sister coord|and adj|big neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|MOD 4|3|NEG 5|2|COORD 6|1|PUNCT
+*PAR:	and go ball yeah .
+%mor:	coord|and v|go n|ball co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|PUNCT
+*PAR:	and &um [/] and Cinderella &uh wand yeah .
+%mor:	coord|and coord|and n:prop|Cinderella n|wand co|yeah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|4|COM 6|1|PUNCT
+*PAR:	and [/] and &uh pretty dress and &uh shoes and slippers &uh mice and
+	&uh one horse and &um dog and &poof .
+%mor:	coord|and adj|pretty n|dress coord|and n|shoe-PL coord|and
+	n|slipper-PL n|mouse&PL coord|and det:num|one n|horse coord|and
+	n|dog coord|and .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|5|CONJ 7|8|MOD
+	8|6|COORD 9|3|CONJ 10|11|QUANT 11|9|COORD 12|11|CONJ 13|12|COORD 14|3|CONJ
+	15|3|PUNCT
+*PAR:	and [/] and pretty [/] &uh pretty [/] &uh pretty nice .
+%mor:	coord|and adv|pretty adj|nice .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and go to ball yeah .
+%mor:	coord|and v|go inf|to v|ball co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	and [/] and [/] &uh and Cinderella &up upstairs xxx [* phon] .
+%mor:	coord|and n:prop|Cinderella adv|upstairs .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|1|PUNCT
+*PAR:	and [/] &uh and Cinderella and &uh princess [* s] and dancing and
+	ousside [* phon] and &uh singing and &uh kissing and [/] and clock
+	big clock and moon and stars .
+%mor:	coord|and n:prop|Cinderella coord|and n|princess coord|and
+	part|dance-PRESP coord|and ?|ousside coord|and part|sing-PRESP
+	coord|and part|kiss-PRESP coord|and n|clock adj|big n|clock
+	coord|and n|moon coord|and n|star-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|8|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|12|CONJ 14|16|MOD
+	15|16|MOD 16|13|COORD 17|16|CONJ 18|17|COORD 19|18|CONJ 20|19|COORD
+	21|1|PUNCT
+*PAR:	but &ugh Cinderella yes thank you really go to Cinder [//] no go to
+	see her .
+%mor:	conj|but n:prop|Cinderella co|yes v|thank pro:per|you
+	adv|real&dadj-LY v|go prep|to co|no v|go inf|to v|see pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|COM 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|COMP 8|7|JCT
+	9|10|COM 10|8|POBJ 11|12|INF 12|7|XCOMP 13|12|OBJ 14|4|PUNCT
+*PAR:	and running [/] running .
+%mor:	coord|and part|run-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and &um and Cinderella &um pumplikin [* phon] not good .
+%mor:	coord|and coord|and n:prop|Cinderella ?|pumplikin neg|not adj|good
+	.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|4|NEG 6|4|PRED 7|1|PUNCT
+*PAR:	and [/] &um and &um dog and cat and mouse cry I know cried yeah .
+%mor:	coord|and n|dog coord|and n|cat coord|and n|mouse v|cry pro:sub|I
+	v|know part|cry-PASTP co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|1|COORD
+	8|9|SUBJ 9|7|COMP 10|9|OBJ 11|10|OBJ 12|1|PUNCT
+*PAR:	and one &uh Cinderella choes [* phon] one choe [* phon] yeah one
+	choe [* phon] .
+%mor:	coord|and det:num|one n:prop|Cinderella ?|choes det:num|one ?|choe
+	co|yeah det:num|one ?|choe .
+%gra:	1|3|LINK 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|QUANT 6|0|ROOT 7|9|COM
+	8|9|QUANT 9|6|ENUM 10|6|PUNCT
+*PAR:	and okay house and &um key <get the door> [/] get the door no get
+	the door not good .
+%mor:	coord|and adj|okay n|house coord|and n|key v|get det:art|the n|door
+	co|no v|get det:art|the n|door neg|not adj|good .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|8|DET 8|6|OBJ
+	9|10|COM 10|8|XMOD 11|12|DET 12|10|OBJ 13|14|NEG 14|12|PRED 15|3|PUNCT
+*PAR:	big bush not good .
+%mor:	adj|big n|bush neg|not adj|good .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	and [/] and &uh mice &oh yeah really yeah and go up sas [* u]
+	stairs .
+%mor:	coord|and n|mouse&PL co|yeah adv|real&dadj-LY co|yeah coord|and
+	v|go adv|up ?|sas n|stair-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|COM 4|5|JCT 5|2|CMOD 6|5|CONJ 7|6|COORD
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|1|PUNCT
+*PAR:	and [/] &um and sisters &golly not good &gir &uh feet not good .
+%mor:	coord|and n|sister-PL neg|not adj|good n|foot&PL neg|not adj|good .
+%gra:	1|5|LINK 2|5|MOD 3|2|NEG 4|5|MOD 5|0|INCROOT 6|5|NEG 7|5|PRED 8|5|PUNCT
+*PAR:	and &uh sisters [//] two sisters not good &golly .
+%mor:	coord|and det:num|two n|sister-PL neg|not adj|good .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	and &uh Cinderella go downstairs .
+%mor:	coord|and n:prop|Cinderella v|go adv|downstairs .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and [/] and [/] and king but &uh yeah but eye but round .
+%mor:	coord|and n|king conj|but co|yeah conj|but n|eye conj|but n|round .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|1|PUNCT
+*PAR:	and &uh Cinder [//] no foot fall down .
+%mor:	coord|and qn|no n|foot n|fall adv|down .
+%gra:	1|4|LINK 2|3|QUANT 3|4|MOD 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and [/] and shoe fall down .
+%mor:	coord|and n|shoe n|fall adv|down .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and &uh Cinderella little foot yeah .
+%mor:	coord|and n:prop|Cinderella adj|little n|foot co|yeah .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|COM 6|4|PUNCT
+*PAR:	okay and [/] and Cinderella and prince and all the time singing and
+	dancing and babies [* u] .
+%mor:	co|okay coord|and n:prop|Cinderella coord|and n|prince coord|and
+	qn|all det:art|the n|time part|sing-PRESP coord|and part|dance-PRESP
+	coord|and n|baby-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|CONJ 7|9|QUANT
+	8|9|DET 9|6|COORD 10|9|XMOD 11|10|CONJ 12|11|COORD 13|12|CONJ 14|13|COORD
+	15|1|PUNCT
+*PAR:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

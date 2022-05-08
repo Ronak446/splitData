@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1041_1_BrokenWindow_February-5th-2018-12-56-15-pm video
+*PAR:	ball hit the top of the squirt [* u] tire [* u] .
+%mor:	n|ball v|hit&ZERO det:art|the n|top prep|of det:art|the n|squirt
+	n|tire .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*PAR:	hit the &s window .
+%mor:	v|hit&ZERO det:art|the n|window .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	a &g guy is in there .
+%mor:	det:art|a n|guy cop|be&3S prep|in adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	xxx [* phon] came at him &oh .
+%mor:	v|come&PAST prep|at pro:obj|him .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	then the place [* u] look up .
+%mor:	adv:tem|then det:art|the n|place v|look adv|up .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and said oh boy I saw that place .
+%mor:	coord|and v|say&PAST co|oh co|boy pro:sub|I n|saw det:dem|that
+	n|place .
+%gra:	1|2|LINK 2|0|ROOT 3|8|COM 4|8|COM 5|8|SUBJ 6|8|MOD 7|8|MOD 8|2|OBJ
+	9|2|PUNCT
+*PAR:	bingo .
+%mor:	n|bingo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	came out .
+%mor:	v|come&PAST adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+@End

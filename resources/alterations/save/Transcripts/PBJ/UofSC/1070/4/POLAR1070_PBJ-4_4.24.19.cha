@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR_1070_PBJ4 video
+*PAR:	<what I did> [//] what I didden [* phon] .
+%mor:	pro:int|what pro:sub|I ?|didden .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	I xxx [* phon] with one xxx [* phon] .
+%mor:	pro:sub|I prep|with pro:indef|one .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	i-o [* phon] [//] I xxx [* phon] what xxx [* phon] .
+%mor:	pro:sub|I pro:int|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	bi [* phon] I beat [: eat] [* phon] them .
+%mor:	?|bi pro:sub|I v|eat pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

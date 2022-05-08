@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1011_PBJ4 video
+
+*PAR:	penibut [* phon] &uh butter [* s] .
+%mor:	?|penibut n|butter .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	sandwich bread .
+%mor:	n|sandwich n|bread .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	peanut butter and sandwich .
+%mor:	n|peanut n|butter coord|and n|sandwich .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread sandwich .
+%mor:	n|bread n|sandwich .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	peanut butter and bread .
+%mor:	n|peanut n|butter coord|and n|bread .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+@End

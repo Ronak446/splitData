@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1020_1_BrokenWindow_Y2017_M05_D18_H17_M08_S43 video
+*PAR:	&uh .
+*PAR:	one &uh .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&wuh .
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh .
+*PAR:	what what [/] ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&wha .
+*PAR:	&uh &uh .
+*PAR:	&wha &wha .
+@End

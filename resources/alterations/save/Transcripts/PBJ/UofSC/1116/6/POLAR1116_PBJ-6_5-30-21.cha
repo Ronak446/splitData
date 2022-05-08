@@ -1,0 +1,50 @@
+@UTF8
+@Window:	45_116_907_1008_0_0_383_1_383_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	POLAR1116_PBJ-6_5-30-21, video
+*PAR:	corn [* s] &n .
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bed [* u] .
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	no corn [* s] [/] corn [* s] .
+%mor:	qn|no n|corn .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and corn [* s] .
+%mor:	coord|and n|corn .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	corn [* s] .
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	box [* u] .
+%mor:	n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	box [* u] .
+%mor:	n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	box [* u] [/] box [* s] .
+%mor:	n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	box [* u] .
+%mor:	n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	box [* phon] .
+%mor:	n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bed [* s] .
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pencils [* u] .
+%mor:	n|pencil-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

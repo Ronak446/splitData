@@ -1,0 +1,28 @@
+@UTF8
+@Window:	45_363_755_916_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	POLAR.1101.PBJ-4, video
+*PAR:	you &h &ha have to tave [: have] [* phon] &t two trucks [* phon]
+	of a bread and peadit+butter [: peanut+butter] [* phon] and jelly .
+%mor:	pro:per|you v|have inf|to v|have det:num|two n|truck-PL prep|of
+	det:art|a n|bread coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|CONJ 13|12|COORD 14|2|PUNCT
+*PAR:	and &y you <got it> [//] get it all on top it then .
+%mor:	coord|and pro:per|you v|get pro:per|it adv|all prep|on n|top
+	pro:per|it adv:tem|then .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|9|SUBJ
+	9|3|JCT 10|3|PUNCT
+*PAR:	and take it xxx [* phon] and have &uh it make it &uh xxx [* phon] .
+%mor:	coord|and v|take pro:per|it coord|and v|have pro:per|it v|make
+	pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|2|PUNCT
+*PAR:	xxx [* phon] and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

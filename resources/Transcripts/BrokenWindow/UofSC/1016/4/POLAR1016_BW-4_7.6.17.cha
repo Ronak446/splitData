@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1016_4_BrokenWindow_July-6th-2017-9-32-54-am video
+*PAR:	a ball kick .
+%mor:	det:art|a n|ball v|kick .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	ball kiss [* s] a window .
+%mor:	n|ball v|kiss det:art|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	xxx [* phon] want to go to the window .
+%mor:	v|want inf|to v|go prep|to det:art|the n|window .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	xxx [* phon] want to go to the bar [* s] .
+%mor:	v|want inf|to v|go prep|to det:art|the n|bar .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+@End

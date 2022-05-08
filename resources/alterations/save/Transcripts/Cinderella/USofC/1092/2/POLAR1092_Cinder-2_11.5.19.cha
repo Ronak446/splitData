@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:04
+@Media:	1092_2_Cinderella_November-5th-2019-10-35-41-am video
+*PAR:	the picture [: story] [* s] was about believing that only you could happen .
+%mor:	det:art|the n|story aux|be&PAST&13S adv|about part|believe-PRESP
+	adv|that adv|only pro:per|you mod|could v|happen .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|10|XJCT 6|5|JCT 7|5|JCT 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|PUNCT
+*PAR:	your [/] your story is about peein [//] believing [/] believing be
+	happen .
+%mor:	det:poss|your n|story aux|be&3S adv|about part|believe-PRESP aux|be
+	v|happen .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*PAR:	&uh story about the believing &re remindle [* phon] &uh believing
+	[/] believing .
+%mor:	n|story prep|about det:art|the n:gerund|believe-PRESP ?|remindle
+	part|believe-PRESP .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|OBJ 6|5|XMOD 7|1|PUNCT
+*PAR:	be happen .
+%mor:	aux|be v|happen .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*PAR:	it happen .
+%mor:	pro:per|it v|happen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and great is a guy .
+%mor:	coord|and adj|great aux|be&3S det:art|a n|guy .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	is a great picture behind him .
+%mor:	cop|be&3S det:art|a adj|great n|picture prep|behind pro:obj|him .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*PAR:	and &um believing they happen in the moment that they happen .
+%mor:	coord|and part|believe-PRESP pro:sub|they v|happen prep|in
+	det:art|the n|moment pro:rel|that pro:sub|they v|happen .
+%gra:	1|4|LINK 2|4|XJCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|4|PUNCT
+*PAR:	&mhm xxx [* phon] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but xxx [* phon] <take it> [/] take it out of moment .
+%mor:	conj|but v|take pro:per|it adv|out prep|of n|moment .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|JCT 6|5|POBJ 7|2|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:59
+@Media:	1032_Cinderella6 video
+*PAR:	words [/] words gae [* phon] .
+%mor:	n|word-PL ?|gae .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	seflus [* phon] .
+%mor:	?|seflus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I doe [* phon] .
+%mor:	pro:sub|I n|doe .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	yup gee [* phon] [//] he .
+%mor:	co|yup pro:sub|he .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	seppers [* phon] .
+%mor:	?|seppers .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ending [/] ending .
+%mor:	n|ending .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

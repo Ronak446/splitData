@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1085_1_BrokenWindow_July-25th-2019-2-45-28-pm video
+*PAR:	young boy's outside kicking the ball around because daddy won't play .
+%mor:	adj|young n|boy~aux|be&3S adv|outside part|kick-PRESP det:art|the
+	n|ball adv|around conj|because n|daddy mod|will~neg|not v|play .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|5|CJCT 14|5|PUNCT
+*PAR:	and what does he do .
+%mor:	coord|and pro:int|what v|do&3S pro:sub|he v|do .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*PAR:	he goes and kicks it and knocks it through the window .
+%mor:	pro:sub|he v|go-3S coord|and v|kick-3S pro:per|it coord|and
+	v|knock-3S pro:per|it prep|through det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|OBJ 6|2|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	dad looks out .
+%mor:	n|dad v|look-3S prep|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and he said son come in here .
+%mor:	coord|and pro:sub|he v|say&PAST n|son v|come prep|in n|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and he wants to give him a licking for kicking it through that
+	window .
+%mor:	coord|and pro:sub|he v|want-3S inf|to v|give pro:obj|him det:art|a
+	n:gerund|lick-PRESP prep|for n:gerund|kick-PRESP pro:per|it
+	prep|through det:dem|that n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|8|JCT 10|9|POBJ 11|10|OBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+@End

@@ -1,0 +1,15 @@
+@UTF8
+@Window:	45_366_755_916_0_0_178_1_178_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:06
+@Media:	POLAR1118_PBJ-1_08_26_20, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Betsy's [* u] hair [* u] .
+%mor:	adj|Betsy&dn-POSS n|hair .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

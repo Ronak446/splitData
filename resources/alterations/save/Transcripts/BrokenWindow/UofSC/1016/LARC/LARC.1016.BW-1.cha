@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:51
+@Media:	1016_LARC_BrokenWindow_October-1st-2019-2-39-47-pm video
+*PAR:	pall [: ball] [* phon] kitt [: kick] [* phon] &airpl [//] no plane
+	[* u] .
+%mor:	n|ball v|kick qn|no n|plane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	&airp [//] no airplane [* u] [/] airplane [* u] .
+%mor:	qn|no n|airplane .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	kitt [: kick] [* phon] airplane [* u] [//] no airplane [* u] &k .
+%mor:	v|kick qn|no n|airplane .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	pway [: play] [* phon] ball .
+%mor:	n|play n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

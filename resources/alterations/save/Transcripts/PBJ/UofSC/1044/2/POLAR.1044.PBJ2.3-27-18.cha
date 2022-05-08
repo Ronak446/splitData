@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	1044_2_PBJ_March-27th-2018-2-21-58-pm video
+*PAR:	swead [* phon] the first the &uh jelly .
+%mor:	?|swead det:art|the adj|first det:art|the n|jelly .
+%gra:	1|0|INCROOT 2|5|DET 3|5|MOD 4|5|DET 5|1|OBJ 6|1|PUNCT
+*PAR:	then the peanut+butter .
+%mor:	adv:tem|then det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &mm &mm .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

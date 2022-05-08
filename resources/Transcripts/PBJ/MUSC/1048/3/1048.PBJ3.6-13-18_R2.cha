@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	1048_PBJ3_R2 video
+
+*PAR:	okay two pieces white bread .
+%mor:	co|okay det:num|two n|piece-PL adj|white n|bread .
+%gra:	1|5|COM 2|3|QUANT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	one side we [/] we [/] we put peanut+butter on side .
+%mor:	det:num|one n|side pro:sub|we v|put&ZERO n|+n|peanut+n|butter
+	prep|on n|side .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	<on the wet [: bread] [* u]> [//] on the other piece of bread we <put them> [//] put on jelly .
+%mor:	prep|on det:art|the qn|other n|piece prep|of n|bread pro:sub|we
+	v|put&ZERO prep|on n|jelly .
+%gra:	1|8|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+*PAR:	<put the> [/] put the two pieces together .
+%mor:	v|put&ZERO det:art|the det:num|two n|piece-PL adv|together .
+%gra:	1|0|ROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|1|JCT 6|1|PUNCT
+*PAR:	and [/] &w and we eat .
+%mor:	coord|and pro:sub|we v|eat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

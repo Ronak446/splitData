@@ -1,0 +1,158 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:36
+@Media:	POLAR_1045_Cinder3 video
+*PAR:	alright so you had &um the woman and the man .
+%mor:	co|alright conj|so pro:per|you v|have&PAST det:art|the n|woman
+	coord|and det:art|the n|man .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|4|PUNCT
+*PAR:	they had a &um they both had a daughter .
+%mor:	pro:sub|they v|have&PAST det:art|a pro:sub|they post|both
+	v|have&PAST det:art|a n|daughter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|SUBJ 5|4|PQ 6|2|COMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	the one lady seemed she seemed mean .
+%mor:	det:art|the qn|one n|lady cop|seem-PAST pro:sub|she cop|seem-PAST
+	adj|mean .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|PRED 7|6|PRED
+	8|4|PUNCT
+*PAR:	and the other one was nice .
+%mor:	coord|and det:art|the qn|other pro:indef|one cop|be&PAST&13S
+	adj|nice .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	&um and then &um she gets older .
+%mor:	coord|and adv:tem|then pro:sub|she v|get-3S adj|old-CP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and looks like &um &step steplady and her sisters they were mean en
+	[* phon] her .
+%mor:	coord|and cop|look-3S conj|like step#n|lady coord|and det:poss|her
+	n|sister-PL pro:sub|they cop|be&PAST adj|mean ?|en pro:obj|her .
+%gra:	1|0|INCROOT 2|1|COORD 3|9|LINK 4|9|LINK 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|9|SUBJ 9|2|COMP 10|9|PRED 11|9|PRED 12|11|OBJ 13|1|PUNCT
+*PAR:	&um she was at a looking for .
+%mor:	pro:sub|she cop|be&PAST&13S prep|at det:art|a n:gerund|look-PRESP
+	prep|for .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|2|PUNCT
+*PAR:	&um oh they got a letter for the ball .
+%mor:	co|oh pro:sub|they v|get&PAST det:art|a n|letter prep|for
+	det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	&um she was reading a book .
+%mor:	pro:sub|she aux|be&PAST&13S part|read-PRESP det:art|a n|book .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	I don't know why she was doing that .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:rel|why pro:sub|she
+	aux|be&PAST&13S part|do-PRESP pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|OBJ 10|4|PUNCT
+*PAR:	but I know the &um the mouse were trying to help with her .
+%mor:	conj|but pro:sub|I v|know det:art|the det:art|the n|mouse
+	aux|be&PAST part|try-PRESP prep|to co|help prep|with pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|9|POBJ 11|10|JCT 12|11|POBJ 13|3|PUNCT
+*PAR:	and then they did a dress for her with &uh a beautiful dress .
+%mor:	coord|and adv:tem|then pro:sub|they v|do&PAST det:art|a n|dress
+	prep|for pro:obj|her prep|with det:art|a adj|beautiful n|dress .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*PAR:	&um <she got her> [/] she got her &uh she was going to the dance .
+%mor:	pro:sub|she v|get&PAST pro:obj|her pro:sub|she aux|be&PAST&13S
+	part|go-PRESP prep|to det:art|the n|dance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	&uh they were not happy about that &um .
+%mor:	pro:sub|they aux|be&PAST neg|not adj|happy prep|about pro:dem|that
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	then she had &um I think there was a captain [* s] or something .
+%mor:	adv:tem|then pro:sub|she v|have&PAST pro:sub|I v|think adv|there
+	cop|be&PAST&13S det:art|a n|captain coord|or pro:indef|something .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|5|COMP 8|9|DET
+	9|7|PRED 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*PAR:	he was mad about that that she was coming in .
+%mor:	pro:sub|he cop|be&PAST&13S adj|mad prep|about pro:dem|that
+	pro:rel|that pro:sub|she aux|be&PAST&13S n:gerund|come-PRESP adv|in
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|JCT 11|2|PUNCT
+*PAR:	&um then you had and I can't her name &um but the &um <with the> [/]
+	wiun [* phon] [//] &wan [//] wiun [* phon] [//] &wa [//] &wan [//]
+	with the wiun [* phon] [//] wand [/] wand .
+%mor:	adv:tem|then pro:per|you v|have&PAST coord|and pro:sub|I
+	mod|can~neg|not det:poss|her n|name conj|but det:art|the prep|with
+	det:art|the n|wand .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|9|LINK 5|9|SUBJ 6|9|AUX 7|6|NEG 8|9|MOD
+	9|3|OBJ 10|9|CONJ 11|10|COORD 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	&um she helps her out with the &um horses and <the> [/] &carr [//]
+	&carri [//] carriate [* phon] [//] &er <the> [/] &um the &um &ca
+	carriage .
+%mor:	pro:sub|she v|help-3S pro:obj|her adv|out prep|with det:art|the
+	n|horse-PL coord|and det:art|the n|carriage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|CONJ
+	9|10|DET 10|8|COORD 11|2|PUNCT
+*PAR:	&um she goes to the ball .
+%mor:	pro:sub|she v|go-3S prep|to det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	&um they dance .
+%mor:	pro:sub|they v|dance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&um they &um she gets to the point .
+%mor:	pro:sub|they pro:sub|she v|get-3S prep|to det:art|the n|point .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	she looks at the clock .
+%mor:	pro:sub|she cop|look-3S prep|at det:art|the n|clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	she realizes she needs to leave at &um twelve o'clock .
+%mor:	pro:sub|she v|realize-3S pro:sub|she v|need-3S inf|to v|leave
+	prep|at det:num|twelve n|o'clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|COMP 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|2|PUNCT
+*PAR:	&um so she leaves .
+%mor:	co|so pro:sub|she v|leave-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she &um loses a slipper .
+%mor:	coord|and pro:sub|she v|lose-3S det:art|a n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&uh and then she comes back .
+%mor:	coord|and adv:tem|then pro:sub|she v|come-3S adv|back .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and somebody brought the slipper .
+%mor:	coord|and pro:indef|somebody v|bring&PAST det:art|the n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&um the mean lady she tried <to> [/] to &um get the slipper for her
+	sisters .
+%mor:	det:art|the adj|mean n|lady pro:sub|she v|try-PAST inf|to v|get
+	det:art|the n|slipper conj|for det:poss|her n|sister-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|9|POSTMOD 11|12|MOD 12|10|OBJ 13|5|PUNCT
+*PAR:	&uh but they had to &um Cindereller [* phon] [//] &cin cindereller
+	[* phon] she was the only one who could &um have the same shoe .
+%mor:	conj|but pro:sub|they v|have&PAST prep|to ?|cindereller pro:sub|she
+	cop|be&PAST&13S det:art|the qn|only pro:indef|one pro:rel|who
+	mod|could v|have det:art|the adj|same n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|QUANT 10|7|PRED 11|13|LINK 12|13|AUX 13|10|CMOD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|7|PUNCT
+*PAR:	so she got <the> [/] &um the &um slipper and put it on her foot .
+%mor:	co|so pro:sub|she v|get&PAST det:art|the n|slipper coord|and
+	v|put&ZERO pro:per|it prep|on det:poss|her n|foot .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|3|PUNCT
+*PAR:	and the &um prince &uh they got married .
+%mor:	coord|and det:art|the n|prince pro:sub|they aux|get&PAST
+	part|marry-PASTP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|1|PUNCT
+*PAR:	and they were in the same &um carriage .
+%mor:	coord|and pro:sub|they cop|be&PAST prep|in det:art|the adj|same
+	n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	and I think that was the end .
+%mor:	coord|and pro:sub|I v|think pro:dem|that cop|be&PAST&13S
+	det:art|the n|end .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|PRED 8|3|PUNCT
+@End

@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:05
+*PAR:	the bread whole wheat .
+%mor:	det:art|the n|bread adj|whole n|wheat .
+%gra:	1|2|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and toast and cool .
+%mor:	coord|and n|toast coord|and adj|cool .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	butter [//] I mean ze [: the] [* phon] peanut+butter <on the> [//]
+	in the butter [//] I mean &j jelly .
+%mor:	pro:sub|I v|mean det:art|the n|+n|peanut+n|butter prep|in
+	det:art|the pro:sub|I adj|mean n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|2|PUNCT
+*PAR:	and on the other &w f@l ?
+%mor:	coord|and prep|on det:art|the qn|other n:let|f ?
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|1|PUNCT
+*PAR:	and &ja just stack (th)em up to form the [//] ze [: the] [* phon]
+	peanut+butter sandwich .
+%mor:	coord|and adj|just n|stack pro:obj|them adv|up inf|to v|form
+	det:art|the n|+n|peanut+n|butter n|sandwich .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|7|INF 7|4|XJCT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|3|PUNCT
+@End

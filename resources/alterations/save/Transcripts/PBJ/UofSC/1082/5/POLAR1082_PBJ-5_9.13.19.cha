@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1082.PBJ-5 video
+@Time Duration:	00:01:08
+*PAR:	&uh is &uh &uh two [/] &um two &uh bread &uh &uh one [//] two [/] &b
+	&s bread [//] two pieces bread &um butter [: peanut butter] [* phon]
+	[* s] .
+%mor:	aux|be&3S det:num|two n|bread det:num|two n|piece-PL n|bread
+	n|peanut n|butter .
+*PAR:	and that's &um one side is &uh &p &uh peanut+butter .
+%mor:	coord|and pro:dem|that~cop|be&3S det:num|one n|side aux|be&3S
+	n|+n|peanut+n|butter .
+*PAR:	other side is jelly [//] or jam .
+%mor:	qn|other n|side aux|be&3S coord|or n|jam .
+*PAR:	&um add it &uh gether [: together] [* phon] .
+%mor:	v|add pro:per|it adv|together .
+*PAR:	&stt cut it .
+%mor:	v|cut&ZERO pro:per|it .
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+@End

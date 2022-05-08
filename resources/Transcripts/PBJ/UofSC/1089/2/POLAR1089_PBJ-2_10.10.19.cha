@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_2_PBJ_October-10th-2019-11-05-05-am video
+@Time Duration:	00:00:35
+*PAR:	alright so this is a sandwich .
+%mor:	co|alright co|so pro:dem|this cop|be&3S det:art|a n|sandwich .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	and I'll have two bread .
+%mor:	coord|and pro:sub|I~mod|will v|have det:num|two n|bread .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	and on one side he had peanut+butter on the bread .
+%mor:	coord|and prep|on det:num|one n|side pro:sub|he v|have&PAST
+	n|+n|peanut+n|butter prep|on det:art|the n|bread .
+%gra:	1|6|LINK 2|6|JCT 3|4|QUANT 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	and on the other side <I would> [//] I had some jelly on the other
+	side .
+%mor:	coord|and prep|on det:art|the qn|other n|side pro:sub|I v|have&PAST
+	qn|some n|jelly prep|on det:art|the qn|other n|side .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|7|PUNCT
+*PAR:	and then I would take &um two places [: pieces] [* phon] into one of
+	bread peanut+butter jelly bread .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|take det:num|two
+	n|piece-PL prep|into det:num|one prep|of n|bread
+	n|+n|peanut+n|butter n|jelly n|bread .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|9|NJCT 11|14|MOD 12|14|MOD 13|14|MOD 14|10|POBJ 15|5|PUNCT
+*PAR:	boom .
+%mor:	co|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

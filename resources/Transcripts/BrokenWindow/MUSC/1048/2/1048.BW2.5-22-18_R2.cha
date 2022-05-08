@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:26
+@Media:	1048_BW2_R2 video
+
+*PAR:	a little boy playing .
+%mor:	det:art|a adj|little n|boy part|play-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|3|PUNCT
+*PAR:	but <he's &k> [//] he kiss [: kicks] [* phon] <he [: the] [* phon]> [//] the ball into his neighbor's window .
+%mor:	conj|but pro:sub|he v|kick-3S det:art|the n|ball prep|into
+	det:poss|his adj|neighbor&dn-POSS n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	who happens to be sitting by the window .
+%mor:	pro:rel|who v|happen-3S inf|to aux|be part|sit-PRESP prep|by
+	det:art|the n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|5|INF 4|5|AUX 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and he gets really mad .
+%mor:	coord|and pro:sub|he v|get-3S adv|real&dadj-LY adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	so he keeps the [/] the ball .
+%mor:	co|so pro:sub|he v|keep-3S det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

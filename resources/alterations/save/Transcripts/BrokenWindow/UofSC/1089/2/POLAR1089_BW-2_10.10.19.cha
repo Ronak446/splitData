@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_2_BrokenWindow_October-10th-2019-11-02-39-am video
+@Time Duration:	00:01:04
+*PAR:	yeah this is one was so this .
+%mor:	co|yeah pro:dem|this cop|be&3S pro:indef|one cop|be&PAST&13S adv|so
+	pro:dem|this .
+%gra:	1|2|COM 2|3|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*PAR:	he had &uh soccer [: ball] [* s] .
+%mor:	pro:sub|he v|have&PAST n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	then the soccer [* s] is glass on the window .
+%mor:	adv:tem|then det:art|the n|soccer cop|be&3S n|glass prep|on
+	det:art|the n|window .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	then the [/] the glass [: ball] [* u] &um through the glass .
+%mor:	adv:tem|then det:art|the n|ball prep|through det:art|the n|glass .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the soccal [//] soccer left in his hand [//] or probably dad .
+%mor:	coord|and det:art|the n|soccer v|leave&PAST prep|in det:poss|his
+	coord|or adv|probable&dadj-LY n|dad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|9|JCT
+	9|7|COORD 10|4|PUNCT
+*PAR:	and then he had the soccer [: ball] [* s] on to look at the [/] the
+	window .
+%mor:	coord|and adv:tem|then pro:sub|he v|have&PAST det:art|the n|ball
+	adv|on inf|to v|look prep|at det:art|the n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|INF
+	9|4|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	so I mean yeah .
+%mor:	co|so pro:sub|I v|mean co|yeah .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

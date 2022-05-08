@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR_POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:26
+@Media:	1036_BW5 video
+*PAR:	ball &um &um &um the ball &um hit [* s] &um the ball &um &um &um .
+%mor:	v|ball det:art|the n|ball v|hit&ZERO det:art|the n|ball .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	boy and hits [* s] the ball &um &s &um &um .
+%mor:	n|boy coord|and v|hit-3S det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	<the ball> [//] &um no the ball hit &um the &s &um &um the boy hit
+	[* s] &um .
+%mor:	qn|no det:art|the n|ball v|hit&ZERO det:art|the det:art|the n|boy
+	n|hit .
+%gra:	1|3|QUANT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|DET 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*PAR:	the boy [//]  &um man &um &um &um <the &um man> [/] &um the &um man
+	&um &w window .
+%mor:	det:art|the n|man det:art|the n|man n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|APP 6|2|PUNCT
+*PAR:	and &um &um the &w &um man hits &um the &bo &um &um .
+%mor:	coord|and det:art|the n|man v|hit-3S det:art|the .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the end .
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@End

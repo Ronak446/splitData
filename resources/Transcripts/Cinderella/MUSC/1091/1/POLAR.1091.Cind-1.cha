@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.Cind-1 video
+@Time Duration:	00:00:38
+*PAR:	&uhh Cinderella went to a ball .
+%mor:	n:prop|Cinderella v|go&PAST prep|to det:art|a n|ball .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*PAR:	<I can't> [/] I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*PAR:	yes she met a prince .
+%mor:	co|yes pro:sub|she v|meet&PAST det:art|a n|prince .
+*PAR:	and she danced with a prince .
+%mor:	coord|and pro:sub|she v|dance-PAST prep|with det:art|a n|prince .
+*PAR:	well I know she lost a shoe .
+%mor:	co|well pro:sub|I v|know pro:sub|she v|lose&PAST det:art|a n|shoe .
+*PAR:	and I don't know .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know .
+@End

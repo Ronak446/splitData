@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1050_BW2_R2 video
+*PAR:	one &d toote [* phon] .
+%mor:	det:num|one ?|toote .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	is zis [: this] [* phon] one toote [* phon] .
+%mor:	cop|be&3S pro:dem|this pro:indef|one ?|toote .
+%gra:	1|0|ROOT 2|4|DET 3|4|SUBJ 4|1|PRED 5|1|PUNCT
+*PAR:	xxx [* phon] yes wun [* phon] is what is zis [: this] [* phon] .
+%mor:	co|yes ?|wun cop|be&3S pro:int|what cop|be&3S pro:dem|this .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+@End

@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:57
+*PAR:	boy is tay [* phon] kicking the wet [* u] [//] I mean soccer [* s]
+	[//] I mean hole .
+%mor:	co|boy aux|be&3S ?|tay part|kick-PRESP det:art|the pro:sub|I
+	adj|mean pro:sub|I adj|mean n|hole .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|XMOD 5|10|DET 6|10|MOD 7|10|MOD 8|10|MOD
+	9|10|MOD 10|4|OBJ 11|2|PUNCT
+*PAR:	and reaching the window .
+%mor:	coord|and part|reach-PRESP det:art|the n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*PAR:	and man is &t &uh &uh chedgin [* phon] the ball and looking for the
+	&m kicker .
+%mor:	coord|and n|man aux|be&3S ?|chedgin det:art|the n|ball coord|and
+	part|look-PRESP prep|for det:art|the n|kick&dv-AGT .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+@End

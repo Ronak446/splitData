@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	0:00:21
+*PAR:	boy is kicking the ball .
+%mor:	co|boy aux|be&3S part|kick-PRESP det:art|the n|ball .
+%gra:	1|3|COM 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &w window .
+%mor:	coord|and n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	the owner &e &o owner .
+%mor:	det:art|the n|own&dv-AGT adj|own-CP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	who's that ?
+%mor:	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

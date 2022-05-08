@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	1045_LARC_PBJ_November-7th-2019-10-53-00-am video
+*PAR:	I'd let Denise do it .
+%mor:	pro:sub|I~mod|genmod v|let&ZERO n:prop|Denise v|do pro:per|it .
+*PAR:	&um take the bread out .
+%mor:	v|take det:art|the n|bread adv|out .
+*PAR:	&um on a counter .
+%mor:	prep|on det:art|a n|counter .
+*PAR:	I put napkin there with a knife .
+%mor:	pro:sub|I v|put&ZERO n|napkin adv|there prep|with det:art|a n|knife
+	.
+*PAR:	and then you &uh put the bread &um seperate .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO det:art|the n|bread
+	?|seperate .
+*PAR:	and then put &um peanut+butter and jam together .
+%mor:	coord|and adv:tem|then v|put&ZERO n|+n|peanut+n|butter coord|and
+	n|jam adv|together .
+*PAR:	pur [: put] [* phon] peanut+butter first then the jam with the knife .
+%mor:	v|put&ZERO n|+n|peanut+n|butter adv|first adv:tem|then det:art|the
+	n|jam prep|with det:art|the n|knife .
+*PAR:	and put the bread on top .
+%mor:	coord|and v|put&ZERO det:art|the n|bread prep|on n|top .
+@End

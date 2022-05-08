@@ -1,0 +1,15 @@
+ball. 
+
+kick the ball.
+
+oh, throw [: kick] [* s] the ball. 
+
+and hit [: kick] [* s] the ball.
+
+hit [: kick] [* s] the ball. 
+
+throw [: kick] [* s] the ball.
+
+hit [: kick] [* s] the ball.
+
+and throw [: kick] [* s] the ball.

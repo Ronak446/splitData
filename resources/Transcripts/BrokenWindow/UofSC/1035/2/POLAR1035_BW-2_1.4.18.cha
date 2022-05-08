@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1035_2_BrokenWindow_January-4th-2018-10-31-14-am video
+
+*PAR:	a boy .
+%mor:	det:art|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	baseball [* s] .
+%mor:	n|baseball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	henn [* phon] window broken .
+%mor:	?|henn n|window part|break&PASTP .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	what a dat [* phon] ?
+%mor:	pro:int|what det:art|a ?|dat ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	who hit dat [* phon] ?
+%mor:	pro:int|who n|hit ?|dat ?
+%gra:	1|2|OBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	who dat [* phon] ?
+%mor:	pro:int|who ?|dat ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	heee [* phon] end .
+%mor:	?|heee n|end .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

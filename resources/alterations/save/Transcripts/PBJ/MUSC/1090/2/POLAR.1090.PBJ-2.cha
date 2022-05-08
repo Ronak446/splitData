@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	POLAR.1090.PBJ-2 video
+*PAR:	well is a going two paik [* phon] you .
+%mor:	co|well cop|be&3S det:art|a n:gerund|go-PRESP det:num|two ?|paik
+	pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|PRED 5|6|QUANT 6|4|OBJ 7|6|OBJ 8|2|PUNCT
+*PAR:	and &k what it is kwusted [* phon] and a &h sandith [* phon] .
+%mor:	coord|and pro:int|what pro:per|it cop|be&3S ?|kwusted coord|and
+	det:art|a ?|sandith .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|4|PUNCT
+*PAR:	and so you have one when you xxx [* phon] xxx [* phon] .
+%mor:	coord|and co|so pro:per|you v|have pro:indef|one conj|when
+	pro:per|you .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|4|PUNCT
+*PAR:	Is going gook [//] is good .
+%mor:	n:prop|Is n:gerund|go-PRESP cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

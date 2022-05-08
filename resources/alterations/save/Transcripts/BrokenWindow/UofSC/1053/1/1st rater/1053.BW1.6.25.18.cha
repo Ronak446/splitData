@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1053_BW1 video
+*PAR:	xxx [* phon] ya [* phon] [/] ya [* phon] yayuh [* phon] .
+%mor:	pro:per|you ?|yayuh .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] nuhmee [* phon] oo [* phon] xxx [* phon] .
+%mor:	?|nuhmee co|oo .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	oo [* phon] .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

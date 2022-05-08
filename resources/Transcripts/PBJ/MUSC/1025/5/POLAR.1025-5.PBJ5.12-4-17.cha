@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1025_5_PBJ_December-4th-2017-11-37-50-am video
+*PAR:	&ff &sh first you do the behd [* phon] .
+%mor:	adv|first pro:per|you v|do det:art|the ?|behd .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and get the peanut+butter and spread it on one side of the behd
+	[* phon] .
+%mor:	coord|and v|get det:art|the n|+n|peanut+n|butter coord|and
+	v|spread&ZERO pro:per|it prep|on det:num|one n|side prep|of
+	det:art|the ?|behd .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	and to get the study [* s] and &s &s sput [* phon] it on the other
+	side .
+%mor:	coord|and v|toe v|get det:art|the n|study coord|and ?|sput
+	pro:per|it prep|on det:art|the qn|other n|side .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|8|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|3|PUNCT
+*PAR:	and put it together .
+%mor:	coord|and v|put&ZERO pro:per|it adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+@End

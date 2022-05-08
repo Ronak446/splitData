@@ -1,0 +1,468 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:14:03
+@Media:	1001_3_Cinderella_Y2016_M09_D08_H11_M31_S51 video
+
+*PAR:	ok .
+%mor:	?|ok .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	this begins &ih in stɚ [* phon] of &uh Cinderella .
+%mor:	pro:dem|this v|begin-3S prep|in ?|stɚ prep|of n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	klotɛl [* phon] ɪntrətədus [* phon] his [* s] father .
+%mor:	?|klotɛl ?|ɪntrətədus det:poss|his n|father .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|MOD 4|2|OBJ 5|1|PUNCT
+*PAR:	and he is the &buh bɪntɚ [* phon] to the &suh sɛptɚ [* phon] .
+%mor:	coord|and pro:sub|he cop|be&3S det:art|the ?|bɪntɚ prep|to
+	det:art|the ?|sɛptɚ .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and she is a wicked .
+%mor:	coord|and pro:sub|she cop|be&3S det:art|a adj|wicked .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	we we [/] [//] I I [/] presume .
+%mor:	pro:sub|we pro:sub|I v|presume .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	he the xxx [* phon] the &bu branches [* phon] red
+	&oo boy .
+%mor:	pro:sub|he det:art|the det:art|the n|branch-PL adj|red n|boy .
+%gra:	1|6|SUBJ 2|6|DET 3|4|DET 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	and &uh the two two [/] two [/] tɛtɚɛs [* phon] .
+%mor:	coord|and det:art|the det:num|two ?|tɛtɚɛs .
+%gra:	1|4|LINK 2|3|DET 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	and &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but she's just &oh .
+%mor:	conj|but pro:sub|she~aux|be&3S adv|just .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	she's xxx [* phon] never but the handle [* u] was xxx [* phon] .
+%mor:	pro:sub|she~aux|be&3S adv|never conj|but det:art|the n|handle
+	cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|LINK 5|6|DET 6|7|SUBJ 7|2|CJCT 8|2|PUNCT
+*PAR:	this this [/] is a my bɚbændɚ [* phon] .
+%mor:	pro:dem|this cop|be&3S det:art|a det:poss|my ?|bɚbændɚ .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and this is your tʃɛker [* phon] .
+%mor:	coord|and pro:dem|this cop|be&3S det:poss|your ?|tʃɛker .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	and the two are two little girls .
+%mor:	coord|and det:art|the det:num|two cop|be&PRES det:num|two
+	adj|little n|girl-PL .
+%gra:	1|4|LINK 2|4|DET 3|4|QUANT 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|PRED
+	8|4|PUNCT
+*PAR:	but &uhhuh two .
+%mor:	conj|but det:num|two .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	she's tells they all bɑɪr [* phon] ɛtɪndɪntəl [* phon] .
+%mor:	pro:sub|she~aux|be&3S v|tell-3S pro:sub|they post|all ?|bɑɪr
+	?|ɛtɪndɪntəl .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|4|PQ 6|3|COMP 7|6|PRED 8|3|PUNCT
+*PAR:	and &ah &eh &eh the girls all puts it puts &eh xxx [* phon] .
+%mor:	coord|and det:art|the n|girl-PL adv|all v|put-3S pro:per|it
+	v|put-3S .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|5|PUNCT
+*PAR:	kleɑns [* phon] and pəsɛs [* phon] ʌlɛtəl [* phon] .
+%mor:	?|kleɑns coord|and ?|pəsɛs ?|ʌlɛtəl .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	and she help her helps ɛt [* phon] .
+%mor:	coord|and pro:sub|she v|help det:poss|her n|help-PL ?|ɛt .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	but she no ahn [* phon] .
+%mor:	conj|but pro:sub|she qn|no ?|ahn .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	but &uh &eh then she looks ʌməntɚnɑɪsɚ [* phon] .
+%mor:	conj|but adv:tem|then pro:sub|she v|look-3S ?|ʌməntɚnɑɪsɚ .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&uh there &g &g there good bɪkɚtəgətɚ [* phon] .
+%mor:	adv|there adv|there adj|good ?|bɪkɚtəgətɚ .
+%gra:	1|2|JCT 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and &uh the big horse .
+%mor:	coord|and det:art|the adj|big n|horse .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	the &f four pɪkɚs [* phon] &uh .
+%mor:	det:art|the det:num|four ?|pɪkɚs .
+%gra:	1|2|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh a kænt [* phon] .
+%mor:	det:art|a ?|kænt .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and let's see I think that's about it .
+%mor:	coord|and v|let~pro:obj|us v|see pro:sub|I v|think
+	pro:rel|that~aux|be&3S prep|about pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT 5|6|SUBJ 6|4|COMP 7|6|OBJ
+	8|7|INCROOT 9|8|JCT 10|9|POBJ 11|8|PUNCT
+*PAR:	and &um but a xxx [* phon] sell &uh they xxx [* phon] a lɪɚ [* phon]
+	ʌlɪtɚ [* phon] and two ber [* phon] bɪnso [* phon] .
+%mor:	coord|and conj|but det:art|a v|sell pro:sub|they det:art|a ?|lɪɚ
+	?|ʌlɪtɚ coord|and det:num|two ?|ber ?|bɪnso .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|OBJ 6|7|DET 7|5|CONJ
+	8|7|COORD 9|8|CONJ 10|11|QUANT 11|9|COORD 12|11|OBJ 13|1|PUNCT
+*PAR:	she said &ah &ah what is a bəɚ [* phon] say yay yay [/] yay [/] .
+%mor:	pro:sub|she v|say&PAST pro:int|what cop|be&3S det:art|a ?|bəɚ v|say
+	co|yay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|7|SUBJ 7|4|PRED 8|7|OBJ
+	9|2|PUNCT
+*PAR:	and &oh &uh the gəɪto [* phon] the the [/] two tɚtə [* phon] .
+%mor:	coord|and det:art|the ?|gəɪto det:art|the det:num|two ?|tɚtə .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|6|QUANT 6|3|CMOD 7|1|PUNCT
+*PAR:	&oh she [* s] is <they are> [//] two xxx .
+%mor:	pro:sub|she aux|be&3S det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	well &uh Cinderella go and looks at her beautifur [* phon] little &b
+	blue balloon [* s] .
+%mor:	co|well n:prop|Cinderella v|go coord|and v|look-3S prep|at
+	det:poss|her ?|beautifur adj|little n|blue n|balloon .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|11|MOD 8|11|MOD
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|3|PUNCT
+*PAR:	and it's all xxx [* phon] .
+%mor:	coord|and pro:per|it~cop|be&3S pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and <she is> [//] she so ɪksætɚ [* phon] because she kænso
+	[* phon] she can too .
+%mor:	coord|and pro:sub|she adv|so ?|ɪksætɚ conj|because pro:sub|she
+	?|kænso pro:sub|she mod|can post|too .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|10|SUBJ
+	9|10|AUX 10|7|PQ 11|4|PUNCT
+*PAR:	and &um so she's all excited .
+%mor:	coord|and conj|so pro:sub|she~aux|be&3S post|all v|excite-PAST .
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAR:	well when she comes ɛtɚ [* phon] &oh her two bɛɚɛtɚsɛsə [* phon] .
+%mor:	co|well conj|when pro:sub|she v|come-3S ?|ɛtɚ det:poss|her
+	det:num|two ?|bɛɚɛtɚsɛsə .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|MOD 7|8|QUANT 8|5|ENUM
+	9|4|PUNCT
+*PAR:	&uh &um we [//] her xxx [* phon] tear ʌrət [* phon] xxx
+	[* phon] .
+%mor:	det:poss|her n|tear ?|ʌrət .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	their xxx [* phon] .
+%mor:	det:poss|their .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and they they [/] have beautiful .
+%mor:	coord|and pro:sub|they v|have adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	the pɛpubɛtɚ [* phon] .
+%mor:	det:art|the ?|pɛpubɛtɚ .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and she [* s] [//] they feel their xxx [* phon] .
+%mor:	coord|and pro:sub|they v|feel det:poss|their .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and so &p poor Cinderella nothing nothing [/] .
+%mor:	coord|and adv|so adj|poor n:prop|Cinderella pro:indef|nothing .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*PAR:	so they xxx [* phon] and she she [/] just go xxx [* phon] xxx
+	[* phon] .
+%mor:	co|so pro:sub|they coord|and pro:sub|she adv|just v|go .
+%gra:	1|6|COM 2|6|SUBJ 3|6|LINK 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAR:	she just opɚ [* phon] .
+%mor:	pro:sub|she adv|just ?|opɚ .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and low and behold the beautiful xxx [* phon] little xxx [* phon] .
+%mor:	coord|and n|low coord|and v|behold det:art|the adj|beautiful
+	adj|little .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|7|DET 6|7|MOD 7|4|JCT
+	8|1|PUNCT
+*PAR:	and she comes over and says I am going to help you .
+%mor:	coord|and pro:sub|she v|come-3S adv|over coord|and v|say-3S
+	pro:sub|I aux|be&1S part|go-PRESP inf|to v|help pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|11|INF 11|9|XCOMP 12|11|OBJ 13|3|PUNCT
+*PAR:	I'm going to help you and &uh teach you love you xxx [* phon] .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|help pro:per|you
+	coord|and v|teach pro:per|you v|love pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|10|SUBJ 10|8|COMP 11|10|OBJ 12|3|PUNCT
+*PAR:	and she says what really .
+%mor:	coord|and pro:sub|she v|say-3S pro:int|what adv|real&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+*PAR:	and so &uh so [/] she accepts im [* phon] .
+%mor:	coord|and co|so pro:sub|she v|accept-3S ?|im .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	well ɪntɚju [* phon] her &uh bʌrəownde [* phon] is like a beautiful
+	dɛɚʌrɛlə [* phon] .
+%mor:	n|well ?|ɪntɚju det:poss|her ?|bʌrəownde cop|be&3S co|like
+	det:art|a adj|beautiful ?|dɛɚʌrɛlə .
+%gra:	1|2|SUBJ 2|5|LINK 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|COM 7|9|DET 8|9|MOD
+	9|5|PRED 10|5|PUNCT
+*PAR:	and that's the carriage .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and then she makes &uh the xxx [* phon] fəɚtɛ [* phon] xxx
+	[* phon] hətɛes [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|she v|make-3S det:art|the ?|fəɚtɛ
+	?|hətɛes .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD
+	8|4|PUNCT
+*PAR:	and then she has &uh the four dʌlɑɪdəl [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|she v|have&3S det:art|the
+	det:num|four ?|dʌlɑɪdəl .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD
+	8|4|PUNCT
+*PAR:	so they have xxx [* phon] .
+%mor:	co|so pro:sub|they v|have .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and &um let's see &uh and &uh that xxx [* phon] .
+%mor:	coord|and v|let~pro:obj|us v|see coord|and pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	&st very &t she she [/] &uh well she tells her let's xxx [* phon]
+	xxx [* phon] .
+%mor:	adv|very pro:sub|she adv|well pro:sub|she v|tell-3S pro:obj|her
+	v|let~pro:obj|us .
+%gra:	1|2|JCT 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*PAR:	and she says but I don't have ihn [* phon] .
+%mor:	coord|and pro:sub|she v|say-3S conj|but pro:sub|I mod|do~neg|not
+	v|have ?|ihn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|CJCT
+	9|8|OBJ 10|3|PUNCT
+*PAR:	and she says &noises .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and then .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	so &uh she says &uh &uh ɪndɚɛlə [* phon] .
+%mor:	co|so pro:sub|she v|say-3S ?|ɪndɚɛlə .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &uh she is so xxx [* phon] .
+%mor:	coord|and pro:sub|she aux|be&3S adv|so .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and she &eh &eh &eh thanks &oh xxx [* phon] godmother .
+%mor:	coord|and pro:sub|she v|thank-3S n|+n|god+n|mother .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &um meanwhile <there is some> [//] they up at their xxx
+	[* phon] .
+%mor:	coord|and adv|meanwhile pro:sub|they adv|up prep|at det:poss|their
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	but &um any they [//] the &uh sɪntɚs [* phon] is getting into the
+	back .
+%mor:	conj|but qn|any det:art|the ?|sɪntɚs aux|be&3S part|get-PRESP
+	prep|into det:art|the n|back .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and but the &guh grand [* s] [//] &um god bɛθɚ [* phon] says xxx
+	[* phon] you come back xxx [* phon] to .
+%mor:	coord|and conj|but det:art|the n|god ?|bɛθɚ v|say-3S pro:per|you
+	v|come adv|back prep|to .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|CJCT
+	9|8|JCT 10|8|JCT 11|6|PUNCT
+*PAR:	because you [* s] don't kiss her .
+%mor:	conj|because pro:per|you mod|do~neg|not v|kiss pro:obj|her .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &oh Cinderella kissed her and gets in the car and xxx [* phon] .
+%mor:	coord|and n:prop|Cinderella v|kiss-PAST pro:obj|her coord|and
+	v|get-3S prep|in det:art|the n|car coord|and .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|CONJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|COORD 11|3|PUNCT
+*PAR:	and when xxx [* phon] she says <she says> [/] the the [/] princess
+	she &uh .
+%mor:	coord|and conj|when pro:sub|she v|say-3S det:art|the n|princess
+	pro:sub|she .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD
+	8|4|PUNCT
+*PAR:	she [/] just &oh she is so mɛdəmɚ [* phon] .
+%mor:	adv|just pro:sub|she aux|be&3S adv|so ?|mɛdəmɚ .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	xxx [* phon] the xxx [* phon] and Cinderella and they're really xxx
+	[* phon] .
+%mor:	det:art|the coord|and n:prop|Cinderella coord|and
+	pro:sub|they~aux|be&PRES adv|real&dadj-LY .
+%gra:	1|2|DET 2|0|INCROOT 3|2|COORD 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT
+	8|2|PUNCT
+*PAR:	and the bost [* phon] xxx [* phon] one two the xxx [* phon] and the
+	stepmother .
+%mor:	coord|and det:art|the ?|bost det:num|one det:num|two det:art|the
+	coord|and det:art|the step#n|mother .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|QUANT 5|3|CMOD 6|7|DET 7|5|CONJ
+	8|9|DET 9|7|COORD 10|1|PUNCT
+*PAR:	and they're &uh just xxx [* phon] .
+%mor:	coord|and pro:sub|they~aux|be&PRES adv|just .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and so .
+%mor:	coord|and adv|so .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	but they were sɪnsɚɛlə [* phon] and prince .
+%mor:	conj|but pro:sub|they aux|be&PAST ?|sɪnsɚɛlə coord|and n|prince .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*PAR:	and they dance .
+%mor:	coord|and pro:sub|they v|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and having a wonderful time .
+%mor:	coord|and part|have-PRESP det:art|a adj|wonder-FULL n|time .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|DET 4|5|MOD 5|2|OBJ 6|1|PUNCT
+*PAR:	and then &uh xxx [* phon] &oh xxx [* phon] .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and they they [/] xxx [* phon] .
+%mor:	coord|and pro:sub|they .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and they xxx [* phon] &oh &uh I've got to go .
+%mor:	coord|and pro:sub|they pro:sub|I~aux|have part|get&PASTP inf|to
+	v|go .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|INF 7|5|XCOMP
+	8|1|PUNCT
+*PAR:	and so &sh .
+%mor:	coord|and adv|so .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and they &oh I forgot to mention that the king kingdɚ [* phon] .
+%mor:	coord|and pro:sub|they pro:sub|I v|forget&PAST prep|to n|mention
+	pro:rel|that det:art|the n|king ?|kingdɚ .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CMOD 11|4|PUNCT
+*PAR:	he was xxx [* phon] xxx [* phon] .
+%mor:	pro:sub|he cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	she was a xxx [* phon] .
+%mor:	pro:sub|she cop|be&PAST&13S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and and [/] &uh his &uh other xxx [* phon] .
+%mor:	coord|and det:poss|his qn|other .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and he comes xxx [* phon] for that .
+%mor:	coord|and pro:sub|he v|come-3S prep|for pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	but anyway she ran down there and run downs .
+%mor:	conj|but co|anyway pro:sub|she v|run&PAST adv|down adv|there
+	coord|and v|run n|down-PL .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|4|PUNCT
+*PAR:	and drop her xxx [* phon] .
+%mor:	coord|and v|drop pro:obj|her .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and she got in her xxx [* phon] .
+%mor:	coord|and pro:sub|she v|get&PAST adv|in det:poss|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|INCROOT 6|5|PUNCT
+*PAR:	and got xxx [* phon] .
+%mor:	coord|and v|get&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and she xxx [* phon] xxx [* phon] .
+%mor:	coord|and pro:sub|she .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	the xxx [* phon] and xxx [* phon] and xxx [* phon] and so .
+%mor:	det:art|the coord|and coord|and coord|and adv|so .
+%gra:	1|2|DET 2|0|INCROOT 3|2|COORD 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	and &uh so &uh then the next dɚ [* phon] &uh the king is said
+	alright were going to &uh find her .
+%mor:	coord|and adv|so adv:tem|then det:art|the adj|next ?|dɚ det:art|the
+	n|king aux|be&3S part|say&PASTP co|alright aux|be&PAST part|go-PRESP
+	inf|to v|find pro:obj|her .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|5|DET 5|6|MOD 6|0|ROOT 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|13|COM 12|13|AUX 13|10|COMP 14|15|INF 15|13|XCOMP
+	16|15|OBJ 17|6|PUNCT
+*PAR:	and &uh the wɛs [* phon] &uh they were going my my [/] xxx
+	[* phon] sort of xxx [* phon] .
+%mor:	coord|and det:art|the ?|wɛs pro:sub|they aux|be&PAST
+	n:gerund|go-PRESP det:poss|my n|sort prep|of .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|MOD 8|6|OBJ
+	9|8|NJCT 10|1|PUNCT
+*PAR:	and he would go for to every <to every> [/] <to every> [/] .
+%mor:	coord|and pro:sub|he mod|will&COND v|go prep|for prep|to qn|every .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|POBJ 8|4|PUNCT
+*PAR:	and she said xxx [* phon] to xxx [* phon] .
+%mor:	coord|and pro:sub|she v|say&PAST prep|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and so by the time she xxx [* phon] she comes to to [/] &um &uh xxx
+	[* phon] xxx [* phon] .
+%mor:	coord|and adv|so prep|by det:art|the n|time pro:sub|she pro:sub|she
+	v|come-3S prep|to .
+%gra:	1|8|LINK 2|3|JCT 3|8|JCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*PAR:	well bɪsowɛso [* phon] and and [/] &uh &uh she xxx [* phon] .
+%mor:	adv|well ?|bɪsowɛso coord|and pro:sub|she .
+%gra:	1|2|JCT 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&ah &ah answered xxx [* phon] do xxx [* phon] .
+%mor:	part|answer-PASTP v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and then &uh but she come xxx [* phon] .
+%mor:	coord|and adv:tem|then conj|but pro:sub|she v|come .
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and she xxx [* phon] and gets xxx [* phon] with her xxx [* phon]
+	with her xxx [* phon] .
+%mor:	coord|and pro:sub|she coord|and v|get-3S prep|with pro:obj|her
+	prep|with pro:obj|her .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|5|POBJ 7|4|JCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	and xxx [* phon] &uh &uh &uh little person .
+%mor:	coord|and adj|little n|person .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and she fells over but the purse [* s] is okay .
+%mor:	coord|and pro:sub|she ?|fells adv|over conj|but det:art|the n|purse
+	cop|be&3S adj|okay .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ
+	8|3|CJCT 9|8|PRED 10|1|PUNCT
+*PAR:	so but the two xxx [* phon] .
+%mor:	adv|so conj|but det:art|the det:num|two .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	she tries one .
+%mor:	pro:sub|she v|try-3S pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&oh it's ow .
+%mor:	pro:per|it~aux|be&3S co|ow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	it's too small .
+%mor:	pro:per|it~cop|be&3S adv|too adj|small .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	and the other one is xxx [* phon] too big .
+%mor:	coord|and det:art|the qn|other pro:indef|one cop|be&3S adv|too
+	adj|big .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*PAR:	xxx [* phon] you know you xxx [* phon] .
+%mor:	pro:per|you v|know pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and so .
+%mor:	coord|and adv|so .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and meanwhile prɪɛlə [* phon] is little .
+%mor:	coord|and adv|meanwhile ?|prɪɛlə cop|be&3S adj|little .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	they xxx [* phon] with a little xxx [* phon] xxx [* phon] and open
+	her [* s] and they get her xxx [* phon] .
+%mor:	pro:sub|they prep|with det:art|a adj|little coord|and v|open
+	pro:obj|her coord|and pro:sub|they v|get pro:obj|her .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|CONJ 6|5|COORD 7|6|OBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|10|OBJ 12|1|PUNCT
+*PAR:	and go in xxx [* phon] and sɪɚdsə [* phon] sit down xxx [* phon] .
+%mor:	coord|and v|go prep|in coord|and ?|sɪɚdsə v|sit adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|2|PUNCT
+*PAR:	and it fits .
+%mor:	coord|and pro:per|it v|fit-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and every xxx [* phon] xxx [* phon] .
+%mor:	coord|and qn|every .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and they they [/] xxx [* phon] .
+%mor:	coord|and pro:sub|they .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	the gændo [* phon] is xxx [* phon] .
+%mor:	det:art|the ?|gændo cop|be&3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	the two xxx [* phon] xxx [* phon] .
+%mor:	det:art|the det:num|two .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and I imagine it's happy xxx [* phon] happy happy [/] good .
+%mor:	coord|and pro:sub|I v|imagine pro:per|it~cop|be&3S adj|happy
+	adj|happy adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|MOD 7|8|MOD 8|5|PRED
+	9|3|PUNCT
+*PAR:	and they get xxx [* phon] .
+%mor:	coord|and pro:sub|they v|get .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	it's xxx [* phon] gets xxx [* phon] .
+%mor:	pro:per|it~aux|be&3S v|get-3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and she xxx [* phon] and says xxx [* phon] .
+%mor:	coord|and pro:sub|she coord|and v|say-3S .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and they love her and love in <and love in> [/] the the [/] .
+%mor:	coord|and pro:sub|they v|love pro:obj|her coord|and n|love prep|in
+	det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and very good .
+%mor:	coord|and adv|very adj|good .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+@End

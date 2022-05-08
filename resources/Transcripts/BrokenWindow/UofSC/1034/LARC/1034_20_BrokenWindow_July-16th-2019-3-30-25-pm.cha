@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	1034_20_BrokenWindow_July-16th-2019-3-30-25-pm video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a zhanbau [* phon] kicks a ball .
+%mor:	det:art|a ?|zhanbau v|kick-3S det:art|a n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it went to class [: glass] [* phon] window .
+%mor:	coord|and pro:per|it v|go&PAST prep|to n|glass n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	outside person inside [/] inside find a ball in lap .
+%mor:	prep|outside n|person n|inside v|find det:art|a n|ball prep|in
+	n|lap .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	he went and loo [: look] [* phon] through window and he said where
+	is ball from .
+%mor:	pro:sub|he v|go&PAST coord|and v|look prep|through n|window
+	coord|and pro:sub|he v|say&PAST pro:int|where cop|be&3S n|ball
+	prep|from .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|SUBJ 11|9|COMP 12|13|MOD 13|11|PRED 14|2|PUNCT
+*PAR:	so that's he [: the] [* phon] end .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@End

@@ -1,0 +1,66 @@
+@UTF8
+@Window:	45_366_755_916_378_1_683_1_683_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:08
+@Media:	POLAR1110_BW-6_3_1_21, video
+*PAR:	well this is with a young boy .
+%mor:	co|well pro:dem|this cop|be&3S prep|with det:art|a adj|young n|boy
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	&uh <they're having> [//] &um the [/] the young boy is having fun
+	with the ball .
+%mor:	det:art|the adj|young n|boy aux|be&3S part|have-PRESP n|fun
+	prep|with det:art|the n|ball .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and he hit the ball very high .
+%mor:	coord|and pro:sub|he v|hit&ZERO det:art|the n|ball adv|very
+	adj|high .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+*PAR:	but they [//] <he came> [//] the [/] the young boy hit <with the>
+	[/] &uh <with the> [//] with something [* s] to [/] to [/] to hit it
+	.
+%mor:	conj|but det:art|the adj|young n|boy n|hit prep|with
+	pro:indef|something inf|to v|hit&ZERO pro:per|it .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|6|POBJ 8|9|INF
+	9|7|XMOD 10|9|OBJ 11|5|PUNCT
+*PAR:	and it broke .
+%mor:	coord|and pro:per|it adj|broke .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	and all of a sudden here's the [/] the father .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden
+	pro:exist|here~cop|be&3S det:art|the n|father .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|7|PUNCT
+*PAR:	well we don't know if it's the father or if it another man hit right
+	there .
+%mor:	adv|well pro:sub|we mod|do~neg|not v|know comp|if
+	pro:per|it~cop|be&3S det:art|the n|father coord|or conj|if
+	pro:per|it qn|another n|man n|hit adv|right adv|there .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|PRED 11|10|CONJ 12|11|COORD 13|12|POBJ 14|16|QUANT 15|16|MOD
+	16|13|OBJ 17|18|JCT 18|16|NJCT 19|5|PUNCT
+*PAR:	and he's like saying oh that's not a very good time [* u] to [/] to
+	[/] to go in there [* s] .
+%mor:	coord|and pro:sub|he~cop|be&3S prep|like n:gerund|say-PRESP co|oh
+	pro:dem|that~cop|be&3S neg|not det:art|a adv|very adj|good n|time
+	inf|to v|go prep|in n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|COM 7|8|SUBJ 8|5|COMP
+	9|8|NEG 10|13|DET 11|12|JCT 12|13|MOD 13|8|PRED 14|15|INF 15|13|XMOD
+	16|15|JCT 17|16|POBJ 18|3|PUNCT
+*PAR:	and so the [/] the man says <I'm gonna put> [//] I'm gonna throw
+	<your wall [* phon]> [//] your ball out [//] outside again .
+%mor:	coord|and co|so det:art|the n|man v|say-3S pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|throw det:poss|your n|ball adv|outside
+	adv|again .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|13|JCT 15|5|PUNCT
+*PAR:	and you're gonna have to fix what broke .
+%mor:	coord|and pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|have
+	inf|to v|fix pro:int|what adj|broke .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|INF 8|6|COMP
+	9|8|OBJ 10|9|POSTMOD 11|4|PUNCT
+@End

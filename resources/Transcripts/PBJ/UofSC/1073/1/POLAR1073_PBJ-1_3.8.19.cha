@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1073_1_PBJ_March-8th-2019-1-10-50-pm, video
+*PAR:	I make my peanutbutters [* phon] and jelly sandwich . 10129_16637
+%mor:	pro:sub|I v|make det:poss|my n|+n|peanut+n|butter-PL coord|and
+	n|jelly n|sandwich .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|MOD 7|5|COORD 8|2|PUNCT
+*PAR:	I put peanut+butter on one side jelly on the other side . 16637_21353
+%mor:	pro:sub|I v|put&ZERO n|+n|peanut+n|butter prep|on det:num|one
+	n|side n|jelly prep|on det:art|the qn|other n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|QUANT 6|7|MOD 7|4|POBJ 8|2|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|2|PUNCT
+*PAR:	and put the two &um bread slices together . 21353_25027
+%mor:	coord|and v|put&ZERO det:art|the det:num|two n|bread n|slice-PL
+	adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|6|DET 4|5|QUANT 5|6|MOD 6|2|OBJ 7|2|JCT 8|2|PUNCT
+*PAR:	that's how make I make mine &=laughs . 25027_27309
+%mor:	pro:rel|that~cop|be&3S pro:rel|how v|make pro:sub|I v|make
+	pro:poss|mine .
+%gra:	1|2|LINK 2|0|ROOT 3|4|LINK 4|2|CMOD 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|2|PUNCT
+@End

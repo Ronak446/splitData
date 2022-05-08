@@ -1,0 +1,16 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_142_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1102_4_PBJ_May-20-2020-zoom_2, video
+*PAR:	&wu one two peanut+butter jelly sandwich .
+%mor:	det:num|one det:num|two n|+n|peanut+n|butter n|jelly n|sandwich .
+%gra:	1|5|QUANT 2|3|QUANT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	&um bread &wa &um stick [* u] it in . 
+%mor:	n|bread n|stick pro:per|it adv|in .
+%gra:	1|2|MOD 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*PAR:	&=bites &=laughs &uh .
+@End

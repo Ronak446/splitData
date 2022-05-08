@@ -1,0 +1,16 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_0_135_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	POLAR1112_PBJ-1_1.6.20, video
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um pedut+butter [: peanut+butter] [* phon] jelly &um sprandwich
+	[: sandwich] [* phon] . 
+%mor:	n|+n|peanut+n|butter n|jelly n|sandwich .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:28
+@Media:	1039_PBJ6 video
+*PAR:	bed [* s] &uh &uh ved [* phon] &um &m peanut+butter and jelly .
+%mor:	n|bed ?|ved n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	&uh fatnum [* phon] bed [* phon] aight [* phon] [/] aight [* phon]
+	beddy [* phon] &uh no &uh &um &m .
+%mor:	?|fatnum n|bed ?|aight adj|bed&dn-Y co|no .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*PAR:	peanut+butter and jelly .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	butter [* s] [/] butter [* s] [//] no &uh butter [* s] &uh .
+%mor:	qn|no n|butter .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	rah [* phon] &uh sham [* phon] &uh &eh &uh no shelly [* phon] .
+%mor:	co|rah n|sham qn|no ?|shelly .
+%gra:	1|2|COM 2|0|INCROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	and peanut+butter and jery [* phon] .
+%mor:	coord|and n|+n|peanut+n|butter coord|and ?|jery .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

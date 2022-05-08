@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1086_3_PBJ_October-14th-2019-10-26-49-am video
+*PAR:	peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	two slices of bread .
+%mor:	det:num|two n|slice-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	take one side .
+%mor:	v|take det:num|one n|side .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	touch it so [//] ever so lightly with peter+butter [: peanut+butter]
+	[* phon] .
+%mor:	v|touch pro:per|it adv|ever conj|so adv|light&dadj-LY prep|with
+	n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|INCROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	topping the peanut+butter you would put jam .
+%mor:	n|topping det:art|the n|+n|peanut+n|butter pro:per|you
+	mod|will&COND v|put&ZERO n|jam .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|OBJ 8|1|PUNCT
+*PAR:	and topping that would be <another slice of bread> [//] the number
+	two slice of bread .
+%mor:	coord|and n|topping pro:rel|that mod|will&COND cop|be det:art|the
+	n|number det:num|two n|slice prep|of n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|AUX 5|2|CMOD 6|7|DET 7|5|PRED
+	8|9|QUANT 9|7|OBJ 10|9|NJCT 11|10|POBJ 12|1|PUNCT
+*PAR:	and thus you complete the peanut+butter and jelly sandwich .
+%mor:	coord|and adv|thus pro:per|you v|complete det:art|the
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|4|PUNCT
+@End

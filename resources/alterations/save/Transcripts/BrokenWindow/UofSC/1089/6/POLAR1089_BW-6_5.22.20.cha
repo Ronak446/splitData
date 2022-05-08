@@ -1,0 +1,73 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_6_BrokenWindow_5.22.2020_zoom video
+@Time Duration:	00:01:34
+*PAR:	so on the first one is a boy .
+%mor:	adv|so prep|on det:art|the adj|first pro:indef|one cop|be&3S
+	det:art|a n|boy .
+%gra:	1|2|JCT 2|6|LINK 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*PAR:	and he &uh soccer ball with her [: his] [* s] leg .
+%mor:	coord|and pro:sub|he n|soccer n|ball prep|with det:poss|his n|leg .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*PAR:	and threw it .
+%mor:	coord|and v|throw&PAST pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	so that's fine .
+%mor:	co|so pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	then on the second one the soccer threw [: hit] [* s] a window .
+%mor:	adv:tem|then adv|on det:art|the adj|second det:num|one det:art|the
+	n|soccer v|hit&ZERO det:art|a n|window .
+%gra:	1|5|JCT 2|5|JCT 3|5|DET 4|5|MOD 5|7|QUANT 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*PAR:	so that's [/] that's not good .
+%mor:	co|so pro:dem|that~cop|be&3S neg|not adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	then on third the soccer into the window and he left his dad on the
+	bed [//] no <on his> [/] on his not bed &um on &uh a lap on lap .
+%mor:	adv:tem|then adv|on adj|third det:art|the n|soccer prep|into
+	det:art|the n|window coord|and pro:sub|he v|leave&PAST det:poss|his
+	n|dad prep|on det:art|the qn|no prep|on det:poss|his neg|not n|bed
+	prep|on det:art|a n|lap prep|on n|lap .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|11|JCT 18|20|DET 19|18|NEG 20|17|POBJ 21|11|JCT 22|23|DET
+	23|21|POBJ 24|11|JCT 25|24|POBJ 26|3|PUNCT
+*PAR:	and [/] &ih and [/] &sh and [/] and &um he's XXX [* phon] sprised
+	[: surprised] [* phon] to [//] because the soccer [* s] in the lap .
+%mor:	coord|and pro:sub|he~aux|be&3S n:prop|XXX part|surprise-PASTP
+	conj|because det:art|the n|soccer prep|in det:art|the n|lap .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and then the third [: fourth] [* s] one is the dad looked out in the
+	window .
+%mor:	coord|and adv:tem|then det:art|the adj|fourth pro:indef|one
+	aux|be&3S det:art|the n|dad part|look-PASTP prep|out prep|in
+	det:art|the n|window .
+%gra:	1|9|LINK 2|9|JCT 3|5|DET 4|5|MOD 5|9|SUBJ 6|9|AUX 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|13|DET 13|11|POBJ 14|9|PUNCT
+*PAR:	and <I can see> [//] you can't see him but probably there .
+%mor:	coord|and pro:per|you mod|can~neg|not v|see pro:obj|him conj|but
+	adv|probable&dadj-LY adv|there .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|8|JCT 10|5|PUNCT
+*PAR:	his dad was there .
+%mor:	det:poss|his n|dad cop|be&PAST&13S adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and [/] &um and &uh socal [: soccer] [* phon] yeah .
+%mor:	coord|and n|soccer co|yeah .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	<and the> [/] <and the> [/] and the soccer [* s] <on her [: his]
+	[* s]> [//] is on her [: his] [* s] lap .
+%mor:	coord|and det:art|the n|soccer cop|be&3S prep|on det:poss|his n|lap
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	&um so .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

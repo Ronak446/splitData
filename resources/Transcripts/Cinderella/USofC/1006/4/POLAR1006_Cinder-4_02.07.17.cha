@@ -1,0 +1,256 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:35
+@Media:	1006_4_Cinderella_Y2017_M02_D07_H12_M08_S20 video
+*PAR:	it's &uh it's [/] &uh .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	story here and here <and here> [/] .
+%mor:	n|story adv|here coord|and adv|here .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and then here and here .
+%mor:	coord|and adv:tem|then adv|here coord|and adv|here .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and it's okay thanks !
+%mor:	coord|and pro:per|it~cop|be&3S adj|okay co|thanks !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|COM 6|3|PUNCT
+*PAR:	oh my god xxx [* phon] .
+%mor:	co|oh det:poss|my n|god .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and then it's later on you say come here then and come here then .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S adv|later prep|on
+	pro:per|you v|say v|come adv|here adv:tem|then coord|and v|come
+	adv|here adv:tem|then .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|8|OBJ 10|11|JCT 11|4|JCT 12|11|CONJ 13|12|COORD 14|15|JCT 15|13|JCT
+	16|4|PUNCT
+*PAR:	and there there [/] there [/] .
+%mor:	coord|and adv|there .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and then the it's &uh &uh .
+%mor:	coord|and adv:tem|then det:art|the pro:per|it~aux|be&3S .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	this is &uh .
+%mor:	pro:dem|this cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	the ball is .
+%mor:	det:art|the n|ball cop|be&3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	what is this &uh .
+%mor:	pro:int|what cop|be&3S pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] and this right there .
+%mor:	coord|and pro:dem|this adv|right adv|there .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|JCT 4|2|JCT 5|1|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	that's alright <that's alright> [/] .
+%mor:	pro:dem|that~cop|be&3S adj|alright .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and the ball is .
+%mor:	coord|and det:art|the n|ball cop|be&3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	oh my gosh what is this .
+%mor:	co|oh det:poss|my co|gosh pro:int|what cop|be&3S pro:dem|this .
+%gra:	1|5|COM 2|3|MOD 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	is good right .
+%mor:	cop|be&3S adj|good n|right .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+*PAR:	this right there and one two .
+%mor:	pro:dem|this adv|right adv|there coord|and det:num|one det:num|two
+	.
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|CONJ 5|6|QUANT 6|4|COORD 7|1|PUNCT
+*PAR:	and that's oh my gosh xxx [* phon] .
+%mor:	coord|and pro:dem|that~cop|be&3S co|oh det:poss|my co|gosh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	and then it's &uh .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and then she says &uh .
+%mor:	coord|and adv:tem|then pro:sub|she v|say-3S .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	dress and things like that .
+%mor:	n|dress coord|and n|thing-PL prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	yes oh my gosh that's good yes .
+%mor:	co|yes co|oh det:poss|my co|gosh pro:dem|that~cop|be&3S adj|good
+	co|yes .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|6|COM 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|COM
+	9|6|PUNCT
+*PAR:	and it's &uh xxx [* phon] .
+%mor:	coord|and pro:per|it~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	away .
+%mor:	adv|away .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and and [/] &uh and [/] &uh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what in the world is this ?
+%mor:	pro:int|what prep|in det:art|the n|world cop|be&3S pro:dem|this ?
+%gra:	1|5|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	says forget that .
+%mor:	v|say-3S v|forget pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and she says alright bye .
+%mor:	coord|and pro:sub|she v|say-3S adj|alright co|bye .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|COMP 6|3|PUNCT
+*PAR:	and she says &uh ball .
+%mor:	coord|and pro:sub|she v|say-3S n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and she says &uh this is not good .
+%mor:	coord|and pro:sub|she v|say-3S pro:dem|this cop|be&3S neg|not
+	adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|NEG 7|5|PRED 8|3|PUNCT
+*PAR:	and she says &uh xxx [* phon] .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	oh wait a second .
+%mor:	co|oh v|wait det:art|a n|second .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the fairy .
+%mor:	det:art|the n|fairy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	you're doing it fine .
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP pro:per|it adv|fine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and says &uh .
+%mor:	coord|and v|say-3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	but watch out .
+%mor:	conj|but v|watch adv|out .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and she says &uh that's alright .
+%mor:	coord|and pro:sub|she v|say-3S pro:dem|that~cop|be&3S adj|alright .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*PAR:	and the ball is .
+%mor:	coord|and det:art|the n|ball cop|be&3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and it's &uh no .
+%mor:	coord|and pro:per|it~cop|be&3S co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	what did I say there .
+%mor:	pro:int|what mod|do&PAST pro:sub|I v|say adv|there .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	maybe yes maybe no .
+%mor:	adv|maybe co|yes adv|maybe co|no .
+%gra:	1|2|JCT 2|4|COM 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*PAR:	but it's it's [/] no .
+%mor:	conj|but pro:per|it~aux|be&3S co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and no .
+%mor:	coord|and co|no .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and she says &uh .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	ball is be back .
+%mor:	n|ball aux|be&3S cop|be adv|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	but &uh okay .
+%mor:	conj|but co|okay .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and then ball .
+%mor:	coord|and adv:tem|then v|ball .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and and [/] she says oh my goodness what is this <what is this> [/] .
+%mor:	coord|and pro:sub|she v|say-3S co|oh det:poss|my co|goodness
+	pro:int|what cop|be&3S pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|COM 5|6|MOD 6|8|COM 7|8|SUBJ 8|3|COMP
+	9|8|PRED 10|3|PUNCT
+*PAR:	what in <what in> [/] the world is this .
+%mor:	pro:int|what prep|in det:art|the n|world cop|be&3S pro:dem|this .
+%gra:	1|5|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and the ball is .
+%mor:	coord|and det:art|the n|ball cop|be&3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	hold on a second .
+%mor:	n|hold prep|on det:art|a n|second .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	oh my goodness that's her .
+%mor:	co|oh det:poss|my co|goodness pro:dem|that~cop|be&3S pro:obj|her .
+%gra:	1|3|COM 2|3|MOD 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	right that's good .
+%mor:	co|right pro:dem|that~cop|be&3S adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and she said what what [/] what [/] what [/] what [/] .
+%mor:	coord|and pro:sub|she v|say&PAST pro:int|what .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	she said my xxx [* phon] .
+%mor:	pro:sub|she v|say&PAST det:poss|my .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	hold off .
+%mor:	n|hold adv|off .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and she says &uh no !
+%mor:	coord|and pro:sub|she v|say-3S co|no !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+*PAR:	and she says &uh <she says> [/] &uh .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	this is not good .
+%mor:	pro:dem|this cop|be&3S neg|not adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	and it's &uh .
+%mor:	coord|and pro:per|it~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	ball is not good at all .
+%mor:	n|ball aux|be&3S neg|not adj|good prep|at pro:indef|all .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	I don't know what it is .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:per|it cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	it's it's [/] &uh it's [/] it's [/] not the same thing but it's &uh .
+%mor:	pro:per|it~cop|be&3S neg|not det:art|the adj|same n|thing conj|but
+	pro:per|it~aux|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|MOD 6|2|PUNCT 7|9|LINK 8|9|SUBJ
+	9|6|INCROOT 10|9|PUNCT
+*PAR:	the ball is not good so .
+%mor:	det:art|the n|ball aux|be&3S neg|not adj|good adv|so .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	put it there .
+%mor:	v|put&ZERO pro:per|it adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	and she says &uh <and she says> [/] .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	Cinderella it's &uh xxx [* phon] come here .
+%mor:	n:prop|Cinderella pro:per|it~aux|be&3S v|come adv|here .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and and [/] she says alright .
+%mor:	coord|and pro:sub|she v|say-3S adj|alright .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he says hey how are you ?
+%mor:	coord|and pro:sub|he v|say-3S co|hey adv:int|how aux|be&PRES
+	pro:per|you ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|COM 5|7|LINK 6|7|AUX 7|3|OBJ 8|3|PUNCT
+*PAR:	and then oh my god .
+%mor:	coord|and adv:tem|then co|oh det:poss|my n|god .
+%gra:	1|5|LINK 2|5|JCT 3|5|COM 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	that's xxx [* phon] .
+%mor:	pro:dem|that~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	that's not the same thing <that's not the same thing> [/] .
+%mor:	pro:dem|that~cop|be&3S neg|not det:art|the adj|same n|thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+@End

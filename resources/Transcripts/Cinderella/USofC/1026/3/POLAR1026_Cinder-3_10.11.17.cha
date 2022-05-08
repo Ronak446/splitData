@@ -1,0 +1,128 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:31
+@Media:	1026_Cinderella3 video
+*PAR:	&um Cinderella is in the house .
+%mor:	n:prop|Cinderella cop|be&3S prep|in det:art|the n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	her two stepsisters and de [* phon] mother .
+%mor:	det:poss|her det:num|two step#n|sister-PL coord|and ?|de n|mother .
+%gra:	1|3|MOD 2|3|QUANT 3|0|ROOT 4|3|CONJ 5|6|MOD 6|4|COORD 7|3|PUNCT
+*PAR:	&um her dad &um he died .
+%mor:	det:poss|her n|dad pro:sub|he v|die-PAST .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+*PAR:	and [/] and she &s sits down the mice .
+%mor:	coord|and pro:sub|she v|sit-3S prep|down det:art|the n|mouse&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and [/] and she sews her dress .
+%mor:	coord|and pro:sub|she v|sew-3S det:poss|her n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	she has it all made .
+%mor:	pro:sub|she aux|have&3S pro:per|it adv|all v|make&PAST .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	and the go down and they tear it off her necklace .
+%mor:	coord|and det:art|the v|go adv|down coord|and pro:sub|they v|tear
+	pro:per|it prep|off det:poss|her n|necklace .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|3|PUNCT
+*PAR:	and she just tears it up .
+%mor:	coord|and pro:sub|she adv|just v|tear-3S pro:per|it adv|up .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and her fairy godmother .
+%mor:	coord|and det:poss|her n|fairy n|+n|god+n|mother .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and she tells her how they're gonna spin around &um wand .
+%mor:	coord|and pro:sub|she v|tell-3S pro:obj|her pro:int|how
+	pro:sub|they~aux|be&PRES mod:aux|gonna v|spin prep|around n|wand .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|9|JCT 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|3|COMP 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	and &s she &um the horse and all of it becomes the carriage .
+%mor:	coord|and pro:sub|she det:art|the n|horse coord|and pro:indef|all
+	prep|of pro:per|it cop|become-3S det:art|the n|carriage .
+%gra:	1|9|LINK 2|9|SUBJ 3|4|DET 4|9|SUBJ 5|4|CONJ 6|5|COORD 7|6|NJCT 8|7|POBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|9|PUNCT
+*PAR:	&um pretty &cat cabin [* u] .
+%mor:	adv|pretty n|cabin .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um [/] &um then they go to the ball .
+%mor:	adv:tem|then pro:sub|they v|go prep|to det:art|the n|ball .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and she finds him .
+%mor:	coord|and pro:sub|she v|find-3S pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and she thinks he's beautiful .
+%mor:	coord|and pro:sub|she v|think-3S pro:sub|he~cop|be&3S adj|beautiful
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*PAR:	and she &um <dance and> [/] dance and dance .
+%mor:	coord|and pro:sub|she v|dance coord|and v|dance .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	and then strikes twelve .
+%mor:	coord|and adv:tem|then v|strike-3S det:num|twelve .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and <he [* s] has to> [//] she has to go .
+%mor:	coord|and pro:sub|she aux|have&3S inf|to v|go .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+*PAR:	and she hurries off .
+%mor:	coord|and pro:sub|she v|hurry-3S adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and they all disappear they friends I mean &um he's [* s] already
+	gone .
+%mor:	coord|and pro:sub|they post|all dis#v|appear pro:sub|they
+	n|friend-PL pro:sub|I v|mean pro:sub|he~cop|be&3S adv|already
+	part|go&PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|PQ 4|10|LINK 5|10|SUBJ 6|10|JCT 7|8|SUBJ 8|6|CMOD
+	9|10|SUBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|10|PUNCT
+*PAR:	&um and she mopes around .
+%mor:	coord|and pro:sub|she v|mope-3S adv|around .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and &um the two prince [* s] [//] or &nom something .
+%mor:	coord|and det:art|the det:num|two coord|or pro:indef|something .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and they said they go and find all the ladies in the .
+%mor:	coord|and pro:sub|they v|say&PAST pro:sub|they v|go coord|and
+	v|find qn|all det:art|the n|lady-PL prep|in det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|CONJ 7|6|COORD
+	8|10|QUANT 9|10|DET 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*PAR:	&inf &um and find the woman that fits the shoe .
+%mor:	coord|and v|find det:art|the n|woman pro:rel|that v|fit-3S
+	det:art|the n|shoe .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	and he finally their house .
+%mor:	coord|and pro:sub|he adv|final&dadj-LY det:poss|their n|house .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and the lady takes out a cane [* u] .
+%mor:	coord|and det:art|the n|lady v|take-3S prep|out det:art|a n|cane .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &um that &um man falls .
+%mor:	coord|and pro:dem|that n|man v|fall-3S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and they and Cinderella's turn to .
+%mor:	coord|and pro:sub|they coord|and adj|Cinderella&dn-POSS n|turn
+	prep|to .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|0|INCROOT 7|6|PUNCT
+*PAR:	oh they fall you know .
+%mor:	co|oh pro:sub|they v|fall pro:per|you v|know .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*PAR:	they found the &prih .
+%mor:	pro:sub|they v|find&PAST det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	&um okay that's &num .
+%mor:	co|okay pro:dem|that~cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	so he [* s] [//] the &prih [//] the &um Cinderella &um founds out
+	that she is now Cinderella .
+%mor:	co|so det:art|the det:art|the n:prop|Cinderella v|found-3S adv|out
+	comp|that pro:sub|she aux|be&3S adv|now n:prop|Cinderella .
+%gra:	1|5|COM 2|4|DET 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|COMP 10|11|JCT 11|9|PRED 12|5|PUNCT
+*PAR:	and the prince [/] and prince &um Cinderella &um happily ever after .
+%mor:	coord|and det:art|the coord|and n|prince n:prop|Cinderella
+	adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|8|LINK 2|5|DET 3|2|CONJ 4|3|COORD 5|8|SUBJ 6|7|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+@End

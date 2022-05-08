@@ -1,0 +1,82 @@
+@UTF8
+@Window:	126_538_649_654_-1_-1_996_0_996_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:56
+@Media:	POLAR1125_PBJ_12.2.20, video
+*PAR:	okay I would get a loaf of bread .
+%mor:	co|okay pro:sub|I mod|will&COND v|get det:art|a n|loaf prep|of
+	n|bread .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	take two slices of bread out of it . 
+%mor:	v|take det:num|two n|slice-PL prep|of n|bread adv|out prep|of
+	pro:per|it .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|JCT 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	&um then I would close it up . 
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|close pro:per|it adv|up .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	I would all [//] have gotten the peanut+butter and the jelly out of the refrigerator .
+%mor:	pro:sub|I mod|will&COND aux|have part|get&PASTP det:art|the
+	n|+n|peanut+n|butter coord|and det:art|the n|jelly adv|out prep|of
+	det:art|the n|refrigerator .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|4|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	peanut+butter out of the cabinet . 
+%mor:	n|+n|peanut+n|butter adv|out prep|of det:art|the n|cabinet .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	then I would spread my peanut+butter on one side . 
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|spread&ZERO det:poss|my
+	n|+n|peanut+n|butter prep|on det:num|one n|side .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|QUANT
+	9|7|POBJ 10|4|PUNCT
+*PAR:	it wouldn't have any lumps .
+%mor:	pro:per|it mod|will&COND~neg|not v|have qn|any n|lump-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	it would be nice and smooth .
+%mor:	pro:per|it mod|will&COND cop|be adj|nice coord|and adj|smooth .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	and then I would take the jelly . 
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|take det:art|the
+	n|jelly .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and spread it <on the opposite> [//] on the other bread cause I don't want to mix them .
+%mor:	coord|and v|spread&ZERO pro:per|it prep|on det:art|the qn|other
+	n|bread n|cause pro:sub|I mod|do~neg|not v|want inf|to v|mix
+	pro:obj|them .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|7|QUANT 7|8|MOD 8|4|POBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|2|CJCT 13|14|INF 14|12|COMP 15|14|OBJ
+	16|2|PUNCT
+*PAR:	and then I would make sure that didn't have any lumps and it was just smooth as could be .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|make adj|sure
+	comp|that mod|do&PAST~neg|not v|have qn|any n|lump-PL coord|and
+	pro:per|it cop|be&PAST&13S adv|just adj|smooth prep|as mod|could
+	cop|be .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|6|CMOD 11|12|QUANT 12|10|OBJ 13|15|LINK 14|15|SUBJ 15|10|CJCT
+	16|17|JCT 17|15|PRED 18|20|COORD 19|20|AUX 20|17|ENUM 21|5|PUNCT
+*PAR:	and if it was my peanut+butter sandwich I would put it in the oven to broil it for a little bit .
+%mor:	coord|and conj|if pro:per|it cop|be&PAST&13S det:poss|my
+	n|+n|peanut+n|butter n|sandwich pro:sub|I mod|will&COND v|put&ZERO
+	pro:per|it prep|in det:art|the n|oven inf|to v|broil pro:per|it
+	prep|for det:art|a adj|little n|bit .
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|6|DET 6|7|MOD 7|4|PRED
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ 15|16|INF
+	16|10|XJCT 17|16|OBJ 18|16|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|10|PUNCT
+*PAR:	and then I would put them together when it's nice and mushy and hot .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	pro:obj|them adv|together conj|when pro:per|it~cop|be&3S adj|nice
+	coord|and adj|mush&dn-Y coord|and adj|hot .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|PRED 12|11|CONJ 13|12|COORD 14|13|CONJ
+	15|14|COORD 16|5|PUNCT
+*PAR:	and then cut it in half and eat it . 
+%mor:	coord|and adv:tem|then v|cut&ZERO pro:per|it prep|in n|half
+	coord|and v|eat pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+@End

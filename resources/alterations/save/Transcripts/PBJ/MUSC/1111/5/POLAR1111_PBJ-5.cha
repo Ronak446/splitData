@@ -1,0 +1,50 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_128_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:14
+@Media:	1111_PBJ_5_2020, video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	how to make a [/] a pea+butter [: peanut+butter] [* phon] and jelly
+	sandwich .
+%mor:	pro:int|how inf|to v|make det:art|a n|+n|peanut+n|butter coord|and
+	n|jelly n|sandwich .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|8|DET 5|8|MOD 6|5|CONJ 7|6|COORD 8|3|OBJ
+	9|3|PUNCT
+*PAR:	so take [//] it takes &uh two slices of bread and pea+butter
+	[: peanut+butter] [* phon] and jelly to make a pea+butter
+	[: peanut+butter] [* phon] and jelly sandwich .
+%mor:	co|so pro:per|it v|take-3S det:num|two n|slice-PL prep|of n|bread
+	coord|and n|+n|peanut+n|butter coord|and n|jelly inf|to v|make
+	det:art|a n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|7|CONJ
+	9|8|COORD 10|9|CONJ 11|10|COORD 12|13|INF 13|3|COMP 14|18|DET 15|18|MOD
+	16|15|CONJ 17|16|COORD 18|13|OBJ 19|3|PUNCT
+*PAR:	&uh &uh sli [: slice] [* phon] up &uh one [/] one <loaf of bread>
+	[//] or slice of bread .
+%mor:	v|slice adv|up det:num|one coord|or n|slice prep|of n|bread .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	we will get &uh pea+butter [: peanut+butter] [* phon] spread on top .
+%mor:	pro:sub|we mod|will v|get n|+n|peanut+n|butter v|spread&ZERO
+	prep|on n|top .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	<and then> [/] and then half &uh &an other loaf of bread .
+%mor:	coord|and adv:tem|then n|half qn|other n|loaf prep|of n|bread .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	&uh we will get jelly spread on top .
+%mor:	pro:sub|we mod|will v|get n|jelly v|spread&ZERO prep|on n|top .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and then we will mash it up .
+%mor:	coord|and adv:tem|then pro:sub|we mod|will v|mash pro:per|it adv|up
+	.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*PAR:	&uh and &uh so it [/] &uh it &uh will be &uh sandwich .
+%mor:	coord|and co|so pro:per|it mod|will cop|be n|sandwich .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|5|PUNCT
+@End

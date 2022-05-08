@@ -1,0 +1,72 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:22
+@Media:	1008_2_BrokenWindow_Y2017_M01_D31_H11_M34_S33 video
+
+*PAR:	&bie begin this one this boy .
+%mor:	v|begin pro:dem|this pro:indef|one pro:dem|this n|boy .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	the get that &um boy get they coke [* phon] &coe coke [/] .
+%mor:	det:art|the v|get pro:dem|that n|boy v|get pro:sub|they n|coke .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|SUBJ 7|5|PRED 8|2|PUNCT
+*PAR:	and then somebody &s bring say .
+%mor:	coord|and adv:tem|then pro:indef|somebody v|bring v|say .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|1|PUNCT
+*PAR:	and lots too much beek [* phon] .
+%mor:	coord|and n|lot-PL adv|too qn|much ?|beek .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*PAR:	and he he [/] get the very very [/] &ti thing here .
+%mor:	coord|and pro:sub|he v|get det:art|the adv|very n|thing adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|JCT 6|3|OBJ 7|6|NJCT 8|3|PUNCT
+*PAR:	and close they &uh inan [* phon] .
+%mor:	coord|and adj|close pro:sub|they ?|inan .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|CMOD 5|1|PUNCT
+*PAR:	and then cleeks [* phon] .
+%mor:	coord|and adv:tem|then ?|cleeks .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and and [/] then he's so this is lise [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S adv|so pro:dem|this
+	cop|be&3S ?|lise .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|7|LINK 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+*PAR:	and baby [* u] .
+%mor:	coord|and n|baby .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and he go .
+%mor:	coord|and pro:sub|he v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	you know <he wasn't> [//] he hadn't &ta thing to do that .
+%mor:	pro:per|you v|know pro:sub|he aux|have&PAST~neg|not n|thing inf|to
+	v|do pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|2|PUNCT
+*PAR:	you see you know .
+%mor:	pro:per|you v|see pro:per|you v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*PAR:	he first &f coc [* phon] here .
+%mor:	pro:sub|he adv|first ?|coc adv|here .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and then he holded dry [* u] bag [* u] .
+%mor:	coord|and adv:tem|then pro:sub|he v|hold-PAST adj|dry n|bag .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	and he's so obe [* phon] yummy [* u] .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|so ?|obe adj|yum&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|PRED 7|3|PUNCT
+*PAR:	he get .
+%mor:	pro:sub|he v|get .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and this one .
+%mor:	coord|and pro:dem|this pro:indef|one .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and he got <he got> [/] .
+%mor:	coord|and pro:sub|he v|get&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and then he wants to see these thing happen .
+%mor:	coord|and adv:tem|then pro:sub|he v|want-3S inf|to v|see
+	pro:dem|these n|thing v|happen .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|4|PUNCT
+@End

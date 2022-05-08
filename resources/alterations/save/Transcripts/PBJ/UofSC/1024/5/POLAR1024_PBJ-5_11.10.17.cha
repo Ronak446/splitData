@@ -1,0 +1,50 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:20
+@Media:	1024_5_PBJ_November-10th-2017-9-18-46-am video
+*PAR:	okay you need jelly and peanut+butter and bread .
+%mor:	co|okay pro:per|you v|need n|jelly coord|and n|+n|peanut+n|butter
+	coord|and n|bread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|CONJ 8|7|COORD
+	9|3|PUNCT
+*PAR:	and you need knife too .
+%mor:	coord|and pro:per|you v|need n|knife post|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*PAR:	so you need one one [/] &um swice [* phon] .
+%mor:	co|so pro:per|you v|need det:num|one ?|swice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	you need spread it out for your &um peanut+butter .
+%mor:	pro:per|you v|need v|spread&ZERO pro:per|it adv|out prep|for
+	det:poss|your n|+n|peanut+n|butter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|JCT 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and then lay down for that &uh &s napkin .
+%mor:	coord|and adv:tem|then v|lay adv|down prep|for pro:dem|that
+	n|napkin .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and then xxx [* phon] half it's you need other half for that bread .
+%mor:	coord|and adv:tem|then n|half pro:per|it~aux|be&3S pro:per|you
+	v|need qn|other n|half prep|for pro:dem|that n|bread .
+%gra:	1|3|LINK 2|3|JCT 3|7|COM 4|7|SUBJ 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*PAR:	&um &um let's see you need to spread it out for &um jelly .
+%mor:	v|let~pro:obj|us v|see pro:per|you v|need inf|to v|spread&ZERO
+	pro:per|it adv|out prep|for n|jelly .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|7|JCT 10|9|JCT 11|10|POBJ 12|1|PUNCT
+*PAR:	and then let's see you need <trurn it around> [//] turn around .
+%mor:	coord|and adv:tem|then v|let~pro:obj|us v|see pro:per|you v|need
+	n|turn adv|around .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*PAR:	and then I think that peanut+butter jelly sandwich it's you can eat
+	it .
+%mor:	coord|and adv:tem|then pro:sub|I v|think pro:dem|that
+	n|+n|peanut+n|butter n|jelly n|sandwich pro:per|it~cop|be&3S
+	pro:per|you mod|can v|eat pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|10|SUBJ 10|8|CMOD 11|13|SUBJ 12|13|AUX 13|10|PRED 14|13|OBJ 15|4|PUNCT
+@End

@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:00:22
+@Media:	1080_1_PBJ_May-13th-2019-12-36-33-pm, video
+*PAR:	you get red [: bread] [* s] and sput [: peanut] [* phon] butter and jelly .
+%mor:	pro:per|you v|get n|bread coord|and n|peanut n|butter coord|and
+	n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|6|MOD 6|4|COORD 7|6|CONJ 8|7|COORD
+	9|2|PUNCT
+*PAR:	end .
+%mor:	n|end .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

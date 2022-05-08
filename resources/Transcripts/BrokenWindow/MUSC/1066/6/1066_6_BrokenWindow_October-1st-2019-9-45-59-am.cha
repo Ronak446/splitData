@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:43
+@Media:	1066_6_BrokenWindow_October-1st-2019-9-45-59-am video
+*PAR:	well &li &buh the [//] his friend &p &p &pick &uh kick ball &bing &bing &king &k xxx [* phon] .
+%mor:	co|well det:poss|his n|friend v|kick n|ball .
+%gra:	1|4|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	so &woah &bang oh no shnee [* phon] .
+%mor:	co|so co|oh co|no ?|shnee .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|PUNCT
+*PAR:	look [/] look <oh li> [//] oh my god .
+%mor:	co|look co|oh det:poss|my n|god .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&ah look at zat [: that] [* phon] .
+%mor:	cop|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	oh my god .
+%mor:	co|oh det:poss|my n|god .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	dehdeh [* phon] <the ball> [/] the ball mad [/] mad [/] mad [/] mad
+	oh my god .
+%mor:	?|dehdeh det:art|the n|ball adj|mad co|oh det:poss|my n|god .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|7|MOD 5|7|COM 6|7|MOD 7|3|APP 8|1|PUNCT
+*PAR:	xxx [* phon] <ohn away> [//] run away &shhh .
+%mor:	v|run adv|away .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	he die kid xxx [* phon] .
+%mor:	pro:sub|he v|die n|kid .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	oh &w xxx [* phon] &drrr .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

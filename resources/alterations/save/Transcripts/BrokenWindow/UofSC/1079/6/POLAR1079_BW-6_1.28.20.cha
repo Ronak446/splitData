@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1079.BW-6 video
+@Time Duration:	00:00:54
+*PAR:	so Jimmy was playing outside .
+%mor:	co|so n:prop|Jimmy aux|be&PAST&13S part|play-PRESP n|outside .
+%gra:	1|2|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and <he had his> [//] &um he had &n his soccer ball and was playing .
+%mor:	coord|and pro:sub|he v|have&PAST det:poss|his n|soccer n|ball
+	coord|and aux|be&PAST&13S part|play-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|CONJ 8|9|AUX
+	9|7|COORD 10|3|PUNCT
+*PAR:	and all of a sudden he went too far and hit the window .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden pro:sub|he
+	v|go&PAST adv|too adv|far coord|and v|hit&ZERO det:art|the n|window
+	.
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|7|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|7|PUNCT
+*PAR:	and the window broke .
+%mor:	coord|and det:art|the n|window adj|broke .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*PAR:	and when his dad was enjoying tv it scared him because here was a
+	soccer &b ball that fell inside the house .
+%mor:	coord|and conj|when det:poss|his n|dad aux|be&PAST&13S
+	part|enjoy-PRESP n|tv pro:per|it v|scare-PAST pro:obj|him
+	conj|because pro:exist|here cop|be&PAST&13S det:art|a n|soccer
+	n|ball pro:rel|that v|fall&PAST prep|inside det:art|the n|house .
+%gra:	1|9|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|9|CJCT 7|6|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|9|CJCT 14|16|DET 15|16|MOD
+	16|13|PRED 17|18|LINK 18|16|CMOD 19|18|JCT 20|21|DET 21|19|POBJ 22|9|PUNCT
+*PAR:	and so when he [//] the father looks and says what in the world's
+	happened .
+%mor:	coord|and co|so conj|when det:art|the n|father v|look-3S coord|and
+	v|say-3S pro:int|what prep|in det:art|the adj|world&dn-POSS
+	part|happen-PASTP .
+%gra:	1|6|LINK 2|6|COM 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|OBJ 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|PUNCT
+*PAR:	and he looks .
+%mor:	coord|and pro:sub|he v|look-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and there's his son .
+%mor:	coord|and pro:exist|there~cop|be&3S det:poss|his n|son .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and he realized that he hit the window .
+%mor:	coord|and pro:sub|he v|realize-PAST comp|that pro:sub|he v|hit&ZERO
+	det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and that's the end .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@End

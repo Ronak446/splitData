@@ -1,0 +1,27 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:49
+*PAR:	the &um the &um kid wanted to go outside and play soccer .
+%mor:	det:art|the det:art|the n|kid v|want-PAST inf|to v|go n|outside
+	coord|and n|play n|soccer .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|CONJ
+	9|10|MOD 10|8|COORD 11|4|PUNCT
+*PAR:	and he started playing and kick [//] kicked the ball earl
+	[: through] [* phon] a the window .
+%mor:	coord|and pro:sub|he v|start-PAST part|play-PRESP coord|and
+	v|kick-PAST det:art|the n|ball prep|through det:art|a det:art|the
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|DET 12|9|POBJ 13|3|PUNCT
+*PAR:	and the man inside was &uh startled .
+%mor:	coord|and det:art|the n|man n|inside aux|be&PAST&13S
+	part|startle-PASTP .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	and he was &ve very angry .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|very adj|angry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+@End

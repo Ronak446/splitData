@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1100.BW-3 video
+@Time Duration:	00:00:31
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] gigging [: kicking] [* phon] .
+%mor:	part|kick-PRESP .
+*PAR:	wass [//] wass [//] blass [: glass] [* phon] bokin [: broken]
+	[* phon] .
+%mor:	n|glass part|break&PASTP .
+@End

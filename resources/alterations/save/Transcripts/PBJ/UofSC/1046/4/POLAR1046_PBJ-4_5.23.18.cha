@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	1046_BrokenWindow4 video
+
+*PAR:	okay &um so you &um spread &um out the peater+butter [: peanut+butter] [* phon] and jelly .
+%mor:	co|okay conj|so pro:per|you v|spread&ZERO prep|out det:art|the
+	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|4|PUNCT
+*PAR:	and the sandwich &um &uh just a okay white bread and the sandwich &um the peanut+butter and jelly sandwich &um is a &um I don't know &um just a closed .
+%mor:	coord|and det:art|the n|sandwich adv|just det:art|a adj|okay
+	n|white n|bread coord|and det:art|the n|sandwich det:art|the
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich cop|be&3S
+	det:art|a pro:sub|I mod|do~neg|not v|know adv|just det:art|a
+	part|close-PASTP .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|8|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|0|ROOT
+	9|17|LINK 10|11|DET 11|17|SUBJ 12|13|DET 13|17|SUBJ 14|13|CONJ 15|14|COORD
+	16|17|SUBJ 17|8|CJCT 18|22|DET 19|22|SUBJ 20|22|AUX 21|20|NEG 22|17|PRED
+	23|25|JCT 24|25|DET 25|22|OBJ 26|8|PUNCT
+*PAR:	&um I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

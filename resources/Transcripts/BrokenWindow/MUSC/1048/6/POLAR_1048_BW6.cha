@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:31
+@Media:	POLAR_1048_BW6 video
+*PAR:	<Billy kicked> [//] Billy kicking around the ball .
+%mor:	n:prop|Billy part|kick-PRESP prep|around det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	he [/] &kic he kitt [* phon] the ball a little too hard .
+%mor:	pro:sub|he ?|kitt det:art|the n|ball det:art|a adj|little adv|too
+	adv|hard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|4|XMOD 7|8|JCT 8|6|JCT
+	9|2|PUNCT
+*PAR:	and [/] &h and then <he hit [* s]> [//] he [/] he kicked the ball so
+	hard <he [/] he kicked the through the he [/] he> [//] <he kicked
+	the ball through the neighbor's through [* u]> [//] he [/] <he
+	kicked the ball through the windows> [//] he kicked the ball through
+	the window of a neighbor <this [/] this not this> [//] was <at whuch
+	[* phon] time it &w> [//] at which time it broke the lamp .
+%mor:	coord|and adv:tem|then pro:sub|he v|kick-PAST det:art|the n|ball
+	adv|so adv|hard pro:sub|he v|kick-PAST det:art|the n|ball
+	prep|through det:art|the n|window prep|of det:art|a n|neighbor
+	cop|be&PAST&13S prep|at pro:rel|which v|time pro:per|it v|break&PAST
+	det:art|the n|lamp .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|JCT 8|4|JCT
+	9|10|SUBJ 10|4|CJCT 11|12|DET 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|10|CJCT 20|19|JCT 21|22|LINK 22|20|POBJ
+	23|24|SUBJ 24|22|COMP 25|26|DET 26|24|OBJ 27|4|PUNCT
+*PAR:	and <Bob's at [/] at what times said at [/] &ti at [/] &sa at what
+	time Bob's set> [//] the [/] &b okay the ball came in .
+%mor:	coord|and co|okay det:art|the n|ball v|come&PAST adv|in .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	kay [* phon] [//] the broke the window .
+%mor:	det:art|the v|break&PAST det:art|the n|window .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the broke the lamp .
+%mor:	det:art|the v|break&PAST det:art|the n|lamp .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	<the man> [//] the [/] the man got the ball and kept the ball and
+	fussed at Billy .
+%mor:	det:art|the n|man v|get&PAST det:art|the n|ball coord|and
+	v|keep&PAST det:art|the n|ball coord|and v|fuss-PAST prep|at
+	n:prop|Billy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|3|CONJ 11|10|COORD 12|11|JCT 13|12|POBJ 14|3|PUNCT
+@End

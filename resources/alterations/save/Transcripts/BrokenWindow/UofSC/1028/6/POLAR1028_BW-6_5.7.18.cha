@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1028_BW6 video
+*PAR:	&uh well the little boy was kicking the soccer ball .
+%mor:	co|well det:art|the adj|little n|boy aux|be&PAST&13S
+	part|kick-PRESP det:art|the n|soccer n|ball .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*PAR:	and he &uh kicked it .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and it woke [* phon] [//] &uh broke the window .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &uh they [* s] [//] the man &uh he [/] he caugh [* phon] the
+	ball and it .
+%mor:	coord|and det:art|the n|man pro:sub|he ?|caugh det:art|the n|ball
+	coord|and pro:per|it .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ
+	8|7|CONJ 9|8|COORD 10|1|PUNCT
+*PAR:	and then he was &uh looking out of the window .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S part|look-PRESP
+	adv|out prep|of det:art|the n|window .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	obvousy [* phon] wasn't gonna give the ball back .
+%mor:	?|obvousy cop|be&PAST&13S~neg|not part|go-PRESP~inf|to v|give
+	det:art|the n|ball adv|back .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|4|PUNCT
+@End

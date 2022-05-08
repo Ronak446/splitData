@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:36
+@Media:	POLAR.1084.PBJ-3 video
+*PAR:	okay so I love pelut+butter [: peanut+butter] [* phon] and jelly
+	sandwiches .
+%mor:	co|okay co|so pro:sub|I n|love n|+n|peanut+n|butter coord|and
+	n|jelly n|sandwich-PL .
+%gra:	1|8|COM 2|8|COM 3|8|MOD 4|5|MOD 5|8|MOD 6|5|CONJ 7|6|COORD 8|0|INCROOT
+	9|8|PUNCT
+*PAR:	when I make a peanut+butter and jelly sandwich I get two pieces of
+	bread .
+%mor:	conj|when pro:sub|I v|make det:art|a n|+n|peanut+n|butter coord|and
+	n|jelly n|sandwich pro:sub|I v|get det:num|two n|piece-PL prep|of
+	n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|8|DET 5|8|MOD 6|5|CONJ 7|6|COORD 8|3|OBJ
+	9|10|SUBJ 10|0|ROOT 11|12|QUANT 12|10|OBJ 13|12|NJCT 14|13|POBJ
+	15|10|PUNCT
+*PAR:	I get a knife .
+%mor:	pro:sub|I v|get det:art|a n|knife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and I need the billing [: filling] [* phon] peanut+butter and jelly .
+%mor:	coord|and pro:sub|I v|need det:art|the part|fill-PRESP
+	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ 8|7|COORD
+	9|3|PUNCT
+*PAR:	I put the peanut+butter on the first piece of bread .
+%mor:	pro:sub|I v|put&ZERO det:art|the n|+n|peanut+n|butter prep|on
+	det:art|the adj|first n|piece prep|of n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*PAR:	and I put jelly on the other piece of bread .
+%mor:	coord|and pro:sub|I v|put&ZERO n|jelly prep|on det:art|the qn|other
+	n|piece prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	I put them together &s cut it in half a little bit and &h have a
+	good bite .
+%mor:	pro:sub|I v|put&ZERO pro:obj|them adv|together v|cut&ZERO
+	pro:per|it prep|in n|half det:art|a adj|little n|bit coord|and
+	v|have det:art|a adj|good n|bite .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|5|JCT 12|11|CONJ 13|12|COORD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|2|PUNCT
+@End

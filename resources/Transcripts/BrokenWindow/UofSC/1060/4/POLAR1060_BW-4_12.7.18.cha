@@ -1,0 +1,119 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:04
+@Media:	1060_4_BrokenWindow_December-7th-2018-10-58-19-am video
+*PAR:	the story starts with the [//] &um this kid whos [: who] [* phon] uses &um the kids play .
+%mor:	det:art|the n|story v|start-3S prep|with pro:dem|this n|kid
+	pro:rel|who v|use-3S det:art|the v|kid-3S n|play .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|OBJ 11|10|OBJ 12|3|PUNCT
+*PAR:	anyway it's a ball a white one .
+%mor:	co|anyway pro:per|it~cop|be&3S det:art|a n|ball det:art|a n|white
+	pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|DET 7|8|MOD 8|5|XMOD
+	9|3|PUNCT
+*PAR:	and this boy is kicking it .
+%mor:	coord|and pro:dem|this n|boy aux|be&3S part|kick-PRESP pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and well that was probably not a good thing to do .
+%mor:	coord|and n|well pro:rel|that cop|be&PAST&13S adv|probable&dadj-LY
+	neg|not det:art|a adj|good n|thing inf|to v|do .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|4|JCT 6|4|NEG 7|9|DET 8|9|MOD
+	9|4|PRED 10|11|INF 11|9|XMOD 12|1|PUNCT
+*PAR:	he should probably shouldn't do it close to &uh [/] to <his house>
+	[//] this guy's house .
+%mor:	pro:sub|he mod|should adv|probable&dadj-LY mod|should~neg|not v|do
+	pro:per|it adj|close prep|to prep|to pro:dem|this adj|guy&dn-POSS
+	n|house .
+%gra:	1|6|SUBJ 2|6|AUX 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|8|JCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|PUNCT
+*PAR:	so anyway this kid kicked it .
+%mor:	co|so adv|anyway pro:dem|this n|kid v|kick-PAST pro:per|it .
+%gra:	1|3|COM 2|3|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and it broke the glass .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&um he's saying how could I get that back .
+%mor:	pro:sub|he~aux|be&3S part|say-PRESP pro:rel|how mod|could pro:sub|I
+	v|get pro:dem|that n|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|AUX 6|7|SUBJ 7|3|COMP 8|9|DET
+	9|7|PRED 10|3|PUNCT
+*PAR:	I hope it's not my father .
+%mor:	pro:sub|I v|hope pro:per|it~cop|be&3S neg|not det:poss|my n|father
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|NEG 6|7|MOD 7|4|PRED 8|2|PUNCT
+*PAR:	it's probably somebody else's right next door .
+%mor:	pro:per|it~aux|be&3S adv|probable&dadj-LY pro:indef|somebody
+	adj|else&dn-POSS adv|right adj|next n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|JCT 4|8|MOD 5|8|MOD 6|7|JCT 7|8|MOD 8|2|PRED
+	9|2|PUNCT
+*PAR:	but hopefully it's his father .
+%mor:	conj|but adv|hope&dadj-FULL-LY pro:per|it~cop|be&3S det:poss|his
+	n|father .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*PAR:	so &uh the guy was looks like he's got working &uh news looking at
+	the news .
+%mor:	co|so det:art|the n|guy cop|be&PAST&13S cop|look-3S conj|like
+	pro:sub|he~aux|be&3S v|get&PAST n:gerund|work-PRESP n|news
+	part|look-PRESP prep|at det:art|the n|news .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|OBJ 11|10|OBJ 12|11|XMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	and the ball came down right to the guy .
+%mor:	coord|and det:art|the n|ball v|come&PAST prep|down n|right prep|to
+	det:art|the n|guy .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	just doesn't show where the glass went which is kind of weird .
+%mor:	adv|just mod|do&3S~neg|not n|show pro:rel|where det:art|the n|glass
+	v|go&PAST pro:rel|which aux|be&3S adj|kind prep|of adj|weird .
+%gra:	1|4|JCT 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|CMOD
+	9|8|OBJ 10|9|POSS 11|10|PRED 12|11|JCT 13|12|POBJ 14|4|PUNCT
+*PAR:	you'd think there'd be glass there .
+%mor:	pro:per|you~mod|genmod v|think pro:exist|there~mod|genmod cop|be
+	n|glass adv|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|PRED 8|7|NJCT
+	9|3|PUNCT
+*PAR:	anyway this guy was kind of &s scared [//] not scared &uh &s &sur
+	<survived suhied supplied> [//] supplied [: surprised] [* phon] .
+%mor:	co|anyway pro:dem|this n|guy aux|be&PAST&13S adj|kind prep|of
+	neg|not part|scare-PASTP v|surprise-PAST .
+%gra:	1|9|COM 2|3|DET 3|9|SUBJ 4|9|AUX 5|4|PRED 6|5|JCT 7|6|POBJ 8|9|XJCT
+	9|0|ROOT 10|9|PUNCT
+*PAR:	&gasp what's going on .
+%mor:	pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	so anyway the guy kicked the ball .
+%mor:	co|so co|anyway det:art|the n|guy v|kick-PAST det:art|the n|ball .
+%gra:	1|5|COM 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and trying to figure out what happened .
+%mor:	coord|and part|try-PRESP inf|to v|figure adv|out pro:int|what
+	v|happen-PAST .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|INF 4|2|COMP 5|4|JCT 6|7|SUBJ 7|4|COMP
+	8|1|PUNCT
+*PAR:	and he's probably <on the> [//] on this [//] the ball there's
+	probably the kid's name on it .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|probable&dadj-LY prep|on
+	det:art|the n|ball pro:exist|there~cop|be&3S adv|probable&dadj-LY
+	det:art|the adj|kid&dn-POSS n|name prep|on pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|3|CJCT 10|13|JCT 11|13|DET 12|13|MOD 13|9|PRED 14|13|NJCT 15|14|POBJ
+	16|3|PUNCT
+*PAR:	and he's saying xxx [* phon] .
+%mor:	coord|and pro:sub|he~aux|be&3S part|say-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	he's looking around saying &mhm .
+%mor:	pro:sub|he~aux|be&3S part|look-PRESP prep|around n:gerund|say-PRESP
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	this boy .
+%mor:	pro:dem|this n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	it is done .
+%mor:	pro:per|it aux|be&3S part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+@End

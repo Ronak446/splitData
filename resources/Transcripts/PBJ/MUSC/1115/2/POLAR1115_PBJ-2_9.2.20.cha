@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_337_1_337_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:14
+@Media:	1115_PBJ_2_2020, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread two &uh pieces .
+%mor:	n|bread det:num|two n|piece-PL .
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh &uh &uh &uh peanut+butter and jelly .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&uh oh &uh &uh top and &uh &uh on &uh &uh &s &uh peanut+butter .
+%mor:	co|oh n|top coord|and prep|on n|+n|peanut+n|butter .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|POBJ 6|2|PUNCT
+*PAR:	&uh &hm &uh peanut+butter &s &uh pieces [/] &uh &uh pieces &uh &uh
+	&uh &uh jam &uh .
+%mor:	n|+n|peanut+n|butter v|piece-3S n|jam .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	peanut [/] peanut [: peanut+butter] [* phon] &uh &s &s &s ghos
+	[* phon] &s &uh swear .
+%mor:	n|+n|peanut+n|butter ?|ghos v|swear .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	peanut+butter [/] &uh peanut+butter [/] peanut+butter .
+%mor:	n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh knife [/] knife peanut+butter &ah crack [: crap] [* phon] .
+%mor:	n|knife n|+n|peanut+n|butter n|crap .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh peanut+butter and jelly &uh &hm .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	cut and serve .
+%mor:	v|cut&ZERO coord|and v|serve .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+@End

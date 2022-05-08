@@ -1,0 +1,55 @@
+@UTF8
+@Window:	105_822_585_805_0_0_407_0_407_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_BW-2_8.07.20 video
+@Time Duration:	00:00:49
+*PAR:	&um the boy is playing soccer with the ball .
+%mor:	det:art|the n|boy aux|be&3S part|play-PRESP n|soccer prep|with
+	det:art|the n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and he kicks it .
+%mor:	coord|and pro:sub|he v|kick-3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	<and it> [//] in the [/] the second frame goes through the window of
+	the house .
+%mor:	prep|in det:art|the adj|second n|frame v|go-3S prep|through
+	det:art|the n|window prep|of det:art|the n|house .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and &um to his surprise the [/] the dad who is in the room with the
+	window &uh sees the ball come in .
+%mor:	coord|and prep|to det:poss|his n|surprise det:art|the n|dad
+	pro:rel|who cop|be&3S prep|in det:art|the n|room prep|with
+	det:art|the n|window v|see-3S det:art|the n|ball v|come adv|in .
+%gra:	1|2|LINK 2|0|INCROOT 3|4|DET 4|2|POBJ 5|6|DET 6|2|POBJ 7|8|LINK
+	8|6|CMOD 9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|DET 14|15|SUBJ 15|12|POBJ
+	16|17|DET 17|18|SUBJ 18|15|COMP 19|18|JCT 20|2|PUNCT
+*PAR:	&um it upsets [: breaks] [* u] the lamp .
+%mor:	pro:per|it v|break-3S det:art|the n|lamp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and &um he didn't know where it comes from .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|know pro:int|where
+	pro:per|it v|come-3S prep|from .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|5|PUNCT
+*PAR:	and so he gets up at the final scene looking out the window to see
+	who caused the [/] the ball to break the glass .
+%mor:	coord|and co|so pro:sub|he v|get-3S adv|up prep|at det:art|the
+	adj|final n|scene part|look-PRESP prep|out det:art|the n|window
+	inf|to v|see pro:int|who v|cause-PAST det:art|the n|ball inf|to
+	v|break det:art|the n|glass .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|XJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|15|INF 15|10|XJCT
+	16|17|SUBJ 17|15|COMP 18|19|DET 19|17|OBJ 20|21|INF 21|19|XMOD 22|23|DET
+	23|21|OBJ 24|4|PUNCT
+*PAR:	and he sees the [//] <his son> [//] or boy &uh indicating that he
+	was playing .
+%mor:	coord|and pro:sub|he v|see-3S coord|or n|boy part|indicate-PRESP
+	comp|that pro:sub|he aux|be&PAST&13S part|play-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|XMOD 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|3|PUNCT
+@End

@@ -1,0 +1,76 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration: 00:03:10
+*PAR:	okay they [//] it starts with a madam .
+%mor:	co|okay pro:per|it v|start-3S prep|with det:art|a n|madam .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and she has three or four young women .
+%mor:	coord|and pro:sub|she v|have&3S det:num|three coord|or det:num|four
+	adj|young n|woman&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|8|QUANT 7|8|MOD 8|5|COORD
+	9|3|PUNCT
+*PAR:	and the one the young lady she was considered .
+%mor:	coord|and det:art|the pro:indef|one det:art|the adj|young n|lady
+	pro:sub|she aux|be&PAST&13S part|consider-PASTP .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|DET 5|6|MOD 6|3|CMOD 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|1|PUNCT
+*PAR:	&um &um she was &wor working all in the house .
+%mor:	pro:sub|she aux|be&PAST&13S part|work-PRESP adv|all prep|in
+	det:art|the n|house .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and the other girls are what didn’t help the other girl .
+%mor:	coord|and det:art|the qn|other n|girl-PL aux|be&PRES pro:int|what
+	?|didn eq|eq2 ?|t n|help det:art|the qn|other n|girl .
+%gra:	1|13|LINK 2|4|DET 3|4|QUANT 4|13|SUBJ 5|13|AUX 6|13|MOD 7|13|MOD
+	8|13|MOD 9|13|MOD 10|13|MOD 11|13|DET 12|13|QUANT 13|0|INCROOT 14|13|PUNCT
+*PAR:	and then the [/] the woman that she works hard .
+%mor:	coord|and adv:tem|then det:art|the n|woman pro:rel|that pro:sub|she
+	n|work-PL adv|hard .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|1|PUNCT
+*PAR:	and the woman is halin [* phon] .
+%mor:	coord|and det:art|the n|woman aux|be&3S ?|halin .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and &um then as the woman [//] &t young girl .
+%mor:	coord|and adv:tem|then conj|as det:art|the adj|young n|girl .
+%gra:	1|6|LINK 2|6|JCT 3|6|MOD 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	was she was helping .
+%mor:	cop|be&PAST&13S pro:sub|she aux|be&PAST&13S part|help-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and then she got a some help .
+%mor:	coord|and adv:tem|then pro:sub|she v|get&PAST det:art|a qn|some
+	co|help .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*PAR:	and then she met a [/] a man who gave her a beautiful with hey
+	dress .
+%mor:	coord|and adv:tem|then pro:sub|she v|meet&PAST det:art|a n|man
+	pro:rel|who v|give&PAST pro:obj|her det:art|a adj|beautiful
+	prep|with co|hey n|dress .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|8|OBJ 10|11|DET 11|8|JCT 12|11|JCT 13|14|COM 14|12|POBJ 15|4|PUNCT
+*PAR:	and a lovely &uh was given a &um &um beautiful show [//] &sh
+	&sh shoes .
+%mor:	coord|and det:art|a adj|love&dn-LY aux|be&PAST&13S part|give&PASTP
+	det:art|a adj|beautiful n|shoe-PL .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*PAR:	and that was lucky .
+%mor:	coord|and pro:dem|that cop|be&PAST&13S adj|luck&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and then she fell in love with the man .
+%mor:	coord|and adv:tem|then pro:sub|she v|fall&PAST prep|in n|love
+	prep|with det:art|the n|man .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and then she became to be the beautiful girl .
+%mor:	coord|and adv:tem|then pro:sub|she cop|become&PAST inf|to cop|be
+	det:art|the adj|beautiful n|girl .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|4|PUNCT
+*PAR:	and she live every after .
+%mor:	coord|and pro:sub|she v|live qn|every adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|JCT 6|3|PUNCT
+@End

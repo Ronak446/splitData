@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1035_PBJ3 video
+*PAR:	obay [* phon] &oh dwo [* phon] of duh [* phon] bread bread .
+%mor:	?|obay ?|dwo prep|of co|duh n|bread n|bread .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|6|COM 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	obay [* phon] and &um bread <&ruh good> [//] real good .
+%mor:	?|obay coord|and n|bread adj|real adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|MOD 4|5|MOD 5|2|COORD 6|1|PUNCT
+*PAR:	and a peanut+butter <&uh good> [/] &uh good .
+%mor:	coord|and det:art|a n|+n|peanut+n|butter adj|good .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*PAR:	henny [* phon] &um &um daif [* phon] so good .
+%mor:	adj|hen&dn-Y ?|daif adv|so adj|good .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	obay [* phon] and dot [* phon] and dot [* phon] .
+%mor:	?|obay coord|and n|dot coord|and n|dot .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	duhd [* phon] .
+%mor:	?|duhd .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,41 @@
+File	POLAR.1033.Cinder3.12-19-2017.cha
+Language	eng
+Corpus	POLAR
+Code	PAR
+Sem Paraphasias	2
+Phon Paraphasias	1
+Unk Paraphasias	3
+MTTR	0.807
+Role	Participant
+Education	.
+Custom_field	.
+Duration (sec)	123
+Total Utts	29
+MLU Utts	29
+MLU Words	10.345
+MLU Morphemes	11.448
+FREQ types	88
+FREQ tokens	300
+FREQ TTR	0.293
+Words/Min	146.341
+Verbs/Utt	2
+Word Errors	6
+Utt Errors	0
+density	0.483
+Nouns	39
+Plurals	8
+Verbs	66
+Aux	6
+3S	1
+1S/3S	22
+PAST	48
+PASTP	2
+PRESP	3
+prep|	23
+adj|	7
+adv|	23
+conj|	6
+det|	19
+pro|	66
+retracing[//]	1
+repetition[/]	1

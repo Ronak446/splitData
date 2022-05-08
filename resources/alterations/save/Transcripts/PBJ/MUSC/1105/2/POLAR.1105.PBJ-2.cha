@@ -1,0 +1,28 @@
+@UTF8
+@Window:	45_363_755_916_185_1_440_0_440_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	POLAR.1105.PBJ-2, video
+*PAR:	you get bread and peanut+butter and jelly and a knife .
+%mor:	pro:per|you v|get n|bread coord|and n|+n|peanut+n|butter coord|and
+	n|jelly coord|and det:art|a n|knife .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|2|CONJ 9|10|DET 10|8|COORD 11|2|PUNCT
+*PAR:	and you put peanut+butter <on the bread> [//] on one piece of bread .
+%mor:	coord|and pro:per|you v|put&ZERO n|+n|peanut+n|butter prep|on
+	det:num|one n|piece prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and you put jelly on the other piece of bread .
+%mor:	coord|and pro:per|you v|put&ZERO n|jelly prep|on det:art|the
+	qn|other n|piece prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and then you put the breads together .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO det:art|the
+	n|bread-PL adv|together .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+@End

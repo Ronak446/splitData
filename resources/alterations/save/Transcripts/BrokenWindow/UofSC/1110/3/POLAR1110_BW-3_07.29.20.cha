@@ -1,0 +1,113 @@
+@UTF8
+@Window:	45_366_755_916_2687_1_3322_0_3322_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:48
+@Media:	POLAR1110_BW-3, video
+*PAR:	well this is &uh &uh &uh &uh something that you need .
+%mor:	co|well pro:dem|this cop|be&3S pro:indef|something pro:rel|that
+	pro:per|you v|need .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|3|PUNCT
+*PAR:	&um usually a &uh small boy .
+%mor:	adv|usual&dadj-LY det:art|a adj|small n|boy .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	not real big but <not real> [/] &bi not real small .
+%mor:	neg|not adj|real adj|big conj|but neg|not adj|real adj|small .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PRED 4|3|CONJ 5|6|NEG 6|7|MOD 7|4|COORD 8|2|PUNCT
+*PAR:	but pretty [//] big enough that they [* s] can hit with their [* s]
+	head or with their [* s] [//] &pho your [/] &ko your [/] your [/]
+	your &uh other stuff [* s] .
+%mor:	conj|but adj|big adv|enough pro:rel|that pro:sub|they mod|can
+	v|hit&ZERO prep|with det:poss|their adj|head coord|or prep|with
+	det:poss|your qn|other n|stuff .
+%gra:	1|0|INCROOT 2|1|PRED 3|2|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|11|COORD 13|15|DET 14|15|QUANT
+	15|12|POBJ 16|1|PUNCT
+*PAR:	and you [//] &hi you're [* s] playing out [//] inside [* s] .
+%mor:	coord|and pro:per|you~cop|be&PRES n:gerund|play-PRESP adj|inside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
+*PAR:	and you &hi hit with [* s] the ball and hit very [/] &ha very tall
+	[* s] .
+%mor:	coord|and pro:per|you v|hit&ZERO prep|with det:art|the n|ball
+	coord|and v|hit&ZERO adv|very adj|tall .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|JCT 10|8|JCT 11|3|PUNCT
+*PAR:	and they [* s] &hi hitting [* phon] very hard <with &uh the> [//]
+	&he at the house .
+%mor:	coord|and pro:sub|they part|hit-PRESP adv|very adv|hard prep|at
+	det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	it could be his mother and father .
+%mor:	pro:per|it mod|could cop|be det:poss|his n|mother coord|and
+	n|father .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD 8|3|PUNCT
+*PAR:	it could be another friend house .
+%mor:	pro:per|it mod|could aux|be qn|another n|friend n|house .
+%gra:	1|6|SUBJ 2|6|AUX 3|6|AUX 4|6|QUANT 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	and they hit &ka with a ball very hard and opened the hole &uh
+	inside and messed up the by the water .
+%mor:	coord|and pro:sub|they v|hit&ZERO prep|with det:art|a n|ball
+	adv|very adv|hard coord|and v|open-PAST det:art|the n|hole
+	adv|inside coord|and v|mess-PAST prep|up det:art|the prep|by
+	det:art|the n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|JCT
+	9|3|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|3|CONJ 15|14|COORD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|20|DET 20|18|POBJ 21|3|PUNCT
+*PAR:	not the water .
+%mor:	neg|not det:art|the n|water .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the [//] &uh hit it real hard .
+%mor:	v|hit&ZERO pro:per|it adj|real adj|hard .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|2|PRED 5|1|PUNCT
+*PAR:	and hit so well by a [//] the man .
+%mor:	coord|and v|hit&ZERO adv|so adv|well prep|by det:art|the n|man .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	it &cou &uh <the mother> [//] &hi &uh his [/] his father &uh could
+	be &um or could be around &uh the with their friends .
+%mor:	pro:per|it det:poss|his n|father mod|could cop|be coord|or
+	mod|could cop|be prep|around det:art|the prep|with det:poss|their
+	n|friend-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|8|AUX 8|6|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	and hit the man is not happy about that .
+%mor:	coord|and v|hit&ZERO det:art|the n|man cop|be&3S neg|not adj|happy
+	prep|about pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|NEG 7|5|PRED 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	it hit [/] hit that .
+%mor:	pro:per|it v|hit&ZERO pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and then the next day we're right [/] right there .
+%mor:	coord|and adv:tem|then det:art|the adj|next n|day
+	pro:sub|we~cop|be&PRES adv|right adv|there .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|JCT 10|7|PUNCT
+*PAR:	the number five .
+%mor:	det:art|the n|number det:num|five .
+%gra:	1|2|DET 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh the man &s checked that .
+%mor:	det:art|the n|man v|check-PAST pro:dem|that .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and see [//] &uh the man can see the [/] the [/] the young boy and
+	says hello .
+%mor:	coord|and det:art|the n|man mod|can v|see det:art|the adj|young
+	n|boy coord|and v|say-3S n|hello .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|5|PUNCT
+*PAR:	there's the [/] the [//] your [/] your ball is there so you need to
+	come over here and tell me &uh what &uh you're gonna do about that .
+%mor:	pro:exist|there~cop|be&3S det:poss|your n|ball cop|be&3S adv|there
+	conj|so pro:per|you v|need inf|to v|come prep|over n|here coord|and
+	v|tell pro:obj|me pro:int|what pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|do prep|about pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|11|INF 11|9|COMP 12|11|JCT 13|12|POBJ 14|11|CONJ 15|14|COORD
+	16|15|OBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|15|COMP 21|22|INF
+	22|20|COMP 23|22|JCT 24|23|POBJ 25|2|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

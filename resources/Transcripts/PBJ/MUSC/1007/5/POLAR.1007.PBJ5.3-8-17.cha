@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1007_5_PBJ_Y2017_M03_D08_H10_M55_S03 video
+*PAR:	eat eat [/] .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	in here and then eat .
+%mor:	prep|in adv|here coord|and adv:tem|then v|eat .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|5|JCT 5|3|COORD 6|1|PUNCT
+*PAR:	a mae [* phon] girl [* u] .
+%mor:	det:art|a ?|mae n|girl .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	eat eat [/] .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and talk [* s] eat eat [/] .
+%mor:	coord|and n|talk v|eat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	tɑt [* phon] tɑt [* phon] .
+%mor:	?|tɑt ?|tɑt .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	funny [* u] .
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

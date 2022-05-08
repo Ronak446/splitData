@@ -1,0 +1,99 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:51
+@Media:	1025_4_Cinderella_November-13th-2017-11-01-27-am video
+*PAR:	the man bought [* phon] Dinderella [* phon] to the house .
+%mor:	det:art|the n|man v|buy&PAST n:prop|Dinderella prep|to det:art|the
+	n|house .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and &wh the women &uh was mad .
+%mor:	coord|and det:art|the n|woman&PL cop|be&PAST&13S adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and in and then he &ma &uh he made &uh Cindervella
+	[* phon] &uh to the house work .
+%mor:	coord|and prep|in coord|and adv:tem|then pro:sub|he pro:sub|he
+	v|make&PAST n:prop|Cindervella v|toe det:art|the n|house n|work .
+%gra:	1|9|LINK 2|9|JCT 3|7|LINK 4|7|JCT 5|7|JCT 6|7|SUBJ 7|2|POBJ 8|9|SUBJ
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|9|PUNCT
+*PAR:	and [/] and Cinderella was lickin [* phon] out the window it's a &uh
+	palace .
+%mor:	coord|and n:prop|Cinderella aux|be&PAST&13S ?|lickin prep|out
+	det:art|the n|window pro:per|it~cop|be&3S det:art|a n|palace .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|LINK 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|9|PUNCT
+*PAR:	<it's she> [//] what's she xxx [* phon] go .
+%mor:	pro:int|what~aux|be&3S pro:sub|she v|go .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and then the &uh they had a &uh she had &uh nake [* phon] it ome
+	[* phon] .
+%mor:	coord|and adv:tem|then det:art|the pro:sub|they v|have&PAST
+	det:art|a pro:sub|she v|have&PAST ?|nake pro:per|it ?|ome .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|SUBJ 8|5|COMP
+	9|11|COM 10|11|SUBJ 11|8|OBJ 12|5|PUNCT
+*PAR:	and she xxx [* phon] it to xxx [* phon] take it off .
+%mor:	coord|and pro:sub|she pro:per|it inf|to v|take pro:per|it adv|off .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT
+	8|1|PUNCT
+*PAR:	and she &uh dink [* phon] &uh she's came and wish das
+	[* phon] de [* phon] to xxx [* phon] .
+%mor:	coord|and pro:sub|she ?|dink pro:sub|she~aux|be&3S v|come&PAST
+	coord|and n|wish ?|das ?|de v|toe .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|11|JCT 10|11|SUBJ 11|8|CMOD 12|6|PUNCT
+*PAR:	&uh the fairy mother came and wished she could go .
+%mor:	det:art|the n|fairy n|mother v|come&PAST coord|and v|wish-PAST
+	pro:sub|she mod|could v|go .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|4|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that she's xxx [* phon] xxx [* phon] .
+%mor:	pro:rel|that pro:sub|she~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she got xxx [* phon] .
+%mor:	coord|and pro:sub|she v|get&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and went to the ball .
+%mor:	coord|and v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and dance and went is was xxx [* phon] twelve o'clock .
+%mor:	coord|and n|dance coord|and v|go&PAST aux|be&3S cop|be&PAST&13S
+	det:num|twelve n|o'clock .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|8|QUANT
+	8|6|PRED 9|1|PUNCT
+*PAR:	she &ha &ah &uh she had to go .
+%mor:	pro:sub|she pro:sub|she v|have&PAST inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	and &uh she left but one shing [* phon] she did is left &uh a shoe .
+%mor:	coord|and pro:sub|she v|leave&PAST conj|but det:num|one ?|shing
+	pro:sub|she v|do&PAST aux|be&3S part|leave&PASTP det:art|a n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|6|QUANT 6|4|COORD 7|8|SUBJ
+	8|6|CMOD 9|10|AUX 10|8|COMP 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	and get [/] &ah get &ss get find you school [* u] .
+%mor:	coord|and v|get v|get v|find pro:per|you n|school .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|6|MOD 6|4|OBJ 7|2|PUNCT
+*PAR:	and she went to and she all xxx [* phon] house .
+%mor:	coord|and pro:sub|she v|go&PAST prep|to coord|and pro:sub|she
+	post|all v|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|6|PQ 8|3|CJCT
+	9|3|PUNCT
+*PAR:	and shried [* phon] on the shoe and that fit xxx [* phon] .
+%mor:	coord|and ?|shried adv|on det:art|the n|shoe coord|and pro:dem|that
+	v|fit&ZERO .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|JCT 4|5|DET 5|2|CMOD 6|8|LINK 7|8|SUBJ
+	8|5|CJCT 9|1|PUNCT
+*PAR:	and she went back to the ball .
+%mor:	coord|and pro:sub|she v|go&PAST adv|back prep|to det:art|the n|ball
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and &uh &uh skissed [* phon] the xxx [* phon] .
+%mor:	coord|and ?|skissed det:art|the .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	and they went xxx [* phon] &uh off .
+%mor:	coord|and pro:sub|they v|go&PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+@End

@@ -1,0 +1,254 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:12
+@Media:	POLAR_1068_Cinder2 video
+*PAR:	she the woman ever [: over] [* phon] there .
+%mor:	pro:sub|she det:art|the n|woman adv|over adv|there .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|JCT 6|1|PUNCT
+*PAR:	and the [/] the bitch [/] bitch was there .
+%mor:	coord|and det:art|the n|bitch cop|be&PAST&13S adv|there .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and there was like a whole bunch three .
+%mor:	coord|and adv|there cop|be&PAST&13S prep|like det:art|a adj|whole
+	n|bunch det:num|three .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|7|DET 6|7|MOD 7|8|SUBJ 8|3|PRED
+	9|3|PUNCT
+*PAR:	how many .
+%mor:	pro:rel|how qn|many .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't two or three remember it is .
+%mor:	pro:sub|I mod|do~neg|not det:num|two coord|or det:num|three
+	v|remember pro:per|it cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|7|PUNCT
+*PAR:	no three .
+%mor:	co|no det:num|three .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	I think &s three .
+%mor:	pro:sub|I v|think det:num|three .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	thisterday [* phon] and do some of the big_one [* u] the ov [* phon]
+	one [* u] .
+%mor:	?|thisterday coord|and v|do qn|some prep|of det:art|the ?|big_one
+	det:art|the ?|ov pro:indef|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|10|QUANT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|10|DET 9|10|XMOD 10|3|OBJ 11|1|PUNCT
+*PAR:	&s he said xxx [* phon] regular .
+%mor:	pro:sub|he v|say&PAST adj|regular .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	ther [* phon] bitch [* u] one [* u] the bitch [* u] the bed [//] wed
+	[: dad] [* u] he's dead [/] &er dead another night [* u] .
+%mor:	?|ther n|bitch pro:indef|one det:art|the n|bitch det:art|the n|dad
+	pro:sub|he~cop|be&3S adj|dead qn|another n|night .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|OBJ 4|5|DET 5|3|OBJ 6|7|DET 7|5|XMOD 8|9|SUBJ
+	9|7|CMOD 10|12|MOD 11|12|QUANT 12|9|PRED 13|1|PUNCT
+*PAR:	then she was over there .
+%mor:	adv:tem|then pro:sub|she aux|be&PAST&13S adv|over adv|there .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	xxx [* phon] said xxx [* phon] big_one [* u] second one xxx [* phon] .
+%mor:	v|say&PAST ?|big_one adv|second pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	he goes oh she's xxx [* phon] boys [* u] xxx [* phon] happy [* u] .
+%mor:	pro:sub|he v|go-3S co|oh pro:sub|she~cop|be&3S n|boy-PL adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|SUBJ 5|2|COMP 6|5|PRED 7|6|POSTMOD
+	8|2|PUNCT
+*PAR:	he said oh you coming .
+%mor:	pro:sub|he v|say&PAST co|oh pro:per|you part|come-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*PAR:	says yup I'm on for you .
+%mor:	v|say-3S co|yup pro:sub|I~aux|be&1S adv|on prep|for pro:per|you .
+%gra:	1|0|ROOT 2|4|COM 3|4|SUBJ 4|1|COMP 5|4|JCT 6|4|JCT 7|6|POBJ 8|1|PUNCT
+*PAR:	she goes oh nevermind .
+%mor:	pro:sub|she v|go-3S co|oh ?|nevermind .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|OBJ 5|2|PUNCT
+*PAR:	I said sop [* phon] yeah [/] yeah <come on> [/] come on .
+%mor:	pro:sub|I v|say&PAST n|sop co|yeah v|come adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|COM 5|2|COMP 6|5|JCT 7|2|PUNCT
+*PAR:	happy [* u] I said okay xxx [* phon] day [* u] .
+%mor:	adj|happy pro:sub|I v|say&PAST co|okay n|day .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|COM 5|3|JCT 6|3|PUNCT
+*PAR:	so they said looking every was good .
+%mor:	co|so pro:sub|they v|say&PAST n:gerund|look-PRESP qn|every
+	cop|be&PAST&13S adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|QUANT 6|4|ENUM 7|6|PRED 8|3|PUNCT
+*PAR:	we're happy [* u] at night [* u] and every xxx [* phon] .
+%mor:	pro:sub|we~aux|be&PRES adj|happy prep|at n|night coord|and qn|every
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	see <when they> [//] or the be good xxx [* phon] when someone look
+	xxx [* phon] .
+%mor:	v|see coord|or det:art|the cop|be adj|good conj|when
+	pro:indef|someone co|look .
+%gra:	1|0|ROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|PRED 6|4|CONJ 7|6|COORD 8|7|COM
+	9|1|PUNCT
+*PAR:	and they repor [* phon] their happy [* u] sefen [* phon] .
+%mor:	coord|and pro:sub|they ?|repor det:poss|their adj|happy ?|sefen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	xxx [* phon] a major bite [* u] as a xxx [* phon] .
+%mor:	det:art|a adj|major n|bite prep|as det:art|a .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|COORD 5|3|ENUM 6|3|PUNCT
+*PAR:	those are three bad .
+%mor:	pro:dem|those cop|be&PRES det:num|three adj|bad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*PAR:	and &d said she'd love one big_one [* u] the big_one [* u] zuj
+	[* phon] one [* u] .
+%mor:	coord|and v|say&PAST pro:sub|she~mod|genmod n|love det:num|one
+	?|big_one det:art|the ?|big_one ?|zuj pro:indef|one .
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|7|QUANT 7|5|OBJ 8|9|DET
+	9|7|OBJ 10|11|MOD 11|9|OBJ 12|2|PUNCT
+*PAR:	and the [/] the &st oh [/] oh xxx [* phon] happer [* phon] thister
+	[* phon] xxx [* phon] one [* u] day [* u] .
+%mor:	coord|and det:art|the co|oh ?|happer ?|thister det:num|one n|day .
+%gra:	1|7|LINK 2|3|DET 3|7|COM 4|7|MOD 5|7|MOD 6|7|QUANT 7|0|INCROOT
+	8|7|PUNCT
+*PAR:	we have heard them xxx [* phon] .
+%mor:	pro:sub|we aux|have part|hear&PASTP pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and so she says okay come happy [* u] .
+%mor:	coord|and co|so pro:sub|she v|say-3S adj|okay v|come adj|happy .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|4|PUNCT
+*PAR:	we'll xxx [* phon] go xxx [* phon] over there xxx [* phon] .
+%mor:	pro:sub|we~mod|will v|go adv|over adv|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	she says <wait a minute> [/] wait a minute I can't <right now> [/]
+	right now .
+%mor:	pro:sub|she v|say-3S v|wait det:art|a n|minute pro:sub|I
+	mod|can~neg|not adv|right adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|2|JCT 11|2|PUNCT
+*PAR:	she says nope I xxx [* phon] I can't right now <you have to leave>
+	[//] I have to leav [: leave] [* phon] .
+%mor:	pro:sub|she v|say-3S co|nope pro:sub|I pro:sub|I mod|can~neg|not
+	adv|right adv|now pro:sub|I v|have inf|to v|leave .
+%gra:	1|2|SUBJ 2|0|ROOT 3|11|COM 4|11|SUBJ 5|9|SUBJ 6|9|AUX 7|6|NEG 8|9|JCT
+	9|11|JCT 10|11|SUBJ 11|2|COMP 12|13|INF 13|11|COMP 14|2|PUNCT
+*PAR:	I can't xxx [* phon] for you .
+%mor:	pro:sub|I mod|can~neg|not prep|for pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|POBJ 6|4|PUNCT
+*PAR:	xxx [* phon] for long .
+%mor:	prep|for adv|long .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	let's xxx [* phon] you can't .
+%mor:	v|let~pro:obj|us pro:per|you mod|can~neg|not .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|PUNCT
+*PAR:	okay you have to see her later .
+%mor:	co|okay pro:per|you v|have inf|to v|see pro:obj|her adv|later .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*PAR:	he goes alright see you later .
+%mor:	pro:sub|he v|go-3S adj|alright v|see pro:per|you adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*PAR:	he goes I'll try .
+%mor:	pro:sub|he v|go-3S pro:sub|I~mod|will v|try .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+*PAR:	but xxx [* phon] I'll try if I want to .
+%mor:	conj|but pro:sub|I~mod|will v|try comp|if pro:sub|I v|want prep|to
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*PAR:	but as xxx [* phon] xxx [* phon] oll [: all] [* phon] the day [* u]
+	there better raffle [* u] now .
+%mor:	conj|but prep|as qn|all det:art|the n|day adv|there adj|good&CP
+	n|raffle adv|now .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|8|MOD 6|7|JCT 7|8|MOD 8|2|POBJ
+	9|8|NJCT 10|1|PUNCT
+*PAR:	there's a beautiful [/] beautiful xxx [* phon] .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|beautiful .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	<the bitch> [//] the three bitch xxx [* phon] .
+%mor:	det:art|the det:num|three n|bitch .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&w with ever devery [: every] [* phon] <every day> [/] <every day>
+	[/] every day &uh it's in biddle [: middle] [* phon] of the day xxx
+	[* phon] day [* u] .
+%mor:	prep|with adv|ever qn|every qn|every n|day pro:per|it~cop|be&3S
+	prep|in n|middle prep|of det:art|the n|day n|day .
+%gra:	1|7|LINK 2|3|JCT 3|5|QUANT 4|5|QUANT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|7|PUNCT
+*PAR:	and &s xxx [* phon] beautiful .
+%mor:	coord|and adj|beautiful .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and they're [/] they're beautiful day [* u] beautiful .
+%mor:	coord|and pro:sub|they~aux|be&PRES adj|beautiful n|day
+	adj|beautiful .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|POSTMOD 7|5|PUNCT
+*PAR:	and were I wish it were happy [* u] .
+%mor:	coord|and cop|be&PAST pro:sub|I v|wish pro:per|it cop|be&PAST
+	adj|happy .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|SUBJ 6|4|COMP 7|6|PRED
+	8|2|PUNCT
+*PAR:	we're happy today so we know weren't happy [* u] to &s xxx end of
+	the day [* u] .
+%mor:	pro:sub|we~aux|be&PRES adj|happy adv:tem|today conj|so pro:sub|we
+	v|know cop|be&PAST~neg|not adj|happy inf|to v|end prep|of
+	det:art|the n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
+	9|8|NEG 10|8|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*PAR:	so we're xxx [* phon] make the serberder [* phon] .
+%mor:	co|so pro:sub|we~aux|be&PRES v|make det:art|the ?|serberder .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	this and ever and the ther [* phon] person there today .
+%mor:	pro:dem|this coord|and adv|ever coord|and det:art|the ?|ther
+	n|person adv|there adv:tem|today .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|7|DET 6|7|MOD 7|9|SUBJ
+	8|9|JCT 9|4|COORD 10|1|PUNCT
+*PAR:	the right dav [* phon] something like that well xxx [* phon] xxx
+	[* phon] xxx [* phon] good .
+%mor:	det:art|the adj|right ?|dav pro:indef|something prep|like
+	pro:dem|that n|well adj|good .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|POSTMOD 9|3|PUNCT
+*PAR:	susus [* phon] happy [* u] .
+%mor:	?|susus adj|happy .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	we're [/] we're happy to xxx [* phon] because <they're very> [//] oh
+	the bitch they're pissed off .
+%mor:	pro:sub|we~aux|be&PRES adj|happy prep|to conj|because co|oh
+	det:art|the n|bitch pro:sub|they~aux|be&PRES v|piss-PAST adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|11|LINK 6|11|COM 7|8|DET 8|11|SUBJ
+	9|11|SUBJ 10|11|AUX 11|4|POBJ 12|11|JCT 13|2|PUNCT
+*PAR:	not bad but &uh pretty good I think so .
+%mor:	neg|not adj|bad conj|but adv|pretty adj|good pro:sub|I v|think
+	co|so .
+%gra:	1|2|NEG 2|7|JCT 3|2|CONJ 4|5|JCT 5|3|COORD 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*PAR:	so [//] oh so xxx [* phon] happy [* u] xxx [* phon] I remember them
+	xxx [* phon] long time .
+%mor:	co|oh adv|so adj|happy pro:sub|I v|remember pro:obj|them adj|long
+	n|time .
+%gra:	1|3|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*PAR:	xxx [* phon] the bitch they're pissed off .
+%mor:	det:art|the n|bitch pro:sub|they~aux|be&PRES v|piss-PAST adv|off .
+%gra:	1|2|DET 2|5|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	he said hey we don't care .
+%mor:	pro:sub|he v|say&PAST co|hey pro:sub|we mod|do~neg|not v|care .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|COM 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP 8|2|PUNCT
+*PAR:	but it were mommy and boys [: girls] [* s] word [* u] every day
+	[* u] .
+%mor:	conj|but pro:per|it aux|be&PAST n|mommy coord|and n|girl-PL n|word
+	qn|every n|day .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|7|MOD 7|5|COORD 8|9|QUANT
+	9|4|ENUM 10|4|PUNCT
+*PAR:	we're really happy <every night> [//] <every day> [/] every day .
+%mor:	pro:sub|we~aux|be&PRES adv|real&dadj-LY adj|happy qn|every n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|QUANT 6|2|JCT 7|2|PUNCT
+*PAR:	so we figured &esa hey everything was &uh good [//] &uh very good .
+%mor:	co|so pro:sub|we v|figure-PAST co|hey pro:indef|everything
+	cop|be&PAST&13S adv|very adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|8|JCT 8|6|PRED
+	9|3|PUNCT
+*PAR:	<we're done> [//] we're done .
+%mor:	pro:sub|we~aux|be&PRES part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] you're done .
+%mor:	pro:per|you~aux|be&PRES part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	I think so .
+%mor:	pro:sub|I v|think co|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

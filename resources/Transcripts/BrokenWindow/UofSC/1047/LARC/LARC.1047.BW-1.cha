@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	LARC.1047.BW-1 video
+*PAR:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	he files [* u] the pay [* u] panuh [* phon] .
+%mor:	pro:sub|he v|file-3S det:art|the n|pay ?|panuh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|PUNCT
+*PAR:	and that the pastuz [* phon] getting in .
+%mor:	coord|and comp|that det:art|the ?|pastuz part|get-PRESP adv|in .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	hits the bans [* phon] xxx [* phon] .
+%mor:	v|hit-3S det:art|the n|ban-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	full [* u] in the dance [* u] xxx [* phon] .
+%mor:	adj|full prep|in det:art|the n|dance .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@End

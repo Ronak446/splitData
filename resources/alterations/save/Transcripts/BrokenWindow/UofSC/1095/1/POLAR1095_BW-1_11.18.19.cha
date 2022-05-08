@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1095.BW-1 video
+@Time Duration:	00:01:16
+*PAR:	no [/] no [/] no [/] no [/] no one two three &uh okay .
+%mor:	co|no det:num|one det:num|two det:num|three adj|okay .
+*PAR:	one xxx [* phon] &uh xxx [* phon] &uh &ah xxx [* phon] .
+%mor:	det:num|one .
+*PAR:	&uh xxx [* phon] yes xxx [* phon] .
+%mor:	co|yes .
+*PAR:	why &um xxx [* phon] &um xxx [* phon] &uh xxx [* phon] .
+%mor:	pro:rel|why .
+*PAR:	xxx &uh one two three xxx [* phon] xxx [* phon] .
+%mor:	det:num|one det:num|two det:num|three .
+*PAR:	no [/] no [/] no one two three .
+%mor:	co|no det:num|one det:num|two det:num|three .
+*PAR:	&uh one xxx [* phon] .
+%mor:	det:num|one .
+*PAR:	xxx [* phon] yes xxx [* phon] .
+%mor:	co|yes .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	oh okay xxx [* phon] yes [/] &uh yes okay .
+%mor:	co|oh co|okay co|yes co|okay .
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+@End

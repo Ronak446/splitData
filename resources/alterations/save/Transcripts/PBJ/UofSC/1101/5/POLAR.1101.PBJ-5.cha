@@ -1,0 +1,21 @@
+@UTF8
+@Window:	45_366_755_916_0_0_129_0_129_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	POLAR.1101.PBJ-5, video
+*PAR:	you have to have two [/] two &p paices [: pieces] [* phon] of &bai
+	bed [: bread] [* phon] and peadut+butter [: peanut+butter] [* phon]
+	and belly [:  jelly] [* phon] .
+%mor:	pro:per|you v|have inf|to v|have det:num|two n|piece-PL prep|of
+	n|bread coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|6|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|2|PUNCT
+*PAR:	and then you <ket [: get] [* phon] it all> [//] put it all together
+	.
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO pro:per|it adv|all
+	adv|together .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|JCT 8|4|PUNCT
+@End

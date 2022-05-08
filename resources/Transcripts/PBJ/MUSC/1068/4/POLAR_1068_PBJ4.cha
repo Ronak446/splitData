@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR_1068_PBJ4 video
+*PAR:	big_one [* u] here and bid [: big] [* phon] &w ot [* phon] xxx
+	[* phon] <and &td out> [/] and out today .
+%mor:	?|big_one adv|here coord|and adj|big ?|ot coord|and adv|out
+	adv:tem|today .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|CONJ 4|3|COORD 5|4|ENUM 6|5|CONJ 7|8|JCT
+	8|6|COORD 9|1|PUNCT
+*PAR:	one [/] one [//] two black [/] black [* u] as blues [* u] .
+%mor:	det:num|two n|black prep|as n|blue-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and here the two today .
+%mor:	coord|and adv|here det:art|the det:num|two adv:tem|today .
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*PAR:	big_one [* u] xxx [* phon] eat it for big_one [* phon] one today ol
+	[* phon] daday [* phon] .
+%mor:	?|big_one v|eat pro:per|it prep|for ?|big_one det:num|one
+	adv:tem|today ?|ol adj|dada&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|7|QUANT 7|5|JCT 8|7|OBJ
+	9|8|PRED 10|2|PUNCT
+@End

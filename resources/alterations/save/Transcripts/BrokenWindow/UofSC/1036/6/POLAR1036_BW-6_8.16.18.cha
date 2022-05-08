@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:19
+@Media:	1036_BW6 video
+*PAR:	ball &um the ball &b going .
+%mor:	v|ball det:art|the n|ball part|go-PRESP .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|XMOD 5|1|PUNCT
+*PAR:	<the ball hitting> [//] no <the ball> [/] &m <the ball> [/] &um the
+	ball &um the wall [* phon] &um &j &um the ball &um hitting the boy .
+%mor:	qn|no det:art|the n|ball det:art|the n|wall det:art|the n|ball
+	part|hit-PRESP det:art|the n|boy .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	the ball .
+%mor:	det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	yeah &um hitting the boy .
+%mor:	co|yeah part|hit-PRESP det:art|the n|boy .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&um <the ball> [/] &um the ball .
+%mor:	det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the ball &um the man &um .
+%mor:	det:art|the n|ball det:art|the n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the ball hitting the boy &um &hm .
+%mor:	det:art|the n|ball part|hit-PRESP det:art|the n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	the [/] &um the man going the ball &um .
+%mor:	det:art|the n|man part|go-PRESP det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

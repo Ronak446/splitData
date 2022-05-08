@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	POLAR_1052_BW2 video
+*PAR:	the man on the bowling [* u] kicking the ball .
+%mor:	det:art|the n|man prep|on det:art|the n:gerund|bowl-PRESP
+	part|kick-PRESP det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|XMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	he hit the window .
+%mor:	pro:sub|he v|hit&ZERO det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the man he hit the ball in the wundow [: window] [* phon] .
+%mor:	det:art|the n|man pro:sub|he v|hit&ZERO det:art|the n|ball prep|in
+	det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	<the man gone ourt [: out] [* phon] there> [//] &um the man going
+	out there afonta [: front] [* phon] &h with the window .
+%mor:	det:art|the n|man part|go-PRESP adv|out adv|there n|front prep|with
+	det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+@End

@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	POLAR_1043_PBJ2_R2 video
+@Comment:	Perseveration.
+*PAR:	two pepsa [: people] [* phon] &pe perts [: person] [* phon] presion
+	[: person] [* phon] people [* u] from the commercial [* u] .
+%mor:	det:num|two n|person&PL n|person n|person n|person&PL prep|from
+	det:art|the n|commercial .
+%gra:	1|5|QUANT 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	bet [* u] firl [: girl] [* phon] girl [* u] people [* u] mershies
+	[: commercial] [* phon] .
+%mor:	v|bet&ZERO n|girl n|girl n|person&PL n|commercial .
+%gra:	1|0|ROOT 2|5|MOD 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*PAR:	left [* u] commercial [* u] together .
+%mor:	adj|left n|commercial adv|together .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	are commercials [* u] ten [* u] and commercial [* u] akrom
+	[: chrome] [* phon] chrome [* u] people [* u] together .
+%mor:	cop|be&PRES n|commercial-PL det:num|ten coord|and adj|commercial
+	n|chrome n|chrome n|person&PL adv|together .
+%gra:	1|0|ROOT 2|1|PRED 3|9|QUANT 4|3|CONJ 5|8|MOD 6|8|MOD 7|8|MOD 8|4|COORD
+	9|2|NJCT 10|1|PUNCT
+*PAR:	so it's a good commercial [* u] kem [* phon] .
+%mor:	co|so pro:per|it~cop|be&3S det:art|a adj|good n|commercial ?|kem .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|XMOD 8|3|PUNCT
+*PAR:	I can't xxx [* phon] here &um the <pummercial [: commercial]
+	[* phon] &peop> [//] commercial s-t-t [* phon] people [* u] .
+%mor:	pro:sub|I mod|can~neg|not adv|here det:art|the n|commercial ?|s-t-t
+	n|person&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|8|JCT 5|6|DET 6|8|MOD 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+*PAR:	that was terrible .
+%mor:	pro:dem|that cop|be&PAST&13S adj|terrible .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_439_0_439_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	POLAR_1109_5_BrokenWindow_9.11.2020_z, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<a &ba> [//] a boy was playing kickball outside .
+%mor:	det:art|a n|boy aux|be&PAST&13S part|play-PRESP n|kickball
+	n|outside .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	he kicked the ball and it hit somebody window .
+%mor:	pro:sub|he v|kick-PAST det:art|the n|ball coord|and pro:per|it
+	v|hit&ZERO pro:indef|somebody n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+*PAR:	the ball went through the window and broke it .
+%mor:	det:art|the n|ball v|go&PAST prep|through det:art|the n|window
+	coord|and v|break&PAST pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*PAR:	the man &um saw the ball broke the window .
+%mor:	det:art|the n|man v|see&PAST det:art|the n|ball v|break&PAST
+	det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and then he [/] &um he pick the ball up .
+%mor:	coord|and adv:tem|then pro:sub|he v|pick det:art|the n|ball adv|up
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and was looking out the window to see where the ball came from .
+%mor:	coord|and aux|be&PAST&13S part|look-PRESP prep|out det:art|the
+	n|window inf|to v|see pro:int|where det:art|the n|ball v|come&PAST
+	prep|from .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|INF 8|3|XJCT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|COMP 13|12|JCT 14|3|PUNCT
+@End

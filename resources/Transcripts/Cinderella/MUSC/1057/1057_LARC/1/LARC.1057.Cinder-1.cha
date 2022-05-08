@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1057_LARC_1_Cinderella_December-3rd-2019-10-48-48-am video
+*PAR:	he [/] he &uh xxx [* phon] .
+%mor:	pro:sub|he .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	have a xxx [* phon] .
+%mor:	v|have det:art|a .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	a photo [/] photo .
+%mor:	det:art|a n|photo .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+@End

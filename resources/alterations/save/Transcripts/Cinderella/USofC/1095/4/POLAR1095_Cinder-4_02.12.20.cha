@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1095.Cind-4 video
+@Time Duration:	00:01:13
+*PAR:	okay &uh xxx [* phon] yes xxx [* phon] .
+%mor:	co|okay co|yes .
+*PAR:	and &uh xxx [* phon] one xxx [* phon] .
+%mor:	coord|and det:num|one .
+*PAR:	xxx [* phon] xxx [* phon] &mm &mmm .
+*PAR:	hey xxx [* phon] xxx [* phon] .
+%mor:	co|hey .
+*PAR:	and &um xxx [* phon] yes xxx [* phon] .
+%mor:	coord|and co|yes .
+*PAR:	and xxx yes xxx [* phon] why [/] why xxx [* phon] .
+%mor:	coord|and co|yes pro:rel|why .
+*PAR:	hey xxx [* phon] .
+%mor:	co|hey .
+*PAR:	so xxx [* phon] &ahh no [/] no [/] no xxx [* phon] .
+%mor:	co|so co|no .
+*PAR:	hey xxx [* phon] &uh &uh &d oh xxx [* phon] .
+%mor:	co|hey co|oh .
+*PAR:	&oooh xxx [* phon] .
+*PAR:	oh xxx [* phon] no [/] no [/] no one xxx [* phon] .
+%mor:	co|oh co|no pro:indef|one .
+*PAR:	oh xxx [* phon] .
+%mor:	co|oh .
+*PAR:	hey xxx [* phon] xxx [* phon] .
+%mor:	co|hey .
+*PAR:	no xxx [* phon] no .
+%mor:	co|no co|no .
+*PAR:	yes xxx [* phon] &ah yes xxx [* phon] .
+%mor:	co|yes co|yes .
+@End

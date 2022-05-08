@@ -1,0 +1,24 @@
+@UTF8
+@Window:	0_0_0_0_0_0_363_0_363_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:57
+@Media:	1102_1_PBJ_February-5th-2020-1-59-10-pm, video
+*PAR:	&buh &uh <spone [* u] fish [* u]> [//] no sorry .
+%mor:	co|no co|sorry .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um banana [* s] [//] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stoop [: scoop] [* phon] spread it jelly benut+butter
+	[: peanut+butter] [* phon] bread &um &pe pumpanickel
+	[: pumpernickel] [* phon] .
+%mor:	n|scoop v|spread&ZERO pro:per|it n|jelly n|+n|peanut+n|butter
+	n|bread n|pumpernickel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|7|MOD 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+*PAR:	yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	1050_PBJ2_R2 video
+*PAR:	says xxx [* phon] soo [* phon] .
+%mor:	v|say-3S ?|soo .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	oh &j joo [* phon] .
+%mor:	co|oh ?|joo .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	and waiz [* phon] &uh zooch [* phon] .
+%mor:	coord|and ?|waiz ?|zooch .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] da [* phon] .
+@End

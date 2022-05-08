@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:05
+@Media:	1039_BW3 video
+*PAR:	ball &uh bootball [* phon] [//] no .
+%mor:	n|ball co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	ball walker [* s] talker [* u] &eh &uh booh [* phon] .
+%mor:	n|ball n|walk&dv-AGT n|talk&dv-AGT ?|booh .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&uh ball window winnow [* phon] .
+%mor:	n|ball n|window v|winnow .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	no yeah .
+%mor:	co|no co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	window pane .
+%mor:	n|window n|pane .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	walker [* s] .
+%mor:	n|walk&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	uhboohduh [* phon] [//] dod [* phon] .
+%mor:	?|dod .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ball [/] ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

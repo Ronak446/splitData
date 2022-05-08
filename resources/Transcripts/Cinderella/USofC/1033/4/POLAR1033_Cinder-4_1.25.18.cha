@@ -1,0 +1,264 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:18
+@Media:	1033_Cinderella4 video
+
+*PAR:	okay <Cinderella &i> [//] the story of Cinderella is about &uh a [/]
+	a lady [//] young lady that was very beautiful .
+%mor:	co|okay det:art|the n|story prep|of n:prop|Cinderella cop|be&3S
+	prep|about det:art|a adj|young n|lady pro:rel|that cop|be&PAST&13S
+	adv|very adj|beautiful .
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|LINK 12|10|CMOD 13|14|JCT 14|12|PRED 15|6|PUNCT
+*PAR:	and she had &um &uh she had an invitement [* phon] to &uh come look
+	and <to wear her uniform [* s]> [//] to <wear her dress> [/] not her
+	uniform wear her dress and talk to the people &uh at where she was
+	located and tell them the &s Cinderella story [* u] .
+%mor:	coord|and pro:sub|she v|have&PAST pro:sub|she v|have&PAST det:art|a
+	?|invitement inf|to v|come v|look coord|and prep|to neg|not
+	det:poss|her adj|uniform v|wear det:poss|her n|dress coord|and
+	n|talk prep|to det:art|the n|person&PL prep|at adv:int|where
+	pro:sub|she aux|be&PAST&13S part|locate-PASTP coord|and v|tell
+	pro:obj|them det:art|the n:prop|Cinderella n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|9|INF
+	9|7|XMOD 10|9|OBJ 11|10|CONJ 12|11|COORD 13|16|NEG 14|15|MOD 15|16|SUBJ
+	16|12|CPOBJ 17|18|MOD 18|16|OBJ 19|18|CONJ 20|19|COORD 21|20|NJCT
+	22|23|DET 23|21|POBJ 24|16|JCT 25|28|LINK 26|28|SUBJ 27|28|AUX 28|24|CPOBJ
+	29|28|CONJ 30|29|COORD 31|30|OBJ2 32|34|DET 33|34|MOD 34|30|OBJ 35|3|PUNCT
+*PAR:	&uh Cinderella was not a person that was [//] &uh thought that she
+	was gonna be involved in the what was going on .
+%mor:	n:prop|Cinderella aux|be&PAST&13S neg|not det:art|a n|person
+	pro:rel|that v|think&PAST pro:rel|that pro:sub|she aux|be&PAST&13S
+	mod:aux|gonna aux|be part|involve-PASTP prep|in det:art|the
+	pro:int|what aux|be&PAST&13S part|go-PRESP adv|on .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|DET 5|0|INCROOT 6|7|LINK 7|5|CMOD
+	8|13|LINK 9|13|SUBJ 10|13|AUX 11|13|AUX 12|13|AUX 13|7|COMP 14|13|JCT 15|18|DET
+	16|18|SUBJ 17|18|AUX 18|14|POBJ 19|18|JCT 20|5|PUNCT
+*PAR:	but she thought she was gonna
+	be somebody that just entered and told <the story [* u]> [//] or
+	what appeared to be the story [* u] .
+%mor:	conj|but pro:sub|she v|think&PAST pro:sub|she aux|be&PAST&13S
+	mod:aux|gonna cop|be pro:indef|somebody pro:rel|that adv|just
+	part|enter-PASTP coord|and v|tell&PAST coord|or pro:int|what
+	v|appear-PAST inf|to cop|be det:art|the n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|COMP 8|7|PRED
+	9|11|LINK 10|11|JCT 11|8|CMOD 12|11|CONJ 13|12|COORD 14|16|LINK
+	15|16|SUBJ 16|13|COMP 17|18|INF 18|16|COMP 19|20|DET 20|18|PRED 21|3|PUNCT
+*PAR:	but Cinderella became an actor
+	[* u] in the story [* u] and a participator [* u] .
+%mor:	conj|but n:prop|Cinderella cop|become&PAST det:art|a n|actor
+	prep|in det:art|the n|story coord|and det:art|a ?|participator .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|11|DET 11|9|COORD 12|3|PUNCT
+*PAR:	and so what she got to do is tell the story as it really happened to
+	her .
+%mor:	coord|and co|so pro:int|what pro:sub|she v|get&PAST inf|to v|do
+	cop|be&3S v|tell det:art|the n|story prep|as pro:per|it
+	adv|real&dadj-LY v|happen-PAST prep|to pro:obj|her .
+%gra:	1|5|LINK 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|INF 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|12|POBJ 14|15|JCT 15|9|COMP
+	16|15|JCT 17|16|POBJ 18|5|PUNCT
+*PAR:	to her what really happened was she was taken to look at &uh the
+	Cinderella equipment [* s] and the people that were involved .
+%mor:	prep|to det:poss|her det:int|what adv|real&dadj-LY v|happen-PAST
+	cop|be&PAST&13S pro:sub|she aux|be&PAST&13S part|take&PASTP inf|to
+	cop|look prep|at det:art|the n:prop|Cinderella n|equipment coord|and
+	det:art|the n|person&PL pro:rel|that aux|be&PAST part|involve-PASTP
+	.
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|5|JCT 5|3|CMOD 6|9|AUX 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|11|CONJ 17|18|DET 18|16|COORD 19|21|LINK 20|21|AUX 21|18|CMOD
+	22|1|PUNCT
+*PAR:	and she did that .
+%mor:	coord|and pro:sub|she v|do&PAST pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and in doing so &th they got to explaining what they wanted her to
+	do .
+%mor:	coord|and prep|in n:gerund|do-PRESP adv|so pro:sub|they v|get&PAST
+	prep|to n:gerund|explain-PRESP pro:int|what pro:sub|they v|want-PAST
+	pro:obj|her inf|to v|do .
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|COBJ 12|11|OBJ 13|14|INF 14|11|COMP 15|6|PUNCT
+*PAR:	what they really wanted her to do was &ex do the Cinderella story
+	[* u] .
+%mor:	pro:int|what pro:sub|they adv|real&dadj-LY v|want-PAST pro:obj|her
+	inf|to v|do aux|be&PAST&13S v|do det:art|the n:prop|Cinderella
+	n|story .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|7|INF 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|4|PUNCT
+*PAR:	but they did not want her to participate .
+%mor:	conj|but pro:sub|they mod|do&PAST neg|not v|want pro:obj|her inf|to
+	v|participate .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|5|PUNCT
+*PAR:	but when she started participating she became the leader [* u] of
+	the information [* u] that she was bringing to them .
+%mor:	conj|but conj|when pro:sub|she v|start-PAST
+	n:gerund|participate-PRESP pro:sub|she cop|become&PAST det:art|the
+	n|lead&dv-AGT prep|of det:art|the n|information pro:rel|that
+	pro:sub|she aux|be&PAST&13S part|bring-PRESP prep|to pro:obj|them .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CMOD 17|16|JCT 18|17|POBJ 19|7|PUNCT
+*PAR:	being the leader [* u] means she was a highly person that was being
+	decorated [* s] .
+%mor:	n:gerund|be-PRESP det:art|the n|lead&dv-AGT v|mean-3S pro:sub|she
+	cop|be&PAST&13S det:art|a adv|high&dadj-LY n|person pro:rel|that
+	aux|be&PAST&13S aux|be-PRESP part|decorate-PASTP .
+%gra:	1|4|XJCT 2|3|DET 3|1|OBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|13|LINK 11|13|AUX 12|13|AUX 13|9|CMOD 14|4|PUNCT
+*PAR:	she got to tell about <what it> [//] where she was located and what
+	all was involved and what houses [* u] it was involved and
+	everything about it .
+%mor:	pro:sub|she v|get&PAST inf|to v|tell adv|about adv:int|where
+	pro:sub|she aux|be&PAST&13S part|locate-PASTP coord|and pro:int|what
+	adv|all aux|be&PAST&13S part|involve-PASTP coord|and det:int|what
+	v|house-3S pro:per|it aux|be&PAST&13S part|involve-PASTP coord|and
+	pro:indef|everything prep|about pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|9|CONJ 11|10|COORD 12|13|JCT 13|11|COMP 14|17|XJCT 15|17|LINK
+	16|17|SUBJ 17|13|PRED 18|17|OBJ 19|20|AUX 20|17|ROOT 21|20|CONJ
+	22|21|COORD 23|22|NJCT 24|23|POBJ 25|20|PUNCT
+*PAR:	and she enjoyed it .
+%mor:	coord|and pro:sub|she v|enjoy-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and doing the enjoyment of it she got to decorate [* s] .
+%mor:	coord|and part|do-PRESP det:art|the n|enjoyment prep|of pro:per|it
+	pro:sub|she v|get&PAST inf|to v|decorate .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|8|PUNCT
+*PAR:	and Cinderella part of the decoration [* s] is putting on the shoe
+	that was so bright and so beyond any other shoe that you could wear .
+%mor:	coord|and n:prop|Cinderella n|part prep|of det:art|the n|decoration
+	aux|be&3S part|put-PRESP prep|on det:art|the n|shoe pro:rel|that
+	cop|be&PAST&13S adv|so adj|bright coord|and adv|so prep|beyond
+	qn|any qn|other n|shoe pro:rel|that pro:per|you mod|could v|wear .
+%gra:	1|8|LINK 2|3|MOD 3|8|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|15|JCT 15|13|PRED
+	16|13|CONJ 17|18|JCT 18|16|COORD 19|21|QUANT 20|21|QUANT 21|18|POBJ
+	22|25|LINK 23|25|SUBJ 24|25|AUX 25|21|CMOD 26|8|PUNCT
+*PAR:	that she did that .
+%mor:	pro:rel|that pro:sub|she v|do&PAST pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and when she did that she became Cinderella .
+%mor:	coord|and conj|when pro:sub|she v|do&PAST pro:rel|that pro:sub|she
+	cop|become&PAST n:prop|Cinderella .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+*PAR:	and <Cinderella was> [//] then she was invited to dance with a good
+	looking man that was there that was about her age .
+%mor:	coord|and adv:tem|then pro:sub|she aux|be&PAST&13S
+	part|invite-PASTP inf|to v|dance prep|with det:art|a adj|good
+	n:gerund|look-PRESP n|man pro:rel|that cop|be&PAST&13S adv|there
+	pro:rel|that cop|be&PAST&13S prep|about det:poss|her n|age .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|14|LINK 14|12|CMOD 15|14|JCT
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+*PAR:	and she did that .
+%mor:	coord|and pro:sub|she v|do&PAST pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	but <she got &in> [//] she got instructions with this dancing [* s] .
+%mor:	conj|but pro:sub|she v|get&PAST n|instruction-PL prep|with
+	pro:dem|this part|dance-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	she could not go beyond the time of midnight .
+%mor:	pro:sub|she mod|could neg|not v|go prep|beyond det:art|the n|time
+	prep|of mid#n|night&dn .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	if she went beyond midnight she'd turn back into the person that she
+	was before which was just an ordinary person .
+%mor:	conj|if pro:sub|she v|go&PAST prep|beyond mid#n|night&dn
+	pro:sub|she~mod|genmod v|turn adv|back prep|into det:art|the
+	n|person pro:rel|that pro:sub|she cop|be&PAST&13S adv|before
+	pro:rel|which cop|be&PAST&13S adv|just det:art|a n|ordinary n|person
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|JCT 5|4|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|15|JCT 17|18|LINK 18|8|CJCT 19|22|JCT 20|22|DET 21|22|MOD 22|18|PRED
+	23|8|PUNCT
+*PAR:	well she went beyond it .
+%mor:	co|well pro:sub|she v|go&PAST prep|beyond pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	when she went beyond it she became the ordinary person that she had
+	been previously .
+%mor:	conj|when pro:sub|she v|go&PAST prep|beyond pro:per|it pro:sub|she
+	cop|become&PAST det:art|the adj|ordinary n|person pro:rel|that
+	pro:sub|she aux|have&PAST cop|be&PASTP adv|previous&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|7|PUNCT
+*PAR:	now she had been highly decorated [* s] .
+%mor:	adv|now pro:sub|she aux|have&PAST cop|be&PASTP adv|high&dadj-LY
+	v|decorate-PAST .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*PAR:	and she was the outstanding person in the community .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S det:art|the adj|outstanding
+	n|person prep|in det:art|the n|community .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and all way around she was to be person .
+%mor:	coord|and qn|all n|way prep|around pro:sub|she cop|be&PAST&13S
+	inf|to cop|be n|person .
+%gra:	1|6|LINK 2|3|QUANT 3|6|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|6|PUNCT
+*PAR:	and all of a sudden she lost all that .
+%mor:	coord|and pro:indef|all prep|of det:art|a n|sudden pro:sub|she
+	v|lose&PAST adv|all pro:dem|that .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and it went back to the original people that had possession of it .
+%mor:	coord|and pro:per|it v|go&PAST adv|back prep|to det:art|the
+	adj|original n|person&PL pro:rel|that v|have&PAST n|possession
+	prep|of pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|LINK 10|8|CMOD 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*PAR:	well in doing so Cinderella lost the person that she was with .
+%mor:	co|well adv|in n:gerund|do-PRESP adv|so n:prop|Cinderella
+	v|lose&PAST det:art|the n|person pro:rel|that pro:sub|she
+	cop|be&PAST&13S prep|with .
+%gra:	1|3|COM 2|3|JCT 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|6|PUNCT
+*PAR:	now she was with a lady that was a &ki queen [* s] of a lady .
+%mor:	adv|now pro:sub|she cop|be&PAST&13S prep|with det:art|a n|lady
+	pro:rel|that cop|be&PAST&13S det:art|a n|queen prep|of det:art|a
+	n|lady .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|PRED 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and the queen [* s] of the lady she tried to explain to her which
+	she was not too good at .
+%mor:	coord|and det:art|the n|queen prep|of det:art|the n|lady
+	pro:sub|she v|try-PAST inf|to v|explain prep|to pro:obj|her
+	pro:rel|which pro:sub|she aux|be&PAST&13S neg|not adv|too adj|good
+	prep|at .
+%gra:	1|8|LINK 2|3|DET 3|8|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|18|LINK 14|18|SUBJ 15|18|AUX
+	16|15|NEG 17|18|JCT 18|12|COMP 19|18|JCT 20|8|PUNCT
+*PAR:	but she tried to explain to her what had taken place .
+%mor:	conj|but pro:sub|she v|try-PAST inf|to v|explain prep|to
+	pro:obj|her pro:int|what aux|have&PAST part|take&PASTP n|place .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|11|MOD 8|10|SUBJ
+	9|10|AUX 10|11|MOD 11|6|POBJ 12|3|PUNCT
+*PAR:	but the story is that Cinderella got to be a queen and a big queen .
+%mor:	conj|but det:art|the n|story cop|be&3S pro:rel|that
+	n:prop|Cinderella v|get&PAST inf|to cop|be det:art|a n|queen
+	coord|and det:art|a adj|big n|queen .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|PRED 8|9|INF
+	9|7|COMP 10|11|DET 11|9|PRED 12|11|CONJ 13|15|DET 14|15|MOD 15|12|COORD
+	16|4|PUNCT
+*PAR:	but she lost it when it became midnight .
+%mor:	conj|but pro:sub|she v|lose&PAST pro:per|it conj|when pro:per|it
+	cop|become&PAST mid#n|night&dn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|PRED
+	9|3|PUNCT
+*PAR:	and she [//] then the story ended .
+%mor:	coord|and adv:tem|then det:art|the n|story v|end-PAST .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and she was able to tell it .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|able inf|to v|tell
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|OBJ 8|3|PUNCT
+@End

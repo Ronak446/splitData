@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	1027_PBJ1 video
+*PAR:	may [* u] &um .
+%mor:	mod|may .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&eh mandus [* u] .
+%mor:	?|mandus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and macon [* u] .
+%mor:	coord|and ?|macon .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &uh xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

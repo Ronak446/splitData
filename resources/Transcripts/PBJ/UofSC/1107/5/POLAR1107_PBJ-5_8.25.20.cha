@@ -1,0 +1,111 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1107_PBJ-5_8.25.20 video
+@Time Duration:	00:02:59
+*PAR:	in order &t to make a peanut+butter and jelly sandwich you have to
+	have three ingredients .
+%mor:	prep|in n|order inf|to v|make det:art|a n|+n|peanut+n|butter
+	coord|and n|jelly n|sandwich pro:per|you v|have inf|to v|have
+	det:num|three n|ingredient-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|INF 4|1|CPOBJ 5|9|DET 6|9|MOD 7|6|CONJ
+	8|7|COORD 9|4|OBJ 10|11|SUBJ 11|9|CMOD 12|13|INF 13|11|COMP 14|15|QUANT
+	15|13|OBJ 16|1|PUNCT
+*PAR:	you need &uh a [/] &b a bread .
+%mor:	pro:per|you v|need det:art|a n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	you need peanut+butter .
+%mor:	pro:per|you v|need n|+n|peanut+n|butter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and you need jelly .
+%mor:	coord|and pro:per|you v|need n|jelly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	so first you take out the butter [//] I mean the bread .
+%mor:	adv|so adj|first pro:per|you v|take prep|out det:art|the pro:sub|I
+	v|mean det:art|the n|bread .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|SUBJ 8|5|CPOBJ
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	you need three [: two] [* s] slices .
+%mor:	pro:per|you v|need det:num|two n|slice-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	and you take the first .
+%mor:	coord|and pro:per|you v|take det:art|the adj|first .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and you also need &uh to open up your peanut+butter <and your> [//]
+	and the jelly .
+%mor:	coord|and pro:per|you adv|also v|need inf|to v|open prep|up
+	det:poss|your n|+n|peanut+n|butter coord|and det:art|the n|jelly .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|DET 12|10|COORD 13|4|PUNCT
+*PAR:	and you [/] you also need a knife .
+%mor:	coord|and pro:per|you adv|also v|need det:art|a n|knife .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and you take the &uh peanut+butter out and <put it> [//] spread it
+	across the first the &s &s slisa [//] slice of butter [//] of [/] of
+	bread .
+%mor:	coord|and pro:per|you v|take det:art|the n|+n|peanut+n|butter
+	adv|out coord|and v|spread&ZERO pro:per|it prep|across det:art|the
+	adv|first det:art|the n|slice prep|of prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|JCT 17|16|POBJ 18|3|PUNCT
+*PAR:	and you &f &s spread it across the a the whole &s slice of butter
+	[//] &b bread .
+%mor:	coord|and pro:per|you v|spread&ZERO pro:per|it prep|across
+	det:art|the det:art|a det:art|the adj|whole n|slice prep|of n|bread
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|10|DET 7|10|DET 8|10|DET
+	9|10|MOD 10|5|POBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*PAR:	then you take out some jelly and cover it on top of the
+	peanut+butter .
+%mor:	adv:tem|then pro:per|you v|take adv|out qn|some n|jelly coord|and
+	v|cover pro:per|it prep|on n|top prep|of det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and spread it all the way around it .
+%mor:	coord|and v|spread&ZERO pro:per|it adv|all det:art|the n|way
+	prep|around pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|6|JCT 5|6|DET 6|2|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*PAR:	then you pick up the second slice of bread .
+%mor:	adv:tem|then pro:per|you v|pick adv|up det:art|the adj|second
+	n|slice prep|of n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and put it on top of the jelly .
+%mor:	coord|and v|put&ZERO pro:per|it prep|on n|top prep|of det:art|the
+	n|jelly .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and take your knife slide it in &s slide and cut the butter
+	[: bread] [* u] in half .
+%mor:	coord|and v|take det:poss|your n|knife n|slide pro:per|it prep|in
+	n|slide coord|and v|cut&ZERO det:art|the n|bread prep|in n|half .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|OBJ 7|6|JCT 8|7|POBJ
+	9|2|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|2|PUNCT
+*PAR:	and you get a cup of <old but> [//] <old bread> [//] &uh cold white
+	milk .
+%mor:	coord|and pro:per|you v|get det:art|a n|cup prep|of n|cold n|white
+	n|milk .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	and you eat its first slice of peanut+butter [//] I mean butter
+	[: peanut+butter] [* s] and [/] and eat it .
+%mor:	coord|and pro:per|you v|eat det:poss|its adj|first n|slice prep|of
+	pro:sub|I adj|mean n|+n|peanut+n|butter coord|and v|eat pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|10|MOD
+	9|10|MOD 10|7|POBJ 11|3|CONJ 12|11|COORD 13|12|OBJ 14|3|PUNCT
+*PAR:	and then get the second sleece [: slice] [* phon] and eat it .
+%mor:	coord|and adv:tem|then v|get det:art|the adj|second n|slice
+	coord|and v|eat pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*PAR:	then you lay back and rub your stomach .
+%mor:	adv:tem|then pro:per|you v|lay n|back coord|and v|rub det:poss|your
+	n|stomach .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+@End

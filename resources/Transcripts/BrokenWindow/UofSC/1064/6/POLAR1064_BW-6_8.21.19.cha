@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:03
+@Media:	1064_6_BrokenWindow_August-21st-2019-1-53-23-pm video
+*PAR:	&um &eh gah [//] ball &um gick [: kick] [* phon] .
+%mor:	n|ball v|kick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	no [/] no [/] no [/] no [/] no dats [* phon] beakand [: broken]
+	[* phon] ginjo [: window] [* phon] .
+%mor:	qn|no ?|dats part|break&PASTP n|window .
+%gra:	1|4|QUANT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&d man &b pyo [//] &um ko [//] &um caught ze [: the] [* phon] gall
+	[: ball] [* phon] .
+%mor:	n|man v|catch&PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and I don't know that &b gory [* phon] dats [* phon] beak [: break]
+	[* phob] &um ba [//] &um call &um no .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:dem|that
+	adj|gore&dn-Y ?|dats v|break n|call co|no .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|DET 7|10|MOD 8|10|MOD
+	9|10|MOD 10|5|OBJ 11|10|COM 12|5|PUNCT
+*PAR:	&b &um beakand [* phon] cal [* phon] no &m &laugh .
+%mor:	?|beakand ?|cal co|no .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|COM 4|1|PUNCT
+*PAR:	&um wo [: no] [* phon] way break and bral [* phon] and bro [: no]
+	[* phon] way &um no .
+%mor:	qn|no n|way v|break coord|and ?|bral coord|and qn|no n|way co|no .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|CONJ 7|8|QUANT
+	8|6|COORD 9|8|COM 10|3|PUNCT
+@End

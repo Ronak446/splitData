@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	POLAR_1063_PBJ1 video
+*PAR:	awa [* phon] &ye yes well yes we love you yeah .
+%mor:	?|awa co|yes co|well co|yes pro:sub|we v|love pro:per|you co|yeah .
+%gra:	1|6|LINK 2|6|COM 3|6|COM 4|6|COM 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|COM
+	9|6|PUNCT
+*PAR:	&uh oh man &uh yeah .
+%mor:	co|oh n|man co|yeah .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

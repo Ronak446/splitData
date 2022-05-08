@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1103_1_BrokenWindow_February-5th-2020-9-59-16-am video
+@Time Duration:	00:00:20
+*PAR:	the boy is kicking the ball into the window .
+%mor:	det:art|the n|boy aux|be&3S part|kick-PRESP det:art|the n|ball
+	prep|into det:art|the n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	which ends onto the guy's lap .
+%mor:	pro:int|which n|end-PL prep|onto det:art|the adj|guy&dn-POSS n|lap
+	.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	and he's looking for who kicked the ball .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|for pro:int|who
+	v|kick-PAST det:art|the n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|CPOBJ 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+@End

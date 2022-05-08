@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1005_6_PBJ_Y2017_M06_D12_H11_M30_S35 video
+*PAR:	peanut [* s] .
+%mor:	n|peanut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut+butter <peanut+butter> [/] and jelly .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and peanut+butter and jelly .
+%mor:	coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and brind [* phon] it good .
+%mor:	coord|and ?|brind pro:per|it adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|PRED 5|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

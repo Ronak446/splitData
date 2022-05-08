@@ -1,0 +1,82 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:41
+*PAR:	Cinderella is poor [/] poor and maid or [* s] [//] but I mean .
+%mor:	n:prop|Cinderella cop|be&3S adj|poor coord|and n|maid conj|but
+	pro:sub|I v|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|8|LINK 7|8|SUBJ
+	8|2|CJCT 9|2|PUNCT
+*PAR:	xxx .
+*PAR:	talls [* u] and dance .
+%mor:	n:adj|tall-PL coord|and n|dance .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and &um it's remen [* phon] of [//] or the dance .
+%mor:	coord|and pro:per|it~cop|be&3S ?|remen coord|or det:art|the n|dance
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|7|DET 7|5|COORD
+	8|3|PUNCT
+*PAR:	and fairy tale .
+%mor:	coord|and n|fairy n|tale .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	well &o wish [//] wished to .
+%mor:	adv|well v|wish-PAST prep|to .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	&re Cinderella is [/] is dancing pars [* phon] to the dance and
+	dancing with the &tr prince .
+%mor:	n:prop|Cinderella aux|be&3S part|dance-PRESP n|par-PL prep|to
+	det:art|the n|dance coord|and part|dance-PRESP prep|with det:art|the
+	n|prince .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and he touch short [* u] wood xxx wood .
+%mor:	coord|and pro:sub|he v|touch adj|short n|wood n|wood .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	dancing with the [/] the prince .
+%mor:	part|dance-PRESP prep|with det:art|the n|prince .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	&w &ar minute twelve o'clock .
+%mor:	adj|minute det:num|twelve n|o'clock .
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and went home .
+%mor:	coord|and v|go&PAST n|home .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and I mean .
+%mor:	coord|and pro:sub|I v|mean .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx .
+*PAR:	Cinderella is &rarara roasted [* u] sipler [* phon] .
+%mor:	n:prop|Cinderella aux|be&3S part|roast-PASTP ?|sipler .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and come home .
+%mor:	coord|and v|come adv|home .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and remen [* phon] .
+%mor:	coord|and ?|remen .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &pr princess &i is joy I [/] I mean the prince was .
+%mor:	det:art|the n|princess cop|be&3S n|joy pro:sub|I v|mean det:art|the
+	n|prince cop|be&PAST&13S .
+%gra:	1|2|DET 2|3|SUBJ 3|6|CJCT 4|3|PRED 5|6|SUBJ 6|0|ROOT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|6|PUNCT
+*PAR:	Cinderella is [//] shoe was .
+%mor:	n:prop|Cinderella n|shoe cop|be&PAST&13S .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx .
+*PAR:	prince is &ur village [/] village &um to &uh wear the &sh shoes .
+%mor:	n|prince cop|be&3S n|village inf|to v|wear det:art|the n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	and &s Cinderella is it .
+%mor:	coord|and n:prop|Cinderella cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and he [/] he touched the [/] the castle .
+%mor:	coord|and pro:sub|he v|touch-PAST det:art|the n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	so she and &uh after [//] I mean that's it .
+%mor:	co|so pro:sub|she coord|and pro:sub|I v|mean pro:dem|that~cop|be&3S
+	pro:per|it .
+%gra:	1|5|COM 2|5|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|5|PUNCT
+@End

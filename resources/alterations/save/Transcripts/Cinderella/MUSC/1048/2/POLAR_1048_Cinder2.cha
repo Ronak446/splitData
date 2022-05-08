@@ -1,0 +1,93 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:36
+@Media:	POLAR_1048_Cinder2 video
+*PAR:	tho [* phon] ciren [* phon] [//] Cinderella is a princess .
+%mor:	?|tho n:prop|Cinderella cop|be&3S det:art|a n|princess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	that because <she got> [/] she got a no [/] no [/] no [/] no [/] no
+	let me start over .
+%mor:	pro:dem|that conj|because pro:sub|she v|get&PAST det:art|a qn|no
+	v|let&ZERO pro:obj|me v|start adv|over .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|QUANT 7|4|COMP 8|7|OBJ
+	9|7|COMP 10|9|JCT 11|4|PUNCT
+*PAR:	okay <there wers [* phon]> [//] there were a three [/] three [* s]
+	stepsisters .
+%mor:	co|okay adv|there cop|be&PAST det:art|a det:num|three
+	step#n|sister-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|3|PUNCT
+*PAR:	they were really [/] really mean .
+%mor:	pro:sub|they cop|be&PAST adv|real&dadj-LY adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	there <was a> [/] was a not party but it was a dance I guess wass
+	[* phon] it called banquet whatever .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a neg|not n|party conj|but
+	pro:per|it cop|be&PAST&13S det:art|a n|dance pro:sub|I v|guess
+	cop|be&PAST&13S-3S pro:per|it v|call-PAST n|banquet pro:int|whatever
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|10|DET 10|8|PRED 11|12|SUBJ 12|10|CMOD 13|15|AUX 14|15|SUBJ 15|12|COMP
+	16|17|MOD 17|15|OBJ 18|2|PUNCT
+*PAR:	I &an and so her fairy godmother <turned> [//] turn carriage from
+	[/] &um from a pumpkin .
+%mor:	pro:sub|I coord|and adv|so det:poss|her n|fairy n|+n|god+n|mother
+	n|turn n|carriage prep|from det:art|a n|pumpkin .
+%gra:	1|0|INCROOT 2|1|CONJ 3|8|JCT 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|2|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*PAR:	a &th the mice turned <into a> [/] into a horse .
+%mor:	det:art|a det:art|the n|mouse&PL v|turn-PAST prep|into det:art|a
+	n|horse .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and [/] and fairy godmother turns <turn her> [//] turned a dress
+	into a beautiful stress [* phon] .
+%mor:	coord|and n|fairy n|+n|god+n|mother n|turn-PL v|turn-PAST det:art|a
+	n|dress prep|into det:art|a adj|beautiful n|stress .
+%gra:	1|5|LINK 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT
+*PAR:	but [/] but she had to <beek [* phon]> [//] be back to the house by
+	[/] by midnight .
+%mor:	conj|but pro:sub|she v|have&PAST inf|to cop|be adv|back prep|to
+	det:art|the n|house prep|by mid#n|night&dn .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	because she turns back to .
+%mor:	conj|because pro:sub|she v|turn-3S adv|back prep|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	the pumpkin &t .
+%mor:	det:art|the n|pumpkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	mice to a .
+%mor:	n|mouse&PL prep|to det:art|a .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	&t and to a dress .
+%mor:	coord|and prep|to det:art|a n|dress .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	but she lost a shoe .
+%mor:	conj|but pro:sub|she v|lose&PAST det:art|a n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	so the I guess e [* phon] officer that she [* s] worked with I don't
+	know .
+%mor:	co|so det:art|the pro:sub|I v|guess ?|e n|officer pro:rel|that
+	pro:sub|she v|work-PAST prep|with pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|COM 2|4|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|14|SUBJ 12|14|AUX 13|12|NEG 14|10|CPOBJ 15|4|PUNCT
+*PAR:	no the shoe <did not> [/] &f did not fit the three [* s] stepsisters .
+%mor:	co|no det:art|the n|shoe v|do&PAST neg|not v|fit&ZERO det:art|the
+	det:num|three step#n|sister-PL .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|NEG 6|4|COMP 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*PAR:	<but it> [/] but it did fit Cinderella .
+%mor:	conj|but pro:per|it v|do&PAST part|fit&PASTP n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	after that Cinderella &s and the prince got married .
+%mor:	conj|after det:dem|that n:prop|Cinderella coord|and det:art|the
+	n|prince aux|get&PAST part|marry-PASTP .
+%gra:	1|8|LINK 2|8|LINK 3|8|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*PAR:	and <left [* s]> [//] lived happily ever after .
+%mor:	coord|and v|live-PAST adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|JCT 6|2|PUNCT
+@End

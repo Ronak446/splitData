@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:07
+@Media:	1027_Cinderella5 video
+*PAR:	aleh [* phon] xxx [* phon] .
+%mor:	?|aleh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and mama .
+%mor:	coord|and n|mama .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and doctor .
+%mor:	coord|and n|doctor .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

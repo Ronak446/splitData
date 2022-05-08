@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	1009_1_PBJ_Y2017_M01_D11_H08_M31_S04 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um a peanut+butter and jelly sandwich .
+%mor:	det:art|a n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	well first I gotta get the &um sandwiches [* s] .
+%mor:	co|well adv|first pro:sub|I mod:aux|gotta v|get det:art|the
+	n|sandwich-PL .
+%gra:	1|3|COM 2|3|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and I got one here and one there .
+%mor:	coord|and pro:sub|I v|get&PAST pro:indef|one adv|here coord|and
+	det:num|one adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|3|PUNCT
+*PAR:	I got the &um sandwich [* s] here .
+%mor:	pro:sub|I v|get&PAST det:art|the n|sandwich adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and the &um &s <sandwich> [//] I mean the &um peanut+butter here and
+	the sandwich [* s] here .
+%mor:	coord|and det:art|the pro:sub|I v|mean det:art|the
+	n|+n|peanut+n|butter adv|here coord|and det:art|the n|sandwich
+	adv|here .
+%gra:	1|4|LINK 2|4|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|4|PUNCT
+*PAR:	and I'm doing it really good .
+%mor:	coord|and pro:sub|I~aux|be&1S part|do-PRESP pro:per|it
+	adv|real&dadj-LY adj|good .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|JCT 8|4|PUNCT
+*PAR:	doing back and forth with it .
+%mor:	part|do-PRESP adv|back coord|and adv|forth prep|with pro:per|it .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	and I got ready to go .
+%mor:	coord|and pro:sub|I v|get&PAST adj|ready inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XCOMP 7|3|PUNCT
+*PAR:	and I did a really good with that .
+%mor:	coord|and pro:sub|I v|do&PAST det:art|a adv|real&dadj-LY adj|good
+	prep|with pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|JCT 6|3|JCT 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and take [* u] it in half .
+%mor:	coord|and v|take pro:per|it prep|in n|half .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	and I'm ready to go .
+%mor:	coord|and pro:sub|I~cop|be&1S adj|ready inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XCOMP 7|3|PUNCT
+@End

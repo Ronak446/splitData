@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:45
+@Media:	1055_5_PBJ_November-6th-2018-1-53-39-pm video
+*PAR:	peanut+butter two [/] two xxx [* phon] .
+%mor:	n|+n|peanut+n|butter det:num|two .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	two [/] two &uh xxx [* phon] .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	two xxx [* phon] .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and to xxx [* phon] .
+%mor:	coord|and prep|to .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	when to xxx [* phon] but xxx [* phon] .
+%mor:	conj|when prep|to conj|but .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	one [//] two [//] ee [: three] [* phon] .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	to xxx [* phon] .
+%mor:	inf|to .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+@End

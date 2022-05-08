@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1046_5_PBJ_June-19th-2018-12-02-08-pm video
+*PAR:	&um so peanut+butter and jelly .
+%mor:	co|so n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&um &um it's &um &um ooze on da [//] the &uh bread .
+%mor:	pro:per|it~cop|be&3S n|ooze prep|on det:art|the n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and &uh <put together> [/] pudu [* phon] together .
+%mor:	coord|and ?|pudu adv|together .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|1|PUNCT
+@End

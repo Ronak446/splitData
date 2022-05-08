@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_4_PBJ_November-22nd-2019-11-16-36-am video
+@Time Duration:	00:01:17
+*PAR:	so this is a sandwich .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|a n|sandwich .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and you use two bread .
+%mor:	coord|and pro:per|you v|use det:num|two n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	&um and <on the right> [//] no no yeah on the left side you have
+	your pedut+butter [: peanut+butter] [* phon] on the less [/] less
+	[: left] [* phon] side .
+%mor:	coord|and co|no co|no co|yeah prep|on det:art|the adj|left n|side
+	pro:per|you v|have det:poss|your n|+n|peanut+n|butter prep|on
+	det:art|the adj|left n|side .
+%gra:	1|10|LINK 2|10|COM 3|10|COM 4|10|COM 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|10|PUNCT
+*PAR:	and then you have your jam on the bread on
+	the right side .
+%mor:	coord|and adv:tem|then pro:per|you v|have det:poss|your n|jam
+	prep|on det:art|the n|bread prep|on det:art|the adj|right n|side .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|4|PUNCT
+*PAR:	then you [/] you take &um bread and peanut+butter on
+	[/] on one side on this side you have &uh jelly and bread .
+%mor:	adv:tem|then pro:per|you v|take n|bread coord|and
+	n|+n|peanut+n|butter prep|on det:num|one n|side prep|on det:dem|this
+	n|side pro:per|you v|have n|jelly coord|and n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|3|JCT 11|12|DET 12|10|POBJ 13|14|SUBJ 14|3|CJCT 15|14|OBJ
+	16|15|CONJ 17|16|COORD 18|3|PUNCT
+*PAR:	and <then we> [/] then we took it off [: on] [* u] into sandwich so
+	now it's just bread peanut+butter jelly bread .
+%mor:	coord|and adv:tem|then pro:sub|we v|take&PAST pro:per|it adv|on
+	prep|into n|sandwich co|so adv|now pro:per|it~cop|be&3S adj|just
+	n|bread n|+n|peanut+n|butter n|jelly n|bread .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|12|COM 10|12|JCT 11|12|SUBJ 12|4|CJCT 13|17|MOD 14|17|MOD 15|17|MOD
+	16|17|MOD 17|12|PRED 18|4|PUNCT
+@End

@@ -1,0 +1,159 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:16
+@Media:	POLAR_1068_Cinder6 video
+*PAR:	so the xxx [* phon] day [* u] .
+%mor:	co|so det:art|the n|day .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and <pissed off> [//] <missed off> [//] he pissed off .
+%mor:	coord|and pro:sub|he v|piss-PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and there's a xxx [* phon] over there .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a adv|over adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	and this one dem [* phon] remember that one are there .
+%mor:	coord|and pro:dem|this pro:indef|one ?|dem co|remember det:dem|that
+	pro:indef|one aux|be&PRES adv|there .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|NJCT 5|6|COM 6|4|POBJ 7|6|COORD 8|7|COMP
+	9|8|JCT 10|3|PUNCT
+*PAR:	he's gonna <pissed off> [//] pissed off .
+%mor:	pro:sub|he~aux|be&3S mod:aux|gonna v|piss-PAST adv|off .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	<His bad> [//] he's bid [: bad] [* phon] xxx [* phon] good &ba baby
+	[* u] .
+%mor:	pro:sub|he~cop|be&3S adj|bad adj|good n|baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and this one then another one .
+%mor:	coord|and pro:dem|this pro:indef|one adv:tem|then qn|another
+	pro:indef|one .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|6|JCT 5|6|QUANT 6|3|CMOD 7|3|PUNCT
+*PAR:	xxx [* phon] bid_one [: big_one] [* phon] wait a minute .
+%mor:	?|big_one v|wait det:art|a n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	there bitch one [* u] over there .
+%mor:	adv|there n|bitch pro:indef|one adv|over adv|there .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|OBJ 4|5|JCT 5|3|POSTMOD 6|2|PUNCT
+*PAR:	good [//] bad [//] pissed off hesderder [* phon] xxx [* phon] .
+%mor:	v|piss-PAST prep|off ?|hesderder .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	<they're beautiful> [//] it's beautiful [* u] boys [* s] dasay
+	[* phon] kids [* u] over there xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S adj|beautiful n|boy-PL ?|dasay v|kid-3S
+	prep|over adv|there .
+%gra:	1|2|SUBJ 2|6|JCT 3|4|MOD 4|2|PRED 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*PAR:	and then everyday is everyday dever [* phon] there .
+%mor:	coord|and adv:tem|then adv:tem|everyday cop|be&3S adj|everyday
+	?|dever adv|there .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PRED 7|6|JCT 8|4|PUNCT
+*PAR:	the dad <pissed off> [/] pissed off .
+%mor:	det:art|the n|dad v|piss-PAST adv|off .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	then do another one .
+%mor:	adv:tem|then v|do qn|another pro:indef|one .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	zo [* phon] beautiful [//] nice beautiful [* u] and xxx [* phon]
+	this one and the beautiful [* u] .
+%mor:	?|zo adj|nice adj|beautiful coord|and pro:dem|this pro:indef|one
+	coord|and det:art|the adj|beautiful .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PRED 4|3|CONJ 5|6|DET 6|4|COORD 7|3|CONJ
+	8|9|DET 9|7|COORD 10|1|PUNCT
+*PAR:	he's mabi [* phon] .
+%mor:	pro:sub|he~cop|be&3S ?|mabi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and he's over there another one .
+%mor:	coord|and pro:sub|he~aux|be&3S adv|over adv|there qn|another
+	pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|QUANT 7|3|PRED 8|3|PUNCT
+*PAR:	oh another boys [/] boys [* s] ov [* phon] there xxx [* phon] .
+%mor:	co|oh qn|another n|boy-PL ?|ov adv|there .
+%gra:	1|3|COM 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and the bitch xxx [* phon] .
+%mor:	coord|and det:art|the n|bitch .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	<I'm sorry> [/] I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	he's pissed off .
+%mor:	pro:sub|he~aux|be&3S part|piss-PASTP adv|off .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	<He's mad> [/] he's mad with some nice [/] &ol nice [: mean] [* s]
+	boys [* s] whlivel [* phon] there .
+%mor:	pro:sub|he~cop|be&3S adj|mad prep|with qn|some adj|mean n|boy-PL
+	?|whlivel adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|7|QUANT 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|8|JCT 10|2|PUNCT
+*PAR:	and there's a member [* u] xxx [* phon] .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a n|member .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	this one now he's [//] he <pissed off> [/] <pissed off> [/] pissed
+	off .
+%mor:	pro:dem|this pro:indef|one adv|now pro:sub|he v|piss-PAST adv|off .
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and said oh my kids [* u] are xxx [* phon] that one xxx that one .
+%mor:	coord|and v|say&PAST co|oh det:poss|my n|kid-PL cop|be&PRES
+	pro:dem|that pro:indef|one pro:rel|that pro:indef|one .
+%gra:	1|2|LINK 2|0|ROOT 3|6|COM 4|5|MOD 5|6|SUBJ 6|2|COMP 7|8|DET 8|6|PRED
+	9|10|LINK 10|8|CMOD 11|2|PUNCT
+*PAR:	and he said xxx [* phon] .
+%mor:	coord|and pro:sub|he v|say&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	<you have to> [/] you have to .
+%mor:	pro:per|you v|have prep|to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	he said xxx [* phon] xxx [* phon] .
+%mor:	pro:sub|he v|say&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	he said okay .
+%mor:	pro:sub|he v|say&PAST adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and see okay when <you're ready> [/] you're ready xxx [* phon] your
+	xxx [* phon] .
+%mor:	coord|and v|see adj|okay conj|when pro:per|you~aux|be&PRES
+	adj|ready det:poss|your .
+%gra:	1|2|LINK 2|0|ROOT 3|8|MOD 4|7|LINK 5|7|SUBJ 6|7|AUX 7|8|MOD 8|2|COMP
+	9|2|PUNCT
+*PAR:	oh it's beautiful .
+%mor:	co|oh pro:per|it~cop|be&3S adj|beautiful .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	<the boys> [//] <the bid_ones [: big_ones] [* phon]> [//] &t &t the
+	<pissed off> [/] <pissed off> [/] pissed off he's mad .
+%mor:	det:art|the part|piss-PASTP adv|off pro:sub|he~cop|be&3S adj|mad .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|CJCT 6|5|PRED 7|2|PUNCT
+*PAR:	xxx [* phon] beautiful [/] beautiful [* u] and boys [//] beautiful
+	boys [* s] and boys [* s] all biough [* phon] the day [* u] .
+%mor:	adj|beautiful coord|and adj|beautiful n|boy-PL coord|and n|boy-PL
+	adv|all ?|biough det:art|the n|day .
+%gra:	1|8|JCT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|CONJ 6|5|COORD 7|8|JCT 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*PAR:	we said erer [* phon] everyday and end of daday [* phon] xxx
+	[* phon] daday [* phon] .
+%mor:	pro:sub|we v|say&PAST ?|erer adj|everyday coord|and n|end prep|of
+	adj|dada&dn-Y adj|dada&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|6|NJCT
+	8|9|MOD 9|7|POBJ 10|2|PUNCT
+*PAR:	and they bish [: bitch] [* phon] one [* u] pissed off .
+%mor:	coord|and pro:sub|they v|bitch pro:indef|one v|piss-PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*PAR:	and mabisoon [* phon] mommy's in xxx [* phon] happy for theirs .
+%mor:	coord|and ?|mabisoon adj|mommy&dn-POSS prep|in adj|happy prep|for
+	pro:poss|theirs .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PRED 4|3|JCT 5|4|POBJ 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and so xxx [* phon] derday [* phon] .
+%mor:	coord|and adv|so ?|derday .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and soon xxx [* phon] daday [* phon] love dak [* phon] .
+%mor:	coord|and adv|soon adj|dada&dn-Y n|love ?|dak .
+%gra:	1|5|LINK 2|3|JCT 3|4|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	because the booda [* phon] are happy for hair [* u] .
+%mor:	conj|because det:art|the ?|booda cop|be&PRES adj|happy prep|for
+	n|hair .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	I'm happy [/] &sw happy .
+%mor:	pro:sub|I~cop|be&1S adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

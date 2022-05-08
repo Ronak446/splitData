@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1027_BrokenWindow5 video
+
+*PAR:	well suh [* phon] a baba [* phon] .
+%mor:	adv|well ?|suh det:art|a n|baby .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and &f &f xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and baba [* phon] xxx [* phon] .
+%mor:	coord|and n|baby .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

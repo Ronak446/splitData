@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:51
+@Media:	1080_4_PBJ_July-30th-2019-9-54-15-am.mp4, video
+*PAR:	&d red [: bread] [* phon] . 16657_22096
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and you get the butter [//] peanut+butter and jelly on [/] on the two
+	sides . 22096_47425
+%mor:	coord|and pro:per|you v|get det:art|the n|+n|peanut+n|butter
+	coord|and n|jelly prep|on det:art|the det:num|two n|side-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|3|PUNCT
+*PAR:	and plate [* u] &r &r &r &r &r pay [* u] . 47425_56758
+%mor:	coord|and n|plate n|pay .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	abad [* phon] bl [* phon] bl [* phon] e
+	[* phon] ether [: together] [* phon] . 56758_60974
+%mor:	?|abad ?|bl ?|bl n:let|e adv|together .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|ROOT 4|3|INCROOT 5|4|JCT 6|4|PUNCT
+*PAR:	&=laughs I know it . 60974_62575
+%mor:	pro:sub|I v|know pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and just sandwich . 62575_67441
+%mor:	coord|and adj|just n|sandwich .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

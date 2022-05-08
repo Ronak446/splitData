@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.BW-2 video
+@Time Duration:	00:00:45
+*PAR:	okay it's a little kid kicking a ball .
+%mor:	co|okay pro:per|it~cop|be&3S det:art|a adj|little n|kid
+	part|kick-PRESP det:art|a n|ball .
+*PAR:	and then the next one is the ball hits glass .
+%mor:	coord|and adv:tem|then det:art|the adj|next pro:indef|one cop|be&3S
+	det:art|the n|ball v|hit-3S n|glass .
+*PAR:	and then the next one it shows the ball in the glass that hit the
+	lar [//] lamp that <well the &g> [//] the guy saw it whatever .
+%mor:	coord|and adv:tem|then det:art|the adj|next pro:indef|one
+	pro:per|it v|show-3S det:art|the n|ball prep|in det:art|the n|glass
+	pro:rel|that v|hit&ZERO det:art|the n|lamp pro:rel|that det:art|the
+	n|guy v|see&PAST pro:per|it pro:int|whatever .
+*PAR:	and I don't know what's that doing .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:int|what~aux|be&3S
+	adv|that part|do-PRESP .
+*PAR:	I can't see what he's doing .
+%mor:	pro:sub|I mod|can~neg|not v|see pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP .
+*PAR:	<I don't know> [/] I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+@End

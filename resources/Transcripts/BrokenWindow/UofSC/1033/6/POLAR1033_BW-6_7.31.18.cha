@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1033_BrokenWindow6 video
+
+*PAR:	oh this is person that he just kick this &uh animal [* u] piece
+	[* u] .
+%mor:	co|oh pro:dem|this cop|be&3S n|person pro:rel|that pro:sub|he
+	adv|just v|kick pro:dem|this n|animal n|piece .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|3|PUNCT
+*PAR:	and this is where it went through the window .
+%mor:	coord|and pro:dem|this cop|be&3S pro:rel|where pro:per|it v|go&PAST
+	prep|through det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and they showing it going through the window .
+%mor:	coord|and pro:sub|they part|show-PRESP pro:per|it part|go-PRESP
+	prep|through det:art|the n|window .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and it broke the window .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it's showing here where after it broke it [/] it hit .
+%mor:	coord|and pro:per|it~aux|be&3S part|show-PRESP adv|here
+	adv:int|where conj|after pro:per|it v|break&PAST pro:per|it
+	v|hit&ZERO .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|11|LINK 7|9|LINK 8|9|SUBJ
+	9|11|CJCT 10|9|OBJ 11|4|CJCT 12|4|PUNCT
+*PAR:	the <person's inside> [/] a different person's inside the house .
+%mor:	det:art|the det:art|a adj|different n|person~poss|s prep|inside
+	det:art|the n|house .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and it's coming through inside the house where he is .
+%mor:	coord|and pro:per|it~aux|be&3S part|come-PRESP adv|through
+	prep|inside det:art|the n|house pro:rel|where pro:sub|he cop|be&3S .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|4|PUNCT
+@End

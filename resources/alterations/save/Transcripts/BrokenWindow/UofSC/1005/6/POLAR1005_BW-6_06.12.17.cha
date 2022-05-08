@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	1005_6_BrokenWindow_Y2017_M06_D12_H11_M31_S34 video
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and ball .
+%mor:	coord|and n|ball .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	it's right there .
+%mor:	pro:per|it~cop|be&3S adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*PAR:	xxx [* phon] and it's .
+%mor:	coord|and pro:per|it~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] it's xxx [* phon] xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and it man I know .
+%mor:	coord|and pro:per|it v|man pro:sub|I v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*PAR:	and ball is xxx [* phon] .
+%mor:	coord|and n|ball cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and ball the chain [* s] .
+%mor:	coord|and v|ball det:art|the n|chain .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	amen .
+%mor:	co|amen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

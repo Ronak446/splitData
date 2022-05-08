@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:57
+@Media:	1027_BW1 video
+*PAR:	maykul [* phon] I don't know .
+%mor:	?|maykul pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	well grampus [* phon] .
+%mor:	adv|well ?|grampus .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	fry [* u] [/] fry [* u] denada [* u] xxx [* phon] .
+%mor:	n|fry ?|denada .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	then dumb decision .
+%mor:	adv:tem|then adj|dumb n|decision .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+@End

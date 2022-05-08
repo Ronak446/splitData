@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1103_BW-4_6.10.20 video
+@Time Duration:	00:00:40
+*PAR:	the boy is kicking the ball .
+%mor:	det:art|the n|boy aux|be&3S part|kick-PRESP det:art|the n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and ends [//] it goes into the &uh &le the glass .
+%mor:	coord|and pro:per|it v|go-3S prep|into det:art|the det:art|the
+	n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|DET 7|4|POBJ 8|3|PUNCT
+*PAR:	and it lands into the living room .
+%mor:	coord|and pro:per|it v|land-3S prep|into det:art|the
+	part|live-PRESP n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	and he is <jumped and he> [//] not jumped he's bar [* u] &s &ns &s .
+%mor:	coord|and pro:sub|he aux|be&3S neg|not part|jump-PASTP
+	pro:sub|he~cop|be&3S n|bar .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|5|PUNCT
+*PAR:	and he sees the [/] the ball .
+%mor:	coord|and pro:sub|he v|see-3S det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and he gets up to see where the ball came from .
+%mor:	coord|and pro:sub|he v|get-3S adv|up inf|to v|see pro:int|where
+	det:art|the n|ball v|come&PAST prep|from .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|10|JCT 12|3|PUNCT
+*PAR:	from the window .
+%mor:	prep|from det:art|the n|window .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	startled that's the word .
+%mor:	part|startle-PASTP pro:dem|that~cop|be&3S det:art|the n|word .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@End

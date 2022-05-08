@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	1020_BW3 video
+*PAR:	&hm one [/] &d one ay [* phon] .
+%mor:	det:num|one co|ay .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	nunu [* phon] ay [* phon] &ooh ya [* phon] &y &ooh .
+%mor:	?|nunu co|ay pro:per|you .
+%gra:	1|0|INCROOT 2|3|COM 3|1|OBJ 4|1|PUNCT
+*PAR:	wuh [* phon] wuh [* phon] wuh [* phon] wuh [* phon] .
+%mor:	?|wuh ?|wuh ?|wuh ?|wuh .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	&h wuh [* phon] .
+%mor:	?|wuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

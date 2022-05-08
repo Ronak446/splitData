@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1049_6_BrokenWindow_January-16th-2019-11-17-00-am video
+*PAR:	okay first he kicks a ball .
+%mor:	co|okay adv|first pro:sub|he v|kick-3S det:art|a n|ball .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the ball rises [: flies] [* s] and goes in the window breaks a
+	window and hits the [/] the person [* u] on it near his pillow
+	[: chair] [* s] .
+%mor:	det:art|the n|ball n|fly-PL coord|and v|go-3S prep|in det:art|the
+	n|window v|break-3S det:art|a n|window coord|and v|hit-3S
+	det:art|the n|person prep|on pro:per|it prep|near det:poss|his
+	n|chair .
+%gra:	1|3|DET 2|3|MOD 3|9|SUBJ 4|3|CONJ 5|4|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|CONJ 13|12|COORD 14|15|DET 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|13|JCT 19|20|MOD 20|18|POBJ 21|9|PUNCT
+*PAR:	and &l last he looks .
+%mor:	coord|and adv|last pro:sub|he cop|look-3S .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and he grabs a pillow [* u] .
+%mor:	coord|and pro:sub|he v|grab-3S det:art|a n|pillow .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and he looks out the window .
+%mor:	coord|and pro:sub|he cop|look-3S prep|out det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and he tells him what happened .
+%mor:	coord|and pro:sub|he v|tell-3S pro:obj|him pro:int|what
+	v|happen-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+@End

@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1086_3_BrokenWindow_October-14th-2019-10-25-58-am video
+*PAR:	the boy chick [: kick] [* phon] the ball .
+%mor:	det:art|the n|boy v|kick det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the ball broke the window .
+%mor:	det:art|the n|ball v|break&PAST det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	<the win the> [//] the ball went through the window onto the man .
+%mor:	det:art|the n|ball v|go&PAST prep|through det:art|the n|window
+	prep|onto det:art|the n|man .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	the man got up with the ball .
+%mor:	det:art|the n|man v|get&PAST adv|up prep|with det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+@End

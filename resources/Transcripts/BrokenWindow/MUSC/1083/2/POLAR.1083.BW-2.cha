@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_2_BrokenWindow_July-9th-2019-9-37-40-am video
+@Time Duration:	00:00:43
+*PAR:	&m &um &um middle [* u] man &um hit [: kicked] [* s] the ball .
+%mor:	adj|middle n|man v|kick-PAST det:art|the n|ball .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &um middle [* u] kicked ball right there .
+%mor:	coord|and adj|middle part|kick-PASTP n|ball adv|right adv|there .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	and &um middle [* u] man &um &um dopped [: dropped] [* phon] ball
+	[/] &um &um ball [/] &um &um ball .
+%mor:	coord|and adj|middle n|man part|drop-PASTP n|ball .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|3|XMOD 5|4|OBJ 6|1|PUNCT
+*PAR:	okay ball .
+%mor:	co|okay n|ball .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

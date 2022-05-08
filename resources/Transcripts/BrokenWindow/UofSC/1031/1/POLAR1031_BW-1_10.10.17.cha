@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1031_BW1 video
+*PAR:	roohdall [* phon] ee [* phon] duh [* phon] .
+%mor:	?|roohdall co|ee co|duh .
+%gra:	1|0|INCROOT 2|3|COM 3|1|COM 4|1|PUNCT
+*PAR:	&uh merlandubool [* phon] land in .
+%mor:	?|merlandubool n|land adv|in .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|1|PUNCT
+*PAR:	&ler &ler &ler &luh lamp .
+%mor:	n|lamp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&eh pictures [* u] .
+%mor:	n|picture-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pull the luhbair [* phon] .
+%mor:	v|pull det:art|the ?|luhbair .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@End

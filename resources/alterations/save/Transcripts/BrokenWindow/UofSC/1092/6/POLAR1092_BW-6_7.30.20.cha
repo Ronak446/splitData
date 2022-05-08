@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1092.BW-6 video
+@Time Duration:	00:00:32
+*PAR:	<an end> [/] <an end> [/] an end .
+%mor:	det:art|a n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&m like a see an end .
+%mor:	prep|like det:art|a v|see det:art|a n|end .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+@End

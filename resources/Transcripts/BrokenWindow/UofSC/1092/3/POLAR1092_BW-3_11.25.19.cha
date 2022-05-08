@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_3_BrokenWindow_November-25th-2019-10-29-18-am video
+@Time Duration:	00:01:22
+*PAR:	happenitit [: happening] [* phon] picture .
+%mor:	part|happen-PRESP n|picture .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&m &m &m &m &hm .
+*PAR:	XXX [* phon] .
+%mor:	n:prop|XXX .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&m .
+*PAR:	happening &um .
+%mor:	part|happen-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	going here .
+%mor:	part|go-PRESP adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	buying [* u] groceries [* u] .
+%mor:	part|buy-PRESP n|grocery-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+@End

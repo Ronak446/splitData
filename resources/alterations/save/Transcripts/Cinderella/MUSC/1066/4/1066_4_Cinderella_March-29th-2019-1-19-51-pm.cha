@@ -1,0 +1,225 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:08:10
+@Media:	1066_4_Cinderella_March-29th-2019-1-19-51-pm video
+*PAR:	there funly [/] &f funly [: finally] [* phon] &um Cellerella [: Cinderella] [* phon] .
+%mor:	adv|there adv|final&dadj-LY n:prop|Cinderella .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	when he [: she] [* s] wud [: was] a < lih boy [/] lih [: little]
+	[* phon] boy [: girl] [* s]> [//] guh [: good] [* phon] girl &b &b
+	xxx [* phon] girl .
+%mor:	conj|when pro:sub|she cop|be&PAST&13S det:art|a adj|good n|girl
+	n|girl .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+*PAR:	yeah xxx [* phon] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<but they> [/] but they know .
+%mor:	conj|but pro:sub|they v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] no you work [/] work [/] work [/] work &wor &wor &wor
+	&wor weaty [: sweaty] [* phon] xxx [* phon] clothes work [/] work
+	[/] work [/] work .
+%mor:	co|no pro:per|you v|work adj|sweat&dn-Y n:pt|clothes n|work .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	so <he get to &um &um> [//] he &um [/] he ears [: hears] [* phon]
+	that there errs [* phon] that there xxx [* phon] .
+%mor:	co|so pro:sub|he pro:sub|he v|hear-3S comp|that adv|there v|err-3S
+	comp|that adv|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|8|JCT 10|4|PUNCT
+*PAR:	<he hears> [/] he hears that there's gonna be a various [* u] ball .
+%mor:	pro:sub|he v|hear-3S comp|that pro:exist|there~aux|be&3S
+	mod:aux|gonna cop|be det:art|a adj|various n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|AUX 7|2|COMP 8|10|DET
+	9|10|MOD 10|7|PRED 11|2|PUNCT
+*PAR:	what anuh [* phon] one &oh <all the> [/] all the girls [/] girls .
+%mor:	pro:int|what ?|anuh pro:indef|one qn|all det:art|the n|girl-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|ENUM 4|6|QUANT 5|6|DET 6|3|OBJ 7|2|PUNCT
+*PAR:	&uh oh my god wonderful .
+%mor:	co|oh det:poss|my n|god adj|wonder-FULL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|POSTMOD 5|3|PUNCT
+*PAR:	xxx [* phon] dis [: this] [* phon] man xxx [* phon] &bd &b &b oh my
+	god .
+%mor:	pro:dem|this n|man co|oh det:poss|my n|god .
+%gra:	1|2|DET 2|0|INCROOT 3|2|COM 4|5|MOD 5|3|OBJ 6|2|PUNCT
+*PAR:	xxx [* phon] gina [* phon] <it fits> [/] it fits look at xxx
+	[* phon] .
+%mor:	?|gina pro:per|it v|fit-3S cop|look prep|at .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+*PAR:	<the sisserz> [/] the siszers [: sisters] [* phon] xxx [* phon] .
+%mor:	det:art|the n|sister-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	what xxx [* phon] you stay here anway [: anyway] [* phon] .
+%mor:	pro:int|what pro:per|you cop|stay adv|here adv|anyway .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	oh who cares okay &wahhh oh boy oh .
+%mor:	co|oh pro:rel|who v|care-3S adj|okay co|oh co|boy co|oh .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|3|COM 6|7|COM 7|3|COM 8|3|PUNCT
+*PAR:	so dogso [* phon] anmals [/] anmals [: animals] [* phon] .
+%mor:	co|so ?|dogso n|animal-PL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	well xxx [* phon] .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wait I think xxx [* phon] the star the &uh [/] the &uh [/] the &uh
+	the &uh &poof and &poof what yes &poof .
+%mor:	v|wait pro:sub|I v|think det:art|the n|star det:art|the det:art|the
+	det:art|the det:art|the coord|and pro:int|what co|yes .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|DET 7|9|DET 8|9|DET
+	9|13|DET 10|9|CONJ 11|10|COORD 12|11|COM 13|3|PUNCT
+*PAR:	xxx [* phon] oh you xxx [* phon] &wahh .
+%mor:	co|oh pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	oh you poor der [* phon] you can go I can't .
+%mor:	co|oh pro:per|you adj|poor ?|der pro:per|you mod|can v|go pro:sub|I
+	mod|can~neg|not .
+%gra:	1|4|COM 2|4|SUBJ 3|4|MOD 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|7|PUNCT
+*PAR:	&gasp I can .
+%mor:	pro:sub|I mod|can .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	we make a horses and the &uh &uh [/] the &uh matt [* phon] and
+	punkins [: pumpkins] [* phon] and &big bigger the back of the mouse
+	[/] mouse [/] mouse xxx [* phon] big &bo big xxx [* phon] .
+%mor:	pro:sub|we v|make det:art|a n|horse-PL coord|and det:art|the
+	det:art|the ?|matt coord|and n|pumpkin-PL coord|and adj|big-CP
+	det:art|the n|back prep|of det:art|the n|mouse adj|big adj|big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|8|DET 7|8|DET 8|5|COORD
+	9|8|CONJ 10|9|COORD 11|2|CONJ 12|14|MOD 13|14|DET 14|11|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|19|MOD 19|17|PRED 20|2|PUNCT
+*PAR:	oh boy good &dododo go [/] go .
+%mor:	co|oh n|boy adj|good v|go .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	but remember <at one clock &t twent twent twent twent o gar twent a
+	gar> [//] at twenty [: twelve] [* s] ocwot [: o'clock] [* phon] xxx
+	[* phon] schlap [* phon] all that crap de [* phon] xxx [* phon] .
+%mor:	conj|but v|remember prep|at det:num|twelve n|o'clock ?|schlap
+	adv|all det:dem|that n|crap ?|de .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|3|POBJ 7|8|JCT 8|6|CONJ
+	9|10|MOD 10|8|COORD 11|2|PUNCT
+*PAR:	if weally [: really] [* phon] good go back xxx [* phon] .
+%mor:	conj|if adv|real&dadj-LY adj|good v|go adv|back .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	okay but xxx [* phon] but bigger .
+%mor:	co|okay conj|but conj|but adj|big-CP .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|COORD 5|1|PUNCT
+*PAR:	okay so &lalala he [/] he meant oh my god who's that .
+%mor:	co|okay conj|so pro:sub|he v|mean&PAST co|oh det:poss|my n|god
+	pro:rel|who~aux|be&3S pro:dem|that .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|4|PUNCT
+*PAR:	I love her .
+%mor:	pro:sub|I v|love pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	she's my <budest one> [/] budest [* phon] one .
+%mor:	pro:sub|she~cop|be&3S det:poss|my ?|budest pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|OBJ 6|2|PUNCT
+*PAR:	&gasp &doodoodoo the whole day &doodoo .
+%mor:	det:art|the adj|whole n|day .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh my god xxx [* phon] oh my god wait [/] wait [/] wait [/] wait [/]
+	wait [/] wait .
+%mor:	co|oh det:poss|my n|god co|oh det:poss|my n|god v|wait .
+%gra:	1|7|COM 2|3|MOD 3|7|SUBJ 4|7|COM 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	dey [: they] [* phon] go .
+%mor:	pro:sub|they v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	where dey [: they] [* phon] go under xxx [* phon] under .
+%mor:	pro:rel|where pro:sub|they v|go prep|under adv|under .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	what [/] what is this .
+%mor:	pro:int|what cop|be&3S pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	<&sh &sh shoe little too &lit> [//] a glass shoe .
+%mor:	det:art|a n|glass n|shoe .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx [* phon] marror [* phon] xxx [* phon] .
+%mor:	?|marror .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay so they goed .
+%mor:	co|okay conj|so pro:sub|they v|go-PAST .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	big [/] big [/] big &b <nothing nothing but> [//] &b &b &b nothing
+	but .
+%mor:	adj|big pro:indef|nothing conj|but .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|ENUM 4|1|PUNCT
+*PAR:	but &ow my but &duhduhduh .
+%mor:	conj|but det:poss|my conj|but .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	but her there &uh &sters sers [* phon] <three those> [/] three
+	those .
+%mor:	conj|but det:poss|her adv|there ?|sers det:num|three pro:dem|those
+	.
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|JCT 4|3|POBJ 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+*PAR:	and &um one &skk nope doe [* phon] it nope &skkkk &skkk &uhh &nnn .
+%mor:	coord|and det:num|one co|nope n|doe pro:per|it co|nope .
+%gra:	1|4|LINK 2|4|QUANT 3|4|COM 4|0|ROOT 5|4|OBJ 6|5|COM 7|4|PUNCT
+*PAR:	&huh boy xxx [* phon] .
+%mor:	co|boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but hey dere [: there] [* phon] anbody [: anybody] [* phon] else .
+%mor:	conj|but co|hey adv|there pro:indef|anybody post|else .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PQ 6|4|PUNCT
+*PAR:	well we have the girl &ehh .
+%mor:	co|well pro:sub|we v|have det:art|the n|girl .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	we [/] we just &ehhh .
+%mor:	pro:sub|we adv|just .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	yeah but we want da seher [* phon] .
+%mor:	co|yeah conj|but pro:sub|we v|want ?|da ?|seher .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|OBJ 7|4|PUNCT
+*PAR:	oh okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	so cim [: come] [* phon] oer [: over] .
+%mor:	co|so v|come adv|over .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	yes xxx [* phon] last one .
+%mor:	co|yes adj|last pro:indef|one .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&boop <fit [/] fit> [//] it fit .
+%mor:	pro:per|it v|fit&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&sigh &uh &huh the &uh [/] the &uh [/] the &uh ging [//] king [/]
+	king [/] king [/] king wazuh [: was] &uh oh thees [: this] [* phon]
+	is a girl [//] the boy xxx [* phon] .
+%mor:	det:art|the det:art|the det:art|the n|king cop|be&PAST&13S co|oh
+	pro:dem|this cop|be&3S det:art|a det:art|the n|boy .
+%gra:	1|4|DET 2|4|DET 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|COM 7|8|SUBJ 8|5|PRED
+	9|11|DET 10|11|DET 11|8|PRED 12|5|PUNCT
+*PAR:	the boy xxx [* phon] now [/] now .
+%mor:	det:art|the n|boy adv|now .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*PAR:	xxx [* phon] in e [: the] [* phon] castle [/] castle &booboobooboo .
+%mor:	prep|in det:art|the n|castle .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	clothes bras &pis &wis &fis &pis lipstick [/] lipstick xxx [* phon] .
+%mor:	n:pt|clothes n|bra-PL n|lipstick .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh isn't dat [: that] [* phon] wonderful xxx [* phon] .
+%mor:	co|oh cop|be&3S~neg|not pro:dem|that adj|wonder-FULL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	&doodoodoo and there forlever [: forever] [* phon] .
+%mor:	coord|and adv|there adv:tem|forever .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	der [* phon] du [* phon] monny [/] monny [* phon] <ber [* phon] girl
+	girl> [/] ber [* phon] girl they're bondy [* phon] .
+%mor:	?|der ?|du ?|monny ?|ber n|girl pro:sub|they~aux|be&PRES
+	adj|bond&dv-Y .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|5|MOD 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|1|PUNCT
+*PAR:	&sigh goodbye .
+%mor:	co|goodbye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

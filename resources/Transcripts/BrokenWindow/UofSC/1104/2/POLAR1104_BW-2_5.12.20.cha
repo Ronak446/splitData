@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1104.BW-2 video
+@Time Duration:	00:01:48
+*PAR:	there is <a ball kick> [//] <a boy kicking a &b> [//] or somebody
+	kicking a ball .
+%mor:	pro:exist|there cop|be&3S coord|or pro:indef|somebody
+	part|kick-PRESP det:art|a n|ball .
+*PAR:	and it's [//] oh it went through the window of [/] of a house .
+%mor:	coord|and co|oh pro:per|it v|go&PAST prep|through det:art|the
+	n|window prep|of det:art|a n|house .
+*PAR:	and &gra class [: glass] [* phon] was broken by the ball .
+%mor:	coord|and n|glass aux|be&PAST&13S part|break&PASTP adv|by
+	det:art|the n|ball .
+*PAR:	and this person was &survi surprised .
+%mor:	coord|and det:dem|this n|person aux|be&PAST&13S part|surprise-PASTP
+	.
+*PAR:	the ball it fell on top of him just about . 
+%mor:	det:art|the n|ball pro:per|it v|fall&PAST prep|on n|top prep|of
+	pro:obj|him adv|just prep|about .
+*PAR:	<it went to the &uh> [//] fell on the &uh lap [: lamp] [* phon]
+	beside it .
+%mor:	v|fall&PAST prep|on det:art|the n|lamp prep|beside pro:per|it .
+*PAR:	and he's looking <after it> [//] after that he looked &uh at the
+	ball looking at somebody at the ball after .
+%mor:	coord|and pro:sub|he~aux|be&3S part|look-PRESP prep|after adv|that
+	pro:sub|he v|look-PAST prep|at det:art|the n|ball part|look-PRESP
+	prep|at pro:indef|somebody prep|at det:art|the n|ball prep|after .
+*PAR:	&uh well .
+%mor:	co|well .
+*PAR:	they [//] &cls the broken glass <was hanging> [//] was on the <was
+	talking> [//] not was open [//] holding the ball .
+%mor:	det:art|the part|break&PASTP n|glass cop|be&PAST&13S prep|on
+	det:art|the neg|not aux|be&PAST&13S part|hold-PRESP det:art|the
+	n|ball .
+@End

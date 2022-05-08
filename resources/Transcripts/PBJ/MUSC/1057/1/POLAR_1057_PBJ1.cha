@@ -1,0 +1,11 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:05
+@Media:	POLAR_1057_PBJ1 video
+*PAR:	vread [* phon] toas [* phon] ri [* phon] fed [* u] .
+%mor:	?|vread ?|toas ?|ri v|feed&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

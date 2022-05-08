@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:01:11
+@Media:	1039_LARC_BrokenWindow_January-16th-2020-2-37-31-pm video
+*PAR:	ball and yeah ball .
+%mor:	n|ball coord|and co|yeah n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|1|PUNCT
+*PAR:	yeah naw [: no] [* phon] window .
+%mor:	co|yeah co|no n|window .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh &wo <chik [: kick] [* phon] a jauw [: ball] [* phon]> [//] &uh no
+	jik [: kick] [* phon] da [: the] [* phon] baw [: ball] [* phon] .
+%mor:	co|oh co|no v|kick det:art|the n|ball .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	lord .
+%mor:	n|lord .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah no yeah [/] yeah daw [: ball] [* phon] .
+%mor:	co|yeah co|no co|yeah n|ball .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	yeah [/] yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

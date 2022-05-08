@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.Cind-6 video
+@Time Duration:	00:00:28
+*PAR:	I [//] what if <I don't &ss> [//] I can't .
+%mor:	pro:int|what conj|if pro:sub|I mod|can~neg|not .
+*PAR:	&um &cin &cin &cing Cinderella has three sisters .
+%mor:	n:prop|Cinderella v|have&3S det:num|three n|sister-PL .
+*PAR:	&um <I can't> [/] <I can't> [/] I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+*PAR:	I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+*PAR:	I cannot do it .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+@End

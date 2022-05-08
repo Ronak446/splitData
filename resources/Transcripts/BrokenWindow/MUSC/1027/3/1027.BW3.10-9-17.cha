@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Patient
+@ID:	eng|POLAR|PAR|||||Patient|||
+@Time Duration:	00:00:29
+@Media:	1027_BrokenWindow3 video
+*PAR:	&um xxx [* phon] .
+*PAR:	and lisuh [* phon] and xxx [* phon] .
+%mor:	coord|and ?|lisuh coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

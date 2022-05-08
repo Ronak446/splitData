@@ -1,0 +1,27 @@
+@UTF8
+@Window:	0_0_0_0_0_0_160_0_160_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:02
+@Media:	POLAR1112_Cinder-5_11.11.20, video
+*PAR:	yeah &um &um cindywella [: Cinderella] [* phon] .
+%mor:	co|yeah n:prop|Cinderella .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um dree [: three] [* phon] horses . 
+%mor:	det:num|three n|horse-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &um &um evuh [//] &eh ever afur [: after] [* phon] . 
+%mor:	adv|ever adv:tem|after .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um I don't . 
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	lets see &um &hm free [: three] [* phon] horses . 
+%mor:	v|let-3S v|see det:num|three n|horse-PL .
+%gra:	1|0|ROOT 2|1|COMP 3|4|QUANT 4|2|OBJ 5|1|PUNCT
+*PAR:	ever afur [: after] [* phon] . 
+%mor:	adv|ever adv:tem|after .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+@End

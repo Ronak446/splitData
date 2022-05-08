@@ -1,0 +1,140 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_1_Cinderella_January-6th-2020-10-06-20-am video
+@Time Duration:	00:01:53
+*PAR:	okay &um the first picture shows two people coming into the room .
+%mor:	adj|okay det:art|the adj|first n|picture n|show-PL det:num|two
+	n|person&PL part|come-PRESP prep|into det:art|the n|room .
+%gra:	1|7|MOD 2|5|DET 3|5|MOD 4|5|MOD 5|7|MOD 6|7|QUANT 7|0|INCROOT 8|7|XMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*PAR:	one lady you can tell is really pissed off at the other lady is not .
+%mor:	det:num|one n|lady pro:per|you mod|can v|tell aux|be&3S
+	adv|real&dadj-LY v|piss-PAST adv|off prep|at det:art|the qn|other
+	n|lady cop|be&3S neg|not .
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|8|AUX 7|8|JCT
+	8|5|COMP 9|8|JCT 10|8|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|8|JCT 15|14|NEG
+	16|2|PUNCT
+*PAR:	&um then hang on .
+%mor:	adv:tem|then v|hang adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	see I have a hard time with this I'm gonna tell you right now .
+%mor:	v|see pro:sub|I v|have det:art|a adj|hard n|time prep|with
+	det:dem|this pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|tell
+	pro:per|you adv|right adv|now .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|POBJ 12|13|INF 13|11|COMP 14|13|OBJ 15|16|JCT
+	16|13|JCT 17|1|PUNCT
+*PAR:	okay [/] okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay so Cinderella lives with his [/] his [/] his &m <see I have
+	trouble with this> [//] lives with his [: her] [* s] stepdaughter
+	[: stepmother] [* s] and two people that don't &bel that are not his
+	[: her] [* s] stepdaughters .
+%mor:	co|okay co|so n:prop|Cinderella v|live-3S prep|with det:poss|his
+	n|life-PL prep|with det:poss|her step#n|mother coord|and det:num|two
+	n|person&PL pro:rel|that mod|do~neg|not pro:rel|that cop|be&PRES
+	neg|not det:poss|her step#n|daughter-PL .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|13|QUANT 13|11|COORD 14|18|LINK 15|18|AUX
+	16|15|NEG 17|18|LINK 18|13|CMOD 19|18|NEG 20|21|DET 21|18|PRED 22|4|PUNCT
+*PAR:	and they're both really nasty .
+%mor:	coord|and pro:sub|they~cop|be&PRES qn|both adv|real&dadj-LY
+	adj|nasty .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|JCT 6|3|PRED 7|3|PUNCT
+*PAR:	&um they always let her do everything .
+%mor:	pro:sub|they adv|always v|let&ZERO pro:obj|her v|do
+	pro:indef|everything .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	they let her do the cooking the cleaning and everything .
+%mor:	pro:sub|they v|let&ZERO pro:obj|her v|do det:art|the
+	n:gerund|cook-PRESP det:art|the n:gerund|clean-PRESP coord|and
+	pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*PAR:	then he has this ball .
+%mor:	adv:tem|then pro:sub|he aux|have&3S det:dem|this n|ball .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	and she's not allowed to go to the ball .
+%mor:	coord|and pro:sub|she~aux|be&3S neg|not part|allow-PASTP inf|to
+	v|go prep|to det:art|the n|ball .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	the parents are allowed .
+%mor:	det:art|the n|parent-PL aux|be&PRES part|allow-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the mother is allowed .
+%mor:	coord|and det:art|the n|mother aux|be&3S part|allow-PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	but she's not allowed to go to the ball .
+%mor:	conj|but pro:sub|she~aux|be&3S neg|not part|allow-PASTP inf|to v|go
+	prep|to det:art|the n|ball .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	and she finds a way they make a dress for her .
+%mor:	coord|and pro:sub|she v|find-3S det:art|a n|way pro:sub|they v|make
+	det:art|a n|dress prep|for pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|JCT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|7|PUNCT
+*PAR:	&um then they [/] they &um put her in a &um oh she has have a way to
+	get to the ball .
+%mor:	adv:tem|then pro:sub|they v|put&ZERO pro:obj|her prep|in det:art|a
+	co|oh pro:sub|she aux|have&3S v|have det:art|a n|way inf|to v|get
+	prep|to det:art|the n|ball .
+%gra:	1|3|JCT 2|3|SUBJ 3|10|CJCT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|14|INF 14|12|XMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|10|PUNCT
+*PAR:	so they take the horses and they take something and they &s put her
+	at the ball but they told her to be home by midnight .
+%mor:	co|so pro:sub|they v|take det:art|the n|horse-PL coord|and
+	pro:sub|they v|take pro:indef|something coord|and pro:sub|they
+	v|put&ZERO pro:obj|her prep|at det:art|the n|ball conj|but
+	pro:sub|they v|tell&PAST pro:obj|her inf|to cop|be adv|home prep|by
+	mid#n|night .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|3|CJCT 20|19|OBJ 21|22|INF 22|19|COMP
+	23|22|JCT 24|22|JCT 25|24|POBJ 26|3|PUNCT
+*PAR:	&um she &f dresses she [/] she does very well in the ball .
+%mor:	pro:sub|she v|dress-3S pro:sub|she v|do&3S adv|very adv|well
+	prep|in det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	she goes to the dance with [/] with the [/] the &um oh what's his
+	name the guy in charge &um and they dance .
+%mor:	pro:sub|she v|go-3S prep|to det:art|the n|dance prep|with
+	det:art|the co|oh pro:int|what~cop|be&3S det:poss|his n|name
+	det:art|the n|guy prep|in n|charge coord|and pro:sub|they v|dance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|2|CJCT 11|12|DET 12|10|PRED 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|15|POBJ 17|14|CONJ 18|19|SUBJ 19|17|COORD 20|2|PUNCT
+*PAR:	and when she gets ready to leave at midnight she doesn't have one
+	[/] one of her shoe .
+%mor:	coord|and conj|when pro:sub|she v|get-3S adj|ready inf|to v|leave
+	prep|at mid#n|night pro:sub|she mod|do&3S~neg|not v|have
+	pro:indef|one prep|of det:poss|her n|shoe .
+%gra:	1|13|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|4|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|8|POBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|13|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|13|PUNCT
+*PAR:	so then they spend the whole time <showing up all> [//] they go to
+	all these places and put the shoe on everybody but it only fits on
+	her .
+%mor:	adv|so adv:tem|then pro:sub|they v|spend det:art|the adj|whole
+	n|time pro:sub|they v|go prep|to qn|all det:dem|these n|place-PL
+	coord|and v|put&ZERO det:art|the n|shoe prep|on pro:indef|everybody
+	conj|but pro:per|it qn|only n|fit-PL prep|on pro:obj|her .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|13|QUANT 12|13|DET 13|10|POBJ 14|4|CONJ 15|14|COORD
+	16|17|DET 17|15|OBJ 18|15|JCT 19|18|POBJ 20|4|CONJ 21|20|COORD 22|23|QUANT
+	23|21|OBJ 24|23|NJCT 25|24|POBJ 26|4|PUNCT
+*PAR:	and they finally they [/] they get married and live happily every
+	after .
+%mor:	coord|and pro:sub|they adv|final&dadj-LY pro:sub|they aux|get
+	part|marry-PASTP coord|and v|live adv|happy&dadj-LY qn|every
+	adv:tem|after .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|QUANT 11|8|JCT 12|6|PUNCT
+@End

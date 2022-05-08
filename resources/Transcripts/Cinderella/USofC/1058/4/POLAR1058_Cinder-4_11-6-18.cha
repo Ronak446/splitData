@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1058_Cinderella4 video
+*PAR:	&um &um and &uh oh no .
+%mor:	coord|and co|oh co|no .
+%gra:	1|3|LINK 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	in [/] &suh in [/] in oh snow [* u] .
+%mor:	prep|in co|oh n|snow .
+%gra:	1|0|INCROOT 2|3|COM 3|1|POBJ 4|1|PUNCT
+*PAR:	and [/] and &s &eh .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

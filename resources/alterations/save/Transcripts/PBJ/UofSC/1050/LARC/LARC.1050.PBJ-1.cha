@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1050_LARC_PBJ_November-14th-2019-12-08-17-pm video
+*PAR:	this is shzooot [* phon] .
+%mor:	pro:dem|this cop|be&3S ?|shzooot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	<this is> [/] this is sot [* phon]  &e sot [* phon] .
+%mor:	pro:dem|this cop|be&3S ?|sot ?|sot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*PAR:	zoop [* phon] .
+%mor:	co|zoop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:42
+@Media:	1028_BW1 video
+*PAR:	&uh that looks to be an [/] an &uh &uh oar [* u] of xxx [* phon] .
+%mor:	pro:rel|that v|look-3S inf|to cop|be det:art|a n|oar prep|of .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|PRED 7|6|NJCT 8|2|PUNCT
+*PAR:	&um number one the boy is kicking the ball .
+%mor:	v|number pro:indef|one det:art|the n|boy aux|be&3S part|kick-PRESP
+	det:art|the n|ball .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*PAR:	and he has to &uh it &uh breaks out a window .
+%mor:	coord|and pro:sub|he aux|have&3S prep|to pro:per|it v|break-3S
+	prep|out det:art|a n|window .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	&uh the man &siti [//] sitting there &uh when the &uh the ball comes
+	through [/] through the [/] the window .
+%mor:	det:art|the n|man part|sit-PRESP adv|there conj|when det:art|the
+	det:art|the n|ball v|come-3S prep|through det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|9|LINK 6|8|DET 7|8|DET 8|9|SUBJ
+	9|3|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and &a &uh they [//] it &uh in the story &uh he's looking for the
+	&uh boy .
+%mor:	coord|and pro:per|it prep|in det:art|the n|story
+	pro:sub|he~aux|be&3S part|look-PRESP prep|for det:art|the n|boy .
+%gra:	1|8|LINK 2|8|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+@End

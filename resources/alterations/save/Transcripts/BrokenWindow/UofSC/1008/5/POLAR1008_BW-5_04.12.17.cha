@@ -1,0 +1,78 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:16
+@Media:	1008_5_BrokenWindow_Y2017_M04_D12_H10_M56_S12 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so here pillow [* u] to get here .
+%mor:	co|so pro:exist|here n|pillow inf|to v|get adv|here .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+*PAR:	okay he likes to pillow [* u] .
+%mor:	co|okay pro:sub|he v|like-3S v|toe n|pillow .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	and the minute it come .
+%mor:	coord|and det:art|the n|minute pro:per|it v|come .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*PAR:	this one come here to the window .
+%mor:	pro:dem|this pro:indef|one v|come adv|here prep|to det:art|the
+	n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and pins [* u] here .
+%mor:	coord|and v|pin-3S adv|here .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and he said oh my god .
+%mor:	coord|and pro:sub|he v|say&PAST co|oh det:poss|my n|god .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	how do see .
+%mor:	adv:int|how mod|do v|see .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and he's here .
+%mor:	coord|and pro:sub|he~cop|be&3S adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and then he get cold .
+%mor:	coord|and adv:tem|then pro:sub|he v|get adv|cold .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and he said what happen .
+%mor:	coord|and pro:sub|he v|say&PAST pro:int|what v|happen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*PAR:	because he get &h here .
+%mor:	conj|because pro:sub|he v|get adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he get here .
+%mor:	coord|and pro:sub|he v|get adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	so it happen to one &e one [/] one [/] here .
+%mor:	co|so pro:per|it v|happen prep|to pro:indef|one adv|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and two peet [* phon] .
+%mor:	coord|and det:num|two ?|peet .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	he go go [/] these xxx [* phon] .
+%mor:	pro:sub|he v|go pro:dem|these .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and this one .
+%mor:	coord|and pro:dem|this pro:indef|one .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh my god here .
+%mor:	co|oh det:poss|my n|god adv|here .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*PAR:	because he hid here .
+%mor:	conj|because pro:sub|he v|hide&PAST adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he won .
+%mor:	coord|and pro:sub|he v|win&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	he he [/] look like that .
+%mor:	pro:sub|he v|look prep|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	then that one already .
+%mor:	adv:tem|then pro:rel|that det:num|one adv|already .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|QUANT 4|5|JCT 5|1|PUNCT
+*PAR:	he get here .
+%mor:	pro:sub|he v|get adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@End

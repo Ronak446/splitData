@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.BW-1 video
+@Time Duration:	00:00:30
+*PAR:	a boy with a pall [: ball] [* phon] .
+%mor:	det:art|a n|boy prep|with det:art|a n|ball .
+*PAR:	and he kick [//] kicks a pall [: ball] [* phon] .
+%mor:	coord|and pro:sub|he v|kick-3S det:art|a n|ball .
+*PAR:	and it hits the window .
+%mor:	coord|and pro:per|it v|hit-3S det:art|the n|window .
+*PAR:	and it goes on the guys lap .
+%mor:	coord|and pro:per|it v|go-3S prep|on det:art|the n|guy-PL n|lap .
+*PAR:	night [//] knocks over the lamp .
+%mor:	v|knock-3S prep|over det:art|the n|lamp .
+*PAR:	and I don't know what he's doing .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:int|what
+	pro:sub|he~aux|be&3S part|do-PRESP .
+*PAR:	< I don't> [/] <I don't> [/] &nn I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+*PAR:	I don't know what he's doing .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|he~aux|be&3S
+	part|do-PRESP .
+@End

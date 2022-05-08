@@ -1,0 +1,73 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:02
+@Media:	1077_5_PBJ_July-22nd-2019-3-01-37-pm video
+*PAR:	okay &um I like &um bread .
+%mor:	adj|okay pro:sub|I co|like n|bread .
+%gra:	1|4|MOD 2|4|MOD 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	not really white but I like the sun [* u] the &uh green [//] or not
+	green &uh okay .
+%mor:	neg|not adv|real&dadj-LY adj|white conj|but pro:sub|I v|like
+	det:art|the n|sun det:art|the coord|or neg|not adj|green co|okay .
+%gra:	1|3|NEG 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|ROOT 7|8|DET 8|6|OBJ
+	9|14|DET 10|9|CONJ 11|10|NEG 12|13|MOD 13|10|COORD 14|6|PUNCT
+*PAR:	&uh it is the read [: wheat] [* u] what's it called
+	now white anyway .
+%mor:	pro:per|it cop|be&3S det:art|the n|wheat pro:int|what~poss|s
+	pro:per|it v|call-PAST adv|now adj|white adv|anyway .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|5|POSS 7|8|SUBJ 8|4|XMOD
+	9|8|JCT 10|8|JCT 11|10|JCT 12|2|PUNCT
+*PAR:	or you can use white okay .
+%mor:	coord|or pro:per|you mod|can v|use adj|white adj|okay .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|JCT 7|4|PUNCT
+*PAR:	and you can get your peanut+butter which &uh if &uh plain on there .
+%mor:	coord|and pro:per|you mod|can v|get det:poss|your
+	n|+n|peanut+n|butter pro:rel|which conj|if adv|plain prep|on
+	adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|10|JCT 10|8|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	I don't like any &s [/] any stuff that's crummy and yuck I don't
+	like that that's plain very soft .
+%mor:	pro:sub|I mod|do~neg|not co|like qn|any qn|any n|stuff
+	pro:rel|that~aux|be&3S adj|crummy coord|and co|yuck pro:sub|I
+	mod|do~neg|not co|like det:dem|that pro:rel|that~aux|be&3S adj|plain
+	adv|very adj|soft .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|5|COM 5|7|QUANT 6|7|QUANT 7|0|INCROOT
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|10|CONJ 12|16|COM 13|16|SUBJ 14|16|AUX
+	15|14|NEG 16|17|COM 17|11|COORD 18|20|LINK 19|20|AUX 20|17|CMOD 21|22|JCT
+	22|20|PRED 23|7|PUNCT
+*PAR:	then I'll get the peanut+butter .
+%mor:	adv:tem|then pro:sub|I~mod|will v|get det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	I want the &um read [: wheat] [* phon] kind for like &um .
+%mor:	pro:sub|I v|want det:art|the n|wheat adj|kind conj|for co|like .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|COMP 7|6|COM
+	8|2|PUNCT
+*PAR:	that would go for &s &uh some breny [* phon] some &br sweet bren
+	[: bread] [* phon] I can't think some [/] some bremmer
+	[* phon] .
+%mor:	pro:dem|that mod|will&COND v|go prep|for qn|some ?|breny qn|some
+	adj|sweet n|bread pro:sub|I mod|can~neg|not v|think qn|some
+	?|bremmer .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|9|QUANT 8|9|MOD
+	9|13|JCT 10|13|SUBJ 11|13|AUX 12|11|NEG 13|6|COMP 14|15|QUANT 15|13|OBJ
+	16|3|PUNCT
+*PAR:	anyway you <put that> [//] put it all the way down .
+%mor:	co|anyway pro:per|you v|put&ZERO pro:per|it adv|all det:art|the
+	n|way adv|down .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|JCT 6|7|DET 7|3|OBJ 8|7|NJCT
+	9|3|PUNCT
+*PAR:	and put the other one on top .
+%mor:	coord|and v|put&ZERO det:art|the qn|other pro:indef|one prep|on
+	n|top .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and eat it eat one it's good .
+%mor:	coord|and v|eat pro:per|it v|eat det:num|one pro:per|it~cop|be&3S
+	adj|good .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|QUANT 6|7|SUBJ 7|4|COMP
+	8|7|PRED 9|2|PUNCT
+@End

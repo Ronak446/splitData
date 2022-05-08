@@ -1,0 +1,170 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:23
+@Media:	1055_2_Cinderella_August-30th-2018-1-48-42-pm video
+*PAR:	xxx [* phon] xxx [* phon] pictures [* u] .
+%mor:	n|picture-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and to have a xxx [* phon] xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have xxx [* phon] &ooh &ooh .
+%mor:	inf|to v|have .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] &hohoho .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] &hoohoo .
+*PAR:	<and to have a ranch bucket and to have a ranch bucket>
+	[/] and to have a ranch [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a n|ranch n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&ooh xxx [* phon] ranch [* u] bucket [* u] .
+%mor:	n|ranch n|bucket .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] bucket [* u] .
+%mor:	n|bucket .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<and to have a go bucket> [/] and to have a go [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	to &uh xxx [* phon] .
+%mor:	inf|to .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and to have a go [* u] bucket [* u] xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and to have a go [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	to have a go  [* u] bucket [* u] .
+%mor:	inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|2|INF 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	&w &h where's door &aa &g .
+%mor:	pro:rel|where~cop|be&3S n|door .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	<and to have a> [/] and to have a go [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	and to have a go [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and to have a go [* u] bucket [* u] .
+%mor:	coord|and inf|to v|have det:art|a v|go n|bucket .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] a girl but a xxx [* phon] .
+%mor:	det:art|a n|girl conj|but det:art|a .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	<to have a xxx> [/] to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	have a xxx [* phon] .
+%mor:	v|have det:art|a .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*PAR:	yes jo [: to] [* phon] have a xxx [* phon] .
+%mor:	co|yes prep|to v|have det:art|a .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	to have a &oh &oh xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	and to have a xxx [* phon] .
+%mor:	coord|and inf|to v|have det:art|a .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	yes to have a xxx [* phon] .
+%mor:	co|yes prep|to v|have det:art|a .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	to have a xxx [* phon] .
+%mor:	inf|to v|have det:art|a .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	&ohhhh .
+@End

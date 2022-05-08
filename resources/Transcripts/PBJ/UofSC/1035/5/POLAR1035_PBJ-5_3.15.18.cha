@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR_POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:29
+@Media:	1035_PBJ5 video
+*PAR:	obay [* phon] peanut+butter and delly [* phon] .
+%mor:	?|obay n|+n|peanut+n|butter coord|and adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	but pread [* phon] [//] two pread [* phon] .
+%mor:	conj|but det:num|two pre#n|ad .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um obay [* phon] peanut+butter and delly [* phon] .
+%mor:	?|obay n|+n|peanut+n|butter coord|and adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	bread good [/] good .
+%mor:	n|bread adj|good .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*PAR:	and two of dem [* phon] peanut+butter .
+%mor:	coord|and det:num|two prep|of ?|dem n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*PAR:	&yuh and &dut .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

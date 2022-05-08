@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1032_LARC_1_Cinderella_November-13th-2019-12-19-31-pm video
+*PAR:	Cinnerella [: Cinderella] [* phon] .
+%mor:	n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ah ging [: king] [* phon] .
+%mor:	n|king .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	redzess [: princess] [* phon] .
+%mor:	n|princess .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ah good dress .
+%mor:	adj|good n|dress .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	okay perf [: perfect] [* phon] oh .
+%mor:	co|okay v|perfect co|oh .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

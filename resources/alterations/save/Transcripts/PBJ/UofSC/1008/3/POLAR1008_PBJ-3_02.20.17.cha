@@ -1,0 +1,69 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:14
+@Media:	1008_PBJ3 video
+*PAR:	I have to get &s .
+%mor:	pro:sub|I v|have inf|to v|get .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*PAR:	first I get something [/] something to get them .
+%mor:	adv|first pro:sub|I v|get pro:indef|something inf|to v|get
+	pro:obj|them .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XCOMP 7|6|OBJ 8|3|PUNCT
+*PAR:	and &m &but butter [* s] [/] butter [* s] .
+%mor:	coord|and n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and then let's sit and look at it .
+%mor:	coord|and adv:tem|then v|let~pro:obj|us v|sit coord|and v|look
+	prep|at pro:per|it .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and then so okay if I want <I should> [/] I should have &m &per &m .
+%mor:	coord|and adv:tem|then adv|so adj|okay conj|if pro:sub|I v|want
+	pro:sub|I mod|should v|have .
+%gra:	1|4|LINK 2|4|JCT 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|4|PUNCT
+*PAR:	look I have &h I have &um &ter I have .
+%mor:	co|look pro:sub|I v|have pro:sub|I v|have pro:sub|I v|have .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|SUBJ 7|5|COMP 8|3|PUNCT
+*PAR:	I got little [/] little .
+%mor:	pro:sub|I v|get&PAST adj|little .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	make me something like butter [* s] .
+%mor:	v|make pro:obj|me pro:indef|something prep|like n|butter .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	and then &m butter [* s] .
+%mor:	coord|and adv:tem|then v|butter .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and then white [* u] &um .
+%mor:	coord|and adv:tem|then n|white .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&th then I have to get &uh &l &l lemon [* s] [//] no something like
+	[/] like that .
+%mor:	adv:tem|then pro:sub|I v|have inf|to v|get qn|no
+	pro:indef|something prep|like pro:dem|that .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	&uh something &beh &beh like me no .
+%mor:	pro:indef|something prep|like pro:obj|me co|no .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|2|POBJ 5|1|PUNCT
+*PAR:	no <it's not good> [//] it's not good .
+%mor:	co|no pro:per|it~cop|be&3S neg|not adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	yes [/] yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<I like to> [/] I like to &m &ber &m &ber like that .
+%mor:	pro:sub|I v|like prep|to co|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|COM 5|3|POBJ 6|2|PUNCT
+*PAR:	I [/] I know it but I don't know .
+%mor:	pro:sub|I v|know pro:per|it conj|but pro:sub|I mod|do~neg|not
+	v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|2|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

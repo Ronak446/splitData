@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_327_1_327_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	POLAR_1116_5_PBJ_11.30.2020_z, video
+*PAR:	ell [* phon] and a boot [* u] .
+%mor:	?|ell coord|and det:art|a n|boot .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	and a &puh pistols [* u] tetel [* phon] . 
+%mor:	coord|and det:art|a n|pistol-PL ?|tetel .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	one two and a rum [* u] . 
+%mor:	det:num|one det:num|two coord|and det:art|a n|rum .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*PAR:	watched xxx [* phon] damn it . 
+%mor:	part|watch-PASTP n|damn pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|OBJ 4|1|PUNCT
+*PAR:	corn [* u] .
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<if that> [//] is it good ? 
+%mor:	aux|be&3S pro:per|it adj|good ?
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+*PAR:	is that good ?
+%mor:	cop|be&3S det:dem|that adj|good ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+@End

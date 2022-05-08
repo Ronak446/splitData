@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_6_BrokenWindow_March-5th-2020-8-26-55-am video
+@Time Duration:	00:00:16
+*PAR:	&um take the ball kick it up in the air .
+%mor:	v|take det:art|the n|ball v|kick pro:per|it adv|up prep|in
+	det:art|the n|air .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	and the come [//] came running [* u] and back to him .
+%mor:	coord|and det:art|the v|come&PAST part|run-PRESP coord|and adv|back
+	prep|to pro:obj|him .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+@End

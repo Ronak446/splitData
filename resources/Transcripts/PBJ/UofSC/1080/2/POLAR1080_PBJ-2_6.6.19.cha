@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:00:31
+@Media:	1080_2_PBJ_June-6th-2019-10-41-32-am, video
+*PAR:	red [: bread] [* phon] &a and &uh butter [: peanut+butter] [* s] and
+	jelly .
+%mor:	n|bread coord|and n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	<I &sh &uh> [//] I don't know . 33213_43691
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&uh I'll straight [//] straighten [* u] it out . 43691_51341
+%mor:	pro:sub|I~mod|will v|straighten pro:per|it adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@End

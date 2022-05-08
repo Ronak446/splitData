@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_6_Cinderella_March-5th-2020-8-31-14-am video
+@Time Duration:	00:02:54
+*PAR:	&um peanut [* u] &um bed [* u] [/] &um <bed pudding> [/] &um bed
+	[* u] pudding [* u] &um &um bed [* u] &puh .
+%mor:	n|peanut n|bed n|pudding n|bed .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	bed [* u] pudding [* u] &um &m &m &m bed [* u] &m &um &p bed [* u]
+	pudding [* u] .
+%mor:	n|bed n|pudding n|bed n|bed n|pudding .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAR:	&um &um &m &he &um &be pudding [* u] &um &uh &m &m .
+%mor:	n|pudding .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um oh man .
+%mor:	co|oh n|man .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	pudding [* u] [/] &um pudding [* u] &um p-u [* phon] &puh pudding
+	[* u] p-u &duh i-n-d-d-n-d [* phon] .
+%mor:	n|pudding ?|p–u n|pudding ?|p–u ?|i–n–d–d–n–d .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	&um &um &m &m oh man .
+%mor:	co|oh n|man .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	pudding [* u] [/] &um &um pudding [* u] &ya you you know pudding
+	[* u] .
+%mor:	n|pudding pro:per|you pro:per|you v|know n|pudding .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

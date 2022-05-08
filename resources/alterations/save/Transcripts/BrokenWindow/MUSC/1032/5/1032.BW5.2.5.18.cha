@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	1032_BW5 video
+*PAR:	geg [* phon] [/] geg [* phon] gick [* phon] .
+%mor:	n|geg ?|gick .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	ball no .
+%mor:	n|ball co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	&sh I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

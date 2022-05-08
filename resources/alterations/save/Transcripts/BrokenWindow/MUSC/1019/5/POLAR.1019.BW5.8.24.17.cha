@@ -1,0 +1,83 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:51
+@Media:	1019_BW5 video
+*PAR:	okay the boy is name [* phon] Nick because that's my son reporer
+	[* phon] Nicholas .
+%mor:	co|okay det:art|the n|boy cop|be&3S v|name n:prop|Nick conj|because
+	pro:dem|that~cop|be&3S det:poss|my n|son re#n|pore&dv-AGT
+	n:prop|Nicholas .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PRED 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|MOD 11|9|PRED 12|11|XMOD 13|12|APP 14|4|PUNCT
+*PAR:	and he [/] &uh &um he was messing around one day .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|mess-PRESP prep|around
+	det:num|one n|day .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*PAR:	and he kick [* phon] the ball through the window .
+%mor:	coord|and pro:sub|he v|kick det:art|the n|ball prep|through
+	det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	&um &h en [* phon] the man was relaxing .
+%mor:	?|en det:art|the n|man aux|be&PAST&13S part|relax-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	but he &s &woah <what's the &h> [//] what the heck is that .
+%mor:	conj|but pro:sub|he pro:int|what det:art|the n|heck cop|be&3S
+	pro:dem|that .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	it's a ball coming through the window .
+%mor:	pro:per|it~cop|be&3S det:art|a n|ball part|come-PRESP prep|through
+	det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and he said oh my god &pooh .
+%mor:	coord|and pro:sub|he v|say&PAST co|oh det:poss|my n|god .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	what am I going to do .
+%mor:	pro:int|what aux|be&1S pro:sub|I part|go-PRESP inf|to v|do .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*PAR:	I have the window broken .
+%mor:	pro:sub|I v|have det:art|the n|window part|break&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*PAR:	I have other things .
+%mor:	pro:sub|I v|have qn|other n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	but &uh I don't know what to do .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know pro:int|what inf|to v|do .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|XCOMP
+	9|5|PUNCT
+*PAR:	so he gets up .
+%mor:	co|so pro:sub|he v|get-3S adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and <he is looking at &um> [//] he's look [* phon] &a at the window .
+%mor:	coord|and pro:sub|he~aux|be&3S v|look prep|at det:art|the n|window
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	he's got the ball in his hand .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|the n|ball prep|in
+	det:poss|his n|hand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and &uh &h I don't know whether Nick is around or not .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know conj|whether n:prop|Nick
+	cop|be&3S adv|around coord|or neg|not .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|JCT 10|8|CONJ 11|10|NEG 12|5|PUNCT
+*PAR:	but &um he goes what the hecks just going on .
+%mor:	conj|but pro:sub|he v|go-3S pro:int|what det:art|the n|heck-PL
+	adj|just part|go-PRESP adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|8|MOD 8|6|XMOD
+	9|8|JCT 10|3|PUNCT
+*PAR:	but he [/] &um &um he made the telephone call to repair the window .
+%mor:	conj|but pro:sub|he v|make&PAST det:art|the n|telephone n|call
+	inf|to v|repair det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|INF 8|6|XMOD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	and he &um got a soccer ball doobood [* phon] .
+%mor:	coord|and pro:sub|he v|get&PAST det:art|a n|soccer n|ball ?|doobood
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+@End

@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:28
+@Media:	1051_4_BrokenWindow_August-6th-2018-11-55-30-am video
+*PAR:	&uh her [* s] &uh &uh what do you call it &uh &pich not picture &uh
+	&d &uh &aw man &um <picture> [//] <not picture> [/] but &uh &d
+	<hamburger> [//] no god I can't say it &um &pich <picture> [//] &uh
+	ball ball [/] .
+%mor:	det:poss|her pro:int|what mod|do pro:per|you v|call pro:per|it
+	neg|not n|picture n|man conj|but co|no co|god pro:sub|I
+	mod|can~neg|not v|say pro:per|it n|ball .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|9|NEG 8|9|MOD
+	9|5|OBJ 10|16|LINK 11|16|COM 12|16|COM 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|9|CJCT 17|16|OBJ 18|16|OBJ 19|5|PUNCT
+*PAR:	and she [* s] hang [* s] it up .
+%mor:	coord|and pro:sub|she v|hang pro:per|it adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and then it &poof it [/] brincture [* phon] the glass .
+%mor:	coord|and adv:tem|then pro:per|it ?|brincture det:art|the n|glass .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	then you [* s] come out .
+%mor:	adv:tem|then pro:per|you v|come adv|out .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and you [* s] &uh watch &m watch [/] it &uh &uh &uh glass .
+%mor:	coord|and pro:per|you v|watch pro:per|it n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+*PAR:	and then you [* s] said &uh watch out or or [/] come here or
+	something like that .
+%mor:	coord|and adv:tem|then pro:per|you v|say&PAST n|watch adv|out
+	coord|or v|come adv|here coord|or pro:indef|something prep|like
+	pro:dem|that .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|8|CONJ 11|10|COORD 12|11|NJCT 13|12|POBJ 14|4|PUNCT
+@End

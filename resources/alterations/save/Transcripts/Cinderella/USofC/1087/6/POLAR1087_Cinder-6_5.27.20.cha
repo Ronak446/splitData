@@ -1,0 +1,63 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.Cind-6 video
+@Time Duration:	00:07:39
+*PAR:	&um &um wuh [/] wuh [//] &um &m <one day> [/] one day &um &ss
+	Cinderella ad [/] had [/] <had company> [//] no had &um three [/]
+	three [/] three girls [//] &um terrible girls &um come [/] come [/]
+	<come into her come> [//] no &um &um <three terrible girls> [//] &um
+	&um man &um &um three terrible girls &um &um &wen went into her
+	house .
+%mor:	det:num|one n|day n:prop|Cinderella co|no v|have&PAST det:num|three
+	adj|terrible n|girl-PL co|no n|man det:num|three adj|terrible
+	n|girl-PL v|go&PAST prep|into det:poss|her n|house .
+*PAR:	and &um <meeting was> [//] &um &um &um meet [//] meeting was at [/]
+	at the party .
+%mor:	coord|and part|meet-PRESP cop|be&PAST&13S prep|at det:art|the
+	n|party .
+*PAR:	<and Cinderella> [/] and &um &um Cinderella and &um &um the [/] the
+	[/] the mice and [/] and &um &um Cinderella and &um the mice &ww &um
+	the [/] the [/] the birds and the mice and [/] and &um &um two [/]
+	two &um ah man &um &um &ss Cinderella and the mice and [/] and &cin
+	god [//] godin [//] godin [//] &um &um ah man &um &ss &um gardn [//]
+	garden [* u] &uh ah man &um &um &ss .
+%mor:	coord|and n:prop|Cinderella coord|and det:art|the n|mouse&PL
+	coord|and n:prop|Cinderella coord|and det:art|the n|mouse&PL
+	det:art|the n|bird-PL coord|and det:art|the n|mouse&PL coord|and
+	det:num|two co|ah n|man n:prop|Cinderella coord|and det:art|the
+	n|mouse&PL coord|and co|ah n|man n|garden co|ah n|man .
+*PAR:	&um Cinderella and &um man &uh <Cinderella god> [//] &um oh [/] oh
+	man &um and [/] &uh &uh and [/] and [/] &uh &um and &uh a &s and a
+	&ss and a slipper and Cinderella and the &um &um &lo <loss it> [/]
+	<loss it> [/] &l loss [: lost] [* phon] it .
+%mor:	n:prop|Cinderella coord|and n|man co|oh n|man coord|and det:art|a
+	coord|and det:art|a coord|and det:art|a n|slipper coord|and
+	n:prop|Cinderella coord|and det:art|the part|lose&PASTP pro:per|it .
+*PAR:	and [/] and &uh &um the [/] the man and &um found it and [/] and [/]
+	&um and &w went to Cinderella house and &um &um &dr &um man
+	Cinderella house and [/] and &um no [/] no one could wear the shoe
+	and because Cinderella lost it .
+%mor:	coord|and det:art|the n|man coord|and v|find&PAST pro:per|it
+	coord|and v|go&PAST prep|to n:prop|Cinderella n|house coord|and
+	n|man n:prop|Cinderella n|house coord|and qn|no pro:indef|one
+	mod|could v|wear det:art|the n|shoe coord|and conj|because
+	n:prop|Cinderella v|lose&PAST pro:per|it .
+*PAR:	and [/] &um &um and &uh &we &wen went two mices and open door
+	Cinderella .
+%mor:	coord|and v|go&PAST det:num|two n|mouse&PL-PL coord|and adj|open
+	n|door n:prop|Cinderella .
+*PAR:	and the man and &um with her slipper and [/] and &um &ss &um sit
+	down and &um and [/] and slipper and &um &um &um and &um wear it &um
+	&um as [/] as [/] <as the> [/] &a <as the> [/] &um <as the> [//] as
+	[//] a [/] as man .
+%mor:	coord|and det:art|the n|man coord|and prep|with det:poss|her
+	n|slipper coord|and v|sit adv|down coord|and coord|and n|slipper
+	coord|and coord|and v|wear pro:per|it prep|as n|man .
+*PAR:	and [/] &um and &ss &s Cinderella and [/] and the prince <and the>
+	[//] and &h happy ever after .
+%mor:	coord|and n:prop|Cinderella coord|and det:art|the n|prince
+	coord|and adj|happy adv|ever adv:tem|after .
+@End

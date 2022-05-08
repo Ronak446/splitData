@@ -1,0 +1,28 @@
+@UTF8
+@Window:	115_514_598_630_-1_-1_308_0_308_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR1109_6_PBJ_2.23.2021_z, video
+*PAR:	I [/] I would get two slices of &br bread .
+%mor:	pro:sub|I mod|will&COND v|get det:num|two n|slice-PL prep|of
+	n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and on one side I'll put the peanut+butter .
+%mor:	coord|and prep|on det:num|one n|side pro:sub|I~mod|will v|put&ZERO
+	det:art|the n|+n|peanut+n|butter .
+%gra:	1|7|LINK 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and on the other side I'll put the jelly .
+%mor:	coord|and prep|on det:art|the qn|other n|side pro:sub|I~mod|will
+	v|put&ZERO det:art|the n|jelly .
+%gra:	1|8|LINK 2|8|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*PAR:	and I'd smash the two glases [: slices] [* phon] together and cut daganoally [: diagonally] [* phon] . 
+%mor:	coord|and pro:sub|I~mod|genmod v|smash det:art|the det:num|two
+	n|slice-PL adv|together coord|and v|cut&ZERO adv|diagonal&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|4|CONJ 10|9|COORD 11|10|JCT 12|4|PUNCT
+@End

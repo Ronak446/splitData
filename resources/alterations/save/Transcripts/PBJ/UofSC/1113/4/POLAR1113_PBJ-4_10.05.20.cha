@@ -1,0 +1,41 @@
+@UTF8
+@Window:	255_862_362_511_174_0_419_0_419_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_PBJ-4_10.05.20 video
+@Time Duration:	00:00:37
+*PAR:	you have &um two pieces of bread .
+%mor:	pro:per|you v|have det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	nothing on them .
+%mor:	pro:indef|nothing prep|on pro:obj|them .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	one has &um peanut+butter .
+%mor:	det:num|one v|have&3S n|+n|peanut+n|butter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and it covers the whole background [: surface] [* s] of the &uh
+	bread .
+%mor:	coord|and pro:per|it v|cover-3S det:art|the adj|whole n|surface
+	prep|of det:art|the n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and then there's another layer of jelly &um that covers the
+	peanut+butter .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S qn|another n|layer
+	prep|of n|jelly pro:rel|that v|cover-3S det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|10|LINK 10|6|CMOD 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	and &um <when the> [//] when you're done you slice it in half .
+%mor:	coord|and conj|when pro:per|you~aux|be&PRES part|do&PASTP
+	pro:per|you v|slice pro:per|it prep|in n|half .
+%gra:	1|7|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|7|PUNCT
+*PAR:	and that's a peanut+butter and jelly sandwich .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|a n|+n|peanut+n|butter
+	coord|and n|jelly n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|8|MOD 6|5|CONJ 7|6|COORD 8|3|PRED
+	9|3|PUNCT
+@End

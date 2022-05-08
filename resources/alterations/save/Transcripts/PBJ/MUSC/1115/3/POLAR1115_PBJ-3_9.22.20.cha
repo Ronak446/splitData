@@ -1,0 +1,26 @@
+@UTF8
+@Window:	0_0_0_0_0_0_350_0_350_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:09
+@Media:	1115_PBJ_3_2020, video
+*PAR:	&uh bread [/] &uh bread two bread .
+%mor:	n|bread det:num|two n|bread .
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&ss &uh peanut+butter &s &uh &uh smooth peanut+butter smooth &uh
+	jelly .
+%mor:	n|+n|peanut+n|butter adj|smooth n|+n|peanut+n|butter adj|smooth
+	n|jelly .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	&uh bread &uh peanut+butter &uh jelly .
+%mor:	n|bread n|+n|peanut+n|butter n|jelly .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &uh peanut+butter and jelly sandwich . 
+%mor:	coord|and n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|5|LINK 2|5|MOD 3|2|CONJ 4|3|COORD 5|0|INCROOT 6|5|PUNCT
+*PAR:	&uh bread and eat &uh &uh &uh lunch .
+%mor:	n|bread coord|and v|eat n|lunch .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+@End

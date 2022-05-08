@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	1030_1_BrokenWindow_September-28th-2017-3-05-54-pm video
+*PAR:	&um he [/] he xxx [* phon] <she> [//] he ticked [* phon] the tall
+	[* phon] .
+%mor:	pro:sub|he pro:sub|he v|tick-PAST det:art|the adj|tall .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it rose xxx [* phon] window .
+%mor:	coord|and pro:per|it n|rose n|window .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and the father said oh my god .
+%mor:	coord|and det:art|the n|father v|say&PAST co|oh det:poss|my n|god .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	and xxx[* phon] and then he &uh xxx [* phon] window xxx [* phon] who
+	[/] who xxx [* phon] ball in the brendo [* phon] .
+%mor:	coord|and coord|and adv:tem|then pro:sub|he n|window pro:rel|who
+	n|ball prep|in det:art|the ?|brendo .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|JCT 4|5|SUBJ 5|2|COORD 6|7|LINK 7|5|CMOD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+@End

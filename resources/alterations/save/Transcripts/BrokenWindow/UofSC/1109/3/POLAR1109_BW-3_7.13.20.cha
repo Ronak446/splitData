@@ -1,0 +1,41 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_151_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	1109_3_BrokenWindow_July-13-2020-zoom_3, video
+*PAR:	okay . 
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<a little> [//] a [/] a child was playing ball outside .
+%mor:	det:art|a n|child aux|be&PAST&13S part|play-PRESP n|ball n|outside
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	he kicked the ball .
+%mor:	pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the ball &um broke a window . 
+%mor:	det:art|the n|ball v|break&PAST det:art|a n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the ball went through the broken window and landed on the man
+	&um lamp and knocked the lamp over .
+%mor:	coord|and det:art|the n|ball v|go&PAST prep|through det:art|the
+	part|break&PASTP n|window coord|and v|land-PAST prep|on det:art|the
+	n|man n|lamp coord|and v|knock-PAST det:art|the n|lamp adv|over .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|CONJ 10|9|COORD 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|4|CONJ
+	16|15|COORD 17|18|DET 18|16|OBJ 19|16|JCT 20|4|PUNCT
+*PAR:	and the man <&um was> [//] stood up &ah to look out <the window>
+	[//] the broken window to see where the ball came from .
+%mor:	coord|and det:art|the n|man v|stand&PAST adv|up prep|to n|look
+	prep|out det:art|the part|break&PASTP n|window inf|to v|see
+	pro:int|where det:art|the n|ball v|come&PAST prep|from .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|INF 13|4|XJCT 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|13|COMP 18|17|JCT 19|4|PUNCT
+*PAR:	the ball shattered the window .
+%mor:	det:art|the n|ball v|shatter-PAST det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

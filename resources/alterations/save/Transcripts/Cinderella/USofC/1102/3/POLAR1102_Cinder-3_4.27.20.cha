@@ -1,0 +1,62 @@
+@UTF8
+@Window:	0_0_0_0_0_0_779_0_779_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:45
+@Media:	1102_Cinderella_April-27-2020-zoom_3, video
+*PAR:	&um &gre &um made up .
+%mor:	v|make&PAST adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&um &s mad .
+%mor:	adj|mad .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &s Cinderella &um mad .
+%mor:	n:prop|Cinderella adj|mad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	saries [* phon] [//] fairies yeah .
+%mor:	n|fairy-PL co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	&um &bru &um &craw &um tired [//] no fallen down . 
+%mor:	co|no part|fall&PASTP adv|down .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	&um &um pick up oh beautiful . 
+%mor:	v|pick adv|up co|oh adj|beautiful .
+%gra:	1|0|ROOT 2|1|JCT 3|4|COM 4|1|JCT 5|1|PUNCT
+*PAR:	&um dog &um muhsen [* phon] .
+%mor:	n|dog ?|muhsen .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&um &um &f fix up &um &um fancy restaurant [* s] I don't know &um .
+%mor:	v|fix adv|up adj|fancy n|restaurant pro:sub|I mod|do~neg|not v|know
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|1|CJCT
+	9|1|PUNCT
+*PAR:	ball &um &um &ff &um &f mom [//] no big buff &um tie ball fancy
+	restaurant [* s] .
+%mor:	n|ball qn|no adj|big adj|buff n|tie n|ball n|fancy n|restaurant .
+%gra:	1|8|MOD 2|3|QUANT 3|8|MOD 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|0|ROOT
+	9|8|PUNCT
+*PAR:	&ohh &bom &bombombom bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um block [* phon] [//] clock [//] <five [* s] o'clock> [//] no
+	sorry .
+%mor:	co|no co|sorry .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um time fairy [* s] &f shit .
+%mor:	n|time n|fairy n|shit .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um &um Curella [: Cinderella] [* phon] [//] no mean &arr . 
+%mor:	qn|no adj|mean .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	big [/] big fancy .
+%mor:	adj|big n|fancy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um tiny [/] tiny puslippers [: slippers] [* phon] .
+%mor:	adj|tiny n|slipper-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &um ball &ih [//] ball &s [//] wedding &uh maybe .
+%mor:	n|ball n|ball n|wedding adv|maybe .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|3|NJCT 5|3|PUNCT
+@End

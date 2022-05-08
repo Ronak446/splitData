@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1056_3_BrokenWindow_October-25th-2018-9-55-06-am video
+*PAR:	&mm it's a bicole [* phon] dee [* phon] see doo [* phon] .
+%mor:	pro:per|it~cop|be&3S det:art|a ?|bicole ?|dee v|see n|doo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|2|PUNCT
+*PAR:	dey [* phon] houdey [* phon] doudey [* phon] .
+*PAR:	nye [* phon] uff [* phon] &ah oh &oo hoolihoo [* phon] .
+%mor:	?|nye ?|uff co|oh ?|hoolihoo .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|1|PUNCT
+*PAR:	hei [* phon] ha [* phon] hodey [* phon] .
+%mor:	?|hei co|ha ?|hodey .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	&eh dey [* phon]  hoiyah [* phon] .
+@End

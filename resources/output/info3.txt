@@ -1,0 +1,213 @@
+Row Labels	Sum of num								
+[* phon]	1313	phonemic paraphasia						xxx	unintellige
+[/]	1018	nothing						<>	repeated 
+[//]	690	comma						"""+ (p+b)(s+b)compund word"""	""""""
+[* u]	333	unrelated							
+[* s]	183	somantic paraph							
+[: Cinderella]	36		518						
+[: she]	21								
+[: ball]	17								
+[: peanut+butter]	16								
+[: the]	14								
+[: her]	12								
+[: aunt]	12								
+[: prince]	10								
+[: jelly]	9								
+[: pumpkin]	9								
+[: kick]	9								
+[*phon]	8								
+[: window]	8								
+[: spread]	8								
+[: carriage]	8								
+[: two]	8								
+[: mice]	7								
+[: stepmother]	6								
+[: put]	6								
+[: bread]	6								
+[: this]	5								
+[: godmother]	5								
+[: fairy godmother]	5								
+[: then]	4								
+[: handsom]	4								
+[: around]	4								
+[: boy]	4								
+[: woman]	4								
+[: o’clock]	4								
+[: on]	4								
+[: x@n]	3								
+[: that]	3								
+[:take]	3								
+[: attic]	3								
+[: can’t]	3								
+[* n:uk]	3	x							
+[: happily]	3								
+[: it]	3								
+[: stepsisters]	3								
+[: sandwich]	3								
+[: glass]	3								
+[: slipper]	3								
+[: fit]	3								
+[: slippers]	3								
+[: peanut]	3								
+[: jam]	3								
+[: step]	3								
+[: midnight]	3								
+[ * phon]	2								
+[: dress]	2								
+[: there]	2								
+[: piece]	2								
+[: everybody]	2								
+[: playing]	2								
+[: bitch]	2								
+[: house]	2								
+[: dance]	2								
+[: princess]	2								
+[: went]	2								
+[: fairy]	2								
+[: butter]	2								
+[: fairygodmother]	2								
+[: man]	2								
+[: room]	2								
+[: Cinderella’s]	2								
+[* unk]	2	unknown							
+[: they]	2								
+[*s]	2								
+[: to]	2								
+[: yes]	2								
+[: want]	2								
+[: you]	2								
+[: okay]	2								
+[*u]	2								
+[: he]	2								
+[: kingdom]	2								
+[x 3]	2								
+[:ball]	2								
+[: kicked]	2								
+[put it]	2								
+[: kicks]	2								
+[: laundry]	2								
+[: sister]	1								
+[: beautidul]	1								
+[: surprise]	1								
+[: buggy]	1								
+[: broke]	1								
+[: into]	1								
+[: father]	1								
+[: invitations]	1								
+[: thing]	1								
+[: announcement]	1								
+[: accident]	1								
+[: came to]	1								
+[:stepsisters]	1								
+[: anything]	1								
+[: soccer]	1								
+[: anyway]	1								
+[: finally]	1								
+[: carriages]	1								
+[: first]	1								
+[: chariot]	1								
+[: tore]	1								
+[: kids]	1								
+[: wheat]	1								
+[: king]	1								
+[: has]	1								
+[: apart]	1								
+[:mice]	1								
+[: kitchen]	1								
+[: shoe]	1								
+[: knife]	1								
+[:  just]	1								
+[: lady]	1								
+[: family]	1								
+[: last]	1								
+[: female]	1								
+[: appreciative]	1								
+[: story]	1								
+[: city]	1								
+[: find]	1								
+[: liked]	1								
+[: for]	1								
+[: look]	1								
+[: time]	1								
+[: made]	1								
+[: twelve]	1								
+[: clock]	1								
+[: godmother’s]	1								
+[: could]	1								
+[: with]	1								
+[: cut]	1								
+[: after]	1								
+[: minute]	1								
+[: animals]	1								
+[: mother]	1								
+[:feet]	1								
+[: next]	1								
+[:prince]	1								
+[: now]	1								
+[: hitting]	1								
+[: dad]	1								
+[: shoot]	1								
+[: daddy]	1								
+[: sitting in]	1								
+[* phon duh [* phon]]	1								
+[: a]	1								
+[: other]	1								
+[: soccer+ball]	1								
+[: palace]	1								
+[: step mother]	1								
+[: pantry]	1								
+[: stepdaughters]	1								
+[: parents]	1								
+[: stepmothers]	1								
+[: party]	1								
+[: stop]	1								
+[: peanut butter]	1								
+[: street]	1								
+[: daughters]	1								
+[: sweeping]	1								
+[: door]	1								
+[: that’s]	1								
+[: draws]	1								
+[: baseball]	1								
+[: at]	1								
+[: fridge]	1								
+[: pranced]	1								
+[: friend]	1								
+[: dropped]	1								
+[: gave]	1								
+[: enjoy]	1								
+[: try]	1								
+[: ever]	1								
+[: be]	1								
+[: ate]	1								
+[: wasn’t]	1								
+[: real]	1								
+[: what]	1								
+[: refrigerator]	1								
+[: guardsman]	1								
+[: return]	1								
+[: without]	1								
+[: ride]	1								
+[: wonderful]	1								
+[: right]	1								
+[: yelled]	1								
+[: everything]	1								
+[: yesterday]	1								
+[: runs]	1								
+[:aunt]	1								
+[: said]	1								
+[:entrance]	1								
+[: same]	1								
+[:go]	1								
+[: excited]	1								
+[:peanut]	1								
+[: savannah]	1								
+[:pumpernickel]	1								
+[: say]	1								
+[: him]	1								
+[: scoop]	1								
+[: horse]	1								
+[ * s]	1								
+[: leg]	1								
+(blank)									
+Grand Total	4055								

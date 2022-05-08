@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:00
+@Media:	1039_Cinderella4 video
+*PAR:	<long time> [/] &m long time lorvay [* phon] oh .
+%mor:	adv|long v|time ?|lorvay co|oh .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|COM 5|2|PUNCT
+*PAR:	els [* phon] yeah [/] yeah .
+%mor:	?|els co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	ju [* phon] &um yor [* phon] lor [* phon] [//] &m .
+*PAR:	modder [* phon] daughter &dar &eh daughter .
+%mor:	?|modder n|daughter n|daughter .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	wee [* phon] yeah shree [* phon] &uh .
+%mor:	adj|wee co|yeah ?|shree .
+%gra:	1|3|MOD 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	&um &um &wuh &m affer [* phon] asher [* phon] married &ah yeah .
+%mor:	?|affer ?|asher v|marry-PAST co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

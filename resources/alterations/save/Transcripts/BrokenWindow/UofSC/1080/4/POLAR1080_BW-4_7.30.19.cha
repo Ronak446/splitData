@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	1080_4_BrokenWindow_July-30th-2019-9-52-24-am.mp4, video
+*PAR:	he ticked [: kicked] [* phon] a ball and broke the window .
+%mor:	pro:sub|he v|kick-PAST det:art|a n|ball coord|and v|break&PAST
+	det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	it was man .
+%mor:	pro:per|it cop|be&PAST&13S n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	pr [* phon] perter [* phon] .
+%mor:	?|pr adj|pert-CP .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	and who was that .
+%mor:	coord|and pro:int|who cop|be&PAST&13S pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	on bate [* phon] ripped [* u] .
+%mor:	prep|on ?|bate v|rip-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	the &r &sh &uh kicked the boat [//] ball .
+%mor:	det:art|the part|kick-PASTP det:art|the n|ball .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

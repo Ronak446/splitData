@@ -1,0 +1,299 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:49
+@Media:	1035_2_Cinderella_January-5th-2018-12-56-50-pm video
+
+*PAR:	dinerella [* phon] &um &um it it [/] dæd [* phon] really dæd
+	[* phon] .
+%mor:	?|dinerella pro:per|it ?|dæd adv|real&dadj-LY ?|dæd .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	&um girl and girl both homin [* phon] here .
+%mor:	n|girl coord|and n|girl qn|both ?|homin adv|here .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|QUANT 5|3|CMOD 6|5|JCT 7|1|PUNCT
+*PAR:	hello &um .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	thinerella [* phon] I mean so sorry &um .
+%mor:	?|thinerella pro:sub|I v|mean adv|so adj|sorry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	dedder [* phon] yes sir .
+%mor:	?|dedder co|yes n|sir .
+%gra:	1|0|INCROOT 2|3|COM 3|1|OBJ 4|1|PUNCT
+*PAR:	so sorry oh so sorry .
+%mor:	adv|so adj|sorry co|oh adv|so adj|sorry .
+%gra:	1|2|JCT 2|0|ROOT 3|5|COM 4|5|JCT 5|2|PRED 6|2|PUNCT
+*PAR:	tea ?
+%mor:	n|tea ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes please .
+%mor:	co|yes co|please .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	two of them .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	mean .
+%mor:	adj|mean .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	they're mean .
+%mor:	pro:sub|they~aux|be&PRES adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&um up there weeping weeping [/] .
+%mor:	adv|up adv|there part|weep-PRESP .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	I don't like them .
+%mor:	pro:sub|I mod|do~neg|not v|like pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	oh well .
+%mor:	co|oh co|well .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	denk [* phon] you .
+%mor:	?|denk pro:per|you .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	wow please .
+%mor:	co|wow co|please .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	me ?
+%mor:	pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um two of them .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh my dawd [* phon] .
+%mor:	co|oh det:poss|my ?|dawd .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obay [* phon] good .
+%mor:	?|obay adj|good .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dat [* phon] my &um what dauh [* phon] dih [* phon] .
+%mor:	?|dat co|my pro:int|what ?|dauh ?|dih .
+%gra:	1|5|LINK 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	no no [/] why ?
+%mor:	co|no adv:int|why ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	bye bye [/] .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh my dawd [* phon] .
+%mor:	co|oh det:poss|my ?|dawd .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	oh dinerella [* phon] weeping weeping [/] .
+%mor:	co|oh ?|dinerella part|weep-PRESP .
+%gra:	1|3|COM 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	why'd you doing ?
+%mor:	adv:int|why~mod|genmod pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	who dat [* phon] ?
+%mor:	pro:int|who ?|dat ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &uh me .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx mudder [* phon] budder [* phon] whatever .
+%mor:	?|mudder n|bud&dv-AGT pro:int|whatever .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|XCOMP 4|1|PUNCT
+*PAR:	well &um I love them me I love them .
+%mor:	co|well pro:sub|I v|love pro:obj|them pro:obj|me pro:sub|I v|love
+	pro:obj|them .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+*PAR:	so sorry .
+%mor:	adv|so adj|sorry .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	weeping weeping [/] .
+%mor:	part|weep-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sound:effects .
+*PAR:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh my dawd [* phon] .
+%mor:	co|oh det:poss|my ?|dawd .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	really ?
+%mor:	adv|real&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh yeah obay [* phon] .
+%mor:	co|oh co|yeah ?|obay .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	&sound:effects .
+*PAR:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and wow thank you !
+%mor:	coord|and co|wow v|thank pro:per|you !
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and hold on !
+%mor:	coord|and n|hold adv|on !
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|1|PUNCT
+*PAR:	horse .
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sound:effects .
+*PAR:	dant [* phon] you douh [* phon] mut [* phon] .
+%mor:	?|dant pro:per|you ?|douh ?|mut .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|PRED 5|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um one one [/] o'clock .
+%mor:	det:num|one n|o'clock .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	sorry .
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um one o'clock obay [* phon] .
+%mor:	det:num|one n|o'clock ?|obay .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	<bye bye> [/] bye bye [/] .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	me ?
+%mor:	pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh &sound:effects .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh so sorry .
+%mor:	co|oh adv|so adj|sorry .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	bye bye [/] .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no no [/] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	please wait .
+%mor:	co|please co|wait .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	no bye bye [/] .
+%mor:	co|no co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	wow I love them .
+%mor:	co|wow pro:sub|I v|love pro:obj|them .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	oh man .
+%mor:	co|oh n|man .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um shoe one .
+%mor:	n|shoe pro:indef|one .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	I love them .
+%mor:	pro:sub|I v|love pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	hide .
+%mor:	n|hide .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I love them .
+%mor:	pro:sub|I v|love pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	the queen [* s] .
+%mor:	det:art|the n|queen .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um xxx [* phon] whatever .
+%mor:	pro:int|whatever .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um one two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wow so sorry .
+%mor:	co|wow adv|so adj|sorry .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sound:effects .
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	me only me .
+%mor:	pro:obj|me adv|only pro:obj|me .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	&sound:effects .
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	lock .
+%mor:	n|lock .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] please .
+%mor:	co|please .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	hurry hey hurry up .
+%mor:	n|hurry co|hey v|hurry adv|up .
+%gra:	1|3|SUBJ 2|3|COM 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&re yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	oh wow wow [/] good .
+%mor:	co|oh co|wow adj|good .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	&um me .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wedding .
+%mor:	n|wedding .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bye bye [/] .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hinerella [* phon] .
+%mor:	?|hinerella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

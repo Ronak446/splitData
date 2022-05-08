@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	POLAR_1058_Cinder3 video
+*PAR:	&um &uh no and .
+%mor:	co|no coord|and .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	&um &inininin in [/] in uhuh okay [/] okay and you know .
+%mor:	prep|in co|uhuh co|okay coord|and pro:per|you v|know .
+%gra:	1|6|LINK 2|6|COM 3|6|COM 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	and oh &um .
+%mor:	coord|and co|oh .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

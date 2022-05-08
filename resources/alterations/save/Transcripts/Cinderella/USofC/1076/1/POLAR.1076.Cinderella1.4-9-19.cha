@@ -1,0 +1,127 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:04
+@Media:	POLAR.1076.Cinderella1.4-9-19 video
+*PAR:	&hm Cinderella had sisters and a mean stepmother .
+%mor:	n:prop|Cinderella v|have&PAST n|sister-PL coord|and det:art|a
+	adj|mean step#n|mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|7|DET 6|7|MOD 7|4|COORD 8|2|PUNCT
+*PAR:	and they didn't want Cinderella to go to the ball .
+%mor:	coord|and pro:sub|they mod|do&PAST~neg|not v|want n:prop|Cinderella
+	inf|to v|go prep|to det:art|the n|ball .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|XMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	cause they thought they were better than Cinderella .
+%mor:	n|cause pro:sub|they v|think&PAST pro:sub|they cop|be&PAST
+	adv|good&CP prep|than n:prop|Cinderella .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and Cinderella had to stay home and do all the work .
+%mor:	coord|and n:prop|Cinderella v|have&PAST inf|to v|stay adv|home
+	coord|and v|do qn|all det:art|the n|work .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|3|PUNCT
+*PAR:	and then the &um .
+%mor:	coord|and adv:tem|then det:art|the .
+%gra:	1|0|INCROOT 2|4|JCT 3|4|DET 4|1|PUNCT
+*PAR:	the &per- the princess [: prince] [* s] was coming through the
+	village to find out &um who the slipper fit .
+%mor:	det:art|the det:art|the n|prince aux|be&PAST&13S part|come-PRESP
+	prep|through det:art|the n|village inf|to v|find adv|out pro:int|who
+	det:art|the n|slipper v|fit&ZERO .
+%gra:	1|3|DET 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|5|XJCT 11|10|JCT 12|15|LINK 13|14|DET 14|15|SUBJ 15|10|COMP
+	16|5|PUNCT
+*PAR:	and the stepsisters and the mother was so sure that the slipper
+	would fit them .
+%mor:	coord|and det:art|the step#n|sister-PL coord|and det:art|the
+	n|mother cop|be&PAST&13S adv|so adj|sure comp|that det:art|the
+	n|slipper mod|will&COND part|fit&PASTP pro:obj|them .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|CMOD 15|14|OBJ
+	16|7|PUNCT
+*PAR:	and they were all in a uproar about that being happy because they
+	know the slipper wasn't gonna spit [: fit] [* phon] Cinderella .
+%mor:	coord|and pro:sub|they cop|be&PAST adv|all prep|in det:art|a
+	n|uproar prep|about pro:dem|that part|be-PRESP adj|happy
+	conj|because pro:sub|they v|know det:art|the n|slipper
+	aux|be&PAST&13S~neg|not part|go-PRESP~inf|to adj|fit
+	n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|XJCT 11|10|PRED 12|14|LINK 13|14|SUBJ 14|10|CJCT 15|16|DET
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|14|COMP 20|21|INF 21|22|MOD 22|19|OBJ
+	23|3|PUNCT
+*PAR:	and when the pris [: prince] [* phon] came door to door and tried on
+	the slipper on everybody's foot .
+%mor:	coord|and conj|when det:art|the n|prince v|come&PAST n|door prep|to
+	n|door coord|and v|try-PAST prep|on det:art|the n|slipper prep|on
+	adj|everybody&dn-POSS n|foot .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|CONJ 10|9|COORD 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|16|MOD
+	16|14|POBJ 17|5|PUNCT
+*PAR:	guess what ?
+%mor:	v|guess pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	it fit Cinderella .
+%mor:	pro:per|it v|fit&ZERO n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and Cinderella had to stay home and do all the &um .
+%mor:	coord|and n:prop|Cinderella v|have&PAST inf|to v|stay adv|home
+	coord|and v|do qn|all det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|10|QUANT 10|8|OBJ 11|3|PUNCT
+*PAR:	oh that's backwards .
+%mor:	co|oh pro:dem|that~cop|be&3S adv|backwards .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	but and do all the hard work .
+%mor:	conj|but coord|and v|do qn|all det:art|the adj|hard n|work .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|7|QUANT 5|7|DET 6|7|MOD 7|3|OBJ
+	8|1|PUNCT
+*PAR:	and they didn't have to do any .
+%mor:	coord|and pro:sub|they mod|do&PAST~neg|not v|have inf|to v|do
+	qn|any .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*PAR:	so the when the &s slipper fit Cinderella .
+%mor:	co|so det:art|the conj|when det:art|the n|slipper v|fit&ZERO
+	n:prop|Cinderella .
+%gra:	1|6|COM 2|3|DET 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	the stepmother and the sisters they were mad .
+%mor:	det:art|the step#n|mother coord|and det:art|the n|sister-PL
+	pro:sub|they cop|be&PAST adj|mad .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|7|SUBJ 7|5|CMOD
+	8|7|PRED 9|2|PUNCT
+*PAR:	so the &um .
+%mor:	co|so det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	he found who the slipper fit and that was Cinderella .
+%mor:	pro:sub|he v|find&PAST pro:int|who det:art|the n|slipper v|fit&ZERO
+	coord|and pro:dem|that cop|be&PAST&13S n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|PRED 11|2|PUNCT
+*PAR:	and they live [//] they got married and live happily ever after and
+	went off in the &um stagecoach .
+%mor:	coord|and pro:sub|they pro:sub|they aux|get&PAST part|marry-PASTP
+	coord|and v|live adv|happy&dadj-LY adv|ever adv:tem|after coord|and
+	v|go&PAST adv|off prep|in det:art|the n|stagecoach .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|10|JCT 10|7|JCT 11|5|CONJ 12|11|COORD 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|5|PUNCT
+*PAR:	I mean not <the stagecoach> [//] well the pumpkin .
+%mor:	pro:sub|I v|mean neg|not adv|well det:art|the n|pumpkin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and they live <happy> [//]  happily ever after .
+%mor:	coord|and pro:sub|they v|live adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	and everybody was mad but Cinderella .
+%mor:	coord|and pro:indef|everybody cop|be&PAST&13S adj|mad conj|but
+	n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

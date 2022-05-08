@@ -1,0 +1,429 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:14:00
+@Media:	1015_1_Cinderella_Y2017_M03_D30_H13_M24_S14 video
+
+*PAR:	&s &s &s &cin &cin cinder [* phon] .
+%mor:	n|cinder .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&b &b &ba the the [/] xxx [* phon] &k &k kid .
+%mor:	det:art|the n|kid .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh &ch &ch charl [* phon] &ch &ch &ch xxx [* phon] .
+%mor:	det:art|the ?|charl .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &fa &fa <fad> [//] &fa dad dad [/] dad [/] .
+%mor:	det:art|the n|dad .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the &uh &au aunt &au <aunta> [//] aunt aunta [* phon] &au &au
+	autis [* phon] .
+%mor:	coord|and det:art|the n|aunt n|aunt ?|aunta ?|autis .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	and the &uh the [/] &uh &s .
+%mor:	coord|and det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	the the [/] dad and the &s &s sister sister [/] .
+%mor:	det:art|the n|dad coord|and det:art|the n|sister .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*PAR:	the &si the [/] &uh the [/] &uh the [/] &uh &l &l lock .
+%mor:	det:art|the n|lock .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh the [/] &uh &fa &uh &uh &das the [/] &uh &s .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&fa &cin cinder [* phon] xxx [* phon] .
+%mor:	n|cinder .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh the [/] &uh &au aunta [* phon] &aun &aun aunta [* phon] &aun
+	&au auntis [* phon] &au aunta [* phon] &au .
+%mor:	det:art|the ?|aunta ?|aunta ?|auntis ?|aunta .
+%gra:	1|2|DET 2|0|INCROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	&s &s stuck .
+%mor:	v|stick&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx [* phon] &aun aunta [* phon] &au aunta [* phon] &ma .
+%mor:	?|aunta ?|aunta .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	&aun <aunta auntis> [/] &aun &aun aunt aunt [/] aunt [/] aunt [/]
+	&uh .
+%mor:	n|aunt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&dis &s &uh &da the &cin cinder [* phon] on the <on the> [/] &uh
+	house house [/] &hou &hou house .
+%mor:	det:art|the n|cinder prep|on det:art|the n|house n|house .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	and &uh you you [/] the house house [/] the house .
+%mor:	coord|and pro:per|you det:art|the n|house det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+*PAR:	&uh &au &au aunt aunt [/] auntus [* phon] .
+%mor:	n|aunt ?|auntus .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	the &uh the [/] &uh &sch &scho &scho school .
+%mor:	det:art|the n|school .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh xxx [* phon] &uh .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	s &uh small &uh &uh small [/] .
+%mor:	?|s adj|small .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	&g &g &g &g go go [/] go [/] go [/] go [/] go [/] glow glow [/] go
+	go [/] glow glow [/] glow [/] .
+%mor:	v|go n|glow v|go n|glow .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*PAR:	and and [/] the fuck .
+%mor:	coord|and det:art|the v|fuck .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	&uh &s &s house house [/] .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&au aunta [* phon] go &gos go [/] go [/] glow glow [/] grow &gr &gr
+	grow [/] grows .
+%mor:	?|aunta v|go n|glow v|grow v|grow-3S .
+%gra:	1|0|INCROOT 2|1|XCOMP 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &c cinder [* phon] .
+%mor:	n|cinder .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] house house [/] house [/] the house .
+%mor:	v|house det:art|the n|house .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	the &uh the [/] &uh the [/] &uh &w washing washing [/] .
+%mor:	det:art|the n:gerund|wash-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the tea tea [/] tea [/] .
+%mor:	coord|and det:art|the n|tea .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the &uh &uh dinner dinner [/] dinner [/] .
+%mor:	det:art|the n|dinner .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the <and the> [/] &da &da .
+%mor:	coord|and det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	all the &uh <all the> [/] <all the> [/] &hor horse &m &me &m meast
+	[* phon] &ma mease [* phon] mease [/] mease [/] .
+%mor:	qn|all det:art|the n|horse ?|meast ?|mease .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	or they dog .
+%mor:	coord|or pro:sub|they v|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and the kik [* phon] &ca &ca cak [* phon] cak [/] &k &k kik
+	[* phon] .
+%mor:	coord|and det:art|the ?|kik ?|cak ?|kik .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	the &uh xxx [* phon] the &uh &cin cinder [* phon] cinder [/] &s &s
+	&s .
+%mor:	det:art|the det:art|the n|cinder .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	so so [/] the &uh &fi &fren &fren &fren friend friend [/] &fr friend
+	[/] .
+%mor:	co|so det:art|the n|friend .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&s cinder [* phon] all &au &au &au animal animal [/] .
+%mor:	n|cinder qn|all n|animal .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	&um little xxx [* phon] &uh .
+%mor:	adj|little .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the the [/] &cree the the [/] the the [/] &croc &croc &k &k kwakle
+	[* phon] crocle [* phon] &kwa &kwa kwana [* phon] &k .
+%mor:	det:art|the det:art|the det:art|the ?|kwakle ?|crocle ?|kwana .
+%gra:	1|4|DET 2|4|DET 3|4|DET 4|0|INCROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*PAR:	&fai &fa .
+*PAR:	&ca &ca caki [* phon] &kla &kla klaki [* phon] &ka &ka &kla .
+%mor:	?|caki ?|klaki .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	the &uh the [/] &uh the [/] the [/] king <the king> [/] kings .
+%mor:	det:art|the n|king v|king-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&la &la &la &la &la &la the the [/] the <piin piin [/]> [//] &pr
+	prince &p prince [/] &p prince [/] .
+%mor:	det:art|the det:art|the n|prince .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&la &la &la ran all round <all around> [/] xxx [* phon] .
+%mor:	v|run&PAST qn|all n|round .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	&uh &w &wi wife or ran around xxx [* phon] .
+%mor:	n|wife coord|or v|run&PAST adv|around .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*PAR:	all the &uh &l &l &l little little [/] &l &l little [/] little [/]
+	little [/] little [/] little [/] .
+%mor:	qn|all det:art|the adj|little .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&ma &mal &mal &mal xxx [* phon] &ma &mal &mal .
+*PAR:	xxx [* phon] &ki kings .
+%mor:	n|king-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	all the &au all all [/] the &uh <all the> [/] &uh house house [/]
+	house [/] house [/] .
+%mor:	qn|all det:art|the qn|all det:art|the n|house .
+%gra:	1|5|QUANT 2|5|DET 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	&uh xxx [* phon] king xxx [* phon] &ba &ba &uh ball ball [/] xxx
+	[* phon] ball xxx [* phon] .
+%mor:	n|king n|ball n|ball .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&t &t &ch &da &da &da dance xxx [* phon] .
+%mor:	n|dance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	got a xxx [* phon] &fr &fr &fr &fr &fr &fr &fr fraugs [* u] &uh
+	fraug [* phon] .
+%mor:	v|get&PAST det:art|a ?|fraugs ?|fraug .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	&uh fres [* phon] fres [/] fres [/] .
+%mor:	?|fres .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sit &si sitter [* phon] &uh &uh .
+%mor:	n|sit&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&fro &fro frog [* u] .
+%mor:	n|frog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh <fles> [//] &fle dress &dr dress [/] all around .
+%mor:	n|dress adv|all adv|around .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|NJCT 4|1|PUNCT
+*PAR:	&um &cin cinder [* phon] ciner [* phon] lost &uh &uh fres [* phon]
+	xxx [* phon] &uh &uh &wh &wh white pink pink [/] .
+%mor:	n|cinder ?|ciner v|lose&PAST ?|fres adj|white n|pink .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	all the &uh &au &au &au the [/] &uh &s sister &s sister [/] .
+%mor:	qn|all det:art|the n|sister .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	all the sister xxx [* phon] .
+%mor:	qn|all det:art|the n|sister .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	sister the &uh &u &u ugly &u &u ugly [/] ugly [/] .
+%mor:	n|sister det:art|the adj|ugly .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	the &uh &uh the [/] &s the &uh the [/] sitter [* phon] the &fi
+	sister .
+%mor:	det:art|the det:art|the n|sit&dv-AGT det:art|the n|sister .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&uh the ran the &uh the [/] &uh &fro &fro fraug [* u] .
+%mor:	det:art|the v|run&PAST det:art|the ?|fraug .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the &uh praca [* phon] fric .
+%mor:	det:art|the ?|praca ?|fric .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&sa &fra &fra &cra &ra .
+*PAR:	freddy [* u] freddy [/] fred [* u] fred [/] fred [/] .
+%mor:	?|freddy ?|fred .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	the &uh all all [/] the &uh the [/] &uh xxx [* phon] .
+%mor:	det:art|the qn|all det:art|the .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&fa fally [* phon] &uh mother mother [/] father mother fater
+	[* phon] &fl .
+%mor:	adj|fall&dn-Y n|mother n|father n|mother ?|fater .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	pen pen [/] &uh .
+%mor:	n|pen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&fa &fa &fa &fa &fa &faug fauger [* phon] &fa &fa .
+%mor:	?|fauger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&da xxx [* phon] mother &mothe mother [/] xxx [* phon] .
+%mor:	n|mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&da xxx [* phon] &ma xxx [* phon] mother .
+%mor:	n|mother .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the &uh &win &uh &uh &win &uh &uh <wing> [//] the &uh &uh the
+	&wa wand wand [/] wand [/] .
+%mor:	coord|and det:art|the det:art|the det:art|the n|wand .
+%gra:	1|5|LINK 2|5|DET 3|5|DET 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	the &uh &p &p &p pumpkin pumpkin [/] pumpkin [/] .
+%mor:	det:art|the n|pumpkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &ma &me mease [* phon] &ma mease [/] .
+%mor:	?|mease .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh the [/] &uh the [/] &ma &ma man &uh .
+%mor:	det:art|the n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh the [/] &uh &ha &hol &ha horse horse [/] horse [/] .
+%mor:	det:art|the n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the dog .
+%mor:	coord|and det:art|the n|dog .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &uh &har the [/] &h the [/] &ca &ca cak [* phon] &ha mas
+	[* phon] .
+%mor:	coord|and det:art|the ?|cak n|ma-PL .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&uh &ha horse horse [/] horse [/] &ha .
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the pumpkin xxx [* phon] &p pumpkin [/] xxx [* phon] .
+%mor:	det:art|the n|pumpkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &uh &uh &ba &fr &fri .
+*PAR:	&uh &ch &char &ch &ch &ch &cha &ch &ch charge [* u] &ch charge [/] .
+%mor:	n|charge .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh <carriad> [//] &k &k carriage .
+%mor:	n|carriage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and all all [/] xxx [* phon] .
+%mor:	coord|and pro:indef|all .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and the ball <the ball> [/] <the ball> [/] <the ball> [/] .
+%mor:	coord|and det:art|the n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&w &w &w wal [* phon] bad &wa &wa wal [* phon] wal [/] yeah .
+%mor:	?|wal adj|bad ?|wal co|yeah .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|XCOMP 4|3|COM 5|1|PUNCT
+*PAR:	&um &da &da &b &b ball the ball .
+%mor:	v|ball det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&ka &ka &ka &ka &kas &ka &ka &klas xxx [* phon] .
+*PAR:	all the all all [/] the &da &da dance .
+%mor:	qn|all det:art|the qn|all det:art|the n|dance .
+%gra:	1|5|QUANT 2|5|DET 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	all &da &ra &ra &ra &da xxx [* phon] xxx [* phon] .
+%mor:	post|all .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh &pi &pi &pr prince prince [/] .
+%mor:	det:art|the n|prince .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &s cinder [* phon] &s &s &cin cinder [/] cinder [/] cinder [/] .
+%mor:	n|cinder .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&da dance &r &r around round .
+%mor:	n|dance adv|around adv|round .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|NJCT 4|1|PUNCT
+*PAR:	dance dance [/] dance [/] xxx [* phon] .
+%mor:	n|dance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the the [/] &uh the [/] &uh dance around &da &da &da &da .
+%mor:	coord|and det:art|the n|dance adv|around .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|1|PUNCT
+*PAR:	<the choc> [//] the &cho &clo &kl &kl clock .
+%mor:	det:art|the n|clock .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] minought [* phon] minought
+	[/] &midni &ni &ni &ni &ni &ni nught [* phon] &n .
+%mor:	?|minought ?|nught .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	and the &uh aunta [* phon] aunta [/] &m mother mother [/] .
+%mor:	coord|and det:art|the ?|aunta n|mother .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	the &uh the [/] one &uh the one &t &t &ta well the &twel &twel
+	twelve .
+%mor:	det:art|the pro:indef|one det:art|the pro:indef|one adv|well
+	det:art|the det:num|twelve .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|7|JCT 6|7|DET 7|4|CMOD 8|2|PUNCT
+*PAR:	and the &m &m &m &twel twelve twelve [/] twelve [/] xxx [* phon] xxx
+	[* phon] .
+%mor:	coord|and det:art|the det:num|twelve .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&da &da &da &d &d &d &cha &cha &cha &ch &ch &ch charge [* u] .
+%mor:	n|charge .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &hou the [/] house <the house> [/] .
+%mor:	det:art|the n|house .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	all all [/] the all the mas [* phon] mease [* phon] mase [* phon] .
+%mor:	qn|all det:art|the qn|all det:art|the n|ma-PL ?|mease ?|mase .
+%gra:	1|5|QUANT 2|5|DET 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|CONJ 7|6|COORD
+	8|5|PUNCT
+*PAR:	the hauts [* phon] &da &dae &dae horse mease [* phon] &um &d dog
+	mease [* phon] xxx [* phon] xxx [* phon] .
+%mor:	det:art|the ?|hauts n|horse ?|mease n|dog ?|mease .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|MOD 5|6|MOD 6|3|CMOD 7|3|PUNCT
+*PAR:	&pill pili [* phon] pili [/] pili [/] &um .
+%mor:	?|pili .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and lon [* phon] .
+%mor:	coord|and ?|lon .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	all the xxx [* phon] &s &s &s siper [* phon] siper [/] for &s &s &s .
+%mor:	qn|all det:art|the ?|siper prep|for .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+*PAR:	the &uh circus [* u] xxx [* phon] .
+%mor:	det:art|the n|circus .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&si &sla silvr [* phon] xxx [* phon] .
+%mor:	?|silvr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	siter [* phon] no .
+%mor:	?|siter co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	xxx [* phon] ran ran [/] around around [/] all around <all around>
+	[/] .
+%mor:	v|run&PAST adv|around adv|all adv|around .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|1|JCT 5|1|PUNCT
+*PAR:	xxx [* phon] &r rat [* u] .
+%mor:	n|rat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	all the the [/] &uh the [/] &uh the [/] the [/] &uh oh the the [/]
+	&uh xxx [* phon] .
+%mor:	qn|all det:art|the co|oh det:art|the .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|5|DET 5|3|PUNCT
+*PAR:	man &ma &ma man [/] man [/] beard beard [/] beard [/] .
+%mor:	n|man n|beard .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	and all all [/] all [/] all [/] all [/] xxx [* phon] &cou &coun
+	country xxx [* phon] .
+%mor:	coord|and qn|all n|country .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	&r ran &r &r ran xxx [* phon] .
+%mor:	v|run&PAST v|run&PAST .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	the &uh the [/] &uh xxx [* phon] .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh the [/] &uh &s &sil siler [* phon] siler [/] .
+%mor:	det:art|the ?|siler .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &la &la &la lock lock [/] lock [/] .
+%mor:	det:art|the n|lock .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh the [/] &au &au aunta [* phon] aunta [/] .
+%mor:	det:art|the ?|aunta .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	all the xxx [* phon] .
+%mor:	qn|all det:art|the .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh lock &uh &ba &ba bresh [* u] bresh [/] bresha [* u] &um .
+%mor:	det:art|the n|lock ?|bresh ?|bresha .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	the xxx [* phon] xxx [* phon] .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh mice &m &m &m mase [* phon] .
+%mor:	det:art|the n|mouse&PL ?|mase .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	all the &uh <all the> [/] &uh xxx [* phon] .
+%mor:	qn|all det:art|the .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh dog [/] dog [/] dog [/] dog [/] dog [/] .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&m &m &k &k &k key &k &k key [/] key [/] key [/] .
+%mor:	n|key .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lock xxx [* phon] xxx [* phon] &ah xxx [* phon] .
+%mor:	n|lock .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&r ran xxx [* phon] &ah look xxx [* phon] lock xxx [* phon] xxx
+	[* phon] lock xxx [* phon] .
+%mor:	v|run&PAST co|look n|lock n|lock .
+%gra:	1|0|ROOT 2|4|COM 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	&s &s &s &s silter [* phon] &s &s &s &s &sil &sil &sil &sil .
+%mor:	?|silter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] and the xxx [* phon] .
+%mor:	coord|and coord|and det:art|the .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and &uh willi [* phon] willi [/] .
+%mor:	coord|and ?|willi .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &pra &pre prateint [* phon] prince cintella [* phon] .
+%mor:	coord|and ?|prateint n|prince ?|cintella .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	little &lil wedding .
+%mor:	adj|little n|wedding .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

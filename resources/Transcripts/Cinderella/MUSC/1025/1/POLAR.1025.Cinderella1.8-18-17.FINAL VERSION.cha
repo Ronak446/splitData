@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:54
+@Media:	1025_Cinderella1 video
+*PAR:	&um dee [* phon] cideredduw [* phon] was &um oh no .
+%mor:	?|dee ?|cideredduw cop|be&PAST&13S co|oh co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|COM 6|3|PUNCT
+*PAR:	&uh stiduweduw [* phon] <wes [* phon] looking> [//] well cidereda
+	[* phon] was nooki [* phon] out da [* phon] window .
+%mor:	?|stiduweduw adv|well ?|cidereda cop|be&PAST&13S ?|nooki adv|out
+	?|da n|window .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|JCT 7|8|MOD 8|5|ENUM
+	9|4|PUNCT
+*PAR:	and &uh she seen &uh pazuws [* phon] .
+%mor:	coord|and pro:sub|she part|see&PASTP ?|pazuws .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and she was hobing [* phon] she would get to ko [* phon] to da
+	[* phon] ball .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S ?|hobing pro:sub|she
+	mod|will&COND v|get inf|to ?|ko inf|to ?|da n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|PUNCT 8|9|INF
+	9|7|XCOMP 10|12|INF 11|12|MOD 12|9|INCROOT 13|12|PUNCT
+*PAR:	and tree [* u] went and [/] and loss her shoe .
+%mor:	coord|and n|tree v|go&PAST coord|and n|loss det:poss|her n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|MOD 7|5|OBJ 8|3|PUNCT
+*PAR:	and den [* phon] idono [* phon] and den [* phon] <stee [* phon]
+	found> [//] &n dey [* phon] found her shoe .
+%mor:	coord|and n|den ?|idono coord|and n|den ?|dey v|find&PAST
+	det:poss|her n|shoe .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|XMOD 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|3|CJCT
+	8|9|MOD 9|7|OBJ 10|1|PUNCT
+*PAR:	and xxx [* phon] and tied [* phon] to sue [* phon] on cinewedu
+	[* phon] .
+%mor:	coord|and coord|and v|tie-PAST inf|to v|sue prep|on ?|cinewedu .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and den [* phon] see [* phon] married the frince [* phon] .
+%mor:	coord|and n|den co|see v|marry-PAST det:art|the ?|frince .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|COM 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

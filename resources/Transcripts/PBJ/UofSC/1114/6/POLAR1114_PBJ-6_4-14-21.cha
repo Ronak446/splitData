@@ -1,0 +1,35 @@
+@UTF8
+@Window:	47_884_907_1008_0_0_1177_1_1177_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR1114_PBJ-6_4-14-21, video
+*PAR:	two pieces of dered [: bread] [* phon] .
+%mor:	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	and then my favorite serty [: jelly] [* phon] on one side .
+%mor:	coord|and adv:tem|then det:poss|my adj|favorite n|jelly prep|on
+	det:num|one n|side .
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|8|QUANT
+	8|6|POBJ 9|5|PUNCT
+*PAR:	and the other putter [* u] is a piece of mosser+putter
+	[: peanut+butter] merher [: jelly] [* phon] .
+%mor:	coord|and det:art|the qn|other n|putter cop|be&3S det:art|a n|piece
+	prep|of n|+n|peanut+n|butter n|jelly .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+*PAR:	to [: so] to make that whole messul [: sandwich] [* phon] .
+%mor:	adv|so inf|to v|make det:dem|that adj|whole n|sandwich .
+%gra:	1|3|JCT 2|3|INF 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	she writes [: likes] [* phon] twoey [: two] [* phon] of those and
+	the mellow [* u] .
+%mor:	pro:sub|she v|like-3S det:num|two prep|of pro:dem|those coord|and
+	det:art|the adj|mellow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|3|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*PAR:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

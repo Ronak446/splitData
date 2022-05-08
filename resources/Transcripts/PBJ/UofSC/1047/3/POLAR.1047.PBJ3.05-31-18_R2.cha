@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	1047_3_PBJ_May-31st-2018-9-45-44-am video
+*PAR:	ha [* phon] gabas [* phon] two [/] two keys [* u] .
+%mor:	co|ha ?|gabas det:num|two n|key-PL .
+%gra:	1|4|COM 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	and a cabery [: strawberry] [* phon] dus [* phon] be tamikel
+	[* phon] butow [* phon] togging [* phon] .
+%mor:	coord|and det:art|a n|strawberry ?|dus cop|be ?|tamikel ?|butow
+	?|togging .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|XMOD 5|4|COMP 6|5|PRED 7|6|CONJ
+	8|7|COORD 9|1|PUNCT
+*PAR:	&s &s so dow [* phon] mean xxx [* phon] difdas [* phon] .
+%mor:	co|so ?|dow adj|mean ?|difdas .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@End

@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	POLAR_1047_PBJ3 video
+*PAR:	ha [* phon] gabas [* phon] two [/] two keys [* u] .
+%mor:	co|ha ?|gabas det:num|two n|key-PL .
+%gra:	1|4|COM 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	and a cabery [* phon] dus [* phon] be tamikel [* phon] butow
+	[* phon] togging [* phon] .
+%mor:	coord|and det:art|a ?|cabery ?|dus cop|be ?|tamikel ?|butow
+	?|togging .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|SUBJ 5|3|CMOD 6|5|PRED 7|5|PRED
+	8|7|OM 9|1|PUNCT
+*PAR:	&s &s so dow [* phon] mean xxx [* phon] difdas [* phon] .
+%mor:	co|so ?|dow adj|mean ?|difdas .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@End

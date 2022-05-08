@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	POLAR_1047_PBJ4 video
+*PAR:	&i ima [* phon] dri [* phon] dops [* phon] that .
+%mor:	?|ima ?|dri ?|dops pro:dem|that .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+*PAR:	and then xxx [* phon] &gi &gi &gi &gi &boom and &boom .
+%mor:	coord|and adv:tem|then coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and it's got it der .
+%mor:	coord|and pro:per|it~aux|be&3S part|get&PASTP pro:per|it ?|der .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|4|PUNCT
+*PAR:	mmgm [* phon] .
+@End

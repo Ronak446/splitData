@@ -1,0 +1,38 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_161_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:45
+@Media:	1102_2_Cinderella_February-28th-2020-12-29-10-pm, video
+*PAR:	oh yeah &um very [: fairy] [* phon] tales &um .
+%mor:	co|oh co|yeah n|fairy n|tale-PL .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	children books mean grinch [* u] &um fairy tales .
+%mor:	n|child&PL n|book-PL adj|mean ?|grinch n|fairy n|tale-PL .
+%gra:	1|2|MOD 2|6|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*PAR:	&um help other people .
+%mor:	v|help qn|other n|person&PL .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*PAR:	&um &mm &um fan [* u] ball &um . 
+%mor:	n|fan n|ball .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	clocks [/] clocks oh what magical fairies [* s] &um magucal
+	[: magical] [* phon] &um .
+%mor:	n|clock-PL co|oh pro:int|what adj|magic&dn-AL n|fairy-PL
+	adj|magic&dn-AL .
+%gra:	1|0|INCROOT 2|5|COM 3|5|DET 4|5|MOD 5|1|ENUM 6|5|POSTMOD 7|1|PUNCT
+*PAR:	&fah put on slippers .
+%mor:	v|put&ZERO prep|on n|slipper-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	&ah thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	married .
+%mor:	part|marry-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fine . 
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

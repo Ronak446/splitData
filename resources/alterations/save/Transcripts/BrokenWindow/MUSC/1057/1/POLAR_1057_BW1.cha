@@ -1,0 +1,11 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:06
+@Media:	POLAR_1057_BW1 video
+*PAR:	boato [* phon] viti [* phon] shati [* phon] Friday [* u] .
+%mor:	?|boato ?|viti ?|shati n:prop|Friday .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

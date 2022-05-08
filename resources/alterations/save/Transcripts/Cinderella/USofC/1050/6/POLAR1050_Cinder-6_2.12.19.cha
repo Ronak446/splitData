@@ -1,0 +1,151 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:14
+@Media:	1050_6_Cinderella_February-12th-2019-12-06-52-pm video
+*PAR:	eses [* phon] es [* phon] bayses [* phon] .
+*PAR:	eses [/] eses [/] eses [* phon] no [/] no doot [* phon] .
+%mor:	?|eses co|no ?|doot .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	eses [* phon] ah [* phon] joot [* phon] .
+%mor:	?|eses co|ah ?|joot .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	and says &j &j &j joot [* phon] yas [* phon] .
+%mor:	coord|and v|say-3S ?|joot ?|yas .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+*PAR:	eses [* phon] ahjes [* phon] .
+*PAR:	and joot [* phon] .
+%mor:	coord|and ?|joot .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and says oh joot [* phon] .
+%mor:	coord|and v|say-3S co|oh ?|joot .
+%gra:	1|2|LINK 2|0|ROOT 3|4|COM 4|2|OBJ 5|2|PUNCT
+*PAR:	and eses [* phon] &j &jo joot [* phon] .
+%mor:	coord|and ?|eses ?|joot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	yan [* phon] eseh [* phon] &j &j &joo joot [* phon] xxx [* phon] .
+*PAR:	and ehh [* phon] otay [* phon] .
+%mor:	coord|and ?|ehh ?|otay .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	and xxx [* phon] yes .
+%mor:	coord|and co|yes .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and oh jes [* phon] .
+%mor:	coord|and co|oh ?|jes .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	and oh joo [* phon] &z zoot [* phon] .
+%mor:	coord|and co|oh ?|joo ?|zoot .
+%gra:	1|4|LINK 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and sayso [* phon] doot [* phon] .
+%mor:	coord|and ?|sayso ?|doot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	and sayso [* phon] xxx [* phon] .
+%mor:	coord|and ?|sayso .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and sayso [* phon] oh joot [* phon] .
+%mor:	coord|and ?|sayso co|oh ?|joot .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|COM 4|2|COMP 5|1|PUNCT
+*PAR:	and oh joot [* phon] yas [* phon] es [* phon] &j &j &j &j joot
+	[* phon] .
+%mor:	coord|and co|oh ?|joot ?|yas ?|es ?|joot .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	yad [* phon] eses [* phon] oh joot [* phon] .
+%mor:	?|yad ?|eses co|oh ?|joot .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|1|PUNCT
+*PAR:	and eses [* phon] oh jote [/] jote [* phon] bo [* phon] .
+%mor:	coord|and ?|eses co|oh ?|jote ?|bo .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|COM 4|5|MOD 5|2|COMP 6|1|PUNCT
+*PAR:	and &jo &jo &jo jote [* phon] .
+%mor:	coord|and ?|jote .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and eses [* phon] &oh .
+%mor:	coord|and ?|eses .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	&oh deah [* phon] .
+*PAR:	and eses [* phon] ase [* phon] .
+%mor:	coord|and ?|eses ?|ase .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	<eses [* phon] oh joot [* phon]> [/] ese [* phon] oh joot [* phon] .
+%mor:	?|ese co|oh ?|joot .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	eses [* phon] xxx [* phon] oh joot [* phon] .
+%mor:	?|eses co|oh ?|joot .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	<and yas [* phon]> [/] and yas [* phon] xxx [* phon] .
+%mor:	coord|and ?|yas .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and ese [* phon] jote [* phon] .
+%mor:	coord|and ?|ese ?|jote .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	eses [* phon] es [* phon] &sss &ss &ppp .
+*PAR:	eses [* phon] oh jete [* phon] .
+%mor:	?|eses co|oh ?|jete .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	and ese [* phon] oh jote [* phon] .
+%mor:	coord|and ?|ese co|oh ?|jote .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|COM 4|2|COMP 5|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and esyes [* phon] es [* phon] oh joot [* phon] and &j &j &j &j &p
+	&p &p .
+%mor:	coord|and ?|esyes ?|es co|oh ?|joot coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|5|COM 5|3|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	xxx [* phon] no eses [* phon] &j &j &j &j &j &j .
+%mor:	qn|no ?|eses .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	yes oh jote [* phon] .
+%mor:	co|yes co|oh ?|jote .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	and eses [* phon] ah [* phon] xxx [* phon] .
+%mor:	coord|and ?|eses co|ah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|1|PUNCT
+*PAR:	and eses [* phon] sooh [* phon] no .
+%mor:	coord|and ?|eses ?|sooh co|no .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|COM 5|1|PUNCT
+*PAR:	and eses [* phon] sote [* phon] .
+%mor:	coord|and ?|eses ?|sote .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	eses [* phon] ahjoot [* phon] .
+*PAR:	eses [* phon] eso [* phon] ajoot [* phon] .
+*PAR:	xxx [* phon] eses [* phon] eso [* phon] ajoot [* phon] .
+*PAR:	eso [* phon] joot [/] joot [* phon] .
+*PAR:	eso [* phon] choo [* phon] .
+%mor:	?|eso on|choo .
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*PAR:	xxx [* phon] yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and eses [* phon] oh no .
+%mor:	coord|and ?|eses co|oh co|no .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|COM 4|2|COM 5|1|PUNCT
+*PAR:	eses [/] eses [* phon] oh &sss dote [* phon] .
+%mor:	?|eses co|oh v|dote .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	and oh xxx [* phon] joot [* phon] .
+%mor:	coord|and co|oh ?|joot .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	and eses [* phon] oh joot [* phon] .
+%mor:	coord|and ?|eses co|oh ?|joot .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|COM 4|2|COMP 5|1|PUNCT
+*PAR:	and xxx [* phon] jote [* phon] pope [* phon] .
+%mor:	coord|and ?|jote n|pope .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and eses [* phon] esjote [* phon] jote [/] jote [* phon] .
+%mor:	coord|and ?|eses ?|esjote ?|jote .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and eses [* phon] yes xxx [* phon] otay [* phon] .
+%mor:	coord|and ?|eses co|yes ?|otay .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|COM 4|2|COMP 5|1|PUNCT
+*PAR:	and oh no yas [* phon] yeah [/] yeah yes &o &o &o &jo jote [* phon] .
+%mor:	coord|and co|oh co|no ?|yas co|yeah co|yes ?|jote .
+%gra:	1|4|LINK 2|4|COM 3|4|COM 4|0|ROOT 5|4|COM 6|7|COM 7|4|PUNCT 8|4|PUNCT
+*PAR:	and eses [* phon] dawp [* phon] yeah .
+%mor:	coord|and ?|eses ?|dawp co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|COM 5|1|PUNCT
+@End

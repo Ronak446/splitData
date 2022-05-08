@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:38
+@Media:	1064_3_PBJ_January-3rd-2019-1-06-45-pm video
+*PAR:	&br bwead [//] no &eh go &uh bwiched [//] no [/] no &ih &t &g &um &g
+	&um bart [//] &um <sart the> [//] no <twarp tizuh beh &uh duh jada>
+	[//] oh no <spart and showeek pe pe wh> [//] no chart [* phon] sed
+	[* phon] spo [* phon] wheat .
+%mor:	co|no v|go co|no co|no co|oh co|no qn|no n|chart ?|sed ?|spo
+	n|wheat .
+%gra:	1|2|COM 2|0|ROOT 3|6|COM 4|6|COM 5|6|COM 6|8|COM 7|8|QUANT 8|11|MOD
+	9|11|MOD 10|11|MOD 11|2|OBJ 12|2|PUNCT
+*PAR:	now bread [//] &um thread [* phon] yeah &um &um spead [//] bed [//]
+	&um peh [//] &um &um <bread and> [/] bread and padl [//] no hap [//]
+	no spread and [: the] [* u] peamut+buther [: peanut+butter]
+	[* phon] .
+%mor:	adv|now n|thread co|yeah n|bread coord|and co|no co|no
+	v|spread&ZERO det:art|the n|+n|peanut+n|butter .
+%gra:	1|4|JCT 2|4|MOD 3|4|COM 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|COM 8|4|CMOD
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and spread and [: the] [* u] bread [//] &uh spelly [//] no prelly
+	[: jelly] [* phon] .
+%mor:	coord|and v|spread&ZERO det:art|the qn|no n|jelly .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*PAR:	&uh &um put on the bread and brice [: slice] [* phon] it .
+%mor:	v|put&ZERO prep|on det:art|the n|bread coord|and v|slice pro:per|it
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|6|OBJ 8|1|PUNCT
+@End

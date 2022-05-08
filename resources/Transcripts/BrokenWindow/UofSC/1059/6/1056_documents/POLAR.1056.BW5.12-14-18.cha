@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1056_5_BrokenWindow_December-14th-2018-1-33-47-pm video
+@Comment:	Participant communicates primarily through jargon
+*PAR:	&um he twoh [* phon] vu [* phon] heiberei [* phon] .
+%mor:	pro:sub|he ?|twoh ?|vu ?|heiberei .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	he boo [* phon] boo [/] wa [* phon] hei [* phon] .
+%mor:	pro:sub|he v|boo ?|wa ?|hei .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+*PAR:	then dou [* phon] woheir [* phon] wei [* phon] bahoyee [* phon] .
+%mor:	adv:tem|then ?|dou ?|woheir ?|wei ?|bahoyee .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	then ahahuwehhu [* phon] ee [* phon] .
+%mor:	adv:tem|then ?|ahahuwehhu co|ee .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	ih [* phon] wa [* phon] hee [* phon] ha [* phon] .
+%mor:	?|ih ?|wa co|hee co|ha .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|COM 4|2|COM 5|1|PUNCT
+@End

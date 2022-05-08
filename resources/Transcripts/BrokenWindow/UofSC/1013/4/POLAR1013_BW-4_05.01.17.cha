@@ -1,0 +1,55 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:16
+@Media:	1013_4_BrokenWindow_Y2017_M05_D01_H12_M35_S18 video
+*PAR:	there was a little boy &uh .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	he was playing kickball .
+%mor:	pro:sub|he aux|be&PAST&13S part|play-PRESP n|kickball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	I'm assuming .
+%mor:	pro:sub|I~aux|be&1S part|assume-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and he was playing outside .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|play-PRESP adv|outside .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and and [/] he kick the ball into the window by accident .
+%mor:	coord|and pro:sub|he v|kick det:art|the n|ball prep|into
+	det:art|the n|window prep|by n|accident .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	and it went through the window .
+%mor:	coord|and pro:per|it v|go&PAST prep|through det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and it shattered the window to the house .
+%mor:	coord|and pro:per|it v|shatter-PAST det:art|the n|window prep|to
+	det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and it startled his father that was sitting down .
+%mor:	coord|and pro:per|it v|startle-PAST det:poss|his n|father
+	pro:rel|that aux|be&PAST&13S part|sit-PRESP adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|3|PUNCT
+*PAR:	and it knocked off <knocked off> [/] the lamp .
+%mor:	coord|and pro:per|it v|knock-PAST prep|off det:art|the n|lamp .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the father got up to see what happened and who threw the ball .
+%mor:	coord|and det:art|the n|father v|get&PAST adv|up inf|to v|see
+	pro:int|what v|happen-PAST coord|and pro:rel|who v|throw&PAST
+	det:art|the n|ball .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XCOMP 8|9|SUBJ
+	9|7|COMP 10|9|CONJ 11|12|LINK 12|10|COORD 13|14|DET 14|12|OBJ 15|4|PUNCT
+*PAR:	and the father got pretty upset I'm sure .
+%mor:	coord|and det:art|the n|father aux|get&PAST adv|pretty adj|upset
+	pro:sub|I~cop|be&1S adj|sure .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|PRED 10|8|PUNCT
+*PAR:	I guess that's it .
+%mor:	pro:sub|I n|guess pro:rel|that~aux|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|OBJ 6|4|PUNCT
+@End

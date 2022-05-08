@@ -1,0 +1,72 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:09
+@Media:	1007_Cinderella_1 video
+*PAR:	he was older and she [* s] made the little girl smaller .
+%mor:	pro:sub|he aux|be&PAST&13S adj|old-CP coord|and pro:sub|she
+	v|make&PAST det:art|the adj|little n|girl adj|small-CP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|POSTMOD 11|3|PUNCT
+*PAR:	she hid the <little babe> [//] not a little baby [* s] but &uh xxx
+	[* phon] .
+%mor:	pro:sub|she v|hide&PAST det:art|the neg|not det:art|a adj|little
+	n|baby conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|3|NEG 5|7|DET 6|7|MOD 7|8|SUBJ 8|2|COMP
+	9|2|PUNCT
+*PAR:	and then &uh it she seen that he came by with &uh other
+	[* s] &muh &muh baby [* s] .
+%mor:	coord|and adv:tem|then pro:per|it pro:sub|she part|see&PASTP
+	det:dem|that pro:sub|he v|come&PAST adv|by prep|with qn|other n|baby
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|COORD 5|4|XMOD 6|8|JCT 7|8|SUBJ
+	8|5|XCOMP 9|8|JCT 10|8|JCT 11|12|QUANT 12|10|POBJ 13|1|PUNCT
+*PAR:	and then the baby [* s] started work &eh .
+%mor:	coord|and adv:tem|then det:art|the n|baby v|start-PAST n|work .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	then she had &uh work all the time .
+%mor:	adv:tem|then pro:sub|she v|have&PAST n|work qn|all det:art|the
+	n|time .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|7|QUANT 6|7|DET 7|3|OBJ 8|3|PUNCT
+*PAR:	and and [/] she &uh she finally talk the <bigger man> [* s] to to
+	[/] she wanted to play [* u] .
+%mor:	coord|and pro:sub|she pro:sub|she adv|final&dadj-LY v|talk
+	det:art|the adj|big-CP n|man prep|to pro:sub|she v|want-PAST prep|to
+	n|play .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|JCT 5|2|CMOD 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|JCT 10|11|SUBJ 11|8|XMOD 12|11|JCT 13|12|POBJ 14|1|PUNCT
+*PAR:	and he [* s] said no .
+%mor:	coord|and pro:sub|he v|say&PAST co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and she finally found &tuh talk .
+%mor:	coord|and pro:sub|she adv|final&dadj-LY v|found n|talk .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the <great charge> [* s] .
+%mor:	det:art|the adj|great n|charge .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and she sit down and finally got to go by .
+%mor:	coord|and pro:sub|she v|sit adv|down coord|and adv|final&dadj-LY
+	v|get&PAST inf|to v|go adv|by .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|JCT 7|5|COORD 8|9|INF
+	9|7|XCOMP 10|9|JCT 11|3|PUNCT
+*PAR:	and see the <other boy> [* s] .
+%mor:	coord|and v|see det:art|the qn|other n|boy .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*PAR:	and she came back and it fell her pen [* u] &uh &uh yeah .
+%mor:	coord|and pro:sub|she v|come&PAST adv|back coord|and pro:per|it
+	v|fall&PAST det:poss|her n|pen co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|SUBJ 7|5|COORD 8|9|MOD
+	9|7|OBJ 10|7|COM 11|3|PUNCT
+*PAR:	and and [/] &uh she she [/] won .
+%mor:	coord|and pro:sub|she v|win&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she got back to the boy [* s] .
+%mor:	coord|and pro:sub|she v|get&PAST adv|back prep|to det:art|the n|boy
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she won .
+%mor:	coord|and pro:sub|she v|win&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

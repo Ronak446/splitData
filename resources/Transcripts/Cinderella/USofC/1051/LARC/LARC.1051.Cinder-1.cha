@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	LARC.1051.Cinder-1 video
+*PAR:	&uh &uh I mean oh man .
+%mor:	pro:sub|I v|mean co|oh n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|OBJ 5|2|PUNCT
+*PAR:	&um &izh he watching it but .
+%mor:	pro:sub|he part|watch-PRESP pro:per|it conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	oh god &wha &uh okay I can't say it .
+%mor:	co|oh n|god adj|okay pro:sub|I mod|can~neg|not v|say pro:per|it .
+%gra:	1|3|COM 2|3|MOD 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+@End

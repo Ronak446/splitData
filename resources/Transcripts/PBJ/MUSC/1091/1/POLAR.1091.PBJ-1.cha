@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.PBJ-1 video
+@Time Duration:	00:00:14
+*PAR:	I get two pieces of bread &um .
+%mor:	pro:sub|I v|get det:num|two n|piece-PL prep|of n|bread .
+*PAR:	put the peanut+butter then the jelly on the bread .
+%mor:	v|put&ZERO det:art|the n|+n|peanut+n|butter adv:tem|then
+	det:art|the n|jelly prep|on det:art|the n|bread .
+*PAR:	then put the top of the bread on .
+%mor:	adv:tem|then v|put&ZERO det:art|the n|top prep|of det:art|the
+	n|bread adv|on .
+@End

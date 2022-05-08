@@ -1,0 +1,71 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:05
+@Media:	1051_2_BrokenWindow_June-22nd-2018-10-27-30-am video
+*PAR:	&uh he's a boxer [: soccer player] [* s] .
+%mor:	pro:sub|he~cop|be&3S det:art|a n|soccer n|play&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	and he's running [: kicking] [* s] a [/] a long way .
+%mor:	coord|and pro:sub|he~aux|be&3S part|kick-PRESP det:art|a adj|long
+	n|way .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	and <he> [//] he's &uh he docdid [* phon] &uh he's [/] he's
+	<winning> [//] I mean &uh wunning [//] no .
+%mor:	coord|and pro:sub|he~aux|be&3S pro:sub|he ?|docdid
+	pro:sub|he~aux|be&3S pro:sub|I v|mean co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|5|CMOD 10|9|OBJ 11|3|PUNCT
+*PAR:	&uh what do you call that &uh .
+%mor:	pro:int|what mod|do pro:per|you v|call pro:dem|that .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	aw man <he's running a long way> [//] but no he's running
+	[: kicking] [* s] .
+%mor:	co|aw n|man conj|but qn|no pro:sub|he~aux|be&3S part|kick-PRESP .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|7|QUANT 5|7|SUBJ 6|7|AUX 7|3|COORD
+	8|2|PUNCT
+*PAR:	oh god I can't say it what ish [: it's] [* phon] called &uh pishure
+	[/] pishure [: picture] [* phon] .
+%mor:	co|oh n|god pro:sub|I mod|can~neg|not v|say pro:per|it pro:int|what
+	pro:per|it~aux|be&3S part|call-PASTP n|picture .
+%gra:	1|2|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|6|COMP 12|11|OBJ 13|6|PUNCT
+*PAR:	he's running away .
+%mor:	pro:sub|he~aux|be&3S part|run-PRESP adv|away .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	aw man he [//] he's running away .
+%mor:	co|aw n|man pro:sub|he~aux|be&3S part|run-PRESP adv|away .
+%gra:	1|2|COM 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|5|JCT 7|2|PUNCT
+*PAR:	well &b but [/] but he picture he's not running .
+%mor:	co|well conj|but pro:sub|he v|picture pro:sub|he~aux|be&3S neg|not
+	part|run-PRESP .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|4|PUNCT
+*PAR:	what ees [: is] [* phon] it called &uh wunning [: running] [* phon]
+	no &r running [: kicking] [* s] .
+%mor:	pro:int|what aux|be&3S pro:per|it v|call-PAST n:gerund|run-PRESP
+	qn|no part|kick-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|QUANT 7|5|OBJ 8|4|PUNCT
+*PAR:	his long way .
+%mor:	det:poss|his adj|long n|way .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and is &bam hit your picture [: window] [* s] &bam knock [//] knock
+	eded [: it] [* phon]  nown [: down] [* phon] fights [* u] .
+%mor:	coord|and aux|be&3S part|hit&PASTP det:poss|your n|window n|knock
+	pro:per|it adv|down n|fight-PL .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|6|OBJ 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and then he &uh &uh ties [: tries] [* phon] to picture &uh &uh
+	running away .
+%mor:	coord|and adv:tem|then pro:sub|he v|try-3S inf|to v|picture
+	part|run-PRESP adv|away .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|4|PUNCT
+*PAR:	<I don't> [/] I don't [//] know why but that's not right but &uh .
+%mor:	pro:sub|I v|know pro:int|why conj|but pro:rel|that~aux|be&3S
+	neg|not adj|right conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|9|LINK 6|9|AUX 7|6|NEG 8|9|MOD
+	9|4|COORD 10|2|PUNCT
+@End

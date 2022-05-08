@@ -1,0 +1,57 @@
+@UTF8
+@Window:	0_0_0_0_0_0_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1108_BW-3_7.20.20 video
+@Time Duration:	00:01:07
+*PAR:	okay [/] okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wanna [/] wanna kick the ball .
+%mor:	v|want~inf|to v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and <well kick the ball> [/] well kick the ball .
+%mor:	coord|and n|well v|kick det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	big boy kick the ball .
+%mor:	adj|big n|boy v|kick det:art|the n|ball .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and we gonna [//] no kick the ball <on the> [/] on the floor .
+%mor:	coord|and pro:sub|we co|no v|kick det:art|the n|ball prep|on
+	det:art|the n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|COM 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	kick the ball fall .
+%mor:	v|kick det:art|the n|ball v|fall .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+*PAR:	and <we gonna> [//] oh we gonna right there .
+%mor:	coord|and co|oh pro:sub|we part|go-PRESP~inf|to adv|right adv|there
+	.
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|INF 6|7|JCT 7|4|JCT 8|4|PUNCT
+*PAR:	xxx [* phon] you gonna kick the ball .
+%mor:	pro:per|you part|go-PRESP~inf|to v|kick det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	hey you gonna fall .
+%mor:	co|hey pro:per|you part|go-PRESP~inf|to v|fall .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*PAR:	and right there .
+%mor:	coord|and adv|right adv|there .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	you gonna fall in .
+%mor:	pro:per|you part|go-PRESP~inf|to v|fall adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*PAR:	xxx [* phon] well right here .
+%mor:	co|well adv|right adv|here .
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	kick the ball and right there fall .
+%mor:	v|kick det:art|the n|ball coord|and adv|right adv|there v|fall .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|CONJ 5|7|JCT 6|7|SUBJ 7|4|COORD 8|1|PUNCT
+*PAR:	okay I got it .
+%mor:	adj|okay pro:sub|I v|get&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

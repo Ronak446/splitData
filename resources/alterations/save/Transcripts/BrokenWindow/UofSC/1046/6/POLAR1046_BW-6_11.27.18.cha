@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:46
+@Media:	1046_6_BrokenWindow_November-27th-2018-3-04-04-pm video
+*PAR:	so &um the boy is punding [: punting] [* phon] the ball &um into the window .
+%mor:	co|so det:art|the n|boy aux|be&3S part|punt-PRESP det:art|the
+	n|ball prep|into det:art|the n|window .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*PAR:	and &um the man is &um sitting down &um .
+%mor:	coord|and det:art|the n|man aux|be&3S part|sit-PRESP adv|down .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and he crashes okay and the ball is &um <the lamp> [//] &um crashes
+	into the lamp .
+%mor:	coord|and pro:sub|he v|crash-3S adj|okay coord|and det:art|the
+	n|ball cop|be&3S n|crash-PL prep|into det:art|the n|lamp .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|3|COMP
+	9|8|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	&um the [/] the &um man is erect and sitting &um and looking out the
+	window &um for the boy .
+%mor:	det:art|the n|man cop|be&3S adj|erect coord|and part|sit-PRESP
+	coord|and part|look-PRESP prep|out det:art|the n|window prep|for
+	det:art|the n|boy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+@End

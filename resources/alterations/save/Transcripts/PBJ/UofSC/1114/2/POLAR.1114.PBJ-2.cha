@@ -1,0 +1,29 @@
+@UTF8
+@Window:	0_0_0_0_0_0_316_0_316_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+*PAR:	you're given two paces [: pieces] to bake [: make] [* s] [* phon] .
+%mor:	pro:per|you~aux|be&PRES part|give&PASTP det:num|two n|piece-PL
+	inf|to v|make .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|INF 7|5|XMOD 8|3|PUNCT
+*PAR:	one pace [: piece] is underneath and other top .
+%mor:	det:num|one n|piece cop|be&3S adv|underneath coord|and qn|other
+	n|top .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|QUANT 7|5|COORD
+	8|3|PUNCT
+*PAR:	happy [/] &tur happy beach [* phon] of that .
+%mor:	adj|happy n|beach prep|of pro:dem|that .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	cova [: cover] [* phon] dat [: that] [* phon] .
+%mor:	v|cover pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and you got xxx [* phon] .
+%mor:	coord|and pro:per|you part|get&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	you got peanut+butter and jelly .
+%mor:	pro:per|you v|get&PAST n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+@End

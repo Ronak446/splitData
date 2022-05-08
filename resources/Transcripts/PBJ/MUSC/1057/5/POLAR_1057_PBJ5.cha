@@ -1,0 +1,12 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:05
+@Media:	POLAR_1057_PBJ5 video
+*PAR:	hoh [* phon] enlandote [* phon] ilambo [* phon] .
+*PAR:	and dindey [: then they] [* phon] would go .
+%mor:	coord|and adv:tem|then pro:sub|they mod|will&COND v|go .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@End

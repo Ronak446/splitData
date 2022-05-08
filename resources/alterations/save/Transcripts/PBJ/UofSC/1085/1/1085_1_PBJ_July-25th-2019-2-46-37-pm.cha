@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1085_1_PBJ_July-25th-2019-2-46-37-pm video
+*PAR:	I put the peanut+butter on first on one side .
+%mor:	pro:sub|I v|put&ZERO det:art|the n|+n|peanut+n|butter adv|on
+	adv|first prep|on det:num|one n|side .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|2|JCT 8|9|QUANT
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and then I put the strawberry jelly on the other .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:art|the
+	n|strawberry n|jelly prep|on det:art|the qn|other .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and then I just mix it together .
+%mor:	coord|and adv:tem|then pro:sub|I adj|just v|mix pro:per|it
+	adv|together .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*PAR:	or you can turn around and mix the two together .
+%mor:	coord|or pro:per|you mod|can v|turn adv|around coord|and v|mix
+	det:art|the det:num|two adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|4|PUNCT
+*PAR:	and then put it on .
+%mor:	coord|and adv:tem|then v|put&ZERO pro:per|it adv|on .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1011.BW-4 video
+@Time Duration:	00:00:21
+*PAR:	kicking the ball .
+%mor:	part|kick-PRESP det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	thoing [* phon] glass .
+%mor:	?|thoing n|glass .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	window &st &w walking .
+%mor:	n|window part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+*PAR:	windowsill and gases [* u] .
+%mor:	n|+n|window+n|sill coord|and n|gas-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	gats [* phon] &w one in the .
+%mor:	?|gats pro:indef|one prep|in det:art|the .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

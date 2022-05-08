@@ -1,0 +1,139 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_3_Cinderella_March-5th-2020-9-49-07-am video
+@Time Duration:	00:01:45
+*PAR:	okay Cinderella had a godmother [: stepmother] [* s] with three
+	[: two] [* s] other daughters .
+%mor:	co|okay n:prop|Cinderella v|have&PAST det:art|a step#n|mother
+	prep|with det:num|two qn|other n|daughter-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|3|PUNCT
+*PAR:	&um and they were gonna have this ball because the guy was trying to
+	find somebody to be his princess .
+%mor:	coord|and pro:sub|they aux|be&PAST part|go-PRESP~inf|to v|have
+	det:dem|this n|ball conj|because det:art|the n|guy aux|be&PAST&13S
+	part|try-PRESP inf|to v|find pro:indef|somebody inf|to cop|be
+	det:poss|his n|princess .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|15|INF 15|13|COMP
+	16|15|OBJ 17|18|INF 18|16|COMP 19|20|DET 20|18|PRED 21|4|PUNCT
+*PAR:	and everybody was invited to the ball but her because she worked as
+	the maid .
+%mor:	coord|and pro:indef|everybody aux|be&PAST&13S part|invite-PASTP
+	prep|to det:art|the n|ball conj|but det:poss|her conj|because
+	pro:sub|she v|work-PAST prep|as det:art|the n|maid .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|12|LINK 11|12|SUBJ 12|8|COORD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	and she did everything at home and when it came down to the ball
+	they would not let her go to the ball .
+%mor:	coord|and pro:sub|she v|do&PAST pro:indef|everything prep|at n|home
+	coord|and conj|when pro:per|it v|come&PAST adv|down prep|to
+	det:art|the n|ball pro:sub|they mod|will&COND neg|not v|let&ZERO
+	pro:obj|her v|go prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|18|LINK 8|10|LINK
+	9|10|SUBJ 10|18|CJCT 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ
+	15|18|SUBJ 16|18|AUX 17|16|NEG 18|3|CJCT 19|20|SUBJ 20|18|COMP 21|20|JCT
+	22|23|DET 23|21|POBJ 24|3|PUNCT
+*PAR:	&um but she kept &um because she really wanted to go to the ball and
+	find her prince .
+%mor:	conj|but pro:sub|she v|keep&PAST conj|because pro:sub|she
+	adv|real&dadj-LY v|want-PAST inf|to v|go prep|to det:art|the n|ball
+	coord|and v|find det:poss|her n|prince .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|CJCT 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|7|CONJ 14|13|COORD 15|16|DET
+	16|14|OBJ 17|3|PUNCT
+*PAR:	so <she ended up> [//] &sh they tried to get her dress but <she
+	wouldn't have> [/] she wouldn't have it .
+%mor:	co|so pro:sub|they v|try-PAST inf|to v|get det:poss|her n|dress
+	conj|but pro:sub|she mod|will&COND~neg|not v|have pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|3|CJCT 13|12|OBJ 14|3|PUNCT
+*PAR:	so her fairy godmother got her a dress &um and told her she had to
+	be back by midnight .
+%mor:	adv|so det:poss|her n|fairy n|+n|god+n|mother aux|get&PAST
+	pro:obj|her det:art|a n|dress coord|and v|tell&PAST pro:obj|her
+	pro:sub|she v|have&PAST inf|to cop|be adv|back prep|by mid#n|night .
+%gra:	1|13|JCT 2|4|DET 3|4|MOD 4|13|SUBJ 5|13|AUX 6|5|OBJ2 7|8|DET 8|13|JCT
+	9|8|CONJ 10|9|COORD 11|10|OBJ 12|13|SUBJ 13|0|ROOT 14|15|INF 15|13|COMP
+	16|15|JCT 17|15|JCT 18|17|POBJ 19|13|PUNCT
+*PAR:	and she went to the ball .
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and they took and <they made> [/] &um they made her &um to wear to
+	the ball [//] or I'm sorry the [/] the took her to the ball .
+%mor:	coord|and pro:sub|they v|take&PAST coord|and pro:sub|they
+	v|make&PAST pro:obj|her inf|to v|wear prep|to det:art|the coord|or
+	pro:sub|I~cop|be&1S adj|sorry det:art|the v|take&PAST pro:obj|her
+	prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|9|JCT 11|14|DET 12|14|LINK 13|14|SUBJ 14|10|POBJ 15|14|PRED
+	16|17|DET 17|9|CJCT 18|17|OBJ 19|17|JCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+*PAR:	they made her &um a carriage to ride in .
+%mor:	pro:sub|they v|make&PAST pro:obj|her det:art|a n|carriage inf|to
+	v|ride adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|7|INF 7|5|XMOD 8|7|JCT
+	9|2|PUNCT
+*PAR:	and she went to the ball .
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	she danced with her queen [: prince] [* u] .
+%mor:	pro:sub|she v|dance-PAST prep|with det:poss|her n|prince .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	they had a really good time .
+%mor:	pro:sub|they v|have&PAST det:art|a adv|real&dadj-LY adj|good n|time
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*PAR:	she started to be back by midnight and [//] because she would turn
+	back into what she was .
+%mor:	pro:sub|she v|start-PAST inf|to cop|be adv|back prep|by mid#n|night
+	conj|because pro:sub|she mod|will&COND v|turn adv|back prep|into
+	pro:int|what pro:sub|she cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|6|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|2|CJCT 12|11|JCT 13|11|JCT 14|16|LINK 15|16|SUBJ
+	16|13|CPOBJ 17|2|PUNCT
+*PAR:	and basically &um at midnight she turned back into what she was .
+%mor:	coord|and adv|basic&dadj-AL-LY prep|at mid#n|night pro:sub|she
+	v|turn-PAST adv|back prep|into pro:int|what pro:sub|she
+	cop|be&PAST&13S .
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|6|PUNCT
+*PAR:	but she lost a slipper in the process .
+%mor:	conj|but pro:sub|she v|lose&PAST det:art|a n|slipper prep|in
+	det:art|the n|process .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and basically they took the slipper and they took it around to
+	everybody's house to see if anybody can wear this slipper but nobody
+	can wear this slipper but Cinderella .
+%mor:	coord|and adv|basic&dadj-AL-LY pro:sub|they v|take&PAST det:art|the
+	n|slipper coord|and pro:sub|they v|take&PAST pro:per|it adv|around
+	prep|to adj|everybody&dn-POSS n|house inf|to v|see conj|if
+	pro:indef|anybody mod|can v|wear det:dem|this n|slipper conj|but
+	pro:indef|nobody mod|can v|wear det:dem|this n|slipper conj|but
+	n:prop|Cinderella .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|OBJ 11|9|JCT 12|9|JCT 13|14|MOD 14|12|POBJ 15|16|INF
+	16|9|COMP 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|COMP 21|22|DET 22|20|OBJ
+	23|26|LINK 24|26|SUBJ 25|26|AUX 26|16|CJCT 27|28|DET 28|26|OBJ 29|28|CONJ
+	30|29|COORD 31|4|PUNCT
+*PAR:	and finally one day they came to her house and they finally ask her
+	to try the shoe on and the shoe fit perfect .
+%mor:	coord|and adv|final&dadj-LY det:num|one n|day pro:sub|they
+	v|come&PAST prep|to det:poss|her n|house coord|and pro:sub|they
+	adv|final&dadj-LY v|ask pro:obj|her inf|to v|try det:art|the n|shoe
+	adv|on coord|and det:art|the n|shoe v|fit&ZERO adj|perfect .
+%gra:	1|3|LINK 2|3|JCT 3|4|QUANT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|JCT 13|6|CJCT 14|13|OBJ 15|16|INF
+	16|13|COMP 17|18|DET 18|16|OBJ 19|16|JCT 20|23|LINK 21|22|DET 22|23|SUBJ
+	23|16|CJCT 24|23|PRED 25|6|PUNCT
+*PAR:	so she ended up marrying the princess [: prince] [* s] and living in
+	the castle .
+%mor:	co|so pro:sub|she v|end-PAST adv|up part|marry-PRESP det:art|the
+	n|prince coord|and part|live-PRESP prep|in det:art|the n|castle .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+@End

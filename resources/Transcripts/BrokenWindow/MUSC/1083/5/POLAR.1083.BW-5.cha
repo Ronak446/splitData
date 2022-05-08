@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_5_BrokenWindow_September-9th-2019-10-09-44-am video
+@Time Duration:	00:00:27
+*PAR:	&um the boy kicked the ball in the waiting [: living] [* u] room &um
+	&um .
+%mor:	det:art|the n|boy part|kick-PASTP det:art|the n|ball prep|in
+	det:art|the part|live-PRESP n|room .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	boy [//] &um and ball [: man] [* s] catch it .
+%mor:	coord|and n|man v|catch pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &um that trying to find out &uh who [/] &um who ball go .
+%mor:	coord|and adv|that part|try-PRESP inf|to v|find prep|out
+	pro:rel|who n|ball v|go .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|3|PUNCT
+*PAR:	and then and kick it there down this side .
+%mor:	coord|and adv:tem|then coord|and v|kick pro:per|it adv|there
+	prep|down det:dem|this n|side .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|OBJ 6|4|JCT 7|4|JCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+@End

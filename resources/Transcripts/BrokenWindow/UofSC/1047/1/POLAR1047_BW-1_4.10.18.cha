@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	POLAR_1047_BW1 video
+*PAR:	alright dat [* phon] was what's all of da [* phon] fithbo [* phon] .
+%mor:	co|alright ?|dat aux|be&PAST&13S pro:int|what~cop|be&3S
+	pro:indef|all prep|of ?|da ?|fithbo .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and then all the way fit [* u] the dow [* phon] .
+%mor:	coord|and adv:tem|then qn|all det:art|the n|way v|fit&ZERO
+	det:art|the ?|dow .
+%gra:	1|6|LINK 2|6|JCT 3|5|QUANT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	two uhhuh yeah .
+%mor:	det:num|two co|uhhuh co|yeah .
+%gra:	1|2|QUANT 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	yeah that was fifty+one [* u] .
+%mor:	co|yeah pro:dem|that cop|be&PAST&13S ?|fifty+one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	yeah &uh uhhuh der [* phon] playee [* phon] .
+%mor:	co|yeah co|uhhuh ?|der ?|playee .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and da [* phon] rul [* phon] tuwa [* phon] apross [* phon] yar
+	[* phon] yeah .
+%mor:	coord|and ?|da ?|rul ?|tuwa ?|apross ?|yar co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|OBJ 5|4|CONJ 6|5|COORD 7|6|COM
+	8|1|PUNCT
+@End

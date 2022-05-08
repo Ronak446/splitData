@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:28
+@Media:	1025_3_PBJ_October-16th-2017-9-55-11-am video
+*PAR:	xxx [* phon] get xxx [* phon] two xxx [* phon] of beid [* phon] .
+%mor:	v|get det:num|two prep|of ?|beid .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	then get a beanut+butter [* phon] .
+%mor:	adv:tem|then v|get det:art|a ?|beanut+butter .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and shreid [* phon] it on one side of the beid [* phon] .
+%mor:	coord|and ?|shreid pro:per|it prep|on det:num|one n|side prep|of
+	det:art|the ?|beid .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|JCT 5|6|QUANT 6|4|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*PAR:	and other side of &ss beid [* phon] xxx [* phon] .
+%mor:	coord|and qn|other n|side prep|of ?|beid .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|COORD 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	on other side .
+%mor:	prep|on qn|other n|side .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*PAR:	and put it together .
+%mor:	coord|and v|put&ZERO pro:per|it adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+@End

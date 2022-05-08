@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	POLAR_1043_PBJ4_R2 video
+@Comment:	Perseveration.
+*PAR:	I have a patch [* u] pretty look patch [* u] .
+%mor:	pro:sub|I v|have det:art|a n|patch adv|pretty cop|look n|patch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|JCT 6|2|COMP 7|6|PRED 8|2|PUNCT
+*PAR:	good dgap [* phon] .
+%mor:	adj|good ?|dgap .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	tchap [* phon] [/] tchap [* phon] kuchap [* phon] .
+*PAR:	with commercial [* u] commercials [* u] [/] commercials [* u] and
+	commercial [* u] pats [* u] .
+%mor:	prep|with n|commercial n|commercial-PL coord|and adj|commercial
+	n|pat-PL .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*PAR:	and then phone [* u] commercial [* u] together to make commercial
+	[* u] .
+%mor:	coord|and adv:tem|then v|phone adj|commercial adv|together inf|to
+	v|make n|commercial .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|INF 7|4|XMOD 8|7|OBJ
+	9|3|PUNCT
+@End

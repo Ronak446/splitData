@@ -1,0 +1,13 @@
+@UTF8
+@Window:	0_0_0_0_0_0_221_0_221_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	POLAR#1106_CINDER-3_6.04.20, video
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] <is good> [/] is good .
+%mor:	cop|be&3S adj|good .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+@End

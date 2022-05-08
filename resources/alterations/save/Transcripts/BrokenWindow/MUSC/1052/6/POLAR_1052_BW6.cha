@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:28
+@Media:	POLAR_1052_BW6 video
+*PAR:	&uh the boy kit [: kicked] [* phon] the ball .
+%mor:	det:art|the n|boy part|kick-PASTP det:art|the n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	and &eh kicked it wundow [: window] [* phon] .
+%mor:	coord|and v|kick-PAST pro:per|it n|window .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|2|PUNCT
+*PAR:	the man &uh see that the ball was in the window .
+%mor:	det:art|the n|man v|see comp|that det:art|the n|ball
+	cop|be&PAST&13S prep|in det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	<the man got out and then look> [/] the man got out and then look at
+	outside .
+%mor:	det:art|the n|man v|get&PAST adv|out coord|and adv:tem|then
+	cop|look prep|at adv|outside .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|JCT 7|5|COORD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

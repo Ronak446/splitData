@@ -1,0 +1,170 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:03
+@Media:	1033_Cinderella3 video
+
+*PAR:	Cinderella was a country girl that lived on a farm .
+%mor:	n:prop|Cinderella cop|be&PAST&13S det:art|a n|country n|girl
+	pro:rel|that v|live-PAST prep|on det:art|a n|farm .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	and there was a decorative &uh division [* u] that came by that had
+	decorative [* s] people on it &uh people in their dresses and what
+	they did and what they could do .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a adj|decorative
+	n|division pro:rel|that v|come&PAST adv|by pro:rel|that v|have&PAST
+	adj|decorative n|person&PL prep|on pro:per|it n|person&PL prep|in
+	det:poss|their n|dress-PL coord|and pro:int|what pro:sub|they
+	v|do&PAST coord|and pro:int|what pro:sub|they mod|could v|do .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|LINK 11|6|CMOD 12|13|MOD 13|11|OBJ 14|11|JCT 15|14|POBJ
+	16|15|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|16|CONJ 21|23|LINK 22|23|SUBJ
+	23|20|COORD 24|23|CONJ 25|28|LINK 26|28|SUBJ 27|28|AUX 28|24|COORD
+	29|3|PUNCT
+*PAR:	and she was asked to decorate [* s] and appear in it .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|ask-PASTP inf|to
+	v|decorate coord|and v|appear prep|in pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+*PAR:	she didn't want to do it at first .
+%mor:	pro:sub|she mod|do&PAST~neg|not v|want inf|to v|do pro:per|it
+	prep|at adj|first .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	but she finally agreed she would do it .
+%mor:	conj|but pro:sub|she adv|final&dadj-LY v|agree-PAST pro:sub|she
+	mod|will&COND v|do pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*PAR:	and to do it was to dress up .
+%mor:	coord|and inf|to mod|do pro:per|it cop|be&PAST&13S inf|to v|dress
+	adv|up .
+%gra:	1|5|LINK 2|5|INF 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|5|PUNCT
+*PAR:	she was to be the dressiest person there .
+%mor:	pro:sub|she cop|be&PAST&13S inf|to cop|be det:art|the
+	adj|dress&dv-Y-SP n|person adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|2|PUNCT
+*PAR:	well that was not the way it was to be done by them .
+%mor:	co|well pro:dem|that cop|be&PAST&13S neg|not det:art|the n|way
+	pro:per|it cop|be&PAST&13S inf|to aux|be part|do&PASTP prep|by
+	pro:obj|them .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|8|JCT 7|8|SUBJ 8|3|PRED
+	9|11|INF 10|11|AUX 11|8|COMP 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*PAR:	but that's the way it occurred .
+%mor:	conj|but pro:dem|that~cop|be&3S det:art|the n|way pro:per|it
+	v|occur-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|SUBJ 7|5|CMOD 8|3|PUNCT
+*PAR:	and she was by far the most dressiest person there .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|by adv|far det:art|the
+	qn|most adj|dress&dv-Y-SP n|person adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|9|DET 7|9|QUANT 8|9|MOD
+	9|5|POBJ 10|9|NJCT 11|3|PUNCT
+*PAR:	but her friends were animals .
+%mor:	conj|but det:poss|her n|friend-PL cop|be&PAST n|animal-PL .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	they were not people .
+%mor:	pro:sub|they aux|be&PAST neg|not n|person&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|INCROOT 5|4|PUNCT
+*PAR:	and they were great friends of hers .
+%mor:	coord|and pro:sub|they cop|be&PAST adj|great n|friend-PL prep|of
+	pro:poss|hers .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and she enjoyed talking to them and about what was going on and how
+	she was doing .
+%mor:	coord|and pro:sub|she v|enjoy-PAST n:gerund|talk-PRESP prep|to
+	pro:obj|them coord|and prep|about pro:int|what aux|be&PAST&13S
+	part|go-PRESP adv|on coord|and adv:int|how pro:sub|she
+	aux|be&PAST&13S part|do-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|CONJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COORD 12|11|JCT 13|11|CONJ 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|COORD 18|3|PUNCT
+*PAR:	and the person that helped her was a [/] a lady that lived &uh near
+	where she was .
+%mor:	coord|and det:art|the n|person pro:rel|that v|help-PAST pro:obj|her
+	cop|be&PAST&13S det:art|a n|lady pro:rel|that v|live-PAST adv|near
+	pro:rel|where pro:sub|she cop|be&PAST&13S .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|11|LINK 11|9|CMOD 12|11|JCT 13|15|LINK 14|15|SUBJ 15|9|CMOD
+	16|7|PUNCT
+*PAR:	and she was &uh very competive [* phon] to the form type &uh
+	operation [* u] person .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|very ?|competive prep|to
+	det:art|the n|form n|type n|operation n|person .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|11|DET 8|11|MOD
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|3|PUNCT
+*PAR:	and she was a friend of hers and told her that she would help her in
+	what [//] however she did what she did .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S det:art|a n|friend prep|of
+	pro:poss|hers coord|and v|tell&PAST pro:obj|her pro:rel|that
+	pro:sub|she mod|will&COND v|help pro:obj|her prep|in co|however
+	pro:sub|she v|do&PAST pro:int|what pro:sub|she v|do&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|CONJ
+	9|8|COORD 10|9|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|9|COMP 15|14|OBJ
+	16|14|JCT 17|16|POBJ 18|19|SUBJ 19|3|CJCT 20|22|LINK 21|22|SUBJ
+	22|19|COMP 23|3|PUNCT
+*PAR:	so she dressed up .
+%mor:	co|so pro:sub|she v|dress-PAST adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	they picked a day and a time .
+%mor:	pro:sub|they v|pick-PAST det:art|a n|day coord|and det:art|a n|time
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*PAR:	and she dressed up to be the person no one else could be like or
+	look like or talk like .
+%mor:	coord|and pro:sub|she v|dress-PAST adv|up inf|to cop|be det:art|the
+	n|person qn|no pro:indef|one post|else mod|could cop|be prep|like
+	coord|or cop|look conj|like coord|or n|talk prep|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|COMP 7|8|DET 8|6|PRED
+	9|10|QUANT 10|13|SUBJ 11|10|PQ 12|13|AUX 13|8|CMOD 14|13|JCT 15|14|CONJ
+	16|15|COORD 17|16|JCT 18|17|CONJ 19|18|COORD 20|19|JCT 21|3|PUNCT
+*PAR:	and she did it .
+%mor:	coord|and pro:sub|she mod|do&PAST pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	but her outfit was to change at midnight .
+%mor:	conj|but det:poss|her n|outfit cop|be&PAST&13S prep|to n|change
+	prep|at mid#n|night&dn .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	then it was to go back to way she originally was .
+%mor:	adv:tem|then pro:per|it cop|be&PAST&13S inf|to v|go adv|back
+	prep|to n|way pro:sub|she adv|original&dadj-LY cop|be&PAST&13S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|11|SUBJ 10|11|JCT 11|8|CMOD 12|3|PUNCT
+*PAR:	she was the dressiest by far person there until that thing occurred
+	with her at midnight .
+%mor:	pro:sub|she cop|be&PAST&13S det:art|the adj|dress&dv-Y-SP adv|by
+	adv|far n|person adv|there prep|until pro:dem|that n|thing
+	v|occur-PAST prep|with pro:obj|her prep|at mid#n|night&dn .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|JCT 6|2|JCT 7|6|POBJ 8|7|NJCT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|2|CJCT 13|12|JCT 14|13|POBJ 15|12|JCT
+	16|15|POBJ 17|2|PUNCT
+*PAR:	at midnight she went back to the way she was .
+%mor:	prep|at mid#n|night&dn pro:sub|she v|go&PAST adv|back prep|to
+	det:art|the n|way pro:sub|she cop|be&PAST&13S .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|10|PUNCT
+*PAR:	and the way she was was a kindly &um person that needed an outfit to
+	put on .
+%mor:	coord|and det:art|the n|way pro:sub|she aux|be&PAST&13S
+	cop|be&PAST&13S det:art|a adv|kind&dadj-LY n|person pro:rel|that
+	v|need-PAST det:art|a n|outfit inf|to v|put&ZERO prep|on .
+%gra:	1|6|LINK 2|3|DET 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|11|LINK 11|9|CMOD 12|13|DET 13|11|OBJ 14|15|INF 15|11|XJCT
+	16|15|JCT 17|6|PUNCT
+*PAR:	but she was able to occupy [* u] what she did .
+%mor:	conj|but pro:sub|she cop|be&PAST&13S adj|able inf|to v|occupy
+	pro:int|what pro:sub|she v|do&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|3|PUNCT
+*PAR:	and she did it well .
+%mor:	coord|and pro:sub|she mod|do&PAST pro:per|it adv|well .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and people loved it .
+%mor:	coord|and n|person&PL v|love-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

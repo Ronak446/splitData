@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1011_3_PBJ_Y2017_M03_D22_H13_M06_S27 video
+*PAR:	peanut+butter jelly samwich [* phon] .
+%mor:	n|+n|peanut+n|butter n|jelly ?|samwich .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and &pic <pickles> [/] &pi pickles [* s] and bread bread [/] .
+%mor:	coord|and n|pickle-PL coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	sandwich &um samwich [* phon] .
+%mor:	n|sandwich ?|samwich .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	bread and pickles [* s] .
+%mor:	n|bread coord|and n|pickle-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	right there together .
+%mor:	adv|right adv|there adv|together .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@End

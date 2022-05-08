@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1048_LARC_1_BrokenWindow_November-18th-2019-9-31-44-am video
+*PAR:	little boy git [: kicked] [* phon] the ball to the window .
+%mor:	adj|little n|boy part|kick-PASTP det:art|the n|ball prep|to
+	det:art|the n|window .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and looked &a at the little .
+%mor:	coord|and v|look-PAST prep|at det:art|the adj|little .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and the neighboo [: neighbor] [* phon] kept the ball .
+%mor:	coord|and det:art|the n|neighbor v|keep&PAST det:art|the n|ball .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

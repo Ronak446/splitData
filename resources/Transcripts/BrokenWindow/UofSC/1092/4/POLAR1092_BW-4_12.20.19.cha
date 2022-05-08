@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_4_BrokenWindow_December-20th-2019-11-29-16-am video
+@Time Duration:	00:00:49
+*PAR:	the picture talking about him .
+%mor:	det:art|the n|picture part|talk-PRESP prep|about pro:obj|him .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&m story
+%mor:	n|story
+%gra:	1|0|INCROOT
+*PAR:	see me telling the story
+%mor:	v|see pro:obj|me part|tell-PRESP det:art|the n|story
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ
+*PAR:	taking a story about an &ah elephant [* u] .
+%mor:	part|take-PRESP det:art|a n|story prep|about det:art|a n|elephant .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	&beu &beu beautiful picture of &uh lamb [*u] talking about his
+	actual XXX [* phon] in the  billy movile [: mobile] [* phon] home .
+%mor:	adj|beautiful n|picture prep|of n|lamb part|talk-PRESP prep|about
+	det:poss|his adj|actual n:prop|XXX prep|in det:art|the n|billy
+	n|mobile n|home .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|XJCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|14|DET 12|14|MOD 13|14|MOD 14|10|POBJ 15|2|PUNCT
+@End

@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	POLAR.1096.BW-1 video
+*PAR:	it &uh hit the pro [* u] .
+%mor:	pro:per|it v|hit&ZERO det:art|the n|pro .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and ik [* phon] pulled [* u] through the window .
+%mor:	coord|and ?|ik v|pull-PAST prep|through det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and it land on the person .
+%mor:	coord|and pro:per|it v|land prep|on det:art|the n|person .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the person cun [* phon] something .
+%mor:	coord|and det:art|the n|person ?|cun pro:indef|something .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+@End

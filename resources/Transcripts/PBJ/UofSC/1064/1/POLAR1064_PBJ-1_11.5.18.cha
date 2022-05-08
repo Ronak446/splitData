@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POAR|PAR|||||Participant|||
+@Time Duration:	00:01:22
+@Media:	1064-1-PBJ-November-5th-2018-11-31-18-am video
+*PAR:	you [/] &um you its good [//] no <put in bu [: the] cone> [//] no
+	gut [: put] [* phon] ond [: on] [* phon] dyo [: two] [* phon] cona
+	[* phon] &uh &uh dwead [/] &uh &um dwead [: bread] .
+%mor:	pro:per|you det:poss|its co|no co|no part|put&PASTP prep|on
+	det:num|two ?|cona n|bread .
+%gra:	1|0|INCROOT 2|3|MOD 3|5|COM 4|5|COM 5|1|COMP 6|5|JCT 7|9|QUANT 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+*PAR:	&n &p pig [//] &uh &p &pap &um pink [//] no &s send [//] no [/] no
+	spig [//] &um &t ted [//] &p no [/] no [/] no .
+%mor:	co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	no [/] no [/] no &um the &um paut [: put] [* phon] sked [* phon] et
+	[* phon] spingut+buther [: peanut+butter] [* phon] bwead [: bread]
+	[* phon] .
+%mor:	qn|no det:art|the v|put&ZERO ?|sked ?|et n|+n|peanut+n|butter
+	n|bread .
+%gra:	1|3|QUANT 2|3|DET 3|0|ROOT 4|7|MOD 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*PAR:	and &um <beg [: put] on the jelly> [//] no get [* u] on the
+	peanguh+buther [: peanut+butter] [* phon] .
+%mor:	coord|and co|no v|get prep|on det:art|the n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &wh &um pen [: then] [* phon] pit [: put] [* phon] on the pen
+	[//] &um &um &eh telly [: jelly] [* phon] .
+%mor:	coord|and adv:tem|then v|put&ZERO prep|on det:art|the n|jelly .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and put on <the ba> [//] &um no [/] no beh [: the] [* phon] &um
+	topping on scont [* phon] on hab [* phon] .
+%mor:	coord|and v|put&ZERO prep|on qn|no det:art|the n|topping prep|on
+	?|scont adv|on ?|hab .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|DET 6|3|POBJ 7|2|JCT 8|7|POBJ
+	9|10|JCT 10|2|CJCT 11|2|PUNCT
+@End

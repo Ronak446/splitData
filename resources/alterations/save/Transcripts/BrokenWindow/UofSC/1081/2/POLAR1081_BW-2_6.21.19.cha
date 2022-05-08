@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1081.BW-2 video
+@Time Duration:	00:00:52
+*PAR:	&um pictures .
+%mor:	n|picture-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what happened was he got hit in the .
+%mor:	pro:int|what v|happen-PAST cop|be&PAST&13S pro:sub|he aux|get&PAST
+	part|hit&PASTP prep|in det:art|the .
+%gra:	1|2|SUBJ 2|6|CJCT 3|2|COMP 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+@End

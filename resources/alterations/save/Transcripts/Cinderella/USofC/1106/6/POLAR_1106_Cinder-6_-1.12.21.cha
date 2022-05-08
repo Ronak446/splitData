@@ -1,0 +1,44 @@
+@UTF8
+@Window:	0_0_0_0_158_0_639_1_639_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:49
+@Media:	POLAR#1106_CINDER-6_01.12.21, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] . 
+*PAR:	a girl [/] a girl .
+%mor:	det:art|a det:art|a n|girl .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	<is mom> [//] <xxx [* phon] a mom> [/] <xxx [* phon] a mom> [//] is
+	her mom [/] is her mom .
+%mor:	aux|be&3S det:poss|her aux|be&3S det:poss|her n|mom .
+%gra:	1|0|INCROOT 2|5|DET 3|5|AUX 4|5|DET 5|1|PRED 6|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] . 
+*PAR:	xxx [* phon] xxx [* phon] <is her mom> [/] is her mom .
+%mor:	cop|be&3S det:poss|her n|mom .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*PAR:	&uh no . 
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] mom [//] it's her mom .
+%mor:	pro:per|it~cop|be&3S pro:obj|her n|mom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*PAR:	<it's her mama> [//] <it's her mom> [/] it's her mom xxx [* phon]
+	xxx [* phon] xxx  [* phon] xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S pro:obj|her n|mom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*PAR:	xxx  [* phon] <it's her mother> [//] <it's her mom> [/] it's her mom
+	xxx [* phon] . 
+%mor:	pro:per|it~cop|be&3S pro:obj|her n|mom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*PAR:	<I don't know> [/] I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	it's her mom .
+%mor:	pro:per|it~cop|be&3S pro:obj|her n|mom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+@End

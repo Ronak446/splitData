@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	1051_6_BrokenWindow_February-13th-2019-1-06-05-pm video
+*PAR:	&uh running [: kicking] [* s] kdis [* phon] .
+%mor:	part|kick-PRESP ?|kdis .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&uh wash [: watch] [* phon] it washiday [* phon] .
+%mor:	v|watch pro:per|it ?|washiday .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*PAR:	and then he's runnings [: kicking] [* s] and &boom .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S part|kick-PRESP
+	coord|and .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|5|PUNCT
+*PAR:	and then he's &k come .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S part|come&PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and &uh what you know like &uh clothes [* u] and food [* u] and &uh
+	stuff that's the whatever .
+%mor:	coord|and pro:int|what pro:per|you v|know prep|like n:pt|clothes
+	coord|and n|food coord|and n|stuff pro:rel|that~cop|be&3S
+	det:art|the pro:int|whatever .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|7|COORD
+	9|6|CONJ 10|9|COORD 11|12|LINK 12|10|CMOD 13|14|DET 14|12|PRED
+	15|4|PUNCT
+*PAR:	but he was <he was> [/] mad .
+%mor:	conj|but pro:sub|he cop|be&PAST&13S adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and then he &uh &um <he &d> [//] he [/] didn't .
+%mor:	coord|and adv:tem|then pro:sub|he mod|do&PAST~neg|not .
+%gra:	1|0|INCROOT 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|PUNCT
+*PAR:	&uh what do you call it .
+%mor:	pro:int|what mod|do pro:per|you v|call pro:per|it .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&uh he didn't &uh make its [* u] up .
+%mor:	pro:sub|he mod|do&PAST~neg|not v|make det:poss|its adv|up .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|JCT 7|4|PUNCT
+*PAR:	okay I'm good .
+%mor:	co|okay pro:sub|I~cop|be&1S adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

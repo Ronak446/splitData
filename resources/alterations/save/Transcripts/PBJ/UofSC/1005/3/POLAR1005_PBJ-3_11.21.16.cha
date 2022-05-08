@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1005_3_PBJ_Y2016_M11_D21_H10_M26_S24 video
+*PAR:	ee [* phon] bread .
+%mor:	co|ee n|bread .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and shelly [* phon] .
+%mor:	coord|and adj|shell&dn-Y .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and red [* phon] in it .
+%mor:	coord|and adj|red prep|in pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	&br xxx [* phon] &bre .
+*PAR:	bread bread [/] .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and butter [* s] and jelly .
+%mor:	coord|and n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	bread and butter [* s] .
+%mor:	n|bread coord|and n|butter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	bread and brutter [* phon] .
+%mor:	n|bread coord|and ?|brutter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and bread and butter [* s] shelly [* phon] .
+%mor:	coord|and n|bread coord|and v|butter adj|shell&dv-Y .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|1|PUNCT
+@End

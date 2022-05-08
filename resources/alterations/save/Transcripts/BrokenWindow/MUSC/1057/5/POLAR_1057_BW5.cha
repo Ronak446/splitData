@@ -1,0 +1,11 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:07
+@Media:	POLAR_1057_BW5 video
+*PAR:	the whoy [: boy] [* phon] &d do and see [* u] four .
+%mor:	det:art|the n|boy v|do coord|and v|see det:num|four .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|3|PUNCT
+@End

@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:47
+@Media:	1077_2_BrokenWindow_May-8th-2019-2-21-54-pm video
+*PAR:	this fella kicked his &uh kid [: ball] [* s] over his foot .
+%mor:	pro:dem|this n|fella v|kick-PAST det:poss|his n|ball adv|over
+	det:poss|his n|foot .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*PAR:	&um it went through his &uh window &s &stre &uh outside [: inside]
+	[* s] <in the chair> [//] <in the> [/] in the phone the .
+%mor:	pro:per|it v|go&PAST prep|through det:poss|his n|window n|inside
+	prep|in det:art|the n|phone det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|DET 11|2|PUNCT
+*PAR:	what's the word .
+%mor:	pro:int|what~aux|be&3S det:art|the n|word .
+%gra:	1|4|LINK 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	&um back of their winsow [: window] [* phon] .
+%mor:	adv|back prep|of det:poss|their n|window .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	<the chair> [//] no not the chair the &uh .
+%mor:	co|no neg|not det:art|the n|chair det:art|the .
+%gra:	1|4|COM 2|1|NEG 3|4|DET 4|0|ROOT 5|6|DET 6|4|PUNCT
+*PAR:	window outside in the window .
+%mor:	n|window adv|outside prep|in det:art|the n|window .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	and oh dad found out about it .
+%mor:	coord|and co|oh n|dad v|find&PAST adv|out prep|about pro:per|it .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	hit him too .
+%mor:	v|hit&ZERO pro:obj|him post|too .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	and now he's looking out the back to look at what happened in the
+	window .
+%mor:	coord|and adv|now pro:sub|he~aux|be&3S part|look-PRESP prep|out
+	det:art|the n|back prep|to co|look prep|at pro:int|what
+	v|happen-PAST prep|in det:art|the n|window .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|13|COM 11|13|JCT 12|13|SUBJ 13|9|POBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|5|PUNCT
+@End

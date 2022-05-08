@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1081.BW-3 video
+@Time Duration:	00:03:34
+*PAR:	well &um .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a ball and just well .
+%mor:	det:art|a n|ball coord|and adv|just adv|well .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|JCT 5|3|COORD 6|2|PUNCT
+*PAR:	a &um .
+%mor:	det:art|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um .
+*PAR:	well .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&m mand [: man] [* phon] but that's it you know .
+%mor:	n|man conj|but pro:rel|that~cop|be&3S pro:per|it pro:per|you v|know
+	.
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|LINK 4|2|COORD 5|4|PRED 6|7|SUBJ 7|5|CMOD
+	8|1|PUNCT
+*PAR:	what happened he .
+%mor:	pro:int|what v|happen-PAST pro:sub|he .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and he .
+%mor:	coord|and pro:sub|he .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	you know like oh man .
+%mor:	pro:per|you v|know co|like co|oh n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|5|COM 5|2|OBJ 6|2|PUNCT
+*PAR:	but that's <you know> [/] you know .
+%mor:	conj|but pro:dem|that~cop|be&3S pro:per|you v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+@End

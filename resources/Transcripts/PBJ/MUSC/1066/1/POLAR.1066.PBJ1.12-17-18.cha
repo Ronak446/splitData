@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:35
+@Media:	1066_1_PBJ_December-17th-2018-3-09-17-pm video
+*PAR:	you take <za piece two piece of bled two bled> [//] two pliece [: piece] [* phon] bread &boop &boop .
+%mor:	pro:per|you v|take det:num|two n|piece n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	<xxx [* phon] put xxx put em meh> [//] put them <nex da nex da> [//]
+	next door [* u] &dar &dar .
+%mor:	v|put&ZERO pro:obj|them adv|next n|door .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	take it two pieces of bread two pieces [//] piece &sh .
+%mor:	v|take pro:per|it det:num|two n|piece-PL prep|of n|bread
+	det:num|two n|piece .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|4|NJCT 6|8|MOD 7|8|QUANT 8|5|POBJ
+	9|1|PUNCT
+*PAR:	take the xxx [* phon] &sh xxx [* phon] &ch &ch &ch &bb pudli
+	[* phon] bupper [//] buttles [* phon] xxx [* phon] .
+%mor:	v|take det:art|the ?|pudli ?|buttles .
+%gra:	1|0|ROOT 2|4|DET 3|4|XMOD 4|1|OBJ 5|1|PUNCT
+*PAR:	<put it lil bit butter> [//] put a little butter [/] butter [//]
+	buttle [: peanut+butter] [* phon] .
+%mor:	v|put&ZERO det:art|a adj|little n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	you take the jelly &ch &ch one buh [* phon] xxx [* phon] .
+%mor:	pro:per|you v|take det:art|the n|jelly det:num|one ?|buh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|QUANT 6|4|POSTMOD 7|2|PUNCT
+*PAR:	then you go <now f> [/] now &f xxx [* phon] .
+%mor:	adv:tem|then pro:per|you v|go adv|now .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	take &shew one bun [: bread] [* s] mun [/] mun [* phon] xxx
+	[* phon] .
+%mor:	v|take det:num|one n|bread ?|mun .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*PAR:	cut in half .
+%mor:	v|cut&ZERO prep|in n|half .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	done .
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

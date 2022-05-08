@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1004_4_PBJ_Y2016_M12_D19_H15_S57 video
+*PAR:	bebutter [* phon] and jelly sandwich .
+%mor:	?|bebutter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	put it in the bun [* s] .
+%mor:	v|put&ZERO pro:per|it prep|in det:art|the n|bun .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	and stick [* u] up [* u] for for [/] bun [* s] for anything you like .
+%mor:	coord|and v|stick adv|up prep|for n|bun prep|for pro:indef|anything
+	pro:per|you co|like .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|JCT 7|6|POBJ 8|7|OBJ
+	9|8|COM 10|2|PUNCT
+*PAR:	and put in the bread .
+%mor:	coord|and v|put&ZERO prep|in det:art|the n|bread .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and toast it .
+%mor:	coord|and v|toast pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and vut [* phon] &uh benutbutter [* phon] in one side and mayonnaise
+	[* s] in another .
+%mor:	coord|and ?|vut ?|benutbutter prep|in det:num|one n|side coord|and
+	n|mayonnaise prep|in qn|another .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|CONJ
+	8|7|COORD 9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*PAR:	and &s stuck [* u] it down in the the [/] in &wh &wh one side .
+%mor:	coord|and v|stick&PAST pro:per|it adv|down prep|in det:art|the
+	adv|in det:num|one n|side .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|9|DET 7|8|JCT 8|9|QUANT
+	9|5|POBJ 10|2|PUNCT
+*PAR:	and then the other and xxx [* phon] it in the xxx [* phon] sandwich .
+%mor:	coord|and adv:tem|then det:art|the qn|other coord|and pro:per|it
+	prep|in det:art|the n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*PAR:	xxx [* phon] so things that you want to .
+%mor:	adv|so n|thing-PL pro:rel|that pro:per|you v|want prep|to .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|2|PUNCT
+*PAR:	and then put it down in the &bruh bunt [* phon] and toast it in xxx
+	[* phon] .
+%mor:	coord|and adv:tem|then v|put&ZERO pro:per|it adv|down prep|in
+	det:art|the n|bunt coord|and v|toast pro:per|it adv|in .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|3|PUNCT
+*PAR:	so good good [/] good [/] .
+%mor:	adv|so adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and then it's xxx [* phon] with or without .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S prep|with coord|or
+	prep|without .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|CONJ 7|6|COORD 8|4|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

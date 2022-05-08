@@ -1,0 +1,79 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:18
+@Media:	1005_2_Cinderella_Y2016_M11_D08_H11_M38_S28 video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there was a time who was hairy [* u] .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|time pro:rel|who
+	cop|be&PAST&13S adj|hair&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|PRED 8|2|PUNCT
+*PAR:	who he's [* u] &um xxx [* phon] ladder [* u] .
+%mor:	pro:int|who pro:sub|he~aux|be&3S n|ladder .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*PAR:	and his [* u] ear [* phon] gonna go .
+%mor:	coord|and det:poss|his n|ear part|go-PRESP~inf|to v|go .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|3|XMOD 5|6|INF 6|4|XCOMP 7|1|PUNCT
+*PAR:	he's [* u] gonna go .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*PAR:	they've gonna go thank you very much .
+%mor:	pro:sub|they~aux|have part|go-PRESP~inf|to v|go v|thank pro:per|you
+	adv|very qn|much .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|OBJ 8|9|JCT
+	9|5|JCT 10|3|PUNCT
+*PAR:	they're gonna &ih gonna [/] .
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um thank you &ah all alone .
+%mor:	v|thank pro:per|you adv|all adv|alone .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+*PAR:	they're they're [/] <were gonna to go> [//] they gonna go &tuh .
+%mor:	pro:sub|they~aux|be&PRES pro:sub|they part|go-PRESP~inf|to v|go .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|XMOD 5|6|INF 6|4|XCOMP 7|3|PUNCT
+*PAR:	&ah &ah tink [* phon] der [* phon] gonna go to church [* u] .
+%mor:	?|tink ?|der part|go-PRESP~inf|to v|go prep|to n|church .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and &ah I I [/] dey [* phon] [//] there [* phon] were gonna go .
+%mor:	coord|and pro:sub|I adv|there aux|be&PAST part|go-PRESP~inf|to v|go
+	.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|5|PUNCT
+*PAR:	I gonna go .
+%mor:	pro:sub|I part|go-PRESP~inf|to v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*PAR:	&um &ah a princess [* u] .
+%mor:	det:art|a n|princess .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and <there were gonna go> [/] there were gonna go .
+%mor:	coord|and adv|there aux|be&PAST part|go-PRESP~inf|to v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*PAR:	thank you traysee [* phon] .
+%mor:	v|thank pro:per|you ?|traysee .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	everybody gonna go xxx [* phon] .
+%mor:	pro:indef|everybody part|go-PRESP~inf|to v|go .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|INF 4|2|XCOMP 5|1|PUNCT
+*PAR:	and everybody go .
+%mor:	coord|and pro:indef|everybody v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&um &ah there xxx [* phon] and reindeers [* s] .
+%mor:	adv|there coord|and n|reindeer-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	oh god .
+%mor:	co|oh n|god .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um there there [/] xxx [* phon] can't do it .
+%mor:	adv|there mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	xxx [* phon] oh well .
+%mor:	co|oh co|well .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	cannot do it .
+%mor:	mod|can~neg|not v|do pro:per|it .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

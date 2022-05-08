@@ -1,0 +1,20 @@
+@UTF8
+@Window:	0_0_0_0_0_0_312_0_312_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	POLAR#1106_CINDER-1_4.25.20, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	is xxx [* phon] is xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] is xxx
+	[* phon] is xxx [* phon] is xxx [* phon] is xxx [* phon] is [/] is
+	good .
+%mor:	aux|be&3S aux|be&3S aux|be&3S aux|be&3S aux|be&3S aux|be&3S
+	cop|be&3S adj|good .
+%gra:	1|7|SUBJ 2|7|AUX 3|7|SUBJ 4|7|AUX 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+@End

@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1077_1_BrokenWindow_April-9th-2019-3-41-42-pm. video
+*PAR:	it's that boy who knocked his &uh book [: ball] [* u] [//] not book
+	the book [: ball] [* u] into the window <in the car> [//] at the
+	house broke the show [: glass] [* u] out into the house .
+%mor:	pro:per|it~aux|be&3S pro:dem|that n|boy pro:rel|who v|knock-PAST
+	det:poss|his neg|not n|book det:art|the n|ball prep|into det:art|the
+	n|window prep|at det:art|the n|house v|break&PAST det:art|the
+	n|glass adv|out prep|into det:art|the n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|9|MOD 8|7|NEG
+	9|6|OBJ 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|18|JCT
+	16|17|DET 17|18|SUBJ 18|14|CMOD 19|20|DET 20|18|OBJ 21|18|JCT 22|18|JCT
+	23|24|DET 24|22|POBJ 25|2|PUNCT
+*PAR:	and &uh they realize they had to that their book [: window] [* u]
+	that was <booked up> [//] < like was messed up> [//] broken .
+%mor:	coord|and pro:sub|they v|realize pro:sub|they v|have&PAST prep|to
+	pro:dem|that det:poss|their n|window pro:rel|that aux|be&PAST&13S
+	part|break&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|3|PUNCT
+@End

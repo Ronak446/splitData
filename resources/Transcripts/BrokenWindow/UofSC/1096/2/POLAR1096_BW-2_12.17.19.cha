@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	POLAR.1096.BW-2 video
+*PAR:	&e &eh becaning [: beginning] [* phon] the &uh ki [: guy] [* phon]
+	kicked the football and is not watching .
+%mor:	n|beginning det:art|the n|guy v|kick-PAST det:art|the
+	n|+n|foot+n|ball coord|and aux|be&3S neg|not part|watch-PRESP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|10|AUX
+	9|8|NEG 10|7|COORD 11|4|PUNCT
+*PAR:	and yit [: it] [* phon] course [: crash] [* u] through a window .
+%mor:	coord|and pro:per|it v|crash prep|through det:art|a n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the man stands up and see where we [//] e [: it] [* phon] come
+	from .
+%mor:	coord|and det:art|the n|man v|stand-3S adv|up coord|and v|see
+	pro:int|where pro:per|it v|come prep|from .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|10|LINK
+	9|10|SUBJ 10|7|COBJ 11|10|JCT 12|4|PUNCT
+@End

@@ -1,0 +1,27 @@
+@UTF8
+@Window:	0_0_0_0_0_0_227_0_227_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	POLAR1116_4_PBJ_11.5.2020_z, video
+*PAR:	<corn &co core no> [//] cant . 
+%mor:	n|cant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	animal [//] antaburo [* phon] .
+%mor:	?|antaburo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and lus [* phon] .
+%mor:	coord|and ?|lus .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh damn it . 
+%mor:	co|oh v|damn pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	<wars no> [//] animal [* u] .
+%mor:	n|animal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's it . 
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

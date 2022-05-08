@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.PBJ-5 video
+@Time Duration:	00:00:19
+*PAR:	okay peanut+butter and jelly get two pieces of white bread .
+%mor:	co|okay n|+n|peanut+n|butter coord|and n|jelly v|get det:num|two
+	n|piece-PL prep|of adj|white n|bread .
+*PAR:	get your peanut+butter .
+%mor:	v|get det:poss|your n|+n|peanut+n|butter .
+*PAR:	put it on your first slice .
+%mor:	v|put&ZERO pro:per|it prep|on det:poss|your adj|first n|slice .
+*PAR:	and then the next thing you put the jelly .
+%mor:	coord|and adv:tem|then det:art|the adj|next n|thing pro:per|you
+	v|put&ZERO det:art|the n|jelly .
+*PAR:	and then the other piece of bread you put on top .
+%mor:	coord|and adv:tem|then det:art|the qn|other n|piece prep|of n|bread
+	pro:per|you v|put&ZERO prep|on n|top .
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+@End

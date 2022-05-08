@@ -1,0 +1,48 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1047_5_Cinderella_July-24th-2018-12-49-54-pm video
+*PAR:	okay wada [* phon] what of her tekter [* phon] she had .
+%mor:	co|okay ?|wada pro:int|what prep|of det:poss|her ?|tekter
+	pro:sub|she v|have&PAST .
+%gra:	1|2|COM 2|0|ROOT 3|8|LINK 4|3|NJCT 5|6|MOD 6|4|POBJ 7|8|SUBJ 8|2|COBJ
+	9|2|PUNCT
+*PAR:	and dat [* phon] fedlin [* phon] xxx [* phon] .
+%mor:	coord|and ?|dat ?|fedlin .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	&uh ter [* phon] to find [* u] yeah [/] yeah .
+%mor:	?|ter inf|to v|find co|yeah .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*PAR:	don't yeah [/] yeah [/] yeah [/] yeah .
+%mor:	mod|do~neg|not co|yeah .
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*PAR:	okay she had yeah .
+%mor:	adj|okay pro:sub|she v|have&PAST co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	den [: then] [* phon] she could've xxx [* phon] little <burt
+	[* phon] file [* u]> [/] burt [* phon] file [* u] <little bit> [/]
+	little bit too .
+%mor:	adv:tem|then pro:sub|she mod|could~aux|have adj|little ?|burt
+	n|file adj|little n|bit post|too .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|9|MOD 7|9|MOD 8|9|MOD
+	9|5|JCT 10|9|PQ 11|5|PUNCT
+*PAR:	den [: then] [* phon] she can't no [/] no [/] no .
+%mor:	adv:tem|then pro:sub|she mod|can~neg|not co|no .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|INCROOT 6|5|PUNCT
+*PAR:	but she dud [* phon] .
+%mor:	conj|but pro:sub|she n|dud .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	but dey [: they] [* phon] xxx [* phon] her for dat [: that] [* phon]
+	yeah [/] yeah .
+%mor:	conj|but pro:sub|they pro:obj|her conj|for det:dem|that co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|COM 7|3|PUNCT
+*PAR:	yeah but she peld [* phon] dat [: that] [* phon] he fall [* u] into
+	them [* u] .
+%mor:	co|yeah conj|but pro:sub|she ?|peld pro:rel|that pro:sub|he v|fall
+	prep|into pro:obj|them .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|8|POBJ 10|1|PUNCT
+@End

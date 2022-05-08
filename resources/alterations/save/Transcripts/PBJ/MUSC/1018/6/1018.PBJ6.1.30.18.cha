@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:59
+@Media:	1018_PBJ6 video
+*PAR:	okay &um two pieces a &br brad [* phon] [//] bread .
+%mor:	co|okay det:num|two n|piece-PL det:art|a n|bread .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&ah I take the polihtashes [* phon] on one .
+%mor:	pro:sub|I v|take det:art|the ?|polihtashes adv|on pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|JCT 6|2|COMP 7|2|PUNCT
+*PAR:	jimmy [* phon] on the other .
+%mor:	v|jimmy prep|on det:art|the qn|other .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	and put them together .
+%mor:	coord|and v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and that's the easiest way .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the adj|ease&dn-Y-SP n|way
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	and that's &um its &um it mix better by one on one side and one on
+	the other .
+%mor:	coord|and pro:dem|that~cop|be&3S det:poss|its pro:per|it v|mix
+	adv|good&CP prep|by det:num|one prep|on det:num|one n|side coord|and
+	det:num|one prep|on det:art|the qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|PRED 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|9|JCT 11|12|QUANT 12|10|POBJ 13|9|CONJ 14|13|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*PAR:	and just put them together .
+%mor:	coord|and adv|just v|put&ZERO pro:obj|them adv|together .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	that's interesting how somebody would be different with something
+	like that .
+%mor:	pro:rel|that~aux|be&3S n:gerund|interest-PRESP adv:int|how
+	pro:indef|somebody mod|will&COND cop|be adj|different prep|with
+	pro:indef|something prep|like pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|PRED
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+@End

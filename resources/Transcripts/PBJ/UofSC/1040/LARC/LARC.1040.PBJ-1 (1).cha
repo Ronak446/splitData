@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:01:15
+@Media:	1040_LARC_PBJ_December-12th-2019-11-31-04-am video
+*PAR:	&um first how to make a peanut+butter sandwich .
+%mor:	adv|first pro:int|how inf|to v|make det:art|a n|+n|peanut+n|butter
+	n|sandwich .
+*PAR:	&um <first get two slices of> [//] &uh first get the bread .
+%mor:	adv|first v|get det:art|the n|bread .
+*PAR:	and &uh spread the peanut+butter .
+%mor:	coord|and v|spread&ZERO det:art|the n|+n|peanut+n|butter .
+*PAR:	and one side spread jelly .
+%mor:	coord|and det:num|one n|side v|spread&ZERO n|jelly .
+*PAR:	and smash it .
+%mor:	coord|and v|smash pro:per|it .
+*PAR:	and I guess cut it or leave it whole .
+%mor:	coord|and pro:sub|I v|guess v|cut&ZERO pro:per|it coord|or v|leave
+	pro:per|it adv|whole .
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+@End

@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:22
+@Media:	1029_4_BrokenWindow_November-17th-2017-2-06-37-pm video
+*PAR:	alright so a a [/] a [/] boy was &uh playing soccer in his yard .
+%mor:	co|alright conj|so det:art|a n|boy aux|be&PAST&13S part|play-PRESP
+	n|soccer prep|in det:poss|his n|yard .
+%gra:	1|6|COM 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|MOD 10|8|POBJ 11|6|PUNCT
+*PAR:	and a &la lab [* u] a &uh kick .
+%mor:	coord|and det:art|a n|lab det:art|a v|kick .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|CMOD 6|1|PUNCT
+*PAR:	<he lost into the> [//] he hit it into the &uh the [/] &liv &uh to
+	the &uh window .
+%mor:	pro:sub|he v|hit&ZERO pro:per|it prep|into det:art|the v|toe
+	det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	and it &s shattled [* phon] shattled [/] the &uh the
+	[/] &uh &rin window .
+%mor:	coord|and pro:per|it ?|shattled det:art|the n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	<and hit the> [//] and the ball hit the &uh man .
+%mor:	coord|and det:art|the n|ball v|hit&ZERO det:art|the n|man .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&uh almost hit the man .
+%mor:	adv|almost v|hit&ZERO det:art|the n|man .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and &uh knocked the lamp off .
+%mor:	coord|and v|knock-PAST det:art|the n|lamp adv|off .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and &uh so he got up and looked at the person who kicked the ball .
+%mor:	coord|and co|so pro:sub|he v|get&PAST adv|up coord|and v|look-PAST
+	prep|at det:art|the n|person pro:rel|who v|kick-PAST det:art|the
+	n|ball .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|LINK 12|7|CJCT 13|14|DET 14|12|OBJ 15|4|PUNCT
+*PAR:	so he could go after it .
+%mor:	co|so pro:sub|he mod|could v|go prep|after pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and possibly hit him back .
+%mor:	coord|and adv|possible&dadj-LY v|hit&ZERO pro:obj|him adv|back .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@End

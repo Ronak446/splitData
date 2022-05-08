@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	POLAR_1048_PBJ2 video
+*PAR:	take two pieces of bread .
+%mor:	v|take det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	on one side you put jelly on it .
+%mor:	prep|on det:num|one n|side pro:per|you v|put&ZERO n|jelly prep|on
+	pro:per|it .
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*PAR:	<the other &y> [//] on the other [/] other piece of bread you [/]
+	you &s spread peanut+butter .
+%mor:	prep|on det:art|the qn|other n|piece prep|of n|bread pro:per|you
+	v|spread&ZERO n|+n|peanut+n|butter .
+%gra:	1|8|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*PAR:	you put them together .
+%mor:	pro:per|you v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

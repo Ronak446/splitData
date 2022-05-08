@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	POLAR.1084.PBJ-1 video
+*PAR:	okay so I have my bread .
+%mor:	co|okay conj|so pro:sub|I v|have det:poss|my n|bread .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and then I put the peanut+butter on the &s &uh and the bread with
+	the spoon [: knife] [* s] .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:art|the
+	n|+n|peanut+n|butter prep|on det:art|the coord|and det:art|the
+	n|bread prep|with det:art|the n|knife .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|11|NJCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*PAR:	and then I put the jelly on it .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:art|the n|jelly
+	prep|on pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	and then I put the other &p &pe priece [: piece] [* phon] of bread
+	on top .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO det:art|the qn|other
+	n|piece prep|of n|bread prep|on n|top .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	and then I put it in a triangle &h &sh cut .
+%mor:	coord|and adv:tem|then pro:sub|I v|put&ZERO pro:per|it prep|in
+	det:art|a n|triangle part|cut&PASTP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|XJCT 10|4|PUNCT
+*PAR:	and then I just eat it that way .
+%mor:	coord|and adv:tem|then pro:sub|I adv|just v|eat pro:per|it
+	det:dem|that n|way .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|JCT
+	9|5|PUNCT
+@End

@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_3_PBJ_July-23rd-2019-10-16-31-am video
+@Time Duration:	00:00:12
+*PAR:	peanut+butter &s &um jelly .
+%mor:	n|+n|peanut+n|butter n|jelly .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &um mix &um .
+%mor:	coord|and n|mix .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and mix &um all of them here all .
+%mor:	coord|and n|mix pro:indef|all prep|of pro:obj|them adv|here
+	pro:indef|all .
+%gra:	1|0|INCROOT 2|1|COORD 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|JCT 7|2|CMOD
+	8|1|PUNCT
+@End

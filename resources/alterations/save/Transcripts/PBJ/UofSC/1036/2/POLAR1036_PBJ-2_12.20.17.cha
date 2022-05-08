@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:29
+@Media:	1036_PBJ2 video
+*PAR:	&um bread &um &um jelly cream [* s] [//] &um &um &um peanut+butter
+	&um &um &um &um &um &um &mil &um &um &um no &um &um ahs [* phon] all .
+%mor:	n|bread n|jelly n|+n|peanut+n|butter qn|no ?|ahs adv|all .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|5|QUANT 5|3|XMOD 6|5|JCT 7|3|PUNCT
+*PAR:	&um &um make a sandwich &um &um &um &um &mm &um &um &um ahs [* phon]
+	it .
+%mor:	v|make det:art|a n|sandwich ?|ahs pro:per|it .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|XMOD 5|4|OBJ 6|1|PUNCT
+@End

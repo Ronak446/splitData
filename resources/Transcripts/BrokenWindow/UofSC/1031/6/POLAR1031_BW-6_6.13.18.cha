@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1031_BW6 video
+*PAR:	ball eet [* phon] ball .
+%mor:	n|ball ?|eet n|ball .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	skruh coming through the tratih [* phon] teramdeh [* phon] .
+%mor:	?|skruh part|come-PRESP prep|through det:art|the ?|tratih
+	?|teramdeh .
+%gra:	1|0|INCROOT 2|1|XJCT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	and &uh &uh man it hits the boy get up .
+%mor:	coord|and v|man pro:per|it v|hit-3S det:art|the n|boy v|get adv|up
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|2|PUNCT
+*PAR:	shudih [* phon] &ih buh [* phon] I don't know .
+%mor:	?|shudih ?|buh pro:sub|I mod|do~neg|not v|know .
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	see if xxx [* phon] xxx [* phon] .
+%mor:	v|see conj|if .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

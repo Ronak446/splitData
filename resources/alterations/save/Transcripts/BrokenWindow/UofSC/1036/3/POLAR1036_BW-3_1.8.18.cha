@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:51
+@Media:	1036_BW3 video
+*PAR:	pall [* phon] &um &um &s &mm boy ee [* phon] &um .
+%mor:	n|pall n|boy co|ee .
+%gra:	1|2|MOD 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	boy kick a ball &um .
+%mor:	co|boy v|kick det:art|a n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	went to the &um .
+%mor:	v|go&PAST prep|to det:art|the .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	boy meet [* u] [//] &um kick a ball &um &um .
+%mor:	co|boy v|kick det:art|a n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	&s <a boy> [//] &um <the boy> [/] &um <the boy> [/] &um &um <the
+	boy> [/] &um the boy &um &um &um &um &um &um &um .
+%mor:	det:art|the n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	<that's the it> [//] that's not it .
+%mor:	pro:dem|that~cop|be&3S neg|not pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	&um <the boy> [/] &um &um &um the boy &um they [//] the boy &um &uh .
+%mor:	det:art|the n|boy det:art|the n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

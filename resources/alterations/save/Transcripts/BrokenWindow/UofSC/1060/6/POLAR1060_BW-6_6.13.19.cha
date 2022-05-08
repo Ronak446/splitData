@@ -1,0 +1,67 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:01
+@Media:	1060_6_BrokenWindow_June-13th-2019-1-51-34-pm video
+*PAR:	I have to know that this ba [//] boy is playing soccer I guess .
+%mor:	pro:sub|I v|have inf|to v|know comp|that pro:dem|this n|boy
+	aux|be&3S part|play-PRESP n|soccer pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|9|LINK 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|9|OBJ 11|12|SUBJ 12|2|CJCT 13|2|PUNCT
+*PAR:	kicked it .
+%mor:	v|kick-PAST pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and &uhoh not good through the glass .
+%mor:	coord|and neg|not adj|good adj|through det:art|the n|glass .
+%gra:	1|6|LINK 2|3|NEG 3|6|MOD 4|6|MOD 5|6|DET 6|0|INCROOT 7|6|PUNCT
+*PAR:	it's hitting the glass .
+%mor:	pro:per|it~aux|be&3S part|hit-PRESP det:art|the n|glass .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and guy guess is reading the paper &oh I don't know what he was
+	doing .
+%mor:	coord|and n|guy n|guess aux|be&3S part|read-PRESP det:art|the
+	n|paper pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|he
+	aux|be&PAST&13S part|do-PRESP .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|CJCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|COMP
+	16|5|PUNCT
+*PAR:	but anyway there was a light that he I guess it was right there I
+	can't tell what he's doing .
+%mor:	conj|but adv|anyway adv|there cop|be&PAST&13S det:art|a adj|light
+	pro:rel|that pro:sub|he pro:sub|I v|guess pro:per|it cop|be&PAST&13S
+	adv|right adv|there pro:sub|I mod|can~neg|not v|tell pro:int|what
+	pro:sub|he~aux|be&3S part|do-PRESP .
+%gra:	1|4|LINK 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|23|LINK 8|23|SUBJ
+	9|10|SUBJ 10|8|CMOD 11|12|SUBJ 12|10|COMP 13|14|JCT 14|12|JCT 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|10|CJCT 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|COMP 23|4|PUNCT
+*PAR:	anyway it hit it I guess .
+%mor:	co|anyway pro:per|it v|hit&ZERO pro:per|it pro:sub|I v|guess .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|CJCT 7|3|PUNCT
+*PAR:	and he was carrying must've been all over .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|carry-PRESP
+	mod|must~aux|have aux|be&PASTP adv|all adv|over .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|AUX 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|4|JCT 10|4|PUNCT
+*PAR:	and then he had the ball .
+%mor:	coord|and adv:tem|then pro:sub|he v|have&PAST det:art|the n|ball .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and probably knew where it was going because he's the kid and
+	probably knows .
+%mor:	coord|and adv|probable&dadj-LY v|know&PAST pro:rel|where pro:per|it
+	aux|be&PAST&13S part|go-PRESP conj|because pro:sub|he~cop|be&3S
+	det:art|the n|kid coord|and adv|probable&dadj-LY v|know-3S .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|10|LINK
+	9|10|SUBJ 10|7|CJCT 11|12|DET 12|10|PRED 13|12|CONJ 14|15|JCT
+	15|13|COORD 16|3|PUNCT
+*PAR:	could've been his kid I guess .
+%mor:	mod|could~aux|have aux|be&PASTP det:poss|his n|kid pro:sub|I
+	v|guess .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|AUX 4|5|MOD 5|0|INCROOT 6|7|SUBJ 7|5|CMOD
+	8|5|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

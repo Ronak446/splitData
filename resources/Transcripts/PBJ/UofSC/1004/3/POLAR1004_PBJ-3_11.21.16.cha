@@ -1,0 +1,112 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:39
+@Media:	1004_3_PBJ_Y2016_M11_D21_H15_M03_S37 video
+
+*PAR:	peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	xxx [* phon] peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	xxx [* phon] peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	xxx [* phon] cold [* s] xxx [* phon] <ice [* s] ice [* s] [/] > [//] .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] ice+cream [* s] .
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] &col cold [* s] .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	could wait for the ice [* s] &cre ice[* s] stick [* phon] .
+%mor:	mod|could v|wait prep|for det:art|the n|ice n|ice n|stick .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+*PAR:	or the .
+%mor:	coord|or det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	&k butter [* s] .
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and milk [* s] .
+%mor:	coord|and n|milk .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and bread .
+%mor:	coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	cereal [* s] .
+%mor:	n|cereal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stuffing in &s for the <for the> [/] cold [* s] .
+%mor:	part|stuff-PRESP prep|in prep|for det:art|the n|cold .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	the cold [* s] .
+%mor:	det:art|the n|cold .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and ice [* s] .
+%mor:	coord|and n|ice .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&m melts on your hand .
+%mor:	v|melt-3S prep|on det:poss|your n|hand .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAR:	bed [* phon] breakfast [* s] and &cer .
+%mor:	n|bed n|breakfast coord|and .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|2|PUNCT
+*PAR:	breakfast [* s] .
+%mor:	n|breakfast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cold [* s] .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and cereal [* s] .
+%mor:	coord|and n|cereal .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	but cereal [* s] .
+%mor:	conj|but n|cereal .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	ice+cream [* s] .
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	butter [* s] .
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and milk [* s] .
+%mor:	coord|and n|milk .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and bread .
+%mor:	coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and brother [* phon] milk [* s] bread .
+%mor:	coord|and n|brother n|milk n|bread .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	in ice [* s] &cr ice+cream [* s] .
+%mor:	prep|in n|ice n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*PAR:	butter [* s] .
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	golden [* u] .
+%mor:	adj|golden .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	still ice+cream [* s] .
+%mor:	adj|still n|+n|ice+n|cream .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	ice [* s] &cre .
+%mor:	n|ice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stuffing .
+%mor:	part|stuff-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

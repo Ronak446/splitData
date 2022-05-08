@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:41
+@Media:	1039_Cinderella5 video
+*PAR:	&ch winno [* phon] &uh &uh winnowello [* phon] &uh lo [* phon] &weh
+	&uh .
+%mor:	?|winno ?|winnowello co|lo .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|COM 4|1|PUNCT
+*PAR:	cheh [* phon] &teh &bah wuh [* phon] &uh &uh chepbuh [* phon] woh
+	[* phon] &uh &eh no .
+%mor:	?|cheh ?|wuh ?|chepbuh ?|woh co|no .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|4|COM 6|1|PUNCT
+*PAR:	inderella [* phon] effer [* phon] aye [* phon] .
+%mor:	?|inderella ?|effer co|aye .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|COM 4|1|PUNCT
+*PAR:	well &uh shinerwella [* phon] &uh wicked &beh &beh &um .
+%mor:	adv|well ?|shinerwella adj|wicked .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	twinerwello [* phon] .
+%mor:	?|twinerwello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

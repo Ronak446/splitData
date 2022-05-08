@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	1011_1_PBJ_Y2017_M02_D08_H12_M15_S09 video
+*PAR:	&s &sa sandwich it .
+%mor:	n|sandwich pro:per|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	peanut+butter jelly .
+%mor:	n|+n|peanut+n|butter n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	and sandwich .
+%mor:	coord|and n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	make one ?
+%mor:	v|make pro:indef|one ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	peanut+butter jelly .
+%mor:	n|+n|peanut+n|butter n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	and &s sandwich .
+%mor:	coord|and n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and two of the bɛd [* phon] .
+%mor:	coord|and det:num|two prep|of det:art|the ?|bɛd .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+@End

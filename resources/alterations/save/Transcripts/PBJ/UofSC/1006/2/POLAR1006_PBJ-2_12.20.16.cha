@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:13
+@Media:	1006_2_PBJ_Y2016_M12_D20_H12_M17_S45 video
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	put it right there .
+%mor:	v|put&ZERO pro:per|it adv|right adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+*PAR:	and put it right dere [* phon] .
+%mor:	coord|and v|put&ZERO pro:per|it adv|right ?|dere .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|2|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and do the same thing here too .
+%mor:	coord|and v|do det:art|the adj|same n|thing adv|here post|too .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|PQ 8|2|PUNCT
+*PAR:	and then just .
+%mor:	coord|and adv:tem|then adv|just .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	and then slice it .
+
+
+%mor:	coord|and adv:tem|then v|slice pro:per|it .

@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	1039_PBJ4 video
+*PAR:	pere [* phon] &uh jeh [* phon] &uh jutter [* phon] [//] no butter
+	[* s] [//] &m .
+%mor:	?|pere ?|jeh co|no .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|COM 4|1|PUNCT
+*PAR:	yeah rim [* phon] treanut+butter [* phon] &m .
+%mor:	co|yeah n|rim ?|treanut+butter .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	red yes bed [* phon] jam peanut+butter .
+%mor:	adj|red co|yes n|bed n|jam n|+n|peanut+n|butter .
+%gra:	1|5|MOD 2|5|COM 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+@End

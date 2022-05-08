@@ -1,0 +1,133 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.Cind-5 video
+@Time Duration:	00:11:28
+*PAR:	&um &s &um &um <Cinderella and> [/] &um &um <Cinderella and> [/] &um
+	<Cinderella and three [/] three [/] &th three girls> [//] no [/] no
+	Cinderella and <four girls> [//] no <three girls> [//] and &um three
+	girls .
+%mor:	co|no n:prop|Cinderella coord|and co|no coord|and det:num|three
+	n|girl-PL .
+*PAR:	and xxx [* phon] they would &um vited [: invited] [* phon] to the
+	party .
+%mor:	coord|and pro:sub|they mod|will&COND v|invite-PAST prep|to
+	det:art|the n|party .
+*PAR:	<and &um Cinderella and &t the [/] the &rr rat [//] the rat and [/]
+	&uh and [/] &um> [//] and &um Cinderella and &uh rats &ha &m made up
+	her &n <night gownt [* phon]> [//] &um &um &um &d dress and &um &ss
+	&um &um &hh dress [//] &um Cinderella and dress .
+%mor:	coord|and n:prop|Cinderella coord|and n|rat-PL v|make&PAST adv|up
+	det:poss|her n|dress coord|and n:prop|Cinderella coord|and n|dress .
+*PAR:	and &um &um &ss &um ah man &um <Cinderella and happened to be> [//]
+	&um &um man &hap &um Cinderella <and &um &um happened to be> [/] and
+	&um happened to be Cinderella [//] no &um ah man &uh &um &um
+	Cinderella [/] &s <Cinderella and ah man> [/] &s Cinderella and ah
+	man &um .
+%mor:	coord|and co|ah n|man n|man n:prop|Cinderella coord|and
+	v|happen-PAST inf|to cop|be co|no co|ah n|man n:prop|Cinderella
+	coord|and co|ah n|man .
+*PAR:	&um man &um &uh ah man &um &ss broken [//] broke [//] &um broken
+	[//] &ss &uh <Cinderella and> [//] Cinderella &uh broken and &um
+	<Cinderella and> [//] <ah man> [/] ah man &um &um Cinderella and
+	&ugh &ah &I &I &d &um .
+%mor:	n|man co|ah n|man n:prop|Cinderella part|break&PASTP coord|and
+	co|ah n|man n:prop|Cinderella coord|and .
+*PAR:	<Cinderella and> [/] &um &um Cinderella and her [/] her [/] her [/]
+	&d her [/] her step [//] no step [/] step [//] stepniece [//] niece
+	[: stepsister] [* s] had <broken and> [//] broken [/] broken [//]
+	and broken [/] &um &um broken &um &um &nn necklace .
+%mor:	n:prop|Cinderella coord|and det:poss|her co|no step#n|sister
+	v|have&PAST coord|and part|break&PASTP n|necklace .
+*PAR:	and &s &um &um Cinderella and necklace she would going to the party .
+%mor:	coord|and n:prop|Cinderella coord|and n|necklace pro:sub|she
+	mod|will&COND part|go-PRESP prep|to det:art|the n|party .
+*PAR:	and &ss Cinderella and &um &hh &um man [//] ah man <Cinderella and>
+	[/] &um &um Cinderella and &um gof [//] no godmother and &um
+	Cinderella and &um &um &ll line up all the rats .
+%mor:	coord|and n:prop|Cinderella coord|and co|ah n|man n:prop|Cinderella
+	coord|and qn|no n|+n|god+n|mother coord|and n:prop|Cinderella
+	coord|and v|line adv|up qn|all det:art|the n|rat-PL .
+*PAR:	and [/] &uh and [/] &um and &hh <horses came out of> [/] &um horses
+	came out of &um &um &um rats .
+%mor:	coord|and n|horse-PL v|come&PAST adv|out prep|of n|rat-PL .
+*PAR:	and &um horses [//] ah man horses came out of <oh shoot> [//]
+	pumpkin .
+%mor:	coord|and co|ah n|man n|horse-PL v|come&PAST adv|out prep|of
+	n|pumpkin .
+*PAR:	and [/] and pumpkins <came out of> [/] came out of &um &um carrat
+	[: carriage] [* phon] [/] carrat [: carriage] [* phon] .
+%mor:	coord|and n|pumpkin-PL v|come&PAST adv|out prep|of n|carriage .
+*PAR:	and &uh &uh Cinderella and &um white [/] white [/] white [/] white
+	and [/] &um and [/] and [/] &um and <Cinderella and> [/] &um &cin
+	<Cinderella and> [//] ah man &um &uh <Cinderella and> [/] &um
+	Cinderella and &um ah man &um <prince and> [/] &um prince and &um
+	dance [//] dancing &ss &uh to the hour of midnight .
+%mor:	coord|and n:prop|Cinderella coord|and adj|white coord|and co|ah
+	n|man n:prop|Cinderella coord|and co|ah n|man n|prince coord|and
+	part|dance-PRESP prep|to det:art|the n|hour prep|of mid#n|night .
+*PAR:	and Cinderella and &um midnight and &um &um &um &um dressin [//] no
+	oh &um midnight and ah man .
+%mor:	coord|and n:prop|Cinderella coord|and mid#n|night coord|and co|no
+	co|oh mid#n|night coord|and co|ah n|man .
+*PAR:	and Cinderella had to go .
+%mor:	coord|and n:prop|Cinderella v|have&PAST inf|to v|go .
+*PAR:	and [/] and [/] and &um prince &st stood [* u] understand .
+%mor:	coord|and n|prince v|stand&PAST v|understand .
+*PAR:	and prince <had to> [/] <had to> [/] &um <had to> [/] go and find
+	Cinderella .
+%mor:	coord|and n|prince v|go coord|and v|find n:prop|Cinderella .
+*PAR:	and [//] &um ah man and [/] &um and &s &uh &ff find &ss Cinderella
+	and &um &ll &loo lah [: lost] [* phon] her slipper .
+%mor:	co|ah n|man coord|and v|find n:prop|Cinderella coord|and
+	v|lose&PAST det:poss|her n|slipper .
+*PAR:	and [/] &uh and [/] &um Cinderella [//] <and by [//] way by
+	Cinderella and> [//] ah man &um Cinderella &h had lost her slipper
+	and [/] and [/] and &um back with his coming from .
+%mor:	co|ah n|man n:prop|Cinderella aux|have&PAST part|lose&PASTP
+	det:poss|her n|slipper coord|and adv|back prep|with det:poss|his
+	n:gerund|come-PRESP prep|from .
+*PAR:	and &um ah man &um &um &ss &um Cinderella [//] and &um &um ah man &s
+	&um Cinderella &st &um prince had to take [/] &um take her &um &s
+	&um guard [/] guard &uh and <happened to be> [/] &um happened to be
+	&um &ss &um &um &um Cinde [//] Cinderella's slipper &woo ah okay &um
+	&ss slipper .
+%mor:	coord|and co|ah n|man coord|and co|ah n|man n:prop|Cinderella
+	n|prince v|have&PAST inf|to v|take det:poss|her n|guard coord|and
+	v|happen-PAST inf|to cop|be adj|Cinderella&dn-POSS n|slipper co|ah
+	co|okay n|slipper .
+*PAR:	and Cinderella and &um &s &um slipper and <Cinderella and> [//] &um
+	&um ah man Cinderella and [/] &ch &um &tt and &whoo &um Cinderella
+	and okay &um &laughs and [/] &um &um and &um Cinderella and okay and
+	ah man and Cinderella and &um &s tepped [* phon] out lock her up in
+	the room .
+%mor:	coord|and n:prop|Cinderella coord|and n|slipper coord|and co|ah
+	n|man n:prop|Cinderella coord|and n:prop|Cinderella coord|and
+	adj|okay coord|and n:prop|Cinderella coord|and adj|okay coord|and
+	co|ah n|man coord|and n:prop|Cinderella coord|and ?|tepped adv|out
+	v|lock pro:obj|her prep|up prep|in det:art|the n|room .
+*PAR:	and &uh &kk key coming up through the rat [/] rats and [/] and &um
+	Cinderella and open the door .
+%mor:	coord|and n|key part|come-PRESP adv|up prep|through det:art|the
+	n|rat-PL coord|and n:prop|Cinderella coord|and v|open det:art|the
+	n|door .
+*PAR:	and [/] &uh and [/] and once xxx [* phon] <where are all the> [/]
+	where all the Cinderella and <where all the> [//] &um &cinde
+	Cinderella xxx [* phon] <and Cinderella> [/] and Cinderella [/] &um
+	Cinderella [/] &cin Cinderella sit on the chair and made it
+	comfortable and feet [/] feet .
+%mor:	coord|and adv|once pro:int|where qn|all det:art|the
+	n:prop|Cinderella coord|and n:prop|Cinderella coord|and
+	n:prop|Cinderella v|sit prep|on det:art|the n|chair coord|and
+	v|make&PAST pro:per|it adj|comfort&dv-ABLE coord|and n|foot&PL .
+*PAR:	and it's [/] it's [/] it's [/] it's [/] &um it's <wear on
+	Cinderella> [/] wear on Cinderella &um feet okay .
+%mor:	coord|and pro:per|it~cop|be&3S v|wear prep|on n:prop|Cinderella
+	n|foot&PL co|okay .
+*PAR:	and &um groom [: prince] [* s] and Cinderella &mm went married
+	&laughs .
+%mor:	coord|and n|prince coord|and n:prop|Cinderella v|go&PAST
+	part|marry-PASTP .
+@End

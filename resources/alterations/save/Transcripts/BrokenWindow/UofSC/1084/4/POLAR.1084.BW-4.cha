@@ -1,0 +1,49 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:55
+@Media:	POLAR.1084.BW-4 video
+*PAR:	okay so this is a little boy &h that <he get> [//] he gets on the &s
+	soccer team at his school .
+%mor:	co|okay co|so pro:dem|this cop|be&3S det:art|a adj|little n|boy
+	pro:rel|that pro:sub|he v|get-3S adv|on det:art|the n|soccer n|team
+	prep|at det:poss|his n|school .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|14|DET 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*PAR:	he's outside playing in his yard .
+%mor:	pro:sub|he~aux|be&3S adv|outside part|play-PRESP prep|in
+	det:poss|his n|yard .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and he kicked the ball .
+%mor:	coord|and pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	it wents to the neighbor window .
+%mor:	pro:per|it ?|wents prep|to det:art|the n|neighbor n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	and it started like bloke [/] bloke [//] broken glass .
+%mor:	coord|and pro:per|it v|start-PAST co|like part|break&PASTP n|glass
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|XJCT 6|5|OBJ 7|3|PUNCT
+*PAR:	it knocked the lamp over .
+%mor:	pro:per|it v|knock-PAST det:art|the n|lamp adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and the neighbor across the street gets up wondering who kick this
+	ball &o &uh to my window .
+%mor:	coord|and det:art|the n|neighbor prep|across det:art|the n|street
+	v|get-3S adv|up part|wonder-PRESP pro:rel|who v|kick det:dem|this
+	n|ball prep|to det:poss|my n|window .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|JCT
+	9|7|XJCT 10|11|LINK 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|7|PUNCT
+*PAR:	so I [: he] [* s] get up look out the broken glass to see who did
+	this in my living room .
+%mor:	co|so pro:sub|he v|get adv|up co|look prep|out det:art|the
+	part|break&PASTP n|glass inf|to v|see pro:rel|who mod|do&PAST
+	det:dem|this prep|in det:poss|my part|live-PRESP n|room .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|COM 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|INF 11|3|PUNCT 12|11|OBJ 13|14|AUX 14|12|INCROOT 15|14|JCT
+	16|18|DET 17|18|XMOD 18|15|POBJ 19|14|PUNCT
+@End

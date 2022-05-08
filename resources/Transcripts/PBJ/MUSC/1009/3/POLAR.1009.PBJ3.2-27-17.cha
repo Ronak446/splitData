@@ -1,0 +1,76 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:24
+@Media:	1009_3_PBJ_Y2017_M02_D27_H14_M32_S23 video
+*PAR:	so &um .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&y you got two sammiches [* phon] .
+%mor:	pro:per|you v|get&PAST det:num|two ?|sammiches .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	we got one fɝs [* phon] xxx [* phon] .
+%mor:	pro:sub|we v|get&PAST det:num|one ?|fɝs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	the &um samwich [* phon] .
+%mor:	det:art|the ?|samwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	with the <with the> [/] beanut [* phon] butter .
+%mor:	prep|with det:art|the ?|beanut n|butter .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*PAR:	the sandwich .
+%mor:	det:art|the n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and then the other one is &um .
+%mor:	coord|and adv:tem|then det:art|the qn|other pro:indef|one cop|be&3S
+	.
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	with with [/] the &um samwich is the &um .
+%mor:	prep|with det:art|the ?|samwich cop|be&3S det:art|the .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	&s the &um .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but <it was not weally good> [//] I mean it was weally
+	[* phon] good .
+%mor:	conj|but pro:sub|I v|mean pro:per|it cop|be&PAST&13S ?|weally
+	adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|PRED 7|6|PRED 8|3|PUNCT
+*PAR:	and so we got xxx [* phon] here .
+%mor:	coord|and co|so pro:sub|we v|get&PAST adv|here .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and we got it weally [* phon] good .
+%mor:	coord|and pro:sub|we v|get&PAST pro:per|it ?|weally adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*PAR:	and we got sandwich doing it .
+%mor:	coord|and pro:sub|we v|get&PAST n|sandwich part|do-PRESP pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|XJCT 6|5|OBJ 7|3|PUNCT
+*PAR:	with &s &um back and forth with the &s <with the> [/] &um <with
+	the> [/] &s &s second doing this .
+%mor:	prep|with n|back coord|and adv|forth prep|with det:art|the
+	adv|second part|do-PRESP pro:dem|this .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|CONJ 4|3|COORD 5|4|JCT 6|8|DET 7|8|JCT
+	8|5|POBJ 9|8|OBJ 10|1|PUNCT
+*PAR:	and then we're finished with it .
+%mor:	coord|and adv:tem|then pro:sub|we~aux|be&PRES v|finish-PAST
+	prep|with pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	it was weally [* phon] good .
+%mor:	pro:per|it cop|be&PAST&13S ?|weally adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+*PAR:	yeah something wrong with it .
+%mor:	co|yeah pro:indef|something adj|wrong prep|with pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&sa sandwhich .
+%mor:	?|sandwhich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I like that .
+%mor:	pro:sub|I v|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

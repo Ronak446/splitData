@@ -1,0 +1,65 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Media:	1009_2_BrokenWindow
+@Time Duration:	00:01:03
+*PAR:	The little one was ready to go .
+%mor:	n:prop|The adj|little pro:indef|one cop|be&PAST&13S adj|ready
+	inf|to v|go .
+*PAR:	And he got .
+%mor:	n:prop|And pro:sub|he v|get&PAST .
+*PAR:	&um he & um .
+%mor:	pro:sub|he ?|um .
+*PAR:	football [: soccer] [* s:r] .
+%mor:	n|soccer .
+*PAR:	I mean the soccer .
+%mor:	pro:sub|I v|mean art|the n|soccer .
+*PAR:	And he [/] he got it real quick and he got it .
+%mor:	n:prop|And pro:sub|he v|get&PAST pro|it adj|real adj|quick
+	coord|and pro:sub|he v|get&PAST pro|it .
+*PAR:	And all of the sudden he got it ready to go to &um the house .
+%mor:	n:prop|And pro:indef|all prep|of art|the n|sudden pro:sub|he
+	v|get&PAST pro|it adj|ready inf|to v|go prep|to art|the n|house .
+*PAR:	And he got it .
+%mor:	n:prop|And pro:sub|he v|get&PAST pro|it .
+*PAR:	And he got them real good .
+%mor:	n:prop|And pro:sub|he v|get&PAST pro:obj|them adj|real adj|good .
+*PAR:	And he got them to xxx .
+%mor:	n:prop|And pro:sub|he v|get&PAST pro:obj|them inf|to .
+*PAR:	And he got it inside and he got the how .
+%mor:	n:prop|And pro:sub|he v|get&PAST pro|it adv|inside coord|and
+	pro:sub|he v|get&PAST art|the adv:wh|how .
+*PAR:	The &um car [* s:uk] .
+%mor:	n:prop|The n|car .
+*PAR:	I mean the &um .
+%mor:	pro:sub|I v|mean art|the .
+*PAR:	that one .
+%mor:	det|that pro:indef|one .
+*PAR:	and he was looking at it .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|look-PRESP prep|at pro|it
+	.
+*PAR:	and he saw us .
+%mor:	coord|and pro:sub|he v|see&PAST pro:obj|us .
+*PAR:	and he looked at it .
+%mor:	coord|and pro:sub|he cop|look-PAST prep|at pro|it .
+*PAR:	and he didn't even know what happened but he got now .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|even v|know pro:wh|what
+	v|happen-PAST conj|but pro:sub|he v|get&PAST adv|now .
+*PAR:	and he [l] so he got .
+%mor:	coord|and pro:sub|he conj|so pro:sub|he v|get&PAST .
+*PAR:	he was looking at it with the football [: soccer] [* s:r] .
+%mor:	pro:sub|he aux|be&PAST&13S part|look-PRESP prep|at pro|it prep|with
+	art|the n|soccer .
+*PAR:	I mean the soccer .
+%mor:	pro:sub|I v|mean art|the n|soccer .
+*PAR:	and he was looking at it to look and see if you were
+	alright .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|look-PRESP prep|at pro|it
+	inf|to cop|look coord|and v|see conj|if pro|you cop|be&PAST
+	adj|alright .
+*PAR: he was looking at you right now .
+%mor:	pro:sub|he aux|be&PAST&13S part|look-PRESP prep|at pro|you
+	adv|right adv|now .
+@END

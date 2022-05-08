@@ -1,0 +1,58 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:12
+@Media:	1025_3_Cinderella_October-16th-2017-9-52-24-am video
+*PAR:	&um these lazers [* u] are xxx [* phon] basically &uh xxx [* phon] .
+%mor:	pro:dem|these n|laze&dv-AGT-PL aux|be&PRES adv|basic&dadj-AL-LY .
+%gra:	1|2|DET 2|0|INCROOT 3|5|AUX 4|3|JCT 5|2|PUNCT
+*PAR:	and they are mean to her .
+%mor:	coord|and pro:sub|they cop|be&PRES adj|mean prep|to pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and it's the &uh xxx [* phon] were looking at a book [* u] .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|the aux|be&PAST
+	part|look-PRESP prep|at det:art|a n|book .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|AUX 6|3|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	of the &uh pirates [* u] and team [* u] .
+%mor:	prep|of det:art|the n|pirate-PL coord|and n|team .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] wess [* phon] and put it on .
+%mor:	?|wess coord|and v|put&ZERO pro:per|it adv|on .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|3|JCT 6|1|PUNCT
+*PAR:	and all the sisters are tore up the necklace .
+%mor:	coord|and qn|all det:art|the n|sister-PL aux|be&PRES v|tear&PAST
+	adv|up det:art|the n|necklace .
+%gra:	1|6|LINK 2|4|QUANT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and xxx [* phon] the went home to [/] to tease her parents [* s] .
+%mor:	coord|and det:art|the v|go&PAST adv|home inf|to v|tease
+	det:poss|her n|parent-PL .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XCOMP 7|8|MOD 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and at their xxx [* phon] .
+%mor:	coord|and prep|at det:poss|their .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	there loss her shoe .
+%mor:	adv|there n|loss det:poss|her n|shoe .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	and they found it .
+%mor:	coord|and pro:sub|they v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&uh they wanted to look at the shoe fit .
+%mor:	pro:sub|they v|want-PAST inf|to v|look prep|at det:art|the n|shoe
+	v|fit&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|8|SUBJ 8|5|POBJ
+	9|2|PUNCT
+*PAR:	and [/] and tid [* phon] .
+%mor:	coord|and ?|tid .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and she went on with xxx [* phon] .
+%mor:	coord|and pro:sub|she v|go&PAST adv|on prep|with .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and whatever .
+%mor:	coord|and pro:int|whatever .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

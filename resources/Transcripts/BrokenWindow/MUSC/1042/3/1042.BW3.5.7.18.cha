@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:41
+@Media:	1042_BW3 video
+*PAR:	this kid was playing outside with his ball .
+%mor:	pro:dem|this n|kid aux|be&PAST&13S part|play-PRESP adv|outside
+	prep|with det:poss|his n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and he kicked his ball .
+%mor:	coord|and pro:sub|he v|kick-PAST det:poss|his n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	and it went through the picture window of an of this house .
+%mor:	coord|and pro:per|it v|go&PAST prep|through det:art|the n|picture
+	n|window prep|of det:art|a prep|of pro:dem|this n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	ended in lap practically of fellow who had the house .
+%mor:	v|end-PAST prep|in n|lap adv|practical&dadj-LY prep|of n|fellow
+	pro:rel|who v|have&PAST det:art|the n|house .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|4|JCT 6|5|POBJ 7|8|LINK 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+*PAR:	and thal [* phon] &w booked [* phon] at the &uh <all the what you>
+	[//] all in window .
+%mor:	coord|and ?|thal adj|booked prep|at det:art|the adv|all prep|in
+	n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POSTMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	and that's as far as this story goes .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|as adv|far conj|as
+	pro:dem|this n|story v|go-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|3|CJCT 10|3|PUNCT
+@End

@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_3_BrokenWindow_July-23rd-2019-10-15-34-am video
+@Time Duration:	00:00:24
+*PAR:	oh &um may [//] &um middle [: man] [* u] walking [//] &eh &um &um
+	talking [: kicking] [* u] .
+%mor:	co|oh n|man part|kick-PRESP .
+%gra:	1|2|COM 2|0|INCROOT 3|2|XMOD 4|2|PUNCT
+*PAR:	&um and middle [* u] &um going to the window .
+%mor:	coord|and adj|middle part|go-PRESP prep|to det:art|the n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|XMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	and [/] and middle [* u] going to the outside .
+%mor:	coord|and adj|middle part|go-PRESP prep|to det:art|the adj|outside
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|XMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+@End

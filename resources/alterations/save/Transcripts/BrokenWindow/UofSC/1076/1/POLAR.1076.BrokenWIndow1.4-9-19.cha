@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	POLAR.1076.BrokenWIndow1.4-9-19 video
+*PAR:	a father sitting down looking at tv .
+%mor:	det:art|a n|father part|sit-PRESP adv|down part|look-PRESP prep|at
+	n|tv .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|2|XMOD 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+*PAR:	the son kick the ball and broke the &t &uh tv [: window] [* s] .
+%mor:	det:art|the n|son v|kick det:art|the n|ball coord|and v|break&PAST
+	det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	<tv> [//] winnow [: window] [* phon] or something .
+%mor:	n|window coord|or pro:indef|something .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	window I guess .
+%mor:	n|window pro:sub|I v|guess .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+@End

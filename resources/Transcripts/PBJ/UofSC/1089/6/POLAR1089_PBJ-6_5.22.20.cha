@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_6_PBJ_5.22.2020_zoom video
+@Time Duration:	00:00:59
+*PAR:	okay so this is the sandwich .
+%mor:	co|okay co|so pro:dem|this cop|be&3S det:art|the n|sandwich .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	and there are two piece of bread .
+%mor:	coord|and adv|there cop|be&PRES det:num|two n|piece prep|of n|bread
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	&um on one side it had pedut+butter [: peanut+butter] [* phon] on
+	the one side .
+%mor:	prep|on det:num|one n|side pro:per|it v|have&PAST
+	n|+n|peanut+n|butter prep|on det:art|the det:num|one n|side .
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|5|PUNCT
+*PAR:	on the other side I bid [: put] [* u] some [/] some jam .
+%mor:	prep|on det:art|the qn|other n|side pro:sub|I v|put&ZERO qn|some
+	n|jam .
+%gra:	1|6|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and then [/] then they have &um so bread and [/] and peanut+butter
+	and here and then [/] &um then bread and jam or jelly .
+%mor:	coord|and adv:tem|then pro:sub|they v|have adv|so n|bread coord|and
+	n|+n|peanut+n|butter coord|and adv|here coord|and adv:tem|then
+	n|bread coord|and n|jam coord|or n|jelly .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|6|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|12|COORD 14|13|CONJ
+	15|14|COORD 16|15|CONJ 17|16|COORD 18|4|PUNCT
+*PAR:	and then we put them the same thing .
+%mor:	coord|and adv:tem|then pro:sub|we v|put&ZERO pro:obj|them
+	det:art|the adj|same n|thing .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ2 6|8|DET 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*PAR:	so they have one [//] just one sandwich .
+%mor:	co|so pro:sub|they aux|have adv|just det:num|one n|sandwich .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|6|QUANT 6|0|INCROOT 7|6|PUNCT
+*PAR:	so [/] so bread peanut+butter jelly and bread .
+%mor:	co|so n|bread n|+n|peanut+n|butter n|jelly coord|and n|bread .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+@End

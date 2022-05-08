@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:27
+@Media:	1039_PBJ2 video
+*PAR:	ret [* phon] a jred [* phon] &uh &m red [* phon] &uh three [* phon]
+	&uh .
+%mor:	?|ret det:art|a ?|jred n|red det:num|three .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&um threeuh+butter [* phon] gum [* phon] .
+%mor:	?|threeuh+butter n|gum .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh threeut+butter [* phon] it red [* phon] .
+%mor:	?|threeut+butter pro:per|it n|red .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	&uh threenut+butter [* phon] &uh .
+%mor:	?|threenut+butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rim [* phon] &ih &ih threeut+butter [* phon] and jam .
+%mor:	n|rim ?|threeut+butter coord|and n|jam .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	threenut+butter [* phon] belly [* phon] &ah .
+%mor:	?|threenut+butter n|belly .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	eat it .
+%mor:	v|eat pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

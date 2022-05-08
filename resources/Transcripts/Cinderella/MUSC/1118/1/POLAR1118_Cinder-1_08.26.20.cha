@@ -1,0 +1,51 @@
+@UTF8
+@Window:	45_375_755_906_230_2_414_1_414_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:42
+@Media:	POLAR1118_Cinder-1_08-26-20, video
+*PAR:	&um they [//] <there was &i igeh [* phon]> [//] get [//] you get &g
+	or get brush for [/] for [/] for .
+%mor:	pro:per|you v|get coord|or v|get n|brush prep|for .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*PAR:	no xxx [* phon] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh there &um .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&i &oo .
+*PAR:	wait .
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	we're &um .
+%mor:	pro:sub|we~cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &i .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I gotcha .
+%mor:	pro:sub|I co|gotcha .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	just I knew but no .
+%mor:	adv|just pro:sub|I v|know&PAST conj|but co|no .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+@End

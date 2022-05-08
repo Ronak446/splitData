@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1011_2_PBJ_Y2017_M03_D06_H09_M59_S31 video
+*PAR:	peanut-butter sandwich .
+%mor:	?|peanut-butter n|sandwich .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &l location [* u] .
+%mor:	coord|and n|location .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and sandwich .
+%mor:	coord|and n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	sandwich .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut-butter .
+%mor:	?|peanut-butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and sandwich .
+%mor:	coord|and n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

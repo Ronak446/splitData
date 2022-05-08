@@ -1,0 +1,32 @@
+@UTF8
+@Window:	135_676_622_753_0_0_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_BW-5_11.2.20 video
+@Time Duration:	00:00:28
+*PAR:	boy is playing soccer with ball in the front yard .
+%mor:	n|boy aux|be&3S part|play-PRESP n|soccer prep|with n|ball prep|in
+	det:art|the n|front n|yard .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*PAR:	<and he> [/] &heh and he [/] he kicks the ball through the plate
+	glass window .
+%mor:	coord|and pro:sub|he v|kick-3S det:art|the n|ball prep|through
+	det:art|the n|plate n|glass n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|3|PUNCT
+*PAR:	and it comes in to hit the &uh father [//] or who his &um sitting in
+	the house .
+%mor:	coord|and pro:per|it v|come-3S adv|in inf|to v|hit&ZERO det:art|the
+	coord|or pro:int|who det:poss|his n:gerund|sit-PRESP prep|in
+	det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|6|OBJ 8|7|CONJ
+	9|11|LINK 10|11|DET 11|8|COORD 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and he gets up to see where the ball had come from .
+%mor:	coord|and pro:sub|he v|get-3S adv|up inf|to v|see pro:int|where
+	det:art|the n|ball v|have&PAST v|come prep|from .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|10|COMP 12|11|JCT 13|3|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1026_PBJ5 video
+*PAR:	alright &um you get the sandwich out .
+%mor:	co|alright pro:per|you v|get det:art|the n|sandwich adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and you put the two &s bread .
+%mor:	coord|and pro:per|you v|put&ZERO det:art|the det:num|two n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*PAR:	and <the knife it's the> [//] first you put the peanut+butter .
+%mor:	coord|and adv|first pro:per|you v|put&ZERO det:art|the
+	n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &y spread it out .
+%mor:	coord|and v|spread&ZERO pro:per|it adv|out .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	<and the &kni> [//] and the knife goes jelly .
+%mor:	coord|and det:art|the n|knife v|go-3S n|jelly .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and it switches all over .
+%mor:	coord|and pro:per|it v|switch-3S adv|all adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and its other piece of bread on the top .
+%mor:	coord|and det:poss|its qn|other n|piece prep|of n|bread prep|on
+	det:art|the n|top .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|QUANT 4|1|COORD 5|4|NJCT 6|5|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|1|PUNCT
+*PAR:	and you bite .
+%mor:	coord|and pro:per|you v|bite .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

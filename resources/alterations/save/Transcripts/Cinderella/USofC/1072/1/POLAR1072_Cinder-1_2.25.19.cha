@@ -1,0 +1,79 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:33
+@Media:	1072_5_Cinderella_June-11th-2019-11-42-01-am video
+*PAR:	&um dad had &um cinderle [//] Cinderella .
+%mor:	n|dad v|have&PAST n:prop|Cinderella .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and mom had &guh &um gir [//] two girls .
+%mor:	coord|and n|mom v|have&PAST det:num|two n|girl-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and [/] and they [/] &eh they went into .
+%mor:	coord|and pro:sub|they v|go&PAST prep|into .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	Cinderella was &um mopping <in the> [/] in the mopping .
+%mor:	n:prop|Cinderella aux|be&PAST&13S part|mop-PRESP prep|in
+	det:art|the part|mop-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &um when he [//] she went to the window and see all the &um what
+	in the world .
+%mor:	coord|and conj|when pro:sub|she v|go&PAST prep|to det:art|the
+	n|window coord|and v|see qn|all det:art|the det:int|what prep|in
+	det:art|the n|world .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|12|QUANT 11|12|DET 12|9|OBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	and [/] &uh and mouse and [/] and &uh though and all
+	[/] all the &lul little rats &um [/] &um bought her &er the &uh &ye
+	&fre fress [: dress] [* phon] .
+%mor:	coord|and n|mouse coord|and adv|though coord|and qn|all det:art|the
+	adj|little n|rat-PL v|buy&PAST pro:obj|her det:art|the n|dress .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|10|LINK 6|9|QUANT 7|9|DET
+	8|9|MOD 9|10|SUBJ 10|1|COORD 11|10|OBJ 12|13|DET 13|10|OBJ 14|1|PUNCT
+*PAR:	and [/] and then the &uh pumptin [: pumpkin] [* phon] &um the &m &ne
+	&eh &ne into carriaged [: carriages] [* phon] and [/] and [/] and
+	&uh went .
+%mor:	coord|and adv:tem|then det:art|the n|pumpkin det:art|the prep|into
+	n|carriage-PL coord|and v|go&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|10|DET 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|4|PUNCT
+*PAR:	and &um got to the ball and see what asked &um trince
+	[: prince] [* phon] &s sept [* u] and &k to dance .
+%mor:	coord|and v|get&PAST prep|to det:art|the n|ball coord|and v|see
+	pro:int|what v|ask-PAST n|prince ?|sept coord|and prep|to n|dance .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|SUBJ
+	9|7|COMP 10|9|OBJ 11|10|XMOD 12|11|CONJ 13|12|COORD 14|13|POBJ
+	15|2|PUNCT
+*PAR:	and [/] and then all the [/] the [/] the &um dress and clothes and
+	[/] and [/] and put the &um bag .
+%mor:	coord|and adv:tem|then qn|all det:art|the n|dress coord|and
+	n:pt|clothes coord|and v|put&ZERO det:art|the n|bag .
+%gra:	1|5|LINK 2|5|JCT 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|CONJ 7|6|COORD
+	8|5|CONJ 9|8|COORD 10|11|DET 11|9|OBJ 12|5|PUNCT
+*PAR:	and they went the [/] the &ch &f &uh
+	witch [* u] was [/] was the &e &ah &um [/] &um <shoe and &um> [//]
+	one shoe .
+%mor:	coord|and pro:sub|they v|go&PAST det:art|the n|witch
+	cop|be&PAST&13S det:art|the pro:indef|one n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|6|PUNCT
+*PAR:	and they went and back .
+%mor:	coord|and pro:sub|they v|go&PAST coord|and adv|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	and [/] and these [/] these friends went to all the [/] the back and
+	&um sat on the &w three [//] &eh &t &you two .
+%mor:	coord|and pro:dem|these n|friend-PL v|go&PAST prep|to qn|all
+	det:art|the n|back coord|and v|sit&PAST prep|on det:art|the
+	det:num|two .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|QUANT 7|8|DET 8|5|POBJ
+	9|4|CONJ 10|9|COORD 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	and the final shoe fit .
+%mor:	coord|and det:art|the adj|final n|shoe v|fit&ZERO .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and that's [/] that's all .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

@@ -1,0 +1,142 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:08:37
+@Media:	1040_3_Cinderella_March-15th-2018-10-49-29-am video
+*PAR:	&um foar [* phon] away <the> [/] the stepmother and two girls can't
+	stand one another .
+%mor:	?|foar adv|away det:art|the step#n|mother coord|and det:num|two
+	n|girl-PL mod|can~neg|not n|stand pro:indef|one qn|another .
+%gra:	1|0|INCROOT 2|4|JCT 3|4|DET 4|1|CMOD 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|10|AUX 9|8|NEG 10|11|MOD 11|7|CMOD 12|11|PRED 13|1|PUNCT
+*PAR:	and Cinnerella [* phon] <the> [/] the father the Cinderella the
+	stepmother &um .
+%mor:	coord|and n:prop|Cinnerella det:art|the n|father det:art|the
+	n:prop|Cinderella det:art|the step#n|mother .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|6|DET 6|4|XMOD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*PAR:	faw [* phon] away the cinnerella [* phon] and the &rrr the father
+	and the stepmother and the two sisters decided one day .
+%mor:	?|faw adv|away det:art|the ?|cinnerella coord|and det:art|the
+	det:art|the n|father coord|and det:art|the step#n|mother coord|and
+	det:art|the det:num|two n|sister-PL v|decide-PAST det:num|one n|day
+	.
+%gra:	1|0|INCROOT 2|4|JCT 3|4|DET 4|1|CMOD 5|4|CONJ 6|8|DET 7|8|DET 8|5|COORD
+	9|8|CONJ 10|11|DET 11|9|COORD 12|16|LINK 13|15|DET 14|15|QUANT
+	15|16|SUBJ 16|11|CMOD 17|18|QUANT 18|16|OBJ 19|1|PUNCT
+*PAR:	the daddy stepmother decided one day .
+%mor:	det:art|the n|daddy step#n|mother v|decide-PAST det:num|one n|day .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|XMOD 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+*PAR:	&um daddy went somewhere .
+%mor:	n|daddy v|go&PAST n|somewhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&um cinnerella [* phon] decided gosh the mama decided the &ma &uh
+	cinnerella [* phon] &um decided the maid oh gosh .
+%mor:	?|cinnerella v|decide-PAST co|gosh det:art|the n|mama v|decide-PAST
+	det:art|the ?|cinnerella v|decide-PAST det:art|the n|maid co|oh
+	co|gosh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|COM 4|5|DET 5|6|SUBJ 6|2|COMP 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|11|DET 11|9|OBJ 12|13|COM 13|11|XMOD 14|2|PUNCT
+*PAR:	okay the animals love him [* s] .
+%mor:	co|okay det:art|the n|animal-PL n|love pro:obj|him .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the big cat can't stand him [* s] .
+%mor:	coord|and det:art|the adj|big n|cat mod|can~neg|not v|stand
+	pro:obj|him .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*PAR:	<the> [/] <the castle> [/] the castle decided the I guess the [/]
+	the invitation .
+%mor:	det:art|the n|castle v|decide-PAST det:art|the pro:sub|I v|guess
+	det:art|the n|invitation .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and decided .
+%mor:	coord|and part|decide-PASTP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and <the> [/] the sisters happy .
+%mor:	coord|and det:art|the n|sister-PL adj|happy .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|POSTMOD 5|1|PUNCT
+*PAR:	and the cinnerella [* phon] <the> [/] the dress put it in the &uh
+	gosh dress put it in the &um <bed> [/] bed .
+%mor:	coord|and det:art|the ?|cinnerella det:art|the n|dress v|put&ZERO
+	pro:per|it prep|in det:art|the co|gosh n|dress v|put&ZERO pro:per|it
+	prep|in det:art|the n|bed .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|6|SUBJ 6|3|CMOD 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|COM 11|8|POBJ 12|6|CJCT 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|1|PUNCT
+*PAR:	and the sisters decided you can't wear that the pollace [* phon] and
+	oh my gosh .
+%mor:	coord|and det:art|the n|sister-PL v|decide-PAST pro:per|you
+	mod|can~neg|not v|wear pro:rel|that det:art|the ?|pollace coord|and
+	co|oh det:poss|my co|gosh .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|8|OBJ 10|11|DET 11|9|OBJ 12|11|CONJ 13|15|COM 14|15|MOD 15|12|COORD
+	16|4|PUNCT
+*PAR:	okay &um the godfairy [* s] &um decided you want to go to the palace
+	get dress .
+%mor:	co|okay det:art|the ?|godfairy v|decide-PAST pro:per|you v|want
+	inf|to v|go prep|to det:art|the n|palace v|get n|dress .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|11|DET 11|12|SUBJ 12|9|POBJ 13|12|OBJ 14|4|PUNCT
+*PAR:	&um fairy [* s] &um get dress .
+%mor:	n|fairy v|get n|dress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	the horses carried it <the> [/] the palace .
+%mor:	det:art|the n|horse-PL v|carry-PAST pro:per|it det:art|the n|palace
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	&um dance .
+%mor:	n|dance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the sisters can't stand them .
+%mor:	coord|and det:art|the n|sister-PL mod|can~neg|not v|stand
+	pro:obj|them .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	and the look at the time um I don't know which time .
+%mor:	coord|and det:art|the v|look prep|at det:art|the n|time ?|um
+	pro:sub|I mod|do~neg|not v|know pro:int|which n|time .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|3|COMP
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|7|CMOD 12|13|MOD 13|11|OBJ 14|1|PUNCT
+*PAR:	&um twelve o'clock out the door .
+%mor:	det:num|twelve n|o'clock adv|out det:art|the n|door .
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|JCT 4|5|DET 5|2|ENUM 6|2|PUNCT
+*PAR:	cinnerella [* phon] out the door .
+%mor:	?|cinnerella prep|out det:art|the n|door .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	and the drop the <shoes> [/] shoes hurry .
+%mor:	coord|and det:art|the n|drop det:art|the n|shoe-PL n|hurry .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|DET 5|6|MOD 6|3|CMOD 7|1|PUNCT
+*PAR:	and then <the> [/] the home the godsisters [* s] and the stepmom the
+	open the door .
+%mor:	coord|and adv:tem|then det:art|the n|home det:art|the
+	n|+n|god+n|sister-PL coord|and det:art|the step#n|mom det:art|the
+	adj|open det:art|the n|door .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|JCT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|13|DET 11|13|MOD 12|13|DET 13|9|OBJ 14|1|PUNCT
+*PAR:	and <the> [/] the shoe decided the try it on .
+%mor:	coord|and det:art|the n|shoe v|decide-PAST det:art|the v|try
+	pro:per|it adv|on .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*PAR:	the sisters can't fit it .
+%mor:	det:art|the n|sister-PL mod|can~neg|not v|fit&ZERO pro:per|it .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the Cinderella &um fit perfectly .
+%mor:	coord|and det:art|the n:prop|Cinderella part|fit&PASTP
+	adv|perfect&dadj-LY .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and the &s &s &s the prince xxx [* phon] get married I guess .
+%mor:	coord|and det:art|the det:art|the n|prince aux|get part|marry-PASTP
+	pro:sub|I v|guess .
+%gra:	1|6|LINK 2|4|DET 3|4|DET 4|6|SUBJ 5|6|AUX 6|8|LINK 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*PAR:	and the married .
+%mor:	coord|and det:art|the part|marry-PASTP .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and the <happerer> [//] happily ever after .
+%mor:	coord|and det:art|the adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|5|LINK 2|3|DET 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+@End

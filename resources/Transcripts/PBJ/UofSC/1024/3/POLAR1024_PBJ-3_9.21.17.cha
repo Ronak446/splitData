@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:08
+@Media:	1024_3_PBJ_September-21st-2017-3-28-19-pm video
+*PAR:	okay so you need bread &um peanut+butter jelly .
+%mor:	co|okay conj|so pro:per|you v|need n|bread n|+n|peanut+n|butter
+	n|jelly .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	and &um &g &um you bread <peanut+butter jelly>
+	[//] or peanut+butter and jelly .
+%mor:	coord|and pro:per|you n|bread coord|or n|+n|peanut+n|butter
+	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	and a knife .
+%mor:	coord|and det:art|a n|knife .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	so you need spread .
+%mor:	co|so pro:per|you v|need n|spread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	first thing for spread that &um jelly .
+%mor:	adv|first n|thing conj|for v|spread&ZERO pro:dem|that n|jelly .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and then &um and you need &stre or spread for peanut+butter .
+%mor:	coord|and adv:tem|then coord|and pro:per|you v|need coord|or
+	v|spread&ZERO prep|for n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|CONJ 7|6|COORD
+	8|7|JCT 9|8|POBJ 10|1|PUNCT
+*PAR:	and then you can like smush for that &um peanut+butter jelly so
+	much .
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|like v|smush prep|for
+	pro:dem|that n|+n|peanut+n|butter n|jelly adv|so qn|much .
+%gra:	1|6|LINK 2|6|JCT 3|5|SUBJ 4|5|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|JCT 12|6|JCT 13|6|PUNCT
+@End

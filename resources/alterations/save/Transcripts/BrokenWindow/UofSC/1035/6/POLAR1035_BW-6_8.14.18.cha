@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1035_BW6 video
+*PAR:	a boy .
+%mor:	det:art|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	goccer [* phon] .
+*PAR:	a ball .
+%mor:	det:art|a n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	window .
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	what ih [* phon] dat [* phon] .
+%mor:	pro:int|what ?|ih ?|dat .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	who did it .
+%mor:	pro:rel|who mod|do&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	de [* phon] end .
+%mor:	?|de n|end .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

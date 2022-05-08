@@ -1,0 +1,24 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:43
+*PAR:	&um &uh take two pieces of bread .
+%mor:	v|take det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	and spread peanut+butter on one side and &uh &t jelly on the other .
+%mor:	coord|and v|spread&ZERO n|+n|peanut+n|butter prep|on det:num|one
+	n|side coord|and n|jelly prep|on det:art|the qn|other .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|QUANT 6|4|POBJ 7|6|CONJ 8|7|COORD
+	9|2|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and &um &uh slap them together .
+%mor:	coord|and v|slap pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and [/] and you have a peanut+butter and &uh jelly sandwich .
+%mor:	coord|and pro:per|you v|have det:art|a n|+n|peanut+n|butter
+	coord|and n|jelly n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|3|PUNCT
+@End

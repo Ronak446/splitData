@@ -1,0 +1,75 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:23
+@Media:	1050_4_Cinderella_August-6th-2018-10-46-09-am video
+*PAR:	<ah says> [/] ah [* phon] says &sh joo [* phon] .
+%mor:	co|ah v|say-3S ?|joo .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	xxx [* phon] says &s &s &s &s &s .
+%mor:	v|say-3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	says ah [* phon] &j &joo joot [* phon] .
+%mor:	v|say-3S co|ah ?|joot .
+%gra:	1|0|ROOT 2|3|COM 3|1|COMP 4|1|PUNCT
+*PAR:	<ah [* phon] says> [/] ah [* phon] says xxx [* phon] xxx [* phon] .
+%mor:	co|ah v|say-3S .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	ah [* phon] &j joot [* phon] &shhh .
+%mor:	co|ah ?|joot .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	ah [* phon] says xxx [* phon] .
+%mor:	co|ah v|say-3S .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	ah [* phon] says xxx [* phon] xxx [* phon] .
+%mor:	co|ah v|say-3S .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	wahd [* phon] nass [* phon] .
+*PAR:	xxx [* phon] eselay [* phon] .
+*PAR:	aww [* phon] joot [* phon] .
+*PAR:	es [/] es [* phon] says &j &j &j joot [* phon] .
+%mor:	?|es v|say-3S ?|joot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&shhhh &oh dats [* phon] xxx [* phon] .
+*PAR:	eses [* phon] &ah &j joot [* phon] .
+*PAR:	and eses [/] eses [* phon] &ah xxx [* phon] joot [* phon] .
+%mor:	coord|and ?|eses ?|joot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	eses [* phon] ahhs [* phon] &ah joot [* phon] .
+*PAR:	eses [* phon] aww [* phon] jootjus [* phon] .
+*PAR:	eses [* phon] xxx [* phon] .
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	eses [/] eses [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] awww [* phon] joot [* phon] .
+*PAR:	eses [/] eses [* phon] awww [* phon] &shhh .
+*PAR:	eses [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	eses [* phon] o-t [* phon] bowl [* u] .
+%mor:	?|eses ?|o-t n|bowl .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	<eses [* phon] xxx> [/] eses [* phon] xxx [* phon] .
+*PAR:	awww [* phon] doot [* phon] .
+*PAR:	awses [/] awses [* phon] xxx [* phon] .
+*PAR:	eses [* phon] awdiss [* phon] .
+*PAR:	eses [* phon] &jjjjj joot [* phon] .
+*PAR:	<eses aw> [//] eses [* phon] ahjus [* phon] &shhhh .
+*PAR:	yeah xxx [* phon] awjus [* phon] aww [* phon] .
+%mor:	co|yeah ?|awjus ?|aww .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	eses [* phon] &mhm &mhm .
+*PAR:	and says xxx [* phon] .
+%mor:	coord|and v|say-3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	es [* phon] .
+*PAR:	eses [/] eses [* phon] aww [* phon] silly .
+%mor:	?|eses ?|aww adj|silly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	eses [* phon] aww [* phon] ceiling [* u] .
+%mor:	?|eses ?|aww n|ceiling .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	ese [* phon] xxx [* phon] &s &s &s &shhh .
+@End

@@ -1,0 +1,12 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1058_Cinderella2 video
+*PAR:	&um mor [* phon] &uh &n &m .
+*PAR:	and [/] and [/] and &um &m moe [* phon] no .
+%mor:	coord|and ?|moe co|no .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|COM 4|1|PUNCT
+@End

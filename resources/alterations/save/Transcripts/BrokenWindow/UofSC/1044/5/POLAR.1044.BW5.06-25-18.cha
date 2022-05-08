@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1044_5_BrokenWindow_June-25th-2018-4-20-53-pm video
+*PAR:	old sucker [* u] berls [* u] is cwashed [* phon] .
+%mor:	adj|old n|suck&dv-AGT ?|berls aux|be&3S ?|cwashed .
+%gra:	1|2|MOD 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and the man piss off .
+%mor:	coord|and det:art|the n|man n|piss adv|off .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|NJCT 6|4|PUNCT
+*PAR:	&b &uh the doctor [* s] is looking for &um man [* s] .
+%mor:	det:art|the n|doctor aux|be&3S part|look-PRESP prep|for n|man .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+@End

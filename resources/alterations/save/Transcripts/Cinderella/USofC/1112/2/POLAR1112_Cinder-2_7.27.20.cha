@@ -1,0 +1,22 @@
+@UTF8
+@Window:	0_0_0_0_0_0_499_0_499_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	POLAR1112_Cinder-2_7.27.20, video
+*PAR:	&um Cindawella [: Cinderella] [* phon] &um tame [* u] him [* u] . 
+%mor:	n:prop|Cinderella v|tame pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&um &uh oh <&ju shoe [/] &um shoe &um> [//] &la &lu <lass [: glass]
+	[* phon] sletcher [: slipper]> [* phon] [//] lass [: glass]
+	[* phon] fetter [: slipper] [* phon] lass [: glass] [* phon] &um .
+%mor:	co|oh n|glass n|slipper n|glass .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	&uh lif [: live] [* phon] &um <ever afer [: after] [* phon]> [//]
+	<happy ever afur [: after] [* phon] &=laughs> [//] happily ever afur
+	[: after] [*  phon] .
+%mor:	v|live adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|1|JCT 5|1|PUNCT
+@End

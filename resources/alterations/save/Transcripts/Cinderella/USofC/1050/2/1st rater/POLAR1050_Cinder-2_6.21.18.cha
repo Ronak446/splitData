@@ -1,0 +1,121 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:56
+@Media:	1050_2_Cinderella_June-21st-2018-10-28-49-am video
+*PAR:	&sss wosh [* phon] joot [* phon] yeah .
+%mor:	?|wosh ?|joot co|yeah .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|COM 4|1|PUNCT
+*PAR:	and slip the tooch [* phon] .
+%mor:	coord|and v|slip det:art|the ?|tooch .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	xxx [* phon] choot [* phon] xxx [* phon] wajoot [* phon] .
+*PAR:	siz [* phon] wajoot [* phon] .
+*PAR:	and wujuhjuh [* phon] xxx [* phon] .
+%mor:	coord|and ?|wujuhjuh .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and ih [* phon] says <wuh dis> [/] wuh [* phon] dis [* phon] .
+%mor:	coord|and ?|ih v|say-3S ?|wuh ?|dis .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	oh joot [* phon] .
+%mor:	co|oh ?|joot .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	and &wuhsuh wuhsuhsuh [* phon] wuh [* phon] da [* phon] shote
+	[* phon] .
+%mor:	coord|and ?|wuhsuhsuh ?|wuh ?|da ?|shote .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	xxx [* phon] mo [* phon] dote [* phon] .
+%mor:	?|mo v|dote .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and xxx [* phon] waduhdoot [* phon] .
+%mor:	coord|and ?|waduhdoot .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and its &doodoodoo &jjjjj .
+%mor:	coord|and det:poss|its .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and xxx [* phon] dote [* phon] .
+%mor:	coord|and v|dote .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	oh &jj &dodo joot [* phon] .
+%mor:	co|oh ?|joot .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	oh &jjjjj yes .
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and oh juhjuh [* phon] oh says oh juh [* phon] it says oh tanks
+	[* phon] .
+%mor:	coord|and co|oh ?|juhjuh co|oh v|say-3S co|oh ?|juh pro:per|it
+	v|say-3S co|oh n|tank-PL .
+%gra:	1|5|LINK 2|5|COM 3|5|AUX 4|5|COM 5|0|ROOT 6|9|COM 7|9|LINK 8|9|SUBJ
+	9|5|COMP 10|11|COM 11|9|OBJ 12|5|PUNCT
+*PAR:	and wah [* phon] tis [* phon] waduh [* phon] mhm says otay [* phon] .
+%mor:	coord|and co|wah cop|be&3S ?|waduh co|mhm=yes v|say-3S ?|otay .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PRED 5|6|COM 6|4|CMOD 7|6|OBJ 8|3|PUNCT
+*PAR:	xxx [* phon] says odosh [* phon] .
+%mor:	v|say-3S ?|odosh .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and xxx [* phon] says xxx [* phon] orzuhz [* phon] it says odis
+	[* phon] .
+%mor:	coord|and v|say-3S ?|orzuhz pro:per|it v|say-3S ?|odis .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	and xxx [* phon] oh xxx [* phon] xxx [* phon] &j &j wooh [* phon] &j
+	&j .
+%mor:	coord|and co|oh ?|wooh .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|PUNCT
+*PAR:	it's oare [* phon] xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S ?|oare .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	says woar [* phon] doot [* phon] &gae .
+%mor:	v|say-3S ?|woar ?|doot .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] &j &j joot [* phon] .
+*PAR:	and xxx [* phon] &j &j joo [* phon] xxx [* phon] .
+%mor:	coord|and ?|joo .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and jersh [* phon] werchch [* phon] oh jerchch [* phon] oh xxx
+	[* phon] .
+%mor:	coord|and ?|jersh ?|werchch co|oh ?|jerchch co|oh .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|COM 5|3|COMP 6|5|COM 7|1|PUNCT
+*PAR:	xxx [* phon] doooter [* phon] .
+*PAR:	xxx [* phon] aaaakay [* phon] .
+*PAR:	and oh joas [* phon] asss [* phon] .
+%mor:	coord|and co|oh ?|joas ?|asss .
+%gra:	1|4|LINK 2|4|COM 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and horse .
+%mor:	coord|and n|horse .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and ih [* phon] says oarrr [* phon] xxx [* phon] xxx [* phon] &mhmm .
+%mor:	coord|and ?|ih v|say-3S ?|oarrr .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] oooddjuh [* phon] ehhhjjjj [* phon] jooo
+	[* phon] tase [* phon] .
+*PAR:	han [* phon] hore [* phon] &jjj .
+*PAR:	and hore [* phon] &jjj .
+%mor:	coord|and ?|hore .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and hojuhjuhjuh [* phon] ohjuhjuh [* phon] oh joot [* phon] .
+%mor:	coord|and ?|hojuhjuhjuh ?|ohjuhjuh co|oh ?|joot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|COM 5|3|COORD 6|1|PUNCT
+*PAR:	and heh [* phon] says xxx [* phon] chood [* phon] .
+%mor:	coord|and co|heh v|say-3S ?|chood .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] asate [* phon] .
+*PAR:	and xxx [* phon] xxx [* phon] xxx [* phon] &mmmmm .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] woot [* phon] &y &y &y yes &mmmmm .
+%mor:	?|woot co|yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	he says xxx [* phon] day .
+%mor:	pro:sub|he v|say-3S n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and xxx [* phon] awww [* phon] day .
+%mor:	coord|and ?|awww n|day .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] joot [* phon] .
+*PAR:	and xxx [* phon] aww [* phon] choot [* phon] .
+%mor:	coord|and ?|aww ?|choot .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+@End

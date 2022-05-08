@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:01:50
+@Media:	1040_LARC_BrokenWindow_December-12th-2019-11-28-33-am video
+*PAR:	&um <the boy kick> [/] the [/] the boy kick the ball .
+%mor:	det:art|the n|boy v|kick det:art|the n|ball .
+*PAR:	and then the boy kick the ball the [/] the crack the window .
+%mor:	coord|and adv:tem|then det:art|the n|boy v|kick det:art|the n|ball
+	det:art|the n|crack det:art|the n|window .
+*PAR:	and then the ball inside .
+%mor:	coord|and adv:tem|then det:art|the n|ball adv|inside .
+*PAR:	&um the glass &um fall down .
+%mor:	det:art|the n|glass v|fall adv|down .
+*PAR:	and the [/] <the man> [/] the man &um inside .
+%mor:	coord|and det:art|the n|man adv|inside .
+*PAR:	excuse me .
+%mor:	v|excuse pro:obj|me .
+*PAR:	the man sitting down .
+%mor:	det:art|the n|man part|sit-PRESP adv|down .
+*PAR:	<and the> [/] and the man &s stand up and &um carry the ball and
+	look outsound [: outside] [* phon] the glass &um tail [* u] .
+%mor:	coord|and det:art|the n|man v|stand adv|up coord|and v|carry
+	det:art|the n|ball coord|and v|look prep|outside det:art|the n|glass
+	n|tail .
+*PAR:	and that's the end .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|end .

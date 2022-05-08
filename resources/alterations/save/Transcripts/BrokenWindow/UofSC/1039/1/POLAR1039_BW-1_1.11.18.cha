@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:07
+@Media:	1039_BW1 video
+*PAR:	&uh wait &uh window no &d &oh .
+%mor:	v|wait n|window co|no .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COM 4|1|PUNCT
+*PAR:	I baseball [* s] oy [* phon] .
+%mor:	pro:sub|I n|baseball co|oy .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*PAR:	drik [* phon] I chick [* phon] .
+%mor:	?|drik pro:sub|I n|chick .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	one vass [* phon] .
+%mor:	det:num|one ?|vass .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &tuh I know I &n say it .
+%mor:	pro:sub|I v|know pro:sub|I v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

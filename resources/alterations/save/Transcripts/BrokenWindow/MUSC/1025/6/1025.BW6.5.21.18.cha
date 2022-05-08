@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1025_BW6 video
+*PAR:	&oh zur [* phon] boy kuh [* phon] the ball .
+%mor:	?|zur n|boy ?|kuh det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and &wuh and &uh went to the winnow [* phon] .
+%mor:	coord|and coord|and v|go&PAST prep|to det:art|the v|winnow .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	and a man cat [* phon] it and der [* phon] &w out the winnow
+	[* phon] .
+%mor:	coord|and det:art|a n|man n|cat pro:per|it coord|and ?|der prep|out
+	det:art|the v|winnow .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|4|OBJ 6|5|CONJ 7|6|COORD
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+@End

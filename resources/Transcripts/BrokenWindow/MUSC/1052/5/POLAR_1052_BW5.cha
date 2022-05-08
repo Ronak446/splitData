@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	POLAR_1052_BW5 video
+*PAR:	that's &w <the ball them [: the] [* phon] &bo> [//] the bor [: boy]
+	[* phon] gonna kit [* phon] the ball .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|boy mod:aux|gonna n|kit
+	det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|AUX 6|4|XMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	&um the ball went tinte [: into] [* phon] the window .
+%mor:	det:art|the n|ball v|go&PAST prep|into det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	the ball &um it went into the window .
+%mor:	det:art|the n|ball pro:per|it v|go&PAST prep|into det:art|the
+	n|window .
+%gra:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	&um the man going to look for it out the [/] the ball [: window]
+	[* u] .
+%mor:	det:art|the n|man part|go-PRESP inf|to cop|look prep|for pro:per|it
+	adv|out det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

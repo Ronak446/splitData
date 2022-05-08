@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:08
+@Media:	1050_BW6_R2 video
+*PAR:	otay [: okay] [* phon] &ss .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	joot  [/] joot [* phon] da [: the] [* phon] six nes [* phon] .
+%mor:	?|joot det:art|the det:num|six ?|nes .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+@End

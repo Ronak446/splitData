@@ -1,0 +1,83 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:42
+@Media:	1029_2_Cinderella_October-6th-2017-3-33-54-pm video
+*PAR:	&um Cinderella &um Cinderella [/] went to &um .
+%mor:	n:prop|Cinderella v|go&PAST prep|to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	anyway <she l went this house> [//] she went to this house for &um .
+%mor:	co|anyway pro:sub|she v|go&PAST prep|to pro:dem|this n|house
+	prep|for .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|PUNCT
+*PAR:	I do the &um .
+%mor:	pro:sub|I v|do det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	she lived lived [/] with these her sause [* phon] .
+%mor:	pro:sub|she v|live-PAST prep|with pro:dem|these det:poss|her
+	?|sause .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	they weren't really &sis scissors [//] sisters .
+%mor:	pro:sub|they aux|be&PAST~neg|not adv|real&dadj-LY n|sister-PL .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+*PAR:	but &uh she stayed with them .
+%mor:	conj|but pro:sub|she cop|stay-PAST prep|with pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and had to take care of them .
+%mor:	coord|and v|have&PAST inf|to v|take n|care prep|of pro:obj|them .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and she was like I guess &uh say &s scale [* u] a &uh slet [* phon] .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S co|like pro:sub|I v|guess
+	co|say v|scale det:art|a ?|slet .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|LINK 4|3|COM 5|6|SUBJ 6|0|ROOT 7|8|COM 8|6|COMP
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*PAR:	&um so &um they were invired [* phon] invired [/] .
+%mor:	co|so pro:sub|they aux|be&PAST ?|invired .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and they went to &um a party .
+%mor:	coord|and pro:sub|they v|go&PAST prep|to det:art|a n|party .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &um she &w they [//] she she [/] got &um .
+%mor:	coord|and pro:sub|she pro:sub|she v|get&PAST .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|CMOD 5|1|PUNCT
+*PAR:	she &um didn't do very well .
+%mor:	pro:sub|she mod|do&PAST~neg|not v|do adv|very adv|well .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	&uh she met the &uh woman .
+%mor:	pro:sub|she v|meet&PAST det:art|the n|woman .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the &um she did the pinn [//] prince .
+%mor:	det:art|the pro:sub|she v|do&PAST det:art|the n|prince .
+%gra:	1|3|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and they &uh they [/] &uh liked each other .
+%mor:	coord|and pro:sub|they v|like-PAST qn|each qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and then &uh at midnight she had to get out of there .
+%mor:	coord|and adv:tem|then prep|at mid#n|night&dn pro:sub|she
+	v|have&PAST inf|to v|get adv|out prep|of adv|there .
+%gra:	1|6|LINK 2|6|JCT 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|9|JCT 11|10|POBJ 12|6|PUNCT
+*PAR:	and &um so she lost her shoe .
+%mor:	coord|and co|so pro:sub|she v|lose&PAST det:poss|her n|shoe .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*PAR:	and &um some guy came .
+%mor:	coord|and qn|some n|guy v|come&PAST .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and &uh &uh to &sh &rr it went around different places .
+%mor:	coord|and v|toe pro:per|it v|go&PAST adv|around adj|different
+	n|place-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|JCT 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*PAR:	and finally found that she was &uh actually her shoe .
+%mor:	coord|and adv|final&dadj-LY v|find&PAST pro:rel|that pro:sub|she
+	cop|be&PAST&13S adv|actual&dadj-LY det:poss|her n|shoe .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|9|JCT 8|9|MOD
+	9|6|PRED 10|3|PUNCT
+*PAR:	and they &uh &uh got married .
+%mor:	coord|and pro:sub|they aux|get&PAST part|marry-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and &uh lived happily everyy [* phon] after .
+%mor:	coord|and v|live-PAST adv|happy&dadj-LY ?|everyy adv:tem|after .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|COMP 5|4|JCT 6|2|PUNCT
+@End

@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:20
+@Media:	1032_BW6 video
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	gick [* phon] .
+%mor:	?|gick .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&poo .
+*PAR:	gih [* phon] .
+%mor:	?|gih .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1006_6_BrokenWindow_August_14th_2017_1_58_29_pm video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	little kit [* phon] hey hold it down .
+%mor:	adj|little n|kit co|hey v|hold pro:per|it adv|down .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|COM 4|2|XMOD 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*PAR:	that's good &ha &ha &ha .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh oh [/] hold on a second it's [//] that's not the same thing .
+%mor:	co|oh n|hold prep|on det:art|a adj|second pro:dem|that~cop|be&3S
+	neg|not det:art|the adj|same n|thing .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|5|CMOD 8|7|NEG
+	9|11|DET 10|11|MOD 11|7|PRED 12|2|PUNCT
+*PAR:	it's &uh xxx [* phon] not good at all .
+%mor:	pro:per|it~cop|be&3S neg|not adj|good prep|at pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	no [/] no [/] no [/] no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and it's &uh a story of that dog [* s] .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a n|story prep|of
+	pro:dem|that n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+@End

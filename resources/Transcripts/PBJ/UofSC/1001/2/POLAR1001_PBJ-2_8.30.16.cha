@@ -1,0 +1,110 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:35
+@Media:	1001_2_PBJ_Y2016_M08_D30_H10_M09_S47 video
+
+*PAR:	Well .
+%mor:	n:prop|Well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	First lid we're going to the xxx [* phon] .
+%mor:	n:prop|First n|lid pro:sub|we~aux|be&PRES part|go-PRESP prep|to
+	det:art|the .
+%gra:	1|2|MOD 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	And get a xxx [* phon] other things .
+%mor:	n:prop|And v|get det:art|a qn|other n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*PAR:	But do get a lid &uh &uh bread .
+%mor:	n:prop|But v|do v|get det:art|a n|lid n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|DET 5|6|MOD 6|3|OBJ 7|2|PUNCT
+*PAR:	And if they xxx [* phon] cut it .
+%mor:	n:prop|And conj|if pro:sub|they v|cut&ZERO pro:per|it .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|OBJ 6|1|PUNCT
+*PAR:	They xxx [* phon] .
+%mor:	n:prop|They .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	And they I'm the mommy .
+%mor:	n:prop|And pro:sub|they pro:sub|I~cop|be&1S det:art|the n|mommy .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	And the xxx [* phon] .
+%mor:	n:prop|And det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	Oh mommy xxx [* phon] peanut+butter and jelly .
+%mor:	n:prop|Oh n|mommy n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	So xxx [* phon] and xxx [* phon] every body they said &uh &uh .
+%mor:	n:prop|So coord|and qn|every n|body pro:sub|they v|say&PAST .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|6|SUBJ 6|4|CMOD 7|1|PUNCT
+*PAR:	Sit down or help me and &um and &uh .
+%mor:	n:prop|Sit adv|down coord|or v|help pro:obj|me coord|and coord|and
+	.
+%gra:	1|5|SUBJ 2|1|JCT 3|1|CONJ 4|3|COORD 5|0|ROOT 6|5|CONJ 7|6|COORD
+	8|5|PUNCT
+*PAR:	We get xxx [* phon] .
+%mor:	n:prop|We v|get .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	One one of two .
+%mor:	n:prop|One pro:indef|one prep|of det:num|two .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*PAR:	And xxx [* phon] for one .
+%mor:	n:prop|And prep|for pro:indef|one .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	One two .
+%mor:	n:prop|One det:num|two .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	Two xxx [* phon] .
+%mor:	n:prop|Two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	And &uh one covers peanut+butter .
+%mor:	n:prop|And det:num|one n|cover-PL n|+n|peanut+n|butter .
+%gra:	1|4|MOD 2|3|QUANT 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	Yummy .
+%mor:	n:prop|Yummy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	And &uh the other case of wait .
+%mor:	n:prop|And det:art|the qn|other n|case prep|of co|wait .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*PAR:	Peanut [* s] and the other xxx [* phon] xxx [* phon] .
+%mor:	n:prop|Peanut coord|and det:art|the qn|other .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	Peanut+butter .
+%mor:	n:prop|Peanut+butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	And then you put it there .
+%mor:	n:prop|And adv:tem|then pro:per|you v|put&ZERO pro:per|it adv|there
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	And then you xxx [* phon] .
+%mor:	n:prop|And adv:tem|then pro:per|you .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*PAR:	xxx [* phon] there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] I said to xxx [* phon] .
+%mor:	pro:sub|I v|say&PAST prep|to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	So they they [/] xxx [* phon] xxx [* phon] .
+%mor:	n:prop|So pro:sub|they .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	They did that's good .
+%mor:	n:prop|They v|do&PAST pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*PAR:	&Um And and [/] one two three four .
+%mor:	n:prop|And det:num|one det:num|two det:num|three det:num|four .
+%gra:	1|5|LINK 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*PAR:	It's they love it .
+%mor:	n:prop|It~poss|s pro:sub|they v|love pro:per|it .
+%gra:	1|4|LINK 2|1|POSS 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	they sit down .
+%mor:	pro:sub|they v|sit adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	And have their xxx [* phon] .
+%mor:	n:prop|And v|have det:poss|their .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	xxx [* phon] it's a wonderful story .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|wonder-FULL n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+@End

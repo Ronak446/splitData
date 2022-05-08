@@ -1,0 +1,7 @@
+say [* phon] beets [* phon] of bread dilly [* phon].
+
+wuts [* phon] two.
+
+and cut it.
+
+.

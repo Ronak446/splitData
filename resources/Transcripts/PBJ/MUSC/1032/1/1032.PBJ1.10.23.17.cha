@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1032_PBJ1 video
+*PAR:	silly [* phon] .
+%mor:	co|silly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bein [* phon] pie [* s] .
+%mor:	?|bein n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

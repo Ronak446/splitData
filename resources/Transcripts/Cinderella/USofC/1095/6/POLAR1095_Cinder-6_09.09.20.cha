@@ -1,0 +1,57 @@
+@UTF8
+@Window:	0_0_0_0_0_0_141_0_141_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:37
+@Media:	POLAR1095_Cind-6_9.9.20 video
+*PAR:	&uh &uh &uh &d &uh &uh &um .
+*PAR:	&um oh [/] oh &um .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f no &um .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &uh .
+*PAR:	&uhh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &umm .
+*PAR:	xxx [* phon] no &um oh [/] oh .
+%mor:	co|no co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um oh &um xxx [* phon] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so xxx [* phon] xxx [* phon] .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh &uh xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] oh &uhh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	&um &umm &sh &um .
+*PAR:	okay so xxx [* phon] xxx [* phon] yeah .
+%mor:	co|okay co|so co|yeah .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &um xxx [* phon] xxx [* phon] .
+*PAR:	&um wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uhh &um xxx [* phon] no [/] &s no &um .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	uhoh &um .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no &uh &um .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no xxx [* phon] &uh no [/] no .
+%mor:	co|no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

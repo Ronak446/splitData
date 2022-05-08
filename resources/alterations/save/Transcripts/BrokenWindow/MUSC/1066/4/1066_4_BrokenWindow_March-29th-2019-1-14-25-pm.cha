@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	1066_4_BrokenWindow_March-29th-2019-1-14-25-pm video
+*PAR:	<&b &b boy &d boy does it> [//] boy get &f big <kick a ball> [/] kick ball xxx [* phon] .
+%mor:	co|boy v|get adj|big v|kick n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|ENUM 5|4|OBJ 6|2|PUNCT
+*PAR:	&ohhhh dear &bang xxx [* phon] &bang .
+%mor:	co|dear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&gasp what the hell is zis [: this] [* phon] in my lap .
+%mor:	pro:int|what det:art|the n|hell cop|be&3S pro:dem|this prep|in
+	det:poss|my n|lap .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+*PAR:	xxx [* phon] &oh pit [: pick] [* phon] da [: the] [* phon] ball up .
+%mor:	v|pick det:art|the n|ball adv|up .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*PAR:	xxx [* phon] no boy xxx [* phon] .
+%mor:	qn|no n|boy .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,129 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:07:00
+@Media:	1046_2_Cinderella_April-10th-2018-12-48-36-pm video
+*PAR:	okay the guy &um who introduced &um Cinderella to the &um woman was &um who &l lay [/] &um &um lay [* phon] hi .
+%mor:	co|okay det:art|the n|guy pro:rel|who v|introduce-PAST
+	n:prop|Cinderella prep|to det:art|the n|woman cop|be&PAST&13S
+	pro:rel|who adj|lay co|hi .
+%gra:	1|10|COM 2|3|DET 3|10|SUBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|0|ROOT 11|13|LINK 12|13|MOD 13|10|PRED 14|10|PUNCT
+*PAR:	&um so the I don't know &um the Cinderella was &um bad [* s] person .
+%mor:	co|so det:art|the pro:sub|I mod|do~neg|not v|know det:art|the
+	n:prop|Cinderella cop|be&PAST&13S adj|bad n|person .
+%gra:	1|6|COM 2|6|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|11|MOD 11|9|PRED 12|6|PUNCT
+*PAR:	&um so <cat> [//] &um the cat was &um the bad person &um .
+%mor:	co|so det:art|the n|cat cop|be&PAST&13S det:art|the adj|bad
+	n|person .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*PAR:	my god .
+%mor:	det:poss|my n|god .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um &um the guy [//] well the father who was &k I don't know who was
+	pictured in the story &um .
+%mor:	det:art|the n|well det:art|the n|father pro:rel|who cop|be&PAST&13S
+	pro:sub|I mod|do~neg|not v|know pro:rel|who aux|be&PAST&13S
+	part|picture-PASTP prep|in det:art|the n|story .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|XMOD 5|6|LINK 6|4|CMOD 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|6|PRED 11|13|LINK 12|13|AUX 13|10|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+*PAR:	and <so I> [//] &um so the &um <mouse> [//] &um mice &um open up the
+	&um &um dress for Cinderella .
+%mor:	coord|and co|so det:art|the n|mouse&PL v|open prep|up det:art|the
+	n|dress prep|for n:prop|Cinderella .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	&um the &um girls &um <was> [//] &um were &um mean &um and tore the
+	&um the &uh dress .
+%mor:	det:art|the n|girl-PL cop|be&PAST adj|mean coord|and v|tear&PAST
+	det:art|the det:art|the n|dress .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|5|COORD 7|9|DET 8|9|DET
+	9|6|OBJ 10|3|PUNCT
+*PAR:	and &um the okay &um &um &tho those three women left to go &um ball .
+%mor:	coord|and det:art|the adj|okay pro:dem|those det:num|three
+	n|woman&PL v|leave&PAST inf|to v|go n|ball .
+%gra:	1|7|LINK 2|3|DET 3|7|JCT 4|6|DET 5|6|QUANT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|7|PUNCT
+*PAR:	and then &um <she> [//] &um &um Cinderella had a fairy godmother &um
+	who was perfect &um .
+%mor:	coord|and adv:tem|then n:prop|Cinderella v|have&PAST det:art|a
+	n|fairy n|+n|god+n|mother pro:rel|who cop|be&PAST&13S adj|perfect .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|9|PRED 11|4|PUNCT
+*PAR:	so &um the &uh &um orse [* phon] and the carriage &um was
+	miraculously &um put to her .
+%mor:	co|so det:art|the ?|orse coord|and det:art|the n|carriage
+	cop|be&PAST&13S adv|miraculous&dadj-LY part|put&PASTP prep|to
+	pro:obj|her .
+%gra:	1|3|COM 2|3|DET 3|9|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|9|PUNCT
+*PAR:	&um the dress &um had the &um white &um &uh so &dr &dr dress was
+	white .
+%mor:	det:art|the n|dress v|have&PAST det:art|the n|white adv|so n|dress
+	cop|be&PAST&13S adj|white .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|JCT 7|8|SUBJ 8|3|CJCT
+	9|8|PRED 10|3|PUNCT
+*PAR:	&um so then she &um went to the ball .
+%mor:	co|so adv:tem|then pro:sub|she v|go&PAST prep|to det:art|the n|ball
+	.
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &um the story goes &um I don't know who was &um there &um with
+	the guy &um who &uh two guys .
+%mor:	coord|and det:art|the n|story v|go-3S pro:sub|I mod|do~neg|not
+	v|know pro:rel|who cop|be&PAST&13S adv|there prep|with det:art|the
+	n|guy pro:rel|who det:num|two n|guy-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|10|LINK 10|8|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|QUANT 17|14|CMOD 18|4|PUNCT
+*PAR:	&um the &uh &um story goes &um I &um so &um <ten uh> [//] twelve
+	o'clock midnight &um she has to go home .
+%mor:	det:art|the n|story v|go-3S pro:sub|I adv|so det:num|twelve
+	n|o'clock mid#n|night&dn pro:sub|she aux|have&3S inf|to v|go n|home
+	.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|JCT 6|7|QUANT 7|3|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|INF 12|7|COMP 13|12|JCT 14|3|PUNCT
+*PAR:	&um so she runs home .
+%mor:	co|so pro:sub|she v|run-3S n|home .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&um &uh there the &um &um keys &um &um so &s &uh the mice had the
+	keys &um .
+%mor:	adv|there det:art|the n|key-PL conj|so det:art|the n|mouse&PL
+	v|have&PAST det:art|the n|key-PL .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CJCT 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	okay the &uh women &um &uh &um three <ste &ugh> [//] daughters &um
+	went to &um the doorway &um and locked Cinderella in the doorway .
+%mor:	co|okay det:art|the n|woman&PL det:num|three n|daughter-PL
+	v|go&PAST prep|to det:art|the n|+n|door+n|way coord|and v|lock-PAST
+	n:prop|Cinderella prep|in det:art|the n|+n|door+n|way .
+%gra:	1|6|COM 2|3|DET 3|6|JCT 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|6|PUNCT
+*PAR:	and the &um I don't know how the &um da [* phon] dress okay .
+%mor:	coord|and det:art|the pro:sub|I mod|do~neg|not v|know pro:int|how
+	det:art|the ?|da n|dress adj|okay .
+%gra:	1|6|LINK 2|6|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|POSTMOD 12|6|PUNCT
+*PAR:	<&um the woman tripped &um over> [//] &um woman tripped the guy in
+	the story .
+%mor:	n|woman v|trip-PAST det:art|the n|guy prep|in det:art|the n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	&uh so &um okay &um <so the guy &um &um okay &s so the guy has &um
+	&um slippers &uh shoes &um fitting the &um> [//] so the guy has &um
+	shoe &um fitting her exactly .
+%mor:	adv|so adj|okay conj|so det:art|the n|guy v|have&3S n|shoe
+	part|fit-PRESP pro:obj|her adv|exact&dadj-LY .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|5|CMOD 7|6|OBJ
+	8|7|XMOD 9|8|OBJ 10|8|JCT 11|2|PUNCT
+*PAR:	and &um then the story goes &um &um the prince and &um her lived
+	happily evter [* phon] after .
+%mor:	coord|and adv:tem|then det:art|the n|story v|go-3S det:art|the
+	n|prince coord|and det:poss|her part|live-PASTP adv|happy&dadj-LY
+	?|evter adv:tem|after .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|10|JCT 12|10|XJCT 13|12|JCT 14|5|PUNCT
+@End

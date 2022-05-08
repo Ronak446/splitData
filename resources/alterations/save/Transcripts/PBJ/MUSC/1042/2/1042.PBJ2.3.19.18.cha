@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:40
+@Media:	1042_PBJ2 video
+*PAR:	&p pieces of &br bread .
+%mor:	v|piece-3S prep|of n|bread .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and I would &uh &pea &peanut peanut+bunny [* phon] [/] peanut+bunny
+	[* phon] [/] peanut+bunny [* phon] and [/] &br and one piece of behd
+	[* phon] .
+%mor:	coord|and pro:sub|I mod|will&COND ?|peanut+bunny coord|and
+	det:num|one n|piece prep|of ?|behd .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|7|QUANT 7|5|COORD
+	8|7|NJCT 9|8|POBJ 10|4|PUNCT
+*PAR:	and the piece of and the [/] the soda [* s] [//] I mean &p yeah &um
+	<but the> [/] but the &uh buh [* phon] the &uh but the [/] the
+	butter [* s] [//] the &uh see [* phon] &uh butter [* s] on the other
+	piece of bread .
+%mor:	coord|and det:art|the n|piece prep|of coord|and det:art|the
+	pro:sub|I v|mean co|yeah conj|but det:art|the ?|buh det:art|the
+	conj|but det:art|the det:art|the v|see n|butter prep|on det:art|the
+	qn|other n|piece prep|of n|bread .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|4|CONJ 6|8|DET 7|8|SUBJ
+	8|5|COORD 9|8|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|14|DET 14|12|CONJ
+	15|18|DET 16|18|DET 17|18|MOD 18|14|COORD 19|18|NJCT 20|22|DET 21|22|QUANT
+	22|19|POBJ 23|22|NJCT 24|23|POBJ 25|1|PUNCT
+*PAR:	and <put them> [/] put them together .
+%mor:	coord|and v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+@End

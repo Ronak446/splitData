@@ -1,0 +1,15 @@
+@UTF8
+@Window:	0_0_0_0_0_0_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1100_PBJ-4_6.9.20 video
+@Time Duration:	00:00:08
+*PAR:	bread &b &b peacnut [: peanut butter] [* phon] [* s] jelly .
+%mor:	n|bread n|peanut n|butter n|jelly .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	ate .
+%mor:	v|eat&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

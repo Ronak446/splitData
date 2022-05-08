@@ -1,0 +1,31 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.BW-4 video
+@Time Duration:	00:01:57
+*PAR:	little John kicking the ball .
+%mor:	adj|little n:prop|John part|kick-PRESP det:art|the n|ball .
+*PAR:	little John <kicking the ball towards a> [//] no kicking the ball to
+	&um window [/] &ma window .
+%mor:	adj|little n:prop|John co|no part|kick-PRESP det:art|the n|ball
+	prep|to n|window .
+*PAR:	man [/] &ah man [//] &um father [/] oh father catching the ball .
+%mor:	co|oh n|father part|catch-PRESP det:art|the n|ball .
+*PAR:	oh father [/] father [/] &uh father [/] &um father catching the ball
+	father &t &um &ahh man &um &um father window .
+%mor:	co|oh n|father part|catch-PRESP det:art|the n|ball n|father n|man
+	n|father n|window .
+*PAR:	<little John> [/] little John &uh father [//] little john kicking
+	the ball to the window .
+%mor:	adj|little n:prop|John adj|little n|john part|kick-PRESP
+	det:art|the n|ball prep|to det:art|the n|window .
+*PAR:	father John happened to be &um <right there> [/] &um &um right there
+	&um .
+%mor:	n|father n:prop|John v|happen-PAST inf|to cop|be adv|right
+	adv|there .
+*PAR:	father John &l looking out the window .
+%mor:	n|father n:prop|John part|look-PRESP prep|out det:art|the n|window
+	.
+@End

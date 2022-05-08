@@ -1,0 +1,20 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+*PAR:	&um the &uh &um kid kicks the ball and <kick kick it &uh> [//]
+	kicked it into the window .
+%mor:	det:art|the n|kid v|kick-3S det:art|the n|ball coord|and
+	v|kick-PAST pro:per|it prep|into det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and knocked over the lamp .
+%mor:	coord|and v|knock-PAST prep|over det:art|the n|lamp .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and the guy was upset .
+%mor:	coord|and det:art|the n|guy cop|be&PAST&13S adj|upset .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

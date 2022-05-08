@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1049_1_PBJ_April-25th-2018-11-54-49-am video
+*PAR:	you take first piece of bread spread the peanut+butter on it .
+%mor:	pro:per|you v|take adj|first n|piece prep|of n|bread v|spread&ZERO
+	det:art|the n|+n|peanut+n|butter prep|on pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|ENUM 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|2|PUNCT
+*PAR:	take the &um &w &we well the jelly and &sp spread it over the jelly
+	[: bread] [* s] .
+%mor:	v|take det:art|the n|well det:art|the n|jelly coord|and
+	v|spread&ZERO pro:per|it adv|over det:art|the n|bread .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*PAR:	and then kept [: put] [* s] another <chip [* s]> [//] or napkin
+	[* u] on top .
+%mor:	coord|and adv:tem|then v|put&ZERO qn|another coord|or n|napkin
+	prep|on n|top .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+@End

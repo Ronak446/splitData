@@ -1,0 +1,84 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:39
+@Media:	1033_LARC_PBJ_August-26th-2019-4-0…-59-pm video
+*PAR:	a peanut+butter and jelly sandwich .
+%mor:	det:art|a n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	I'd take some peanut+butter and jelly and put it together .
+%mor:	pro:sub|I~mod|genmod v|take qn|some n|+n|peanut+n|butter coord|and
+	n|jelly coord|and v|put&ZERO pro:per|it adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|CONJ
+	9|8|COORD 10|9|OBJ 11|9|JCT 12|3|PUNCT
+*PAR:	okay peanut+butter and jelly sandwich .
+%mor:	co|okay n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*PAR:	well what I would do is I'd take the sandwich and just I'd spread
+	the two &pi .
+%mor:	co|well pro:int|what pro:sub|I mod|will&COND v|do cop|be&3S
+	pro:sub|I~mod|genmod v|take det:art|the n|sandwich coord|and
+	adj|just pro:sub|I~mod|genmod v|spread&ZERO det:art|the det:num|two
+	.
+%gra:	1|5|COM 2|5|OBJ 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|5|COMP 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|16|LINK 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|11|CMOD 17|18|DET 18|16|OBJ 19|9|PUNCT
+*PAR:	you got it turned on .
+%mor:	pro:per|you v|get&PAST pro:per|it v|turn-PAST adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|2|PUNCT
+*PAR:	I'd spread the two pieces of bread .
+%mor:	pro:sub|I~mod|genmod v|spread&ZERO det:art|the det:num|two
+	n|piece-PL prep|of n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and I'd put the &pe peanut+butter on it .
+%mor:	coord|and pro:sub|I~mod|genmod v|put&ZERO det:art|the
+	n|+n|peanut+n|butter prep|on pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	and then I'd put the jelly on it .
+%mor:	coord|and adv:tem|then pro:sub|I~mod|genmod v|put&ZERO det:art|the
+	n|jelly prep|on pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|PUNCT
+*PAR:	and then I'd take the top pieces of bread and I'd put on top of it .
+%mor:	coord|and adv:tem|then pro:sub|I~mod|genmod v|take det:art|the
+	adj|top n|piece-PL prep|of n|bread coord|and pro:sub|I~mod|genmod
+	v|put&ZERO prep|on n|top prep|of pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|5|CJCT 15|14|JCT
+	16|15|POBJ 17|16|NJCT 18|17|POBJ 19|5|PUNCT
+*PAR:	now I would take a knife and cut this thing either this way in half
+	or that way in half .
+%mor:	adv|now pro:sub|I mod|will&COND v|take det:art|a n|knife coord|and
+	n|cut det:dem|this n|thing adv|either pro:dem|this adv|way prep|in
+	n|half coord|or adv|that adv|way prep|in n|half .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|10|DET 10|4|JCT 11|12|JCT 12|10|CMOD 13|14|JCT 14|12|JCT 15|14|POBJ
+	16|14|CONJ 17|18|JCT 18|16|COORD 19|18|JCT 20|19|POBJ 21|4|PUNCT
+*PAR:	so I wouldn't have such big pieces .
+%mor:	co|so pro:sub|I mod|will&COND~neg|not v|have qn|such adj|big
+	n|piece-PL .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|QUANT 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*PAR:	but you don't have to .
+%mor:	conj|but pro:per|you mod|do~neg|not v|have prep|to .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	all you do is you do go it the process is .
+%mor:	post|all pro:per|you v|do cop|be&3S pro:per|you v|do v|go
+	pro:per|it det:art|the n|process cop|be&3S .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|6|SUBJ 6|4|CPRED 7|6|COMP
+	8|7|OBJ 9|10|DET 10|11|SUBJ 11|7|COMP 12|1|PUNCT
+*PAR:	and then you pick it up and eat it .
+%mor:	coord|and adv:tem|then pro:per|you v|pick pro:per|it adv|up
+	coord|and v|eat pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|4|PUNCT
+*PAR:	that's what I'd do with it .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I~mod|genmod v|do
+	prep|with pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+@End

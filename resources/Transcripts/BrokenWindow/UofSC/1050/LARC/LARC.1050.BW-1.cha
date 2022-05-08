@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1050_LARC_BrokenWindow_November-14th-2019-12-07-05-pm video
+*PAR:	this is zoot [* phon] .
+%mor:	pro:dem|this cop|be&3S ?|zoot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	this is a bassis [* phon] .
+%mor:	pro:dem|this cop|be&3S det:art|a ?|bassis .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	this is .
+%mor:	pro:dem|this cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	this is .
+%mor:	pro:dem|this cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx [* phon] .
+@End

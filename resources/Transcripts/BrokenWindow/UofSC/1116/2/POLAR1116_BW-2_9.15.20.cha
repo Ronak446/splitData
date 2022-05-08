@@ -1,0 +1,26 @@
+@UTF8
+@Window:	0_0_0_0_0_0_198_0_198_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	POLAR_1116_2_BrokenWindow_9.15.2020, video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<mike has a book> [//] he has his book [: ball] [* u] .
+%mor:	pro:sub|he v|have&3S det:poss|his n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and then his feher [: father] [* phon] xxx [* phon] want it fatties
+	[* phon] .
+%mor:	coord|and adv:tem|then det:poss|his n|father v|want pro:per|it
+	n|fat&dadj-DIM-PL .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*PAR:	and then he felt a [//] the falt [: fall] [* phon] . 
+%mor:	coord|and adv:tem|then pro:sub|he v|feel&PAST det:art|the n|fall .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

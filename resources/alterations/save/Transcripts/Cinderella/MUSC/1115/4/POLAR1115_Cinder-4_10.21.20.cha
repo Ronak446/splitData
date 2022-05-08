@@ -1,0 +1,117 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_0_135_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:08:08
+@Media:	1115_Cinderella_4_2020, video
+*PAR:	Cinderella was a happy .
+%mor:	n:prop|Cinderella cop|be&PAST&13S det:art|a adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	her mother <&uh died or> [//] &uh ran away .
+%mor:	det:poss|her n|mother v|run&PAST adv|away .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	her father remarried with &uh two daughters .
+%mor:	det:poss|her n|father re#part|marry-PASTP prep|with det:num|two
+	n|daughter-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	&uh her father got drunk [* u] and passed out .
+%mor:	det:poss|her n|father v|get&PAST n|drunk coord|and v|pass-PAST
+	adv|out .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|JCT 8|3|PUNCT
+*PAR:	&uh the horse kicked Cinderella and died [* u] .
+%mor:	det:art|the n|horse v|kick-PAST n:prop|Cinderella coord|and
+	v|die-PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	the &sist &uh <stepmother and step &uh &fa &uh &uh &uh> [//]
+	stepmother and &st &uh stepsisters was &uh mean &uh to Cinerella
+	[: Cinderella] [* phon] .
+%mor:	det:art|the step#n|mother coord|and step#n|sister-PL
+	cop|be&PAST&13S adj|mean prep|to n:prop|Cinderella .
+%gra:	1|2|DET 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PRED 7|6|JCT 8|7|POBJ
+	9|5|PUNCT
+*PAR:	one day &uh king was a bride for his son .
+%mor:	det:num|one n|day n|king cop|be&PAST&13S det:art|a n|bride prep|for
+	det:poss|his n|son .
+%gra:	1|3|QUANT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	&uh he was happy [//] &uh going to the ball .
+%mor:	pro:sub|he aux|be&PAST&13S part|go-PRESP prep|to det:art|the n|ball
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	<her &uh got> [//] he &uh &uh &re &uh &re &uh &re &uh bite
+	[: invited] [* phon] all of &um &uh girls [//] &uh old girls and old
+	[/] &um old .
+%mor:	pro:sub|he v|invite-PAST pro:indef|all prep|of adj|old n|girl-PL
+	coord|and adj|old .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|2|PUNCT
+*PAR:	Cinderella was happy .
+%mor:	n:prop|Cinderella cop|be&PAST&13S adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh Cinderella was going to the ball .
+%mor:	n:prop|Cinderella aux|be&PAST&13S part|go-PRESP prep|to det:art|the
+	n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	&s &uh Cinderella is &uh stepmother and was [//] would not go to the
+	ball .
+%mor:	n:prop|Cinderella cop|be&3S step#n|mother coord|and mod|will&COND
+	neg|not v|go prep|to det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|7|AUX 6|5|NEG 7|4|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*PAR:	&uh Cinderella pissed off .
+%mor:	n:prop|Cinderella v|piss-PAST adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	&um Cinderella [/] &ver &uh Cinderella godfathers [//] mother
+	[: fairy godmother] [* s] comes .
+%mor:	n:prop|Cinderella n|fairy n|+n|god+n|mother v|come-3S .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	se [: she] [* phon] had to &uh go .
+%mor:	pro:sub|she v|have&PAST inf|to v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*PAR:	&uh se [//] she &uh had to beautiful dress &uh all .
+%mor:	pro:sub|she v|have&PAST prep|to adj|beautiful n|dress pro:indef|all
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	se [: she] [* phon] &uh fell in love with Cinderella [: prince]
+	[* s] .
+%mor:	pro:sub|she v|fall&PAST prep|in n|love prep|with n|prince .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	she &um had to leave &vuh at the ball . 
+%mor:	pro:sub|she v|have&PAST inf|to v|leave prep|at det:art|the n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	she [//] &uh Cinderella &wu was &uh fit the shoe . 
+%mor:	n:prop|Cinderella cop|be&PAST&13S n|fit det:art|the n|shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	<finally &uh her> [/] &uh finally her &uh he [: her] [* s] married .
+%mor:	adv|final&dadj-LY det:poss|her det:poss|her part|marry-PASTP .
+%gra:	1|4|JCT 2|4|DET 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	and Cinderella and happy &uh her .
+%mor:	coord|and n:prop|Cinderella coord|and adj|happy pro:obj|her .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*PAR:	<she &re &um sued> [//] she sued [* u] the &s &uh stepmother and
+	stepuhsister [: stepsisters] [* phon] .
+%mor:	pro:sub|she v|sue-PAST det:art|the step#n|mother coord|and
+	step#n|sister-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	the three &uh &uh &uh &uh settled for &um &uh million dollars [* u] .
+%mor:	det:art|the det:num|three v|settle-PAST prep|for det:num|million
+	n|dollar-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	remarried &uh [//] married &uh Cinderella . 
+%mor:	re#part|marry-PASTP part|marry-PASTP n:prop|Cinderella .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|1|PUNCT
+*PAR:	stepmother &uh married old man .
+%mor:	step#n|mother v|marry-PAST adj|old n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	and married and divorced [//] remarried [//] divorced [* u] three
+	million dollars .
+%mor:	coord|and v|marry-PAST coord|and part|divorce-PASTP det:num|three
+	det:num|million n|dollar-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|CONJ 4|3|COORD 5|7|QUANT 6|7|QUANT 7|4|OBJ
+	8|2|PUNCT
+*PAR:	the &uh Cinderella was happy [/] happy . 
+%mor:	det:art|the n:prop|Cinderella cop|be&PAST&13S adj|happy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

@@ -1,0 +1,33 @@
+@UTF8
+@Window:	0_0_0_0_0_0_91_1_91_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1108_BW-1_5.26.20 video
+@Time Duration:	00:00:29
+*PAR:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kick the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	oh [//] throw [: kick] [* s] the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and hit [: kick] [* s] the ball .
+%mor:	coord|and v|kick det:art|the n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	hit [: kick] [* s] the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	throw [: kick] [* s] the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	hit [: kick] [* s] the ball .
+%mor:	v|kick det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and throw [: kick] [* s] the ball .
+%mor:	coord|and v|kick det:art|the n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@End

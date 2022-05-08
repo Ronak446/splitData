@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1082.PBJ-2 video
+@Time Duration:	00:00:52
+*PAR:	okay is [//] &uh that's &uh two pieces &b bread <butter
+	[: peanut butter] [* s] [* phon]> [/] &uh &um <butter
+	[: peanut butter] [* s] [*  phon]> [/] &um butter [: peanut butter]
+	[* s] [* phon] pieces &um .
+%mor:	co|okay pro:dem|that~cop|be&3S det:num|two n|piece-PL n|bread
+	n|peanut n|butter n|piece-PL .
+*PAR:	but [//] &uh now &uh peanut+butter one piece &uh jam that's &um
+	other piece .
+%mor:	adv|now n|+n|peanut+n|butter det:num|one n|piece n|jam
+	pro:rel|that~aux|be&3S qn|other n|piece .
+*PAR:	put together .
+%mor:	v|put&ZERO adv|together .
+*PAR:	cut it &um .
+%mor:	v|cut&ZERO pro:per|it .
+*PAR:	it [//] it's good .
+%mor:	pro:per|it~cop|be&3S adj|good .
+@End

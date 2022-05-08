@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1053_BW6 video
+*PAR:	leh [* phon] lameh [* phon] yeah [/] yeah [/] yeah yam [* phon] mam
+	[* phon] am [* phon] .
+%mor:	?|leh ?|lameh co|yeah n|yam co|mam cop|be&1S .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|COM 4|1|OBJ 5|6|COM 6|4|COMP 7|1|PUNCT
+*PAR:	hah [* phon] ah [* phon] [/] ah [* phon] .
+%mor:	co|hah co|ah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

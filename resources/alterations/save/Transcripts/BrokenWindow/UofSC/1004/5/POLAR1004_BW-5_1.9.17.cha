@@ -1,0 +1,93 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:50
+@Media:	1004_5_BrokenWindow_Y2017_M01_D09_H14_M32_S38 video
+*PAR:	we were running .
+%mor:	pro:sub|we aux|be&PAST part|run-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	to soccer in the football [* u] field .
+%mor:	prep|to n|soccer prep|in det:art|the n|+n|foot+n|ball n|field .
+%gra:	1|2|INF 2|0|INCROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	with the hat and the xxx [* phon] and the xxx [* phon] .
+%mor:	prep|with det:art|the n|hat coord|and det:art|the coord|and
+	det:art|the .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	<dog [* u]> [//] not the dog .
+%mor:	neg|not det:art|the n|dog .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the &b boy .
+%mor:	det:art|the n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &uh and &uh .
+%mor:	coord|and coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	the ball xxx [* phon] it's &uh hat .
+%mor:	det:art|the n|ball pro:per|it~cop|be&3S n|hat .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|PRED 6|2|PUNCT
+*PAR:	and the gloves [* u] and the ball &pick picking the little soccer
+	xxx [* phon] okay .
+%mor:	coord|and det:art|the n|glove-PL coord|and det:art|the n|ball
+	part|pick-PRESP det:art|the adj|little n|soccer adj|okay .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|6|XMOD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|POSTMOD 12|1|PUNCT
+*PAR:	and then oh it's &uh soccer xxx [* phon] &uh .
+%mor:	coord|and adv:tem|then co|oh pro:per|it~cop|be&3S n|soccer .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|COM 4|5|SUBJ 5|2|CMOD 6|5|PRED 7|1|PUNCT
+*PAR:	leaves again but then it's .
+%mor:	n|leaf-PL adv|again conj|but adv:tem|then pro:per|it~aux|be&3S .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|CONJ 4|6|JCT 5|6|SUBJ 6|3|COORD 7|1|PUNCT
+*PAR:	&s &b ball ball [/] but is .
+%mor:	n|ball conj|but cop|be&3S .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	going down is one xxx [* phon] .
+%mor:	part|go-PRESP adv|down cop|be&3S pro:indef|one .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|XJCT 4|3|PRED 5|1|PUNCT
+*PAR:	&s &s soccer field and boo .
+%mor:	n|soccer n|field coord|and co|boo .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	it's going &eh &s &s &ooo &ah &ah &ah .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	but &st &ah .
+%mor:	conj|but .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and his field xxx [* phon] .
+%mor:	coord|and det:poss|his n|field .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	get over here .
+%mor:	v|get adv|over adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	and xxx [* phon] leaves and grass [* s] and xxx [* phon] .
+%mor:	coord|and n|leaf-PL coord|and n|grass coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|COORD 6|1|PUNCT
+*PAR:	is going to &m mad .
+%mor:	aux|be&3S part|go-PRESP prep|to adj|mad .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	it's gonna xxx [* phon] .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	and then it's going .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S part|go-PRESP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	whatever happens to stays in the field .
+%mor:	pro:int|whatever v|happen-3S prep|to n|stay-PL prep|in det:art|the
+	n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	and wherever wherever [/] bad below boy .
+%mor:	coord|and adv:int|wherever adj|bad prep|below n|boy .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POSTMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	bad little boy .
+%mor:	adj|bad adj|little n|boy .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and it's &uh in .
+%mor:	coord|and pro:per|it~cop|be&3S adv|in .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:10
+@Media:	1027_BrokenWindow4 video
+
+*PAR:	izuh [* phon] boh [* phon] .
+%mor:	?|izuh ?|boh .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	he &bu wick [* phon] xxx [* phon] xxx [* phon] .
+%mor:	pro:sub|he n|wick .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	iwuh [* phon] .
+%mor:	?|iwuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

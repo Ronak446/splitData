@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	1062_2_BrokenWindow_November-20th-2018-2-21-53-pm video
+*PAR:	okay &um &um boot [: foot] [* phon] &um kick ball .
+%mor:	co|okay n|foot v|kick n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	trash [: crash] [* phon] &um &um man startled and &um &uh ball .
+%mor:	n|crash n|man v|startle-PAST coord|and v|ball .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	&um look the &um rindow [: window] [* phon] &um okay .
+%mor:	cop|look det:art|the n|window adj|okay .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|PUNCT
+@End

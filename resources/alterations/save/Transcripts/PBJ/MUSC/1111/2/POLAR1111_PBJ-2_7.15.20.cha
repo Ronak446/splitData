@@ -1,0 +1,29 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_143_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1111_PBJ_2_2020-07-15-11-19-17, video
+*PAR:	&uh take the two breads .
+%mor:	v|take det:art|the det:num|two n|bread-PL .
+%gra:	1|0|ROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*PAR:	and [/] &uh and [/] &uh and the middle of two bread .
+%mor:	coord|and det:art|the n|middle prep|of det:num|two n|bread .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	&uh &uh smear peanut+butter into [: onto] [* s] one bread .
+%mor:	n|smear n|+n|peanut+n|butter prep|onto det:num|one n|bread .
+%gra:	1|2|MOD 2|0|ROOT 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*PAR:	and smear jelly over another bread .
+%mor:	coord|and n|smear n|jelly adv|over qn|another n|bread .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	and then collapse the two bread onto each other .
+%mor:	coord|and adv:tem|then v|collapse det:art|the det:num|two n|bread
+	prep|onto qn|each qn|other .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|JCT 8|9|QUANT
+	9|7|POBJ 10|3|PUNCT
+*PAR:	I think .
+%mor:	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+@End

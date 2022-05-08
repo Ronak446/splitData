@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	1043_BrokenWindow3 video
+
+*PAR:	I just wanna know about him falling [* s] xxx [* phon] fell [* s] [/] fell [* s] to the tim [* phon] .
+%mor:	pro:sub|I adv|just mod:aux|wanna v|know prep|about pro:obj|him
+	part|fall-PRESP v|fall&PAST prep|to det:art|the ?|tim .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|4|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	was excited about his commercial [* u] .
+%mor:	aux|be&PAST&13S part|excite-PASTP prep|about det:poss|his
+	n|commercial .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	but then the commercial [* phon] fell [* s] against the commercial [* u] .
+%mor:	conj|but adv:tem|then det:art|the n|commercial v|fall&PAST
+	prep|against det:art|the n|commercial .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and then fell on top of the &p &k pummercial [* phon] .
+%mor:	coord|and adv:tem|then v|fall&PAST prep|on n|top prep|of
+	det:art|the ?|pummercial .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and commercial [* u] left on the &c coke [* u] commercial [* u] person .
+%mor:	coord|and adj|commercial adj|left prep|on det:art|the n|coke
+	n|commercial n|person .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|3|PUNCT
+*PAR:	and lost [* u] of what brought happened to the commercial [* u] .
+%mor:	coord|and v|lose&PAST prep|of pro:int|what v|bring&PAST
+	v|happen-PAST prep|to det:art|the n|commercial .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|3|CPOBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and the mess [* u] made up .
+%mor:	coord|and det:art|the n|mess v|make&PAST adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@End

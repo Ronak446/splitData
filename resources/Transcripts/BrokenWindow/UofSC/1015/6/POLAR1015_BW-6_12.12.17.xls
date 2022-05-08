@@ -1,0 +1,41 @@
+File	1015.BW6.12-12-17.cha
+Language	eng
+Corpus	POLAR
+Code	PAR
+Sem Paraphasias	0
+Phon Paraphasias	9
+Unk Paraphasias	0
+MTTR	0.773
+Role	Patient
+Education	.
+Custom_field	.
+Duration (sec)	80
+Total Utts	5
+MLU Utts	5
+MLU Words	6.4
+MLU Morphemes	7.2
+FREQ types	22
+FREQ tokens	32
+FREQ TTR	0.688
+Words/Min	24
+Verbs/Utt	1.2
+Word Errors	26
+Utt Errors	0
+density	0.344
+Nouns	11
+Plurals	1
+Verbs	7
+Aux	0
+3S	0
+1S/3S	0
+PAST	1
+PASTP	0
+PRESP	0
+prep|	1
+adj|	0
+adv|	1
+conj|	0
+det|	6
+pro|	1
+retracing[//]	12
+repetition[/]	10

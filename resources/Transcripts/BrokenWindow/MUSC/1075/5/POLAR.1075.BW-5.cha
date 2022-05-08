@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:51
+@Media:	1075_5_BrokenWindow_July-5th-2019-10-35-00-am video
+*PAR:	&he <would [/] would> [//] he would have enut [: enough] [* phon] good time paying xxx [* phon] &p pede [* phon] fuzee [* phon] .
+%mor:	pro:sub|he mod|will&COND aux|have adv|enough adj|good n|time
+	part|pay-PRESP ?|pede ?|fuzee .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|PRED 7|6|XMOD 8|7|OBJ
+	9|8|OBJ 10|3|PUNCT
+*PAR:	and oh my goodness <he kut> [//] he gut [* phon] xxx [* phon] .
+%mor:	coord|and co|oh det:poss|my co|goodness pro:sub|he v|gut .
+%gra:	1|6|LINK 2|6|COM 3|4|MOD 4|6|COM 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and his oh it's xxx [* phon] .
+%mor:	coord|and det:poss|his co|oh pro:per|it~cop|be&3S .
+%gra:	1|5|LINK 2|5|MOD 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	his dad said xxx [* phon] .
+%mor:	det:poss|his n|dad v|say&PAST .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	but he [/] he looked out .
+%mor:	conj|but pro:sub|he part|look-PASTP adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he thought oh pet [* u] pes [* phon] pori [* phon] xxx [* phon] .
+%mor:	coord|and pro:sub|he v|think&PAST co|oh n|pet ?|pes ?|pori .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|COM 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+*PAR:	and but he wud [* phon] kind of xxx [* phon] wine [* u] .
+%mor:	coord|and conj|but pro:sub|he ?|wud n|kind prep|of n|wine .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	but he was &ha had xxx [* phon] .
+%mor:	conj|but pro:sub|he aux|be&PAST&13S v|have&PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	but he would mate [: make] [* phon] da [: the] [* phon] doch
+	[* phon] .
+%mor:	conj|but pro:sub|he mod|will&COND v|make det:art|the ?|doch .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	made for it .
+%mor:	v|make&PAST prep|for pro:per|it .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+@End

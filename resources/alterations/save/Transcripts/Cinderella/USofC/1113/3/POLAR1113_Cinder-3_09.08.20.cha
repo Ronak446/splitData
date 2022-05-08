@@ -1,0 +1,150 @@
+@UTF8
+@Window:	255_862_362_511_1365_0_1826_0_1826_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_Cinder-3_09.08.20 video
+@Time Duration:	00:03:25
+*PAR:	&um there was a little girl who was &um &sh brought to her [/] &uh
+	her &m stepmother's house by her father .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|little n|girl
+	pro:rel|who aux|be&PAST&13S part|bring&PASTP prep|to pro:obj|her
+	step#adj|mother&dn-POSS n|house prep|by det:poss|her n|father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|9|POBJ 11|12|MOD 12|8|JCT 13|8|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*PAR:	and he then died .
+%mor:	coord|and pro:sub|he adv:tem|then v|die-PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	and the stepmother and sisters started treating girl cruelly .
+%mor:	coord|and det:art|the step#n|mother coord|and n|sister-PL
+	v|start-PAST part|treat-PRESP n|girl adv|cruel&dadj-LY .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|COMP 8|7|OBJ
+	9|7|JCT 10|6|PUNCT
+*PAR:	and &uh she had to take up the house and &uh do everything with it .
+%mor:	coord|and pro:sub|she v|have&PAST inf|to v|take adv|up det:art|the
+	n|house coord|and v|do pro:indef|everything prep|with pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|12|POBJ 14|3|PUNCT
+*PAR:	and she [/] &um she [//] <they [/] they annou> [//] <the
+	announcement in the> [//] <they announced that> [/] &uh they
+	announced that they're going to have a [/] a <beauty [* u] contest
+	[* u]> [//] or a pageant [: ball] [* u] .
+%mor:	coord|and pro:sub|they v|announce-PAST comp|that
+	pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|have det:art|a
+	coord|or det:art|a n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|CONJ 12|13|DET 13|11|COORD 14|3|PUNCT
+*PAR:	and &um they're all being invited .
+%mor:	coord|and pro:sub|they~aux|be&PRES post|all part|be-PRESP
+	part|invite-PASTP .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|PQ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	but the [/] the &um stepmothers and stepmathers [: stepdaughters]
+	[* phon] &um &um <try the prevent susan &uh &sa> [//] try to prevent
+	<the little girl from> [//] Cinderella from falling into it .
+%mor:	conj|but det:art|the step#n|mother-PL coord|and step#n|daughter-PL
+	v|try inf|to v|prevent n:prop|Cinderella prep|from part|fall-PRESP
+	prep|into pro:per|it .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|11|JCT 11|8|COMP 12|11|JCT 13|12|POBJ 14|6|PUNCT
+*PAR:	she [//] they lock &ih her upstairs .
+%mor:	pro:sub|they v|lock pro:obj|her adv|upstairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	<they &uh get down &st> [//] they [/] &uh they get downstairs .
+%mor:	pro:sub|they v|get adv|downstairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and &um they [//] the &s stepsisters tear up the dress .
+%mor:	coord|and det:art|the step#n|sister-PL v|tear prep|up det:art|the
+	n|dress .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and she goes she [/] she goes after them out into the garden to cry .
+%mor:	coord|and pro:sub|she v|go-3S pro:sub|she v|go-3S prep|after
+	pro:obj|them adv|out prep|into det:art|the n|garden prep|to n|cry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*PAR:	she meets her marry [//] fairy godmother and gets taken by the fairy
+	godmother's &um &um horse and &um mule [: horse] [* s] and all that
+	to the &um to the ball [//] or &p fair [* u] &um .
+%mor:	pro:sub|she v|meet-3S det:poss|her n|fairy n|+n|god+n|mother
+	coord|and v|get-3S part|take&PASTP adv|by det:art|the n|fairy
+	adj|+n|god+n|mother&dn-POSS n|horse coord|and n|horse coord|and
+	qn|all pro:dem|that prep|to det:art|the prep|to det:art|the coord|or
+	adj|fair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|CONJ 7|6|COORD 8|7|COMP
+	9|8|JCT 10|13|DET 11|13|MOD 12|13|MOD 13|9|POBJ 14|13|CONJ 15|14|COORD
+	16|13|CONJ 17|18|QUANT 18|16|COORD 19|18|JCT 20|21|DET 21|19|POBJ
+	22|21|POBJ 23|22|CONJ 24|23|COORD 25|2|PUNCT
+*PAR:	they [//] she dances with the &uh prince .
+%mor:	pro:sub|she v|dance-3S prep|with det:art|the n|prince .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and she finds him .
+%mor:	coord|and pro:sub|she v|find-3S pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and <she lep> [//] she lets on that she has to leave at midnight .
+%mor:	coord|and pro:sub|she v|let-3S adv|on pro:rel|that pro:sub|she
+	aux|have&3S inf|to v|leave prep|at mid#n|night .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|3|COMP 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	and she &l roams out of her shoe .
+%mor:	coord|and pro:sub|she v|roam-3S adv|out prep|of det:poss|her n|shoe
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she gets in the &uh &uh &uh parade [* u] [//] or the [/] the &m
+	wagon [: carriage] [* s] and she &s brought back to the &h house .
+%mor:	coord|and pro:sub|she v|get-3S prep|in det:art|the coord|or
+	det:art|the n|carriage coord|and pro:sub|she v|bring&PAST adv|back
+	prep|to det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|CONJ 7|8|DET 8|6|COORD
+	9|11|LINK 10|11|SUBJ 11|6|COORD 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*PAR:	and &um the next day <they try to> [/] they try to &um have a duke
+	&uh &pr prepare all the ladies in the house <the fair> [//] to wear
+	the shoe .
+%mor:	coord|and det:art|the adj|next n|day pro:sub|they v|try inf|to
+	v|have det:art|a n|duke v|prepare qn|all det:art|the n|lady-PL
+	prep|in det:art|the n|house inf|to v|wear det:art|the n|shoe .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|11|SUBJ 11|8|COMP 12|14|QUANT 13|14|DET 14|11|OBJ 15|11|JCT
+	16|17|DET 17|15|POBJ 18|19|INF 19|11|XJCT 20|21|DET 21|19|OBJ 22|6|PUNCT
+*PAR:	and &uh they hide cinderella in the [/] &um the &mi I can't well
+	it's a tall building .
+%mor:	coord|and pro:sub|they v|hide ?|cinderella prep|in det:art|the
+	pro:sub|I mod|can~neg|not adv|well pro:per|it~cop|be&3S det:art|a
+	adj|tall n|building .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|12|DET 7|12|SUBJ 8|10|AUX
+	9|8|NEG 10|12|JCT 11|12|SUBJ 12|5|POBJ 13|15|DET 14|15|MOD 15|5|POBJ
+	16|3|PUNCT
+*PAR:	and she [//] they &uh mice get her down .
+%mor:	coord|and pro:sub|they n|mouse&PL v|get pro:obj|her adv|down .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and tell her she gets in them .
+%mor:	coord|and v|tell pro:obj|her pro:sub|she v|get-3S adv|in
+	pro:obj|them .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and he [/] he &um says there [//] is there anybody else .
+%mor:	coord|and pro:sub|he v|say-3S cop|be&3S adv|there pro:indef|anybody
+	post|else .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|6|PQ 8|3|PUNCT
+*PAR:	and &s cinderella is the one and only .
+%mor:	coord|and ?|cinderella cop|be&3S det:art|the det:num|one coord|and
+	adv|only .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+*PAR:	and the shoe fits her .
+%mor:	coord|and det:art|the n|shoe v|fit-3S pro:obj|her .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and she goes off to live with the king [: prince] [* s] forever .
+%mor:	coord|and pro:sub|she v|go-3S adv|off inf|to v|live prep|with
+	det:art|the n|prince adv:tem|forever .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|3|PUNCT
+*PAR:	king [//] princes .
+%mor:	n|prince-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that one wasn't good as last time .
+%mor:	det:dem|that pro:indef|one cop|be&PAST&13S~neg|not adj|good prep|as
+	adj|last n|time .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|8|COORD 7|8|MOD 8|5|ENUM
+	9|3|PUNCT
+@End

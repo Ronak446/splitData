@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:23
+@Media:	LARC.1044.PBJ-1 video
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	the &uh peanut+boatter [: peanut+butter] [* phon] and jam and &um
+	redd [: bread] [* phon] is &uh nice .
+%mor:	det:art|the n|+n|peanut+n|butter coord|and n|jam coord|and n|bread
+	cop|be&3S adj|nice .
+%gra:	1|2|DET 2|7|SUBJ 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|0|ROOT
+	8|7|PRED 9|7|PUNCT
+*PAR:	the &um &uh I love peanut+butter .
+%mor:	det:art|the pro:sub|I n|love n|+n|peanut+n|butter .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	but &s &um the &um that's all .
+%mor:	conj|but det:art|the pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

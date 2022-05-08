@@ -1,0 +1,80 @@
+@UTF8
+@Window:	45_284_755_996_499_2_941_1_941_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:45
+@Media:	POLAR1110_PBJ-4_08-24-20, video
+*PAR:	well <this is> [//] &uh <I would start> [//] &uh first of all I
+	wouldn't use that kind with the white [* s] .
+%mor:	adv|well adv|first prep|of pro:indef|all pro:sub|I
+	mod|will&COND~neg|not v|use adv|that adj|kind prep|with det:art|the
+	n|white .
+%gra:	1|8|JCT 2|8|JCT 3|2|JCT 4|3|POBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|JCT 10|8|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|8|PUNCT
+*PAR:	&uh you [//] it's a lot better for you and just so you know .
+%mor:	pro:per|it~cop|be&3S det:art|a n|lot adj|good&CP prep|for
+	pro:per|you coord|and adj|just conj|so pro:per|you v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|5|JCT 7|6|POBJ
+	8|7|CONJ 9|8|COORD 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|2|PUNCT
+*PAR:	so you have one on the side .
+%mor:	co|so pro:per|you v|have pro:indef|one prep|on det:art|the n|side .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and then you have your [/] your [/] your &uh clean &uh stuff [* s]
+	&uh with [/] with &w jam [/] jam .
+%mor:	coord|and adv:tem|then pro:per|you v|have det:poss|your adj|clean
+	n|stuff prep|with n|jam .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	and some [//] the other part is the [//] <with the> [/] with the [/]
+	the paper .
+%mor:	coord|and det:art|the qn|other n|part cop|be&3S prep|with
+	det:art|the n|paper .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	I [/] &um I should have said what &um .
+%mor:	pro:sub|I mod|should aux|have part|say&PASTP pro:int|what .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&i &tay because I'm not saying the right [/] right the name .
+%mor:	conj|because pro:sub|I~aux|be&1S neg|not part|say-PRESP det:art|the
+	adj|right det:art|the n|name .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|DET 7|9|MOD 8|9|DET
+	9|5|OBJ 10|5|PUNCT
+*PAR:	but the white [* s] on the side .
+%mor:	conj|but det:art|the adj|white prep|on det:art|the n|side .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	so your white [* s] in [* s] the side .
+%mor:	adv|so det:poss|your n|white prep|in det:art|the n|side .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and then you have the [/] the [/] the [/] the [/] &w the baber
+	[* phon] and the [/] <the fire [* u]> [//] the other [* s] in there
+	.
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|the ?|baber
+	coord|and det:art|the qn|other prep|in n|there .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	and you put it together .
+%mor:	coord|and pro:per|you v|put&ZERO pro:per|it adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and then you can put it by [//] on &uh half of it .
+%mor:	coord|and adv:tem|then pro:per|you mod|can v|put&ZERO pro:per|it
+	adv|on n|half prep|of pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+*PAR:	and sometimes we could have five [//] &uh four there if you put
+	(th)em together .
+%mor:	coord|and adv|sometimes pro:sub|we mod|could v|have det:num|four
+	adv|there conj|if pro:per|you v|put&ZERO pro:obj|them adv|together .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|OBJ 12|10|JCT 13|5|PUNCT
+*PAR:	and here <you can> [//] <it looks> [//] you can have small ones
+	there .
+%mor:	coord|and adv|here pro:per|you mod|can v|have adj|small
+	pro:indef|one-PL adv|there .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|ENUM 8|7|JCT
+	9|5|PUNCT
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

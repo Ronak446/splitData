@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+@Media:	1018_BW6 video
+*PAR:	the threw [* s] [//] &um the young boy is kicking a ball .
+%mor:	det:art|the det:art|the adj|young n|boy aux|be&3S part|kick-PRESP
+	det:art|a n|ball .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and the ball crash into a man's window .
+%mor:	coord|and det:art|the n|ball n|crash prep|into det:art|a
+	n|man~poss|s n|window .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|COORD 5|4|NJCT 6|7|DET 7|9|MOD 8|7|POSS
+	9|5|POBJ 10|1|PUNCT
+*PAR:	and [/] and &ih upset the furniture [* s] .
+%mor:	coord|and v|upset det:art|the n|furniture .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and the man is got a ball and looking for the little boy .
+%mor:	coord|and det:art|the n|man aux|be&3S part|get&PASTP det:art|a
+	n|ball coord|and part|look-PRESP prep|for det:art|the adj|little
+	n|boy .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|5|PUNCT
+@End

@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:49
+@Media:	1042_BW4 video
+*PAR:	boy <had a> [/] had a &um ball .
+%mor:	co|boy v|have&PAST det:art|a n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	he kicked it through a window .
+%mor:	pro:sub|he v|kick-PAST pro:per|it prep|through det:art|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	ee [* phon] broke the window .
+%mor:	co|ee v|break&PAST det:art|the n|window .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	the ball ended <in the> [/] in the person's lap inside .
+%mor:	det:art|the n|ball v|end-PAST prep|in det:art|the n|person~poss|s
+	n|lap adv|inside .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|8|MOD 7|6|POSS 8|4|POBJ
+	9|3|JCT 10|3|PUNCT
+*PAR:	person inside got the ball and looked out the window that was broken .
+%mor:	n|person n|inside v|get&PAST det:art|the n|ball coord|and
+	v|look-PAST prep|out det:art|the n|window pro:rel|that
+	aux|be&PAST&13S part|break&PASTP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|3|PUNCT
+@End

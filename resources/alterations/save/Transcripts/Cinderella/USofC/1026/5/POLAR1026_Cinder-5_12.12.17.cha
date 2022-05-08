@@ -1,0 +1,114 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:36
+@Media:	1026_Cinderella5 video
+*PAR:	okay the father and the stepmother and the two girls .
+%mor:	co|okay det:art|the n|father coord|and det:art|the step#n|mother
+	coord|and det:art|the det:num|two n|girl-PL .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|CONJ 5|6|DET 6|4|COORD 7|3|CONJ
+	8|10|DET 9|10|QUANT 10|7|COORD 11|3|PUNCT
+*PAR:	and he died or &um .
+%mor:	coord|and pro:sub|he v|die-PAST coord|or .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the two stepsisters wants [* phon] Cinderella to do all this stuff .
+%mor:	det:art|the det:num|two step#n|sister-PL v|want-3S
+	n:prop|Cinderella inf|to v|do qn|all pro:dem|this n|stuff .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|COMP 8|10|QUANT
+	9|10|DET 10|7|OBJ 11|4|PUNCT
+*PAR:	and &th &um the mouse .
+%mor:	coord|and det:art|the n|mouse .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh &um the [/] the cat is she's just being ugly .
+%mor:	co|oh det:art|the n|cat cop|be&3S pro:sub|she~aux|be&3S adv|just
+	part|be-PRESP adj|ugly .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|JCT 8|4|PRED
+	9|8|PRED 10|4|PUNCT
+*PAR:	and the &um &d dog and the horse and the little mice .
+%mor:	coord|and det:art|the n|dog coord|and det:art|the n|horse coord|and
+	det:art|the adj|little n|mouse&PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|3|CONJ
+	8|10|DET 9|10|MOD 10|7|COORD 11|1|PUNCT
+*PAR:	&um and then she has her dress that she made .
+%mor:	coord|and adv:tem|then pro:sub|she v|have&3S det:poss|her n|dress
+	pro:rel|that pro:sub|she v|make&PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|4|PUNCT
+*PAR:	and she's going to the ball .
+%mor:	coord|and pro:sub|she~aux|be&3S part|go-PRESP prep|to det:art|the
+	n|ball .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and she ripped it all &um her stwo [* phon] stepsisters .
+%mor:	coord|and pro:sub|she v|rip-PAST pro:per|it adv|all det:poss|her
+	?|stwo step#n|sister-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|3|PUNCT
+*PAR:	&um godmother or &um fairy thayko [* phon] .
+%mor:	n|+n|god+n|mother coord|or n|fairy ?|thayko .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|PUNCT
+*PAR:	and he [* s] makes all these animals &um the and &um the prettiest
+	dress and &um carriage .
+%mor:	coord|and pro:sub|he v|make-3S qn|all pro:dem|these n|animal-PL
+	det:art|the coord|and det:art|the adj|pretty-SP n|dress coord|and
+	n|carriage .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|PUNCT 7|6|ROOT
+	8|7|CONJ 9|11|DET 10|11|MOD 11|8|COORD 12|11|CONJ 13|12|COORD 14|7|PUNCT
+*PAR:	and the prince and dances with her .
+%mor:	coord|and det:art|the n|prince coord|and n|dance-PL prep|with
+	pro:obj|her .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and &s &um the godmother and the stepmother is looking .
+%mor:	coord|and det:art|the n|+n|god+n|mother coord|and det:art|the
+	step#n|mother aux|be&3S part|look-PRESP .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*PAR:	and they &um it's a he doesn't want her to go .
+%mor:	coord|and pro:sub|they pro:per|it~cop|be&3S det:art|a pro:sub|he
+	mod|do&3S~neg|not v|want pro:obj|her inf|to v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|9|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|PRED 10|9|OBJ 11|12|INF 12|9|COMP 13|4|PUNCT
+*PAR:	but she says you know .
+%mor:	conj|but pro:sub|she v|say-3S pro:per|you v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and &um the carriage all &um the horses and all they &bih back to
+	normal .
+%mor:	coord|and det:art|the n|carriage qn|all det:art|the n|horse-PL
+	coord|and pro:indef|all pro:sub|they adv|back prep|to adj|normal .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|QUANT 5|6|DET 6|0|INCROOT 7|6|CONJ
+	8|7|COORD 9|8|INCROOT 10|9|JCT 11|10|JCT 12|11|POBJ 13|9|PUNCT
+*PAR:	and she is back to her old self .
+%mor:	coord|and pro:sub|she cop|be&3S adv|back prep|to det:poss|her
+	adj|old n|self .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	and but she keeps the shoe .
+%mor:	coord|and conj|but pro:sub|she v|keep-3S det:art|the n|shoe .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and they &um <the stepmother and the &fah the> [//] &um no the
+	stepmother and the two sisters and are all trying on the shoe .
+%mor:	coord|and pro:sub|they qn|no det:art|the step#n|mother coord|and
+	det:art|the det:num|two n|sister-PL coord|and aux|be&PRES post|all
+	part|try-PRESP prep|on det:art|the n|shoe .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|QUANT 4|5|DET 5|0|INCROOT 6|5|CONJ 7|9|DET
+	8|9|QUANT 9|6|COORD 10|13|LINK 11|13|AUX 12|11|PQ 13|5|CJCT 14|13|JCT
+	15|16|DET 16|14|POBJ 17|5|PUNCT
+*PAR:	and the mice &um the key .
+%mor:	coord|and det:art|the n|mouse&PL det:art|the n|key .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	and so she goes and tries it on .
+%mor:	coord|and co|so pro:sub|she v|go-3S coord|and v|try-3S pro:per|it
+	adv|on .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*PAR:	and she &um oh and he its on .
+%mor:	coord|and pro:sub|she co|oh coord|and pro:sub|he det:poss|its
+	adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|7|MOD 7|5|JCT
+	8|3|PUNCT
+*PAR:	happily ever after .
+%mor:	adv|happy&dadj-LY adv|ever adv:tem|after .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+@End

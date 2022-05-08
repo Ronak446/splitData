@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	POLAR_1047_Cinder5 video
+*PAR:	okay wada [* phon] what of her [* phon] tekter [* phon] she had .
+%mor:	co|okay ?|wada pro:int|what prep|of det:poss|her ?|tekter
+	pro:sub|she v|have&PAST .
+%gra:	1|2|COM 2|0|ROOT 3|8|LINK 4|3|NJCT 5|6|MOD 6|4|POBJ 7|8|SUBJ 8|2|COBJ
+	9|2|PUNCT
+*PAR:	and dat [* phon] fedlin [* phon] xxx [* phon] .
+%mor:	coord|and ?|dat ?|fedlin .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	&uh ter [* phon] to find [* u] yeah [/] yeah .
+%mor:	?|ter inf|to v|find co|yeah .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*PAR:	don't yeah [/] yeah [/] yeah [/] yeah .
+%mor:	mod|do~neg|not co|yeah .
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*PAR:	okay she had yeah .
+%mor:	adj|okay pro:sub|she v|have&PAST co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	den [* phon] she could've xxx [* phon] little <burt [* phon] file
+	[* u]> [/] burt [* phon] file [* u] little bit [/] little bit too .
+%mor:	n|den pro:sub|she mod|could~aux|have adj|little ?|burt n|file
+	adj|little adj|little n|bit post|too .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|1|CMOD 6|10|MOD 7|10|MOD
+	8|10|MOD 9|10|MOD 10|5|JCT 11|10|PQ 12|1|PUNCT
+*PAR:	den [* phon] she can't no [/] no [/] no .
+%mor:	n|den pro:sub|she mod|can~neg|not co|no .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	but she dud [* phon] .
+%mor:	conj|but pro:sub|she n|dud .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	but dey [* phon] xxx [* phon] her for dat [* phon] yeah [/] yeah .
+%mor:	conj|but ?|dey pro:obj|her prep|for ?|dat co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|COM 7|2|PUNCT
+*PAR:	yeah but she peld [* phon] dat [* phon] he fall [* u] into them
+	[* u] .
+%mor:	co|yeah conj|but pro:sub|she ?|peld ?|dat pro:sub|he v|fall
+	prep|into pro:obj|them .
+%gra:	1|7|COM 2|7|LINK 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+@End

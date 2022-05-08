@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Media:	1002_1PBJ,video
+@Time Duration:	00:00:13
+*PAR:	Two[/] two loafs .
+%mor:	det:num|two n|loaf-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and peanut+butter .
+%mor:	coord|and n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and jelly &=claps hands .
+%mor:	coord|and n|jelly n|hand-PL .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	and slip on the &uh sandwich .
+%mor:	coord|and n|slip prep|on det:art|the |uh n|sandwich .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

@@ -1,0 +1,54 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:25
+@Media:	1033_BrokenWindow2 video
+
+*PAR:	okay this is a person kicking this phone [* u] .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|a n|person part|kick-PRESP
+	pro:dem|this n|phone .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	<this is a> [/] this is an &a I don't know what this is yet <it's
+	got> [//] <does it &ha> [//] <is &th> [//] <is it in level [* s]>
+	[//] is it in proper level [* s] .
+%mor:	pro:dem|this cop|be&3S det:art|a pro:sub|I mod|do~neg|not v|know
+	pro:int|what pro:dem|this cop|be&3S adv|yet cop|be&3S pro:per|it
+	prep|in adj|proper n|level .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|PRED 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|12|JCT 12|10|PRED 13|12|PRED 14|13|JCT 15|16|MOD
+	16|14|POBJ 17|2|PUNCT
+*PAR:	okay this is part two of it .
+%mor:	co|okay pro:dem|this cop|be&3S n|part det:num|two prep|of
+	pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	he kicked it and apparently it went in the house through the window .
+%mor:	pro:sub|he v|kick-PAST pro:per|it coord|and adv|apparent&dadj-LY
+	pro:per|it v|go&PAST prep|in det:art|the n|house prep|through
+	det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|7|JCT 6|7|SUBJ 7|4|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	and here's where it came in with the man sitting in the house .
+%mor:	coord|and pro:exist|here~cop|be&3S pro:rel|where pro:per|it
+	v|come&PAST adv|in prep|with det:art|the n|man part|sit-PRESP
+	prep|in det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|PRED 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|XJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and it broke the window .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and there's the piece [* s] .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n|piece .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and here's the man with it holding it in his hand looking for where
+	did it come from .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|the n|man prep|with
+	pro:per|it part|hold-PRESP pro:per|it prep|in det:poss|his n|hand
+	part|look-PRESP prep|for adv:int|where mod|do&PAST pro:per|it v|come
+	prep|from .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|XJCT
+	9|8|OBJ 10|8|JCT 11|12|MOD 12|10|POBJ 13|3|XJCT 14|13|JCT 15|18|LINK
+	16|18|AUX 17|18|SUBJ 18|14|CPOBJ 19|18|JCT 20|3|PUNCT
+@End

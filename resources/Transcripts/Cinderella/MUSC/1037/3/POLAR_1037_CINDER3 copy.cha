@@ -1,0 +1,78 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:09:04
+@Media:	1037_3_Cinderella_February-7th-2018-11-16-15-am video
+*PAR:	in &uh in &uh &sic no but Cinderella and &uh wicked witch [* s] not good .
+%mor:	adv|in adv|in co|no conj|but n:prop|Cinderella coord|and adj|wicked
+	n|witch neg|not adj|good .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|5|CONJ 7|8|MOD
+	8|6|COORD 9|8|NEG 10|8|PRED 11|3|PUNCT
+*PAR:	and &um &uh in Cinderedda [* phon] and horses and animals and [/]
+	and cat not good .
+%mor:	coord|and prep|in n:prop|Cinderedda coord|and n|horse-PL coord|and
+	n|animal-PL coord|and n|cat neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POBJ 4|2|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD
+	8|2|CONJ 9|11|MOD 10|9|NEG 11|8|COORD 12|1|PUNCT
+*PAR:	and Cinderella dress okay good yeah .
+%mor:	coord|and n:prop|Cinderella n|dress co|okay adj|good co|yeah .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|6|COM 5|6|MOD 6|3|CMOD 7|1|PUNCT
+*PAR:	and witch [* s] and sisters not good .
+%mor:	coord|and n|witch coord|and n|sister-PL neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|6|MOD 5|4|NEG 6|3|COORD 7|1|PUNCT
+*PAR:	and take it off but take it off yeah I know really .
+%mor:	coord|and v|take pro:per|it adv|off conj|but v|take pro:per|it
+	adv|off co|yeah pro:sub|I v|know adv|real&dadj-LY .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|11|COM 10|11|SUBJ 11|6|COMP 12|11|JCT 13|2|PUNCT
+*PAR:	and [/] and &ss wicked witch [* s] <not good> [/] not good .
+%mor:	coord|and adj|wicked n|witch neg|not adj|good .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	and &um [/] and ball under za [* phon] ouse [* phon] inside pretty
+	houses yeah [/] yeah .
+%mor:	coord|and coord|and v|ball prep|under ?|za ?|ouse adv|inside
+	adj|pretty n|house-PL co|yeah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|9|MOD 6|9|MOD 7|8|JCT 8|9|MOD
+	9|4|POBJ 10|9|COM 11|1|PUNCT
+*PAR:	heary [* phon] &um eary [* phon] heary [/] heary [* phon] and ball
+	yeah .
+%mor:	adj|hear&dv-Y adj|ear&dn-Y adj|hear&dv-Y coord|and n|ball co|yeah .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|COM 7|3|PUNCT
+*PAR:	<twelve o'clock> [/] yeah twelve o'clock and go home yeah .
+%mor:	co|yeah det:num|twelve n|o'clock coord|and v|go n|home co|yeah .
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|5|COM
+	8|3|PUNCT
+*PAR:	and &uh [/] and not good .
+%mor:	coord|and coord|and neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|NEG 4|2|COORD 5|1|PUNCT
+*PAR:	<too little tiny> [//] no &um one two three and not good .
+%mor:	co|no det:num|one det:num|two det:num|three coord|and neg|not
+	adj|good .
+%gra:	1|3|COM 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|CONJ 6|7|NEG 7|5|COORD
+	8|4|PUNCT
+*PAR:	and [/] and sisters and fah [* phon] away yeah .
+%mor:	coord|and n|sister-PL coord|and ?|fah adv|away co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|6|JCT 6|4|COM 7|1|PUNCT
+*PAR:	&mhm &uh princes [* phon] and Cinderella and slippers yeah .
+%mor:	n|prince-PL coord|and n:prop|Cinderella coord|and n|slipper-PL
+	co|yeah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|COM 7|1|PUNCT
+*PAR:	and &Cin [//] no <but pil> [//] no shoes nice yeah .
+%mor:	coord|and co|no qn|no n|shoe-PL adj|nice co|yeah .
+%gra:	1|6|LINK 2|4|COM 3|4|QUANT 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*PAR:	and [/] and [/] and Cinderella and house [//] no but <Cinderella
+	and> [/] Cinderella and .
+%mor:	coord|and n:prop|Cinderella coord|and co|no conj|but
+	n:prop|Cinderella coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|COM 5|3|COORD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	Cinderella and woman and faw [* phon] way [* phon] yeah .
+%mor:	n:prop|Cinderella coord|and n|woman coord|and ?|faw n|way co|yeah .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|MOD 6|4|COORD 7|6|COM
+	8|1|PUNCT
+*PAR:	after [/] after [/] after far away .
+%mor:	prep|after adv|far adv|away .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+@End

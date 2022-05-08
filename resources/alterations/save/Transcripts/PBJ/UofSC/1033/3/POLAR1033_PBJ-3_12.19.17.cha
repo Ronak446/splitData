@@ -1,0 +1,130 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:13
+@Media:	1033_PBJ3 video
+
+*PAR:	i would take a half a pound [* s] of peanut+butter and a half a
+	pound [* s] of jelly .
+%mor:	?|i mod|will&COND v|take det:art|a n|half det:art|a n|pound prep|of
+	n|+n|peanut+n|butter coord|and det:art|a n|half det:art|a n|pound
+	prep|of n|jelly .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|DET 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|7|CONJ 11|12|DET 12|10|COORD 13|14|DET 14|12|XMOD 15|14|NJCT
+	16|15|POBJ 17|3|PUNCT
+*PAR:	and I would mix it up with a [/] a you can do it with a machine
+	[* s] .
+%mor:	coord|and pro:sub|I mod|will&COND v|mix pro:per|it adv|up prep|with
+	det:art|a pro:per|you mod|can v|do pro:per|it prep|with det:art|a
+	n|machine .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|11|DET
+	9|11|SUBJ 10|11|AUX 11|7|POBJ 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*PAR:	but if you do it with a machine [* s] it takes a lot of time and
+	trouble .
+%mor:	conj|but conj|if pro:per|you v|do pro:per|it prep|with det:art|a
+	n|machine pro:per|it v|take-3S det:art|a n|lot prep|of n|time
+	coord|and n|trouble .
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|10|PUNCT
+*PAR:	but what you'd normally do is just take a [/] a fork and stir it
+	together .
+%mor:	conj|but pro:int|what pro:per|you~mod|genmod adv|normal&dadj-LY
+	v|do cop|be&3S adv|just v|take det:art|a n|fork coord|and v|stir
+	pro:per|it adv|together .
+%gra:	1|9|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|CONJ 13|12|COORD 14|13|OBJ 15|13|JCT
+	16|9|PUNCT
+*PAR:	just stir it up .
+%mor:	adv|just v|stir pro:per|it adv|up .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	just stir it around [/] around [/] around until you get it
+	completely stirred up .
+%mor:	adv|just v|stir pro:per|it adv|around prep|until pro:per|you v|get
+	pro:per|it adv|complete&dadj-LY v|stir-PAST adv|up .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|2|COMP 8|7|OBJ
+	9|10|JCT 10|7|COMP 11|10|JCT 12|2|PUNCT
+*PAR:	once you get it stirred up you take &um two pieces of &uh ever what
+	you're gonna put it on to eat it .
+%mor:	adv|once pro:per|you v|get pro:per|it v|stir-PAST adv|up
+	pro:per|you v|take det:num|two n|piece-PL prep|of adv|ever
+	pro:int|what pro:per|you~aux|be&PRES mod:aux|gonna v|put&ZERO
+	pro:per|it adv|on inf|to v|eat pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|SUBJ 8|5|CJCT
+	9|10|QUANT 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|17|LINK 14|17|SUBJ
+	15|17|AUX 16|17|AUX 17|12|CPOBJ 18|17|OBJ 19|17|JCT 20|21|INF 21|17|COMP
+	22|21|OBJ 23|3|PUNCT
+*PAR:	and &um normally what you would do is you would put that on one on
+	each side in the center .
+%mor:	coord|and adv|normal&dadj-LY pro:int|what pro:per|you mod|will&COND
+	v|do cop|be&3S pro:per|you mod|will&COND v|put&ZERO pro:dem|that
+	prep|on det:num|one prep|on qn|each adj|side prep|in det:art|the
+	n|center .
+%gra:	1|10|LINK 2|10|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|10|SUBJ 7|10|AUX
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|JCT 13|12|POBJ 14|13|JCT
+	15|16|QUANT 16|14|POBJ 17|16|JCT 18|19|DET 19|17|POBJ 20|10|PUNCT
+*PAR:	and then put the two pieces together .
+%mor:	coord|and adv:tem|then v|put&ZERO det:art|the det:num|two
+	n|piece-PL adv|together .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|JCT 8|3|PUNCT
+*PAR:	and mash them together .
+%mor:	coord|and v|mash pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	and you don't want it to be high up .
+%mor:	coord|and pro:per|you mod|do~neg|not v|want pro:per|it inf|to
+	cop|be n|high adv|up .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|COMP
+	9|8|PRED 10|9|NJCT 11|5|PUNCT
+*PAR:	you want <it to> [//] when you get through for it to be kindly &uh
+	acceptable to eat and bite without having to do a lot of &uh
+	extension of strench [* phon] [//] stretching yourself .
+%mor:	pro:per|you v|want conj|when pro:per|you v|get prep|through
+	prep|for pro:per|it inf|to cop|be adv|kind&dadj-LY
+	adj|accept&dv-ABLE inf|to v|eat coord|and n|bite prep|without
+	n:gerund|have-PRESP inf|to v|do det:art|a n|lot prep|of n|extension
+	prep|of n:gerund|stretch-PRESP pro:refl|yourself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|6|POBJ 8|7|POBJ
+	9|10|INF 10|7|CPOBJ 11|12|JCT 12|10|PRED 13|14|INF 14|12|COMP 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|17|POBJ 19|20|INF 20|18|COMP 21|22|DET
+	22|20|OBJ 23|22|NJCT 24|23|POBJ 25|24|NJCT 26|25|POBJ 27|26|OBJ 28|2|PUNCT
+*PAR:	and <have you> [//] you've gotta have a drink of something that you
+	like that goes with it .
+%mor:	coord|and pro:per|you~aux|have mod:aux|gotta v|have det:art|a
+	n|drink prep|of pro:indef|something pro:rel|that pro:per|you co|like
+	pro:rel|that v|go-3S prep|with pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|NJCT 11|10|POBJ 12|11|COM 13|14|LINK 14|11|CMOD 15|14|JCT
+	16|15|POBJ 17|5|PUNCT
+*PAR:	water does not go with it .
+%mor:	n|water mod|do&3S neg|not v|go prep|with pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	milk will go with it .
+%mor:	n|milk mod|will v|go prep|with pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	but water does not go with it .
+%mor:	conj|but n|water mod|do&3S neg|not v|go prep|with pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	and or a soft drink or something like that .
+%mor:	coord|and coord|or det:art|a adj|soft n|drink coord|or
+	pro:indef|something prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|DET 4|5|MOD 5|2|COORD 6|5|CONJ 7|6|COORD
+	8|7|NJCT 9|8|POBJ 10|1|PUNCT
+*PAR:	and as you are eating you drink that stuff .
+%mor:	coord|and conj|as pro:per|you aux|be&PRES part|eat-PRESP
+	pro:per|you v|drink pro:dem|that n|stuff .
+%gra:	1|7|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	because it needs [/] needs some floating [* u] to get through the
+	body .
+%mor:	conj|because pro:per|it v|need-3S qn|some n:gerund|float-PRESP
+	inf|to v|get prep|through det:art|the n|body .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|COMP 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and that's how you do it .
+%mor:	coord|and pro:dem|that~cop|be&3S adv:int|how pro:per|you v|do
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|PRED 7|6|OBJ 8|3|PUNCT
+@End

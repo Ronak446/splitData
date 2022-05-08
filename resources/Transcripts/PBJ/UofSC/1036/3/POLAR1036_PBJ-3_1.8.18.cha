@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR_POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:06
+@Media:	1036_PBJ3 video
+*PAR:	peadut+buddee [* phon] &um and chelly [* phon] &um &um &um &um &um
+	&um &um .
+%mor:	?|peadut+buddee coord|and ?|chelly .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	peadut [* phon] &um jelly &um &um .
+%mor:	?|peadut n|jelly .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	<first if> [//] &um <first of all> [/] &um &um &um <first of all>
+	[/] &um &um first of all the &gr bread [/] &um &um &um bread and &um
+	&um &um &um &um .
+%mor:	adv|first prep|of qn|all det:art|the n|bread coord|and .
+%gra:	1|6|JCT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	first of all you &um bread &um jelly .
+%mor:	adv|first prep|of pro:indef|all pro:per|you n|bread n|jelly .
+%gra:	1|0|INCROOT 2|1|JCT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+*PAR:	and jelly and &um peanut+butter &um &um &um .
+%mor:	coord|and n|jelly coord|and n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	no [/] no yeah .
+%mor:	co|no co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

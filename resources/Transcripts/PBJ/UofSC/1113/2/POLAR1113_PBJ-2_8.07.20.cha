@@ -1,0 +1,35 @@
+@UTF8
+@Window:	255_862_362_511_0_0_387_0_387_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_PBJ-2_8.07.20 video
+@Time Duration:	00:00:30
+*PAR:	first you get a loaf of bread .
+%mor:	adv|first pro:per|you v|get det:art|a n|loaf prep|of n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	two pieces &um .
+%mor:	det:num|two n|piece-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	put one side &um peter [/] peter [//] peanut+butter on one side .
+%mor:	v|put&ZERO det:num|one n|side n|+n|peanut+n|butter prep|on
+	det:num|one n|side .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|MOD 4|1|OBJ 5|1|JCT 6|7|QUANT 7|5|POBJ 8|1|PUNCT
+*PAR:	&um and jelly [//] strawberry jelly at this phrase [* u] &s .
+%mor:	coord|and n|strawberry n|jelly prep|at det:dem|this n|phrase .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	<put the> [/] put the who [: two] [* phon] together .
+%mor:	v|put&ZERO det:art|the det:num|two adv|together .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*PAR:	and you've got a sandwich .
+%mor:	coord|and pro:per|you~aux|have part|get&PASTP det:art|a n|sandwich
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&um I don't like strawberry .
+%mor:	pro:sub|I mod|do~neg|not v|like n|strawberry .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I like grape .
+%mor:	pro:sub|I v|like n|grape .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

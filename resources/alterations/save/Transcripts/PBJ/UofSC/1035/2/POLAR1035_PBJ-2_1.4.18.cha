@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	1035_2_PBJ_January-4th-2018-10-30-15-am video
+
+*PAR:	obay [* phon] [/] obay [* phon] .
+%mor:	?|obay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	beanutbutter [* phon] and delly [* phon] .
+%mor:	?|beanutbutter coord|and adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the sandwich .
+%mor:	det:art|the n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx [* phon] two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	one two .
+%mor:	det:num|one det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	beanutbutter [* phon] and delly [* phon] .
+%mor:	?|beanutbutter coord|and adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	one delly [* phon] and two beanutbutter [* phon] and delly [* phon] .
+%mor:	det:num|one adj|dell&dn-Y coord|and det:num|two ?|beanutbutter
+	coord|and adj|dell&dn-Y .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|CONJ 4|5|QUANT 5|3|COORD 6|5|CONJ 7|6|COORD
+	8|2|PUNCT
+*PAR:	<wight [* phon] there> [/] wight [* phon] there .
+%mor:	?|wight adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	put &d dat [* phon] .
+%mor:	v|put&ZERO ?|dat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	two of them .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	yay .
+%mor:	co|yay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

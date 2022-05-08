@@ -1,0 +1,281 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:38
+@Media:	1043_Cinderella3 video
+
+*PAR:	the tayp [* phon] [//] the table [* u] filled out with the
+	commercial [* u] .
+%mor:	det:art|the det:art|the n|table v|fill-PAST adv|out prep|with
+	det:art|the n|commercial .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	but the commercial [* u] lost out .
+%mor:	conj|but det:art|the n|commercial v|lose&PAST adv|out .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and so now the commercial [* u] in there with the <two babies [* s]>
+	[//] two people of the commercial [* u] .
+%mor:	coord|and co|so adv|now det:art|the n|commercial prep|in adv|there
+	prep|with det:art|the det:num|two n|person&PL prep|of det:art|the
+	n|commercial .
+%gra:	1|0|INCROOT 2|3|COM 3|1|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|5|NJCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|1|PUNCT
+*PAR:	and the one person after they were gone .
+%mor:	coord|and det:art|the det:num|one n|person conj|after pro:sub|they
+	aux|be&PAST part|go&PASTP .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|COORD 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|1|PUNCT
+*PAR:	so <the baby [* u]> [//] the ber [* phon] [//] her person took the
+	two girls and let her maked [* phon] her person start trady
+	[* phon] .
+%mor:	co|so det:art|the det:poss|her n|person v|take&PAST det:art|the
+	det:num|two n|girl-PL coord|and v|let&ZERO pro:obj|her v|make-PAST
+	det:poss|her n|person v|start adj|trade&dn-Y .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|5|CONJ 10|9|COORD 11|12|SUBJ 12|10|COMP 13|14|MOD 14|15|SUBJ 15|12|COMP
+	16|15|PRED 17|5|PUNCT
+*PAR:	only use commercial [* u] for the commercials [* u] .
+%mor:	qn|only n|use adj|commercial prep|for det:art|the n|commercial-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|POSTMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and didn't take the commercials [* u] .
+%mor:	coord|and mod|do&PAST~neg|not v|take det:art|the n|commercial-PL .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and let only the other &commert tumersh [* phon] .
+%mor:	coord|and v|let&ZERO adv|only det:art|the qn|other ?|tumersh .
+%gra:	1|2|LINK 2|0|ROOT 3|6|JCT 4|6|DET 5|6|QUANT 6|2|COMP 7|2|PUNCT
+*PAR:	then &uh they went to the sherp [* phon] [//] person of the
+	commercial [* u] person about needing a commercial [* u] of the
+	commercial [* u] .
+%mor:	adv:tem|then pro:sub|they v|go&PAST prep|to det:art|the n|person
+	prep|of det:art|the adj|commercial n|person adv|about
+	part|need-PRESP det:art|a n|commercial prep|of det:art|the
+	n|commercial .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|JCT 12|3|XJCT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*PAR:	and <wanted to find the represent [* u]> [//] well after the person
+	had aped [* phon] at the commercial [* u] children and the
+	commercial [* u] person that has &um the little the commercial [* u]
+	along get the commercials [* u] .
+%mor:	coord|and n|well prep|after det:art|the n|person aux|have&PAST
+	part|ape-PASTP prep|at det:art|the adj|commercial n|child&PL
+	coord|and det:art|the n|commercial n|person pro:rel|that v|have&3S
+	det:art|the adj|little det:art|the adj|commercial prep|along v|get
+	det:art|the n|commercial-PL .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|15|DET 14|15|MOD 15|12|COORD
+	16|17|LINK 17|15|CMOD 18|21|DET 19|21|JCT 20|21|DET 21|17|OBJ 22|23|JCT
+	23|17|CJCT 24|25|DET 25|23|OBJ 26|7|PUNCT
+*PAR:	she let talked them all about their commercial [* u] .
+%mor:	pro:sub|she v|let&ZERO v|talk-PAST pro:obj|them post|all prep|about
+	det:poss|their n|commercial .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and then they saw the commercial [* u] and the one commercial [* u] .
+%mor:	coord|and adv:tem|then pro:sub|they v|see&PAST det:art|the
+	n|commercial coord|and det:art|the pro:indef|one n|commercial .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|4|PUNCT
+*PAR:	and she wanted the commercial [* u] person and her commercials [* u] .
+%mor:	coord|and pro:sub|she v|want-PAST det:art|the n|commercial n|person
+	coord|and det:poss|her n|commercial-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|3|PUNCT
+*PAR:	so they could be good for the commercials [* u] .
+%mor:	co|so pro:sub|they mod|could cop|be adj|good prep|for det:art|the
+	n|commercial-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and then she took a commercial [* u] over the commercial [* u] by
+	her commercial [* u] .
+%mor:	coord|and adv:tem|then pro:sub|she v|take&PAST det:art|a
+	n|commercial prep|over det:art|the adj|commercial prep|by
+	det:poss|her adj|commercial .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|12|MOD 12|10|POBJ 13|4|PUNCT
+*PAR:	and they wept with the commercials [* u] trips [* u] and commercials
+	[* u] around the front .
+%mor:	coord|and pro:sub|they v|weep&PAST prep|with det:art|the
+	n|commercial-PL n|trip-PL coord|and n|commercial-PL prep|around
+	det:art|the n|front .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|CONJ
+	9|8|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and typed [* u] the brand new commercials [* u] to be forwarded
+	[* u] .
+%mor:	coord|and v|type-PAST det:art|the adj|brand adj|new n|commercial-PL
+	inf|to aux|be part|forward-PASTP .
+%gra:	1|2|LINK 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|9|INF 8|9|AUX
+	9|6|XMOD 10|2|PUNCT
+*PAR:	and they were ready for the commercials [* u] later .
+%mor:	coord|and pro:sub|they cop|be&PAST adj|ready prep|for det:art|the
+	n|commercial-PL adv|later .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|3|PUNCT
+*PAR:	and when they walked to the commercial [* u] and the other
+	commercial [* u] person .
+%mor:	coord|and conj|when pro:sub|they v|walk-PAST prep|to det:art|the
+	n|commercial coord|and det:art|the qn|other n|commercial n|person .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|12|DET 10|11|QUANT 11|12|MOD 12|8|COORD 13|4|PUNCT
+*PAR:	the commercial [* u] got the commercial [* u] left &p commercial
+	[* u] of her pretty person .
+%mor:	det:art|the n|commercial v|get&PAST det:art|the n|commercial
+	adj|left n|commercial prep|of det:poss|her adj|pretty n|person .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MOD 7|5|XMOD 8|7|JCT
+	9|11|MOD 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*PAR:	but they took xxx [* phon] took xxx [//] no the commercials [* u]
+	took taps [* u] round him [* s] on commercials [* u] and made him
+	[* s] all bad commercials [* u] .
+%mor:	conj|but pro:sub|they v|take&PAST v|take&PAST co|no det:art|the
+	n|commercial-PL v|take&PAST n|tap-PL adv|round pro:obj|him prep|on
+	n|commercial-PL coord|and v|make&PAST pro:obj|him adv|all adj|bad
+	n|commercial-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|8|COM 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|8|OBJ 10|11|JCT 11|8|OBJ 12|11|JCT 13|12|POBJ 14|11|CONJ 15|14|COORD
+	16|15|OBJ 17|18|JCT 18|19|MOD 19|15|OBJ 20|3|PUNCT
+*PAR:	and they were their nar [* phon] [//] noor [* phon] tummercials
+	[* phon] and looked terrible .
+%mor:	coord|and pro:sub|they aux|be&PAST det:poss|their ?|noor
+	?|tummercials coord|and cop|look-PAST adj|terrible .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|ROOT 6|5|OBJ 7|6|CONJ 8|7|COORD
+	9|8|PRED 10|5|PUNCT
+*PAR:	when the commercials [* u] went on without him [* s] .
+%mor:	conj|when det:art|the n|commercial-PL v|go&PAST adv|on prep|without
+	pro:obj|him .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	he [* s] was happy addsapt [* phon] [//] sept [* phon] about the
+	person who was sad .
+%mor:	pro:sub|he cop|be&PAST&13S adj|happy ?|sept adv|about det:art|the
+	n|person pro:rel|who cop|be&PAST&13S adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|9|PRED 11|2|PUNCT
+*PAR:	and commercialed [* u] with the commercial [* u] person .
+%mor:	coord|and part|commercial-PASTP prep|with det:art|the n|commercial
+	n|person .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*PAR:	she reseen [* phon] telling him [* s] that he [* s] wanted to help
+	him [* s] of his commercial [* u] and ways to be a [/] &gi a
+	commercinal [* phon] with the commercial [* u] .
+%mor:	pro:sub|she re#part|see&PASTP part|tell-PRESP pro:obj|him
+	pro:rel|that pro:sub|he v|want-PAST inf|to v|help pro:obj|him
+	prep|of det:poss|his n|commercial coord|and n|way-PL inf|to cop|be
+	det:art|a ?|commercinal prep|with det:art|the n|commercial .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|JCT 12|13|MOD 13|11|POBJ 14|9|CONJ 15|14|COORD
+	16|17|INF 17|15|XMOD 18|19|DET 19|17|PRED 20|19|JCT 21|22|DET 22|20|POBJ
+	23|3|PUNCT
+*PAR:	so she became new commercials [* u] of commercial [* u] and passed
+	and commercials [* u] .
+%mor:	co|so pro:sub|she cop|become&PAST adj|new n|commercial-PL prep|of
+	n|commercial coord|and v|pass-PAST coord|and n|commercial-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|CONJ
+	9|8|COORD 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*PAR:	so the some person all looked by the commercial [* u] [//] beautiful
+	commercials [* u] .
+%mor:	co|so det:art|the qn|some n|person adv|all cop|look-PAST prep|by
+	det:art|the adj|beautiful n|commercial-PL .
+%gra:	1|4|COM 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|PUNCT
+*PAR:	and gone with them to the commercials [* u] .
+%mor:	coord|and part|go&PASTP prep|with pro:obj|them prep|to det:art|the
+	n|commercial-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*PAR:	&t she had no idea who really her commercials [* u] and her
+	commercial [* u] was .
+%mor:	pro:sub|she v|have&PAST qn|no n|idea pro:rel|who adv|real&dadj-LY
+	det:poss|her n|commercial-PL coord|and det:poss|her adj|commercial
+	aux|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|8|LINK 6|8|JCT 7|8|MOD 8|4|CMOD
+	9|8|CONJ 10|12|MOD 11|12|MOD 12|9|COORD 13|2|PUNCT
+*PAR:	but she loved the commercial [* u] ones .
+%mor:	conj|but pro:sub|she v|love-PAST det:art|the adj|commercial
+	pro:indef|one-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and they looked beautiful together .
+%mor:	coord|and pro:sub|they cop|look-PAST adj|beautiful adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
+*PAR:	but then he [* s] had to leave once he [* s] found out it was &f the
+	first tip [* u] person [* u] .
+%mor:	conj|but adv:tem|then pro:sub|he v|have&PAST inf|to v|leave
+	adv|once pro:sub|he v|find&PAST adv|out pro:per|it cop|be&PAST&13S
+	det:art|the adj|first n|tip n|person .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|9|CJCT 5|6|INF 6|4|COMP 7|6|JCT 8|9|SUBJ
+	9|0|ROOT 10|12|JCT 11|12|SUBJ 12|9|COMP 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|PRED 17|9|PUNCT
+*PAR:	the commercial [* u] because he [* s] can't be &la any longer more
+	to the person .
+%mor:	det:art|the adj|commercial conj|because pro:sub|he mod|can~neg|not
+	aux|be qn|any adj|long-CP adv|more prep|to det:art|the n|person .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|COMP
+	8|9|QUANT 9|7|PRED 10|11|JCT 11|7|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	her commercial [* u] fell out in his commercials [* u] .
+%mor:	det:poss|her adj|commercial v|fall&PAST adv|out prep|in
+	det:poss|his n|commercial-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*PAR:	but she ran away to get away so that she doesn't get in trouble .
+%mor:	conj|but pro:sub|she v|run&PAST adv|away inf|to aux|get adv|away
+	conj|so pro:rel|that pro:sub|she mod|do&3S~neg|not v|get prep|in
+	n|trouble .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|COMP 7|6|PRED 8|6|PRED
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|COMP 14|13|JCT 15|14|POBJ
+	16|3|PUNCT
+*PAR:	and then <the boys> [* u] [//] all the [/] the kid [//] children
+	[* u] took all their commercials [* u] and the commercial [* u] with
+	them of the &fre frest [* phon] of the commercials [* u] .
+%mor:	coord|and adv:tem|then qn|all det:art|the n|child&PL v|take&PAST
+	qn|all det:poss|their n|commercial-PL coord|and det:art|the
+	n|commercial prep|with pro:obj|them prep|of det:art|the ?|frest
+	prep|of det:art|the n|commercial-PL .
+%gra:	1|6|LINK 2|6|JCT 3|5|QUANT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|9|QUANT 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|12|NJCT 14|13|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|6|PUNCT
+*PAR:	there was only one commercial [* u] left .
+%mor:	pro:exist|there cop|be&PAST&13S qn|only det:num|one n|commercial
+	v|leave&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|6|SUBJ 6|2|PRED 7|2|PUNCT
+*PAR:	and they tried to find her .
+%mor:	coord|and pro:sub|they v|try-PAST inf|to v|find pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	and they couldn't understand [* u] them .
+%mor:	coord|and pro:sub|they mod|could~neg|not v|understand pro:obj|them
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	but he <ran to> [//] finally went to the two babies [* s] for the
+	commercials [* u] .
+%mor:	conj|but pro:sub|he adv|final&dadj-LY v|go&PAST prep|to det:art|the
+	det:num|two n|baby-PL prep|for det:art|the n|commercial-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|4|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	along the first commercial [* u] and got the commercial [* u] person
+	to listen to her to hear the commercial [* u] frem [* phon] person
+	with him at the commercial [* u] .
+%mor:	prep|along det:art|the adj|first n|commercial coord|and v|get&PAST
+	det:art|the n|commercial n|person inf|to v|listen prep|to
+	pro:obj|her inf|to v|hear det:art|the n|commercial ?|frem n|person
+	prep|with pro:obj|him prep|at det:art|the n|commercial .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|CONJ 6|5|COORD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|11|INF 11|9|XMOD 12|11|JCT 13|12|POBJ 14|15|INF 15|11|XJCT
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|19|NJCT 21|20|POBJ
+	22|19|NJCT 23|24|DET 24|22|POBJ 25|1|PUNCT
+*PAR:	and it showed his [* s] commercial [* u] wonderful against the other
+	&c three [* s] commercials [* u] .
+%mor:	coord|and pro:per|it v|show-PAST det:poss|his n|commercial
+	adj|wonder-FULL prep|against det:art|the qn|other det:num|three
+	n|commercial-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|POSTMOD 7|6|JCT 8|11|DET
+	9|11|QUANT 10|11|QUANT 11|7|POBJ 12|3|PUNCT
+*PAR:	and then she destined [* u] with her commercial .
+%mor:	coord|and adv:tem|then pro:sub|she v|destine-PAST prep|with
+	det:poss|her adj|commercial .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*PAR:	and the &p &com new commercial [* u] .
+%mor:	coord|and det:art|the adj|new n|commercial .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	and they lived together .
+%mor:	coord|and pro:sub|they v|live-PAST adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+@End

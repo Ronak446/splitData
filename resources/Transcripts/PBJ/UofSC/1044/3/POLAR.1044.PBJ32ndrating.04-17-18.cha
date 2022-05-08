@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:45
+@Media:	1044_3_PBJ_April-17th-2018-2-47-28-pm video
+*PAR:	weh [* phon] looks good .
+%mor:	?|weh cop|look-3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	eeah [* phon] the bread is &um soft .
+%mor:	?|eeah det:art|the n|bread cop|be&3S adj|soft .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and peanut+buer [* phon] and jam .
+%mor:	coord|and ?|peanut+buer coord|and n|jam .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and the other one is oh yeah is good .
+%mor:	coord|and det:art|the qn|other pro:indef|one cop|be&3S co|oh
+	co|yeah cop|be&3S adj|good .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|8|COM 7|8|SUBJ 8|5|PRED
+	9|8|PRED 10|5|PUNCT
+*PAR:	pour [* u] &uh &uh bread &uh peanut+butter &uh tam [* phon] and
+	thudderbut [* phon] .
+%mor:	v|pour n|bread n|+n|peanut+n|butter ?|tam coord|and ?|thudderbut .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+@End

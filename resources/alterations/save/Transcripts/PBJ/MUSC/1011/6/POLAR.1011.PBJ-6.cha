@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1011.PBJ-6 video
+@Time Duration:	00:00:16
+*PAR:	center ice [* u] .
+%mor:	adj|center n|ice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	peanut butter jelly sandwich .
+%mor:	n|peanut n|butter n|jelly n|sandwich .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

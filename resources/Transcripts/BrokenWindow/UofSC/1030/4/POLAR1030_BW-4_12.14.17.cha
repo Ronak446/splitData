@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:26
+@Media:	1030_4_BrokenWindow_December-14th-2017-2-44-08-pm video
+*PAR:	de [//] he xxx [* phon] the ball xxx [* phon] the window .
+%mor:	pro:sub|he det:art|the n|ball det:art|the n|window .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	it locted [* phon] &uh the lamp .
+%mor:	pro:per|it ?|locted det:art|the n|lamp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and the xxx [* phon] stands up .
+%mor:	coord|and det:art|the n|stand-PL adv|up .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NJCT 5|1|PUNCT
+*PAR:	who xxx [* phon] the window .
+%mor:	pro:int|who det:art|the n|window .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@End

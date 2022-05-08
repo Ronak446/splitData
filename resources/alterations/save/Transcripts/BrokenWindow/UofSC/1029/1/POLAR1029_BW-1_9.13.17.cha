@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:00
+@Media:	1029_BW1 video
+*PAR:	okay &th the little kid was playing ball [* s] [//] &uh soccer .
+%mor:	co|okay det:art|the adj|little n|kid aux|be&PAST&13S
+	part|play-PRESP n|soccer .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	and he's [//] <he &uh saw> [//] or he [/] <he noticed> [//] he hit
+	[* s] it through the window <and &expl> [//] and messed it up .
+%mor:	coord|and coord|or pro:sub|he v|hit&ZERO pro:per|it prep|through
+	det:art|the n|window coord|and v|mess-PAST pro:per|it adv|up .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|4|PUNCT
+*PAR:	and &uh so dad was sitting <on the> [//] <in the car [* u]> [//] <in
+	the &uh> [//] in the &k chair .
+%mor:	coord|and co|so n|dad aux|be&PAST&13S part|sit-PRESP prep|in
+	det:art|the n|chair .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and it &sc scared him and came [//] as it came through the &uh
+	window .
+%mor:	coord|and pro:per|it v|scare-PAST pro:obj|him coord|and conj|as
+	pro:per|it v|come&PAST prep|through det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|8|LINK 7|8|SUBJ 8|5|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and &uh so he &st stood up and looked out and figured which kid <he
+	was gonna murdle [* phon]> [//] &m &m he was gonna hurt badly .
+%mor:	coord|and co|so pro:sub|he v|stand&PAST adv|up coord|and
+	v|look-PAST adv|out coord|and v|figure-PAST pro:rel|which n|kid
+	pro:sub|he aux|be&PAST&13S part|go-PRESP~inf|to part|hurt&PASTP
+	adv|bad&dadj-LY .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|15|LINK 12|15|LINK 13|15|SUBJ 14|15|AUX 15|10|COMP
+	16|17|INF 17|15|XCOMP 18|17|JCT 19|4|PUNCT
+@End

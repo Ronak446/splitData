@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.BW-5 video
+@Time Duration:	00:01:25
+*PAR:	&um John kicked the ball in the window .
+%mor:	n:prop|John v|kick-PAST det:art|the n|ball prep|in det:art|the
+	n|window .
+*PAR:	and man [/] &han man [/] man hand <caught the> [/] caught the ball .
+%mor:	coord|and n|man n|hand v|catch&PAST det:art|the n|ball .
+*PAR:	and [/] &uh and [/] &uh and the ball ended up in the man hand .
+%mor:	coord|and det:art|the n|ball v|end-PAST adv|up prep|in det:art|the
+	n|man n|hand .
+*PAR:	&um &um ball [//] don [: john] [* phon] kick the ball .
+%mor:	n|john v|kick det:art|the n|ball .
+*PAR:	and &uh the ball ended up min [: in] [* phon] the &ro window .
+%mor:	coord|and det:art|the n|ball v|end-PAST adv|up prep|in det:art|the
+	n|window .
+*PAR:	<and window> [//] and ball hit the man hand <on the> [/] &w <on the>
+	[/] &I  <on the> [/] &um <on the> [/] &um <on the> [//] &um ah man
+	on the &ch &ch chair .
+%mor:	coord|and n|ball v|hit&ZERO det:art|the n|man n|hand co|ah n|man
+	prep|on det:art|the n|chair .
+*PAR:	and &uh man &stt stood [: looked] [* s] out the window .
+%mor:	coord|and n|man v|look-PAST prep|out det:art|the n|window .
+@End

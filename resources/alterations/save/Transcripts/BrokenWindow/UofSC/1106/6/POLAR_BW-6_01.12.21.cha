@@ -1,0 +1,15 @@
+@UTF8
+@Window:	0_0_0_0_0_0_179_0_179_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:13
+@Media:	POLAR#1106_BW-6_11.12.21, video
+*PAR:	the boy &um xxx [* phon] kicking ball .
+%mor:	det:art|the n|boy part|kick-PRESP n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|2|PUNCT
+*PAR:	and the boy xxx [* phon] xxx [* phon] .
+%mor:	coord|and det:art|the n|boy .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+@End

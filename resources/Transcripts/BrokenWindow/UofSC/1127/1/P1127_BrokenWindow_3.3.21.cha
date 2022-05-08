@@ -1,0 +1,32 @@
+@UTF8
+@Window:	0_0_0_0_-1_-1_418_0_418_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	P1127_BrokenWindow_3.3.21, video
+*PAR:	okay &uh .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	little boy is playing soccer .
+%mor:	adj|little n|boy aux|be&3S part|play-PRESP n|soccer .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	kicking the ball .
+%mor:	part|kick-PRESP det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and the ball goes into the window .
+%mor:	coord|and det:art|the n|ball v|go-3S prep|into det:art|the n|window
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and the ball &uh gets to a [/] a man sitting in a chair .
+%mor:	coord|and det:art|the n|ball v|get-3S prep|to det:art|a n|man
+	part|sit-PRESP prep|in det:art|a n|chair .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and then the man looks out <at the window> [//] at the broken window .
+%mor:	coord|and adv:tem|then det:art|the n|man v|look-3S adv|out prep|at
+	det:art|the part|break&PASTP n|window .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+@End

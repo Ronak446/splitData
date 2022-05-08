@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1031_PBJ4 video
+*PAR:	yeah &t &d there two &oo bread .
+%mor:	co|yeah adv|there det:num|two n|bread .
+%gra:	1|4|COM 2|4|JCT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	and you <put &wuh> [//] put a peanut+butter .
+%mor:	coord|and pro:per|you v|put&ZERO det:art|a n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	I'm xxx [* phon] &oh yeah .
+%mor:	pro:sub|I~aux|be&1S co|yeah .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	<and it> [//] and &b jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and push [* s] a tok [* phon] up .
+%mor:	coord|and v|push det:art|a ?|tok adv|up .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|2|PUNCT
+@End

@@ -1,0 +1,34 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:17
+@Media:	1016_6_Cinderella_January-2nd-2018-12-37-02-pm video
+
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<I remember> [/] I remember the story <I remember the story>
+	[/] xxx [* phon] pictures .
+%mor:	pro:sub|I v|remember det:art|the n|story n|picture-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	I remember the story that pictures came out of <I remember the story
+	that pictures came out of> [/] .
+%mor:	pro:sub|I v|remember det:art|the n|story pro:rel|that v|picture-3S
+	v|come&PAST adv|out prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|6|OBJ 8|9|JCT
+	9|7|JCT 10|2|PUNCT
+*PAR:	I remember the story the pictures came out of .
+%mor:	pro:sub|I v|remember det:art|the n|story det:art|the n|picture-PL
+	v|come&PAST adv|out prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|6|DET 6|7|SUBJ 7|2|COMP 8|9|JCT
+	9|7|JCT 10|2|PUNCT
+*PAR:	I remember the pictures came out story .
+%mor:	pro:sub|I v|remember det:art|the n|picture-PL v|come&PAST adv|out
+	n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|JCT 7|5|OBJ 8|2|PUNCT
+*PAR:	I don't remember .
+%mor:	pro:sub|I mod|do~neg|not v|remember .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

@@ -1,0 +1,41 @@
+File	POLAR.1043.BW1.2-27-18.cha
+Language	eng
+Corpus	POLAR
+Code	PAR
+Sem Paraphasias	0
+Phon Paraphasias	0
+Unk Paraphasias	6
+MTTR	0.643
+Role	Participant
+Education	.
+Custom_field	.
+Duration (sec)	16
+Total Utts	4
+MLU Utts	4
+MLU Words	3.5
+MLU Morphemes	3.75
+FREQ types	8
+FREQ tokens	14
+FREQ TTR	0.571
+Words/Min	52.5
+Verbs/Utt	0.75
+Word Errors	6
+Utt Errors	0
+density	0.571
+Nouns	0
+Plurals	0
+Verbs	4
+Aux	1
+3S	0
+1S/3S	0
+PAST	4
+PASTP	1
+PRESP	0
+prep|	0
+adj|	0
+adv|	1
+conj|	0
+det|	4
+pro|	1
+retracing[//]	0
+repetition[/]	0

@@ -1,0 +1,21 @@
+@UTF8
+@Window:	0_0_0_0_0_0_112_0_112_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1100_Cind-5_6.30.20 video
+@Time Duration:	00:00:47
+*PAR:	linlarella [: Cinderella] [* phon] was .
+%mor:	n:prop|Cinderella cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	pictures &w was [/] was [/] was [/] was xxx [* phon] .
+%mor:	n|picture-PL cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	fairy [: fairy godmother] [* s] one sounds .
+%mor:	n|fairy n|+n|god+n|mother det:num|one n|sound-PL .
+%gra:	1|2|MOD 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	xxx [* phon] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,21 @@
+@UTF8
+@Window:	0_0_0_0_0_0_224_0_224_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:29
+*PAR:	the kid went out into the yard to kick a soccer ball .
+%mor:	det:art|the n|kid v|go&PAST adv|out prep|into det:art|the n|yard
+	inf|to v|kick det:art|a n|soccer n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|9|INF
+	9|3|XJCT 10|12|DET 11|12|MOD 12|9|OBJ 13|3|PUNCT
+*PAR:	he kicked it into the window and knocked a lamp over .
+%mor:	pro:sub|he v|kick-PAST pro:per|it prep|into det:art|the n|window
+	coord|and v|knock-PAST det:art|a n|lamp adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|2|PUNCT
+*PAR:	the man was not happy .
+%mor:	det:art|the n|man cop|be&PAST&13S neg|not adj|happy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+@End

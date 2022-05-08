@@ -1,0 +1,111 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:11
+@Media:	1088_1_Cinderella_September-10th-2019-10-51-20-am, video
+*PAR:	&um Cinderella had a step mother and &s three very mean step sisters
+	.
+%mor:	n:prop|Cinderella v|have&PAST det:art|a n|step n|mother coord|and
+	det:num|three adv|very adj|mean n|step n|sister-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|CONJ 7|11|QUANT 8|9|JCT
+	9|11|MOD 10|11|MOD 11|6|COORD 12|2|PUNCT
+*PAR:	and she had to do everything around the house .
+%mor:	coord|and pro:sub|she v|have&PAST inf|to v|do pro:indef|everything
+	prep|around det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	all the cleaning and everything .
+%mor:	qn|all det:art|the n:gerund|clean-PRESP coord|and
+	pro:indef|everything .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*PAR:	and the king wanted to find a bride for his son .
+%mor:	coord|and det:art|the n|king v|want-PAST inf|to v|find det:art|a
+	n|bride prep|for det:poss|his n|son .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and he threw a ball .
+%mor:	coord|and pro:sub|he v|throw&PAST det:art|a n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the three step sisters were all excited about going to the ball .
+%mor:	coord|and det:art|the det:num|three n|step n|sister-PL aux|be&PAST
+	post|all part|excite-PASTP adv|about part|go-PRESP prep|to
+	det:art|the n|ball .
+%gra:	1|8|LINK 2|5|DET 3|4|QUANT 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|PQ 8|0|ROOT
+	9|10|JCT 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|8|PUNCT
+*PAR:	but Cinderella was told she couldn't go .
+%mor:	conj|but n:prop|Cinderella aux|be&PAST&13S part|tell&PASTP
+	pro:sub|she mod|could~neg|not v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|4|PUNCT
+*PAR:	and she didn't have a dress .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|have det:art|a n|dress
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and then her fairy godmother showed up and made her a dress and a
+	coach out of a pumpkin .
+%mor:	coord|and adv:tem|then det:poss|her n|fairy n|+n|god+n|mother
+	v|show-PAST adv|up coord|and v|make&PAST pro:obj|her det:art|a
+	n|dress coord|and det:art|a n|coach adv|out prep|of det:art|a
+	n|pumpkin .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|9|OBJ2 11|12|DET 12|9|OBJ 13|12|CONJ 14|15|DET 15|13|COORD
+	16|15|NJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|6|PUNCT
+*PAR:	and coach went out with the mice .
+%mor:	coord|and n|coach v|go&PAST adv|out prep|with det:art|the
+	n|mouse&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she went to the ball .
+%mor:	coord|and pro:sub|she v|go&PAST prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and the prince met her .
+%mor:	coord|and det:art|the n|prince v|meet&PAST pro:obj|her .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	but though she was told she had to be home at the stroke of midnight
+	.
+%mor:	conj|but conj|though pro:sub|she aux|be&PAST&13S part|tell&PASTP
+	pro:sub|she v|have&PAST inf|to cop|be adv|home prep|at det:art|the
+	n|stroke prep|of mid#n|night .
+%gra:	1|7|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|7|PUNCT
+*PAR:	and when the clock started to strike midnight .
+%mor:	coord|and conj|when det:art|the n|clock v|start-PAST prep|to
+	n|strike mid#n|night .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+*PAR:	&um she left running and lost one of her shoes .
+%mor:	pro:sub|she v|leave&PAST part|run-PRESP coord|and v|lose&PAST
+	det:num|one prep|of det:poss|her n|shoe-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|CONJ 5|4|COORD 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	and the prince found the shoe .
+%mor:	coord|and det:art|the n|prince v|find&PAST det:art|the n|shoe .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and then he went all around the countryside looking for Cinderella .
+%mor:	coord|and adv:tem|then pro:sub|he v|go&PAST adv|all prep|around
+	det:art|the n|+n|country+n|side part|look-PRESP prep|for
+	n:prop|Cinderella .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|XJCT 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*PAR:	but her step mother and her step sisters had locked her away .
+%mor:	conj|but det:poss|her n|step n|mother coord|and det:poss|her n|step
+	n|sister-PL v|have&PAST part|lock-PASTP pro:obj|her adv|away .
+%gra:	1|9|LINK 2|4|DET 3|4|MOD 4|9|SUBJ 5|4|CONJ 6|8|DET 7|8|MOD 8|5|COORD
+	9|0|ROOT 10|9|COMP 11|10|OBJ 12|10|JCT 13|9|PUNCT
+*PAR:	a mice got the key and brought it back to her .
+%mor:	det:art|a n|mouse&PL v|get&PAST det:art|the n|key coord|and
+	v|bring&PAST pro:per|it adv|back prep|to pro:obj|her .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	and she got out and the prince tried the shoe on and it fit .
+%mor:	coord|and pro:sub|she v|get&PAST adv|out coord|and det:art|the
+	n|prince v|try-PAST det:art|the n|shoe adv|on coord|and pro:per|it
+	v|fit&ZERO .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CJCT
+	9|10|DET 10|8|OBJ 11|3|JCT 12|14|LINK 13|14|SUBJ 14|3|CJCT 15|3|PUNCT
+*PAR:	and they married .
+%mor:	coord|and pro:sub|they v|marry-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1025_PBJ6 video
+*PAR:	&uh get the bad [* phon] and peanut+butter and sallih [* phon] on
+	the fuhred [* phon] on one side .
+%mor:	v|get det:art|the adj|bad coord|and n|+n|peanut+n|butter coord|and
+	?|sallih prep|on det:art|the ?|fuhred adv|on det:num|one n|side .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|3|CONJ 7|13|MOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|13|QUANT 13|6|COORD 14|1|PUNCT
+*PAR:	&uh put the settitay [* phon] on the other side .
+%mor:	v|put&ZERO det:art|the ?|settitay adv|on det:art|the qn|other
+	n|side .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|7|JCT 5|7|DET 6|7|QUANT 7|3|APP 8|1|PUNCT
+*PAR:	and on the &uh gumbonet [* phon] .
+%mor:	coord|and prep|on det:art|the ?|gumbonet .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@End

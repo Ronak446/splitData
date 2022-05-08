@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	POLAR.1097.PBJ-1 video
+*PAR:	first of all I would get the ingredients &um two slices of bread
+	peanut+butter and jelly and <a knife> [//] a butter knife .
+%mor:	adv|first prep|of pro:indef|all pro:sub|I mod|will&COND v|get
+	det:art|the n|ingredient-PL det:num|two n|slice-PL prep|of n|bread
+	n|+n|peanut+n|butter coord|and n|jelly coord|and det:art|a n|butter
+	n|knife .
+%gra:	1|6|JCT 2|1|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|10|QUANT 10|8|APP 11|10|NJCT 12|13|MOD 13|11|POBJ 14|13|CONJ 15|14|COORD
+	16|8|CONJ 17|19|DET 18|19|MOD 19|16|COORD 20|6|PUNCT
+*PAR:	and &um I would lay the bread out &s &s spread the peanut+butter on
+	the bread and then &uh the jelly and [/] &kl and put them together
+	and eat .
+%mor:	coord|and pro:sub|I mod|will&COND v|lay det:art|the n|bread adv|out
+	v|spread&ZERO det:art|the n|+n|peanut+n|butter prep|on det:art|the
+	n|bread coord|and adv:tem|then det:art|the n|jelly coord|and
+	v|put&ZERO pro:obj|them adv|together coord|and v|eat .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|8|CONJ 15|17|JCT
+	16|17|DET 17|14|COORD 18|4|CONJ 19|18|COORD 20|19|OBJ 21|19|JCT 22|19|CONJ
+	23|22|COORD 24|4|PUNCT
+@End

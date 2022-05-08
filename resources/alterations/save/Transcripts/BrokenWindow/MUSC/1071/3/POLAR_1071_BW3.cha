@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:01
+@Media:	POLAR_1071_BW3 video
+*PAR:	well &n that's the one you always send about the little boy that's
+	kicking the ball .
+%mor:	co|well pro:dem|that~cop|be&3S det:art|the pro:indef|one
+	pro:per|you adv|always v|send prep|about det:art|the adj|little
+	n|boy pro:rel|that~aux|be&3S part|kick-PRESP det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|SUBJ 7|8|JCT 8|5|CMOD
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|AUX 15|12|CMOD
+	16|17|DET 17|15|OBJ 18|3|PUNCT
+*PAR:	and when he did that he raised up .
+%mor:	coord|and conj|when pro:sub|he v|do&PAST comp|that pro:sub|he
+	v|raise-PAST adv|up .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*PAR:	and <hit the [/] the &h> [//] he hit the tree [* u] [//] or the [/]
+	the ball hit the window and broke the glass .
+%mor:	coord|and pro:sub|he v|hit&ZERO det:art|the coord|or det:art|the
+	n|ball v|hit&ZERO det:art|the n|window coord|and v|break&PAST
+	det:art|the n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|DET 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|COMP
+	9|10|DET 10|8|OBJ 11|8|CONJ 12|11|COORD 13|14|DET 14|12|OBJ 15|3|PUNCT
+*PAR:	and &tha father come out looking for the kid <with the broken [* u]
+	kid [* u]> [//] with the ball after he done broke the [/] &s the
+	boat [* u] and all that stuff .
+%mor:	coord|and n|father v|come adv|out part|look-PRESP prep|for
+	det:art|the n|kid prep|with det:art|the n|ball conj|after pro:sub|he
+	part|do&PASTP v|break&PAST det:art|the n|boat coord|and qn|all
+	pro:dem|that n|stuff .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|22|LINK 13|22|SUBJ 14|13|XMOD 15|14|COMP
+	16|17|DET 17|15|OBJ 18|17|CONJ 19|21|QUANT 20|21|DET 21|18|COORD
+	22|3|PUNCT
+@End

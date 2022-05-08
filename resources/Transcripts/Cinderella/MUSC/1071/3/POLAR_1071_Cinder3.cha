@@ -1,0 +1,180 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:07:20
+@Media:	POLAR_1071_Cinder3 video
+*PAR:	&um that is just a story about &uh part [* u] of the little girl and
+	the family who has taken and [/] and was in preyto [* phon] her rent
+	[* u] and her &es essaycenter [* phon] .
+%mor:	pro:dem|that cop|be&3S adv|just det:art|a n|story prep|about n|part
+	prep|of det:art|the adj|little n|girl coord|and det:art|the n|family
+	pro:rel|who aux|have&3S part|take&PASTP coord|and cop|be&PAST&13S
+	prep|in ?|preyto det:poss|her n|rent coord|and det:poss|her
+	?|essaycenter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|17|CONJ 19|18|COORD 20|19|JCT 21|20|POBJ
+	22|23|MOD 23|21|OBJ 24|23|CONJ 25|26|MOD 26|24|COORD 27|2|PUNCT
+*PAR:	&um and I hate when I gotta set down and do things .
+%mor:	coord|and pro:sub|I v|hate conj|when pro:sub|I mod:aux|gotta
+	v|set&ZERO adv|down coord|and v|do n|thing-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|OBJ 12|3|PUNCT
+*PAR:	alright &mm and she done that .
+%mor:	co|alright coord|and pro:sub|she part|do&PASTP pro:dem|that .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she was trained .
+%mor:	pro:sub|she aux|be&PAST&13S part|train-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and &er <she was> [/] &mhmm <she was being kept mean> [//] &n &d
+	uhuh mean she was being [//] &uh been &bus busting [* u] .
+%mor:	coord|and co|uhuh adj|mean pro:sub|she aux|be&PAST&13S aux|be&PASTP
+	part|bust-PRESP .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|CMOD 8|3|PUNCT
+*PAR:	and she's [//] she .
+%mor:	coord|and pro:sub|she .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	I'm having a hard time .
+%mor:	pro:sub|I~aux|be&1S part|have-PRESP det:art|a adj|hard n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	she come together .
+%mor:	pro:sub|she v|come adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and she talked .
+%mor:	coord|and pro:sub|she v|talk-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and all the girls who had talked to her were mean to her .
+%mor:	coord|and qn|all det:art|the n|girl-PL pro:rel|who aux|have&PAST
+	part|talk-PASTP prep|to det:poss|her cop|be&PAST adj|mean prep|to
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|QUANT 3|4|DET 4|0|INCROOT 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|10|PRED 12|11|JCT 13|12|POBJ 14|4|PUNCT
+*PAR:	so <she can meet the [/] the [/] &p the pin [: prince] [* phon] the
+	[/] the [/] the [/] the king [: prince] [* s]> [//] &uh the no the
+	king <the [/] the plan [* phon] [//] plance [: prince] [* phon] [//]
+	pants [* u]  ponz [: prince] [* phon]> [//] the [/] &pan <&th the
+	king [: prince] [* s] [//] the [/] the peach [* u] [//] price [* u]
+	[//] pace [* u] [//]> [//] well she can meet the king's son .
+%mor:	co|so det:art|the qn|no det:art|the n|king n|well pro:sub|she
+	mod|can v|meet det:art|the adj|king&dn-POSS n|son .
+%gra:	1|3|COM 2|3|DET 3|6|QUANT 4|6|DET 5|6|MOD 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|9|PUNCT
+*PAR:	in that process they were rounre [* phon] met then trying to come
+	apart with the two old sisters .
+%mor:	prep|in pro:dem|that n|process pro:sub|they aux|be&PAST ?|rounre
+	v|meet&PAST adv:tem|then part|try-PRESP prep|to v|come adv|apart
+	prep|with det:art|the det:num|two adj|old n|sister-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|1|CPOBJ 7|6|COMP
+	8|7|JCT 9|8|XMOD 10|9|JCT 11|10|POBJ 12|11|JCT 13|9|JCT 14|17|DET 15|17|QUANT
+	16|17|MOD 17|13|POBJ 18|1|PUNCT
+*PAR:	and they <couldn't fight they couldn't follow her> [//] or couldn't
+	help her because they kept her from &kil or beating the stuff up and
+	breaking it .
+%mor:	coord|and pro:sub|they coord|or mod|could~neg|not v|help
+	pro:obj|her conj|because pro:sub|they v|keep&PAST pro:obj|her
+	prep|from coord|or part|beat-PRESP det:art|the v|stuff adv|up
+	coord|and part|break-PRESP pro:per|it .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|LINK 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|10|OBJ 12|10|JCT 13|12|CONJ 14|13|COORD 15|16|DET
+	16|14|COMP 17|16|JCT 18|16|CONJ 19|18|COORD 20|19|OBJ 21|6|PUNCT
+*PAR:	so she can't meet the [/] &kan the prince .
+%mor:	co|so pro:sub|she mod|can~neg|not v|meet det:art|the n|prince .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	in the process the girl come together and met <the the little> [/]
+	&uh the [/] the little &un .
+%mor:	prep|in det:art|the n|process det:art|the n|girl v|come
+	adv|together coord|and v|meet&PAST det:art|the adj|little .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|6|PUNCT
+*PAR:	I know the name .
+%mor:	pro:sub|I v|know det:art|the n|name .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and I can't just say it now .
+%mor:	coord|and pro:sub|I mod|can~neg|not adv|just v|say pro:per|it
+	adv|now .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+*PAR:	when she was talking to <the [/] the mother> [//] the mean [* u]
+	lady she would make magic for her to come around and become musual
+	[* phon] [//] beautiful around her king [: prince] [* s] from [/]
+	from her &pr &hop .
+%mor:	conj|when pro:sub|she aux|be&PAST&13S part|talk-PRESP prep|to
+	det:art|the adj|mean n|lady pro:sub|she mod|will&COND v|make n|magic
+	prep|for pro:obj|her inf|to v|come adv|around coord|and cop|become
+	adj|beautiful prep|around det:poss|her n|prince prep|from
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|11|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|11|JCT 14|13|POBJ 15|16|INF
+	16|11|COMP 17|16|JCT 18|16|CONJ 19|18|COORD 20|19|PRED 21|20|JCT 22|23|MOD
+	23|21|POBJ 24|23|NJCT 25|24|POBJ 26|11|PUNCT
+*PAR:	as he winnowed [* phon] through he had a big child [* u] together .
+%mor:	conj|as pro:sub|he v|winnow-PAST prep|through pro:sub|he
+	v|have&PAST det:art|a adj|big n|child adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|POSTMOD 11|3|PUNCT
+*PAR:	and as they winnowed [* phon] through he come through .
+%mor:	coord|and conj|as pro:sub|they v|winnow-PAST prep|through
+	pro:sub|he v|come adj|through .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|POBJ 8|7|JCT
+	9|4|PUNCT
+*PAR:	and he got worse [//] better .
+%mor:	coord|and pro:sub|he v|get&PAST adv|good&CP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	they run out of time .
+%mor:	pro:sub|they v|run adv|out prep|of n|time .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	and they had to run away from them because they couldn't be seen .
+%mor:	coord|and pro:sub|they v|have&PAST inf|to v|run adv|away prep|from
+	pro:obj|them conj|because pro:sub|they mod|could~neg|not aux|be
+	part|see&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|14|LINK 10|14|SUBJ 11|14|AUX 12|11|NEG 13|14|AUX 14|3|CJCT 15|3|PUNCT
+*PAR:	and when they run away <they found him> [/] they found him with a
+	snu [* phon] and found her with the scu [* phon] .
+%mor:	coord|and conj|when pro:sub|they v|run adv|away pro:sub|they
+	v|find&PAST pro:obj|him prep|with det:art|a ?|snu coord|and v|found
+	det:poss|her prep|with det:art|the ?|scu .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|CONJ 13|12|COORD 14|13|OBJ 15|14|JCT
+	16|17|DET 17|15|POBJ 18|7|PUNCT
+*PAR:	hate this I can't even talk straight .
+%mor:	v|hate pro:dem|this pro:sub|I mod|can~neg|not adv|even v|talk
+	adv|straight .
+%gra:	1|0|ROOT 2|1|OBJ 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|1|COMP 8|7|JCT
+	9|1|PUNCT
+*PAR:	one of them bad days .
+%mor:	det:num|one prep|of pro:obj|them adj|bad n|day-PL .
+%gra:	1|5|QUANT 2|1|JCT 3|2|POBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	and they went around .
+%mor:	coord|and pro:sub|they v|go&PAST adv|around .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and when they come back around they medaboun [* phon] again .
+%mor:	coord|and conj|when pro:sub|they v|come adv|back adv|around
+	pro:sub|they ?|medaboun adv|again .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*PAR:	and the prince showed her the [/] the part she lost and showed her
+	&tha it was perfect and made her perfect <to the> [/] to the line
+	[* u] and told her she would bena [//] be fine .
+%mor:	coord|and det:art|the n|prince v|show-PAST pro:obj|her det:art|the
+	n|part pro:sub|she v|lose&PAST coord|and v|show-PAST pro:obj|her
+	pro:per|it cop|be&PAST&13S adj|perfect coord|and v|make&PAST
+	pro:obj|her adj|perfect prep|to det:art|the n|line coord|and
+	v|tell&PAST pro:obj|her pro:sub|she mod|will&COND cop|be adj|fine .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|9|JCT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|CONJ 11|10|COORD 12|11|OBJ 13|14|SUBJ 14|11|COMP 15|14|PRED
+	16|14|CONJ 17|16|COORD 18|17|OBJ 19|28|JCT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|19|CONJ 24|23|COORD 25|24|OBJ 26|28|SUBJ 27|28|AUX 28|17|COMP
+	29|28|PRED 30|9|PUNCT
+*PAR:	and <they were they bebo [* phon]> [//] they were made together made
+	life &uh like the other .
+%mor:	coord|and pro:sub|they aux|be&PAST part|make&PASTP adv|together
+	v|make&PAST n|life prep|like det:art|the qn|other .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and that's ending .
+%mor:	coord|and pro:dem|that~cop|be&3S n|ending .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

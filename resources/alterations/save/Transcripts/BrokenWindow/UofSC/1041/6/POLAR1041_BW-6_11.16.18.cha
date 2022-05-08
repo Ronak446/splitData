@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1041_6_BrokenWindow_November-16th-2018-9-43-55-am video
+*PAR:	the boy hit the ball .
+%mor:	det:art|the n|boy v|hit&ZERO det:art|the n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	hit a glass .
+%mor:	v|hit&ZERO det:art|a n|glass .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	hit the man sit down .
+%mor:	v|hit&ZERO det:art|the n|man v|sit adv|down .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COMP 5|4|JCT 6|1|PUNCT
+*PAR:	hit the leg the &ba ball .
+%mor:	v|hit&ZERO det:art|the n|leg det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	hit the person down neighbor .
+%mor:	v|hit&ZERO det:art|the n|person prep|down n|neighbor .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	and he otside [* phon] .
+%mor:	coord|and pro:sub|he ?|otside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and he throw it back .
+%mor:	coord|and pro:sub|he v|throw pro:per|it adv|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and he said what's going on here .
+%mor:	coord|and pro:sub|he v|say&PAST pro:int|what~aux|be&3S
+	part|go-PRESP prep|on adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	throwing back the ball .
+%mor:	part|throw-PRESP adv|back det:art|the n|ball .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|1|OBJ 5|1|PUNCT
+@End

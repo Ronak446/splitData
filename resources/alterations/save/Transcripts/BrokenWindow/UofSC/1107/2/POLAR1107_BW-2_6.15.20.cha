@@ -1,0 +1,89 @@
+@UTF8
+@Window:	131_891_281_505_270_0_457_0_457_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1107_BW-2_6.15.20 video
+@Time Duration:	00:01:35
+*PAR:	okay this is &uh a story of a little boy who &uh liked to play
+	soccer .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|a n|story prep|of det:art|a
+	adj|little n|boy pro:rel|who v|like-PAST prep|to n|play n|soccer .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|14|MOD 14|12|POBJ 15|3|PUNCT
+*PAR:	and he would kickiedi [: kicked] [* phon] [//] it was kicking it in
+	his &uh yard .
+%mor:	coord|and pro:sub|he mod|will&COND pro:per|it aux|be&PAST&13S
+	part|kick-PRESP pro:per|it prep|in det:poss|his n|yard .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*PAR:	but he kicked it too far .
+%mor:	conj|but pro:sub|he v|kick-PAST pro:per|it adv|too adv|far .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+*PAR:	and it broke into the and it &la of the front window .
+%mor:	coord|and pro:per|it v|break&PAST prep|into det:art|the coord|and
+	pro:per|it prep|of det:art|the n|front n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*PAR:	and broke the glass .
+%mor:	coord|and v|break&PAST det:art|the n|glass .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and it went into the &um kitch [: kitchen] [* phon] [//] in the
+	living room .
+%mor:	coord|and pro:per|it v|go&PAST prep|into det:art|the prep|in
+	det:art|the part|live-PRESP n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*PAR:	and knocked into the lamp on [/] &f on the floor .
+%mor:	coord|and v|knock-PAST prep|into det:art|the n|lamp prep|on
+	det:art|the n|floor .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and broke it .
+%mor:	coord|and v|break&PAST pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and it was also the father was sitting next to the chair .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adv|also det:art|the n|father
+	aux|be&PAST&13S part|sit-PRESP adv|next prep|to det:art|the n|chair
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|JCT 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|PRED
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and it &uh knocked onto him as well .
+%mor:	coord|and pro:per|it v|knock-PAST prep|onto pro:obj|him adv|as
+	adv|well .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|COORD 7|3|JCT 8|3|PUNCT
+*PAR:	so he got up and walked to the door [//] or to the window where the
+	&uh soccer [: ball] [* s] had come in .
+%mor:	co|so pro:sub|he v|get&PAST adv|up coord|and v|walk-PAST prep|to
+	det:art|the coord|or prep|to det:art|the n|window pro:rel|where
+	det:art|the n|ball aux|have&PAST part|come&PASTP adv|in .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|COORD 11|12|DET 12|10|POBJ 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|12|CMOD 18|17|JCT 19|3|PUNCT
+*PAR:	and he looked out .
+%mor:	coord|and pro:sub|he part|look-PASTP prep|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and he saw his &uh son standing outside &uh <the door> [//] out the
+	window in the yard .
+%mor:	coord|and pro:sub|he v|see&PAST det:poss|his n|son part|stand-PRESP
+	adv|outside adv|out det:art|the n|window prep|in det:art|the n|yard
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and he caught him inside .
+%mor:	coord|and pro:sub|he v|catch&PAST pro:obj|him adv|inside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and discussed what had happened .
+%mor:	coord|and v|discuss-PAST pro:int|what aux|have&PAST
+	part|happen-PASTP .
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+*PAR:	and sent him to his room until he could think about what punishment
+	he need to give him .
+%mor:	coord|and v|send&PAST pro:obj|him prep|to det:poss|his n|room
+	conj|until pro:sub|he mod|could v|think prep|about pro:int|what
+	n|punish&dv-MENT pro:sub|he v|need inf|to v|give pro:obj|him .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|15|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|2|CJCT
+	16|17|INF 17|15|COMP 18|17|OBJ 19|2|PUNCT
+@End

@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:01:18
+@Media:	1004_LARC_PBJ_September-17th-2019-10-54-41-am video
+*PAR:	peanut+butter and jelly good .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|POSTMOD 5|1|PUNCT
+*PAR:	&uh sandwich and bread and &ba not bacon .
+%mor:	n|sandwich coord|and n|bread coord|and neg|not n|bacon .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|NEG 6|4|COORD 7|1|PUNCT
+*PAR:	sandwich and bread and &uh good &uh xxx &uh jelly and jam and &uh .
+%mor:	n|sandwich coord|and n|bread coord|and adj|good n|jelly coord|and
+	n|jam coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|MOD 6|4|COORD 7|1|CONJ
+	8|7|COORD 9|1|CONJ 10|1|PUNCT
+*PAR:	and &s not cereal but not yet .
+%mor:	coord|and neg|not n|cereal conj|but neg|not adv|yet .
+%gra:	1|3|LINK 2|3|NEG 3|0|INCROOT 4|3|CONJ 5|4|NEG 6|4|COORD 7|3|PUNCT
+*PAR:	and it was good .
+%mor:	coord|and pro:per|it cop|be&PAST&13S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and &uh xxx [* phon] &uh xxx [* phon] &uh breakfast [* s] .
+%mor:	coord|and n|breakfast .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &uh &s not &uh <cereal and> [//] not cereal .
+%mor:	coord|and neg|not neg|not n|cereal .
+%gra:	1|4|LINK 2|3|NEG 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+*PAR:	&uh breakfast [* s] and &uh &um &uh &uh .
+%mor:	n|breakfast coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*PAR:	breakfast [* s] bowl [* s] cereal [* s] &um is good .
+%mor:	n|breakfast n|bowl n|cereal cop|be&3S adj|good .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

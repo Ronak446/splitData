@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	1042_6_BrokenWindow_December-14th-2018-1-44-50-pm video
+*PAR:	the boy with a &uh gicking [: kicking] [* phon] a ball .
+%mor:	det:art|the n|boy prep|with det:art|a n:gerund|kick-PRESP det:art|a
+	n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	the ball goes through a window into a fellow's lap .
+%mor:	det:art|the n|ball v|go-3S prep|through det:art|a n|window
+	prep|into det:art|a adj|fellow&dn-POSS n|lap .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*PAR:	and the last picture the fellow looks out the window [//] &oh broken
+	window .
+%mor:	coord|and det:art|the adj|last n|picture det:art|the n|fellow
+	cop|look-3S prep|out det:art|the part|break&PASTP n|window .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|PUNCT
+@End

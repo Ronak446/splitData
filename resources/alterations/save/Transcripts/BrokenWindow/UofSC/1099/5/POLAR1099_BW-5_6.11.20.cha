@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_5_BrokenWindow_6.11.2020_zoom video
+@Time Duration:	00:00:21
+*PAR:	&um he's got a ball .
+%mor:	pro:sub|he~aux|be&3S part|get&PASTP det:art|a n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and basically when he kicked the ball he hit into a window .
+%mor:	coord|and adv|basic&dadj-AL-LY conj|when pro:sub|he v|kick-PAST
+	det:art|the n|ball pro:sub|he n|hit prep|into det:art|a n|window .
+%gra:	1|9|LINK 2|9|JCT 3|5|LINK 4|5|SUBJ 5|9|CJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|NJCT 11|12|DET 12|10|POBJ 13|9|PUNCT
+*PAR:	and then broken .
+%mor:	coord|and adv:tem|then part|break&PASTP .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	&um it actually went into someone's house .
+%mor:	pro:per|it adv|actual&dadj-LY v|go&PAST prep|into
+	adj|someone&dn-POSS n|house .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	&um and that person got up .
+%mor:	coord|and comp|that n|person v|get&PAST adv|up .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	got the ball .
+%mor:	v|get&PAST det:art|the n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&um looked through the window they're gonna have to get a new window
+	in there .
+%mor:	v|look-PAST prep|through det:art|the n|window
+	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|have inf|to v|get
+	det:art|a adj|new n|window prep|in n|there .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|1|XJCT 8|9|INF
+	9|7|COMP 10|11|INF 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|15|POBJ 17|1|PUNCT
+*PAR:	and he had the ball in his hand now .
+%mor:	coord|and pro:sub|he v|have&PAST det:art|the n|ball prep|in
+	det:poss|his n|hand adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|JCT 10|3|PUNCT
+@End

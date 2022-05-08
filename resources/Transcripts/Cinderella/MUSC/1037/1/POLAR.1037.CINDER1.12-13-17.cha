@@ -1,0 +1,45 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:41
+@Media:	1037_1_Cinderella_December-13th-2017-1-52-11-pm video
+*PAR:	not good .
+%mor:	neg|not adj|good .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*PAR:	Cinderedda [* phon] not good .
+%mor:	n:prop|Cinderedda neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PRED 4|1|PUNCT
+*PAR:	<and &uh> [/] and &uh horses and cats and yeah .
+%mor:	coord|and n|horse-PL coord|and n|cat-PL coord|and co|yeah .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and &um <and> [/] and girl not good .
+%mor:	coord|and coord|and n|girl neg|not adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|MOD 4|3|NEG 5|2|COORD 6|1|PUNCT
+*PAR:	and xxx [* phon] but &uh little mouse yeah and Cinderella no but
+	good yeah .
+%mor:	coord|and conj|but adj|little n|mouse co|yeah coord|and
+	n:prop|Cinderella co|no conj|but adj|good co|yeah .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|COORD 5|4|COM 6|4|CONJ 7|6|COORD
+	8|7|COORD 9|8|CONJ 10|11|MOD 11|9|COORD 12|1|PUNCT
+*PAR:	and key .
+%mor:	coord|and n|key .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &um and ball yeah nice ball .
+%mor:	coord|and coord|and n|ball co|yeah adj|nice n|ball .
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|MOD 4|6|COM 5|6|MOD 6|2|COORD 7|1|PUNCT
+*PAR:	and Cinderella and prince .
+%mor:	coord|and n:prop|Cinderella coord|and n|prince .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and she and &uh she not good oh good <thank you> [/] thank you .
+%mor:	coord|and pro:sub|she coord|and pro:sub|she neg|not adj|good co|oh
+	adj|good v|thank pro:per|you .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|NEG 6|4|PRED 7|9|COM
+	8|9|SUBJ 9|6|CMOD 10|9|OBJ 11|1|PUNCT
+*PAR:	and prince and Cinneredda [* phon] all the time thank you in castle .
+%mor:	coord|and n|prince coord|and n:prop|Cinneredda qn|all det:art|the
+	n|time v|thank pro:per|you prep|in n|castle .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|8|LINK 5|7|QUANT 6|7|DET 7|8|SUBJ
+	8|3|COORD 9|8|OBJ 10|8|JCT 11|10|POBJ 12|1|PUNCT
+@End

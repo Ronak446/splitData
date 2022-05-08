@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1098_1_PBJ_December-17th-2019-12-39-35-pm video
+@Time Duration:	00:00:39
+*PAR:	well first off I would start off by &t &t toasting the bread .
+%mor:	co|well adv|first prep|off pro:sub|I mod|will&COND v|start adv|off
+	prep|by n:gerund|toast-PRESP det:art|the n|bread .
+%gra:	1|6|COM 2|6|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|11|DET 11|9|OBJ 12|6|PUNCT
+*PAR:	get a plate ready .
+%mor:	v|get det:art|a n|plate adj|ready .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|PUNCT
+*PAR:	and I always take a knife and spread the peanut+butter on the bottom
+	half of the bread .
+%mor:	coord|and pro:sub|I adv|always v|take det:art|a n|knife coord|and
+	v|spread&ZERO det:art|the n|+n|peanut+n|butter prep|on det:art|the
+	n|bottom n|half prep|of det:art|the n|bread .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*PAR:	and then &heh I'm guilty of using the same knife that going to the
+	&th <jelly jar> [//] the jam jar .
+%mor:	coord|and adv:tem|then pro:sub|I~cop|be&1S adj|guilt&dn-Y prep|of
+	n:gerund|use-PRESP det:art|the adj|same n|knife pro:rel|that
+	part|go-PRESP prep|to det:art|the det:art|the n|jam n|jar .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|10|DET
+	9|10|MOD 10|7|OBJ 11|12|LINK 12|10|CMOD 13|12|JCT 14|17|DET 15|17|DET
+	16|17|MOD 17|13|POBJ 18|4|PUNCT
+*PAR:	and spread the jam over the other side of the bread and bring them
+	both together .
+%mor:	coord|and v|spread&ZERO det:art|the n|jam prep|over det:art|the
+	qn|other n|side prep|of det:art|the n|bread coord|and v|bring
+	pro:obj|them qn|both adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|CONJ 13|12|COORD 14|13|OBJ2 15|16|QUANT
+	16|13|JCT 17|2|PUNCT
+@End

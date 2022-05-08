@@ -1,0 +1,49 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:07
+@Media:	1050_3_Cinderella_July-16th-2018-11-04-29-am video
+*PAR:	<he says> [/] &uh he says oach [* phon] .
+%mor:	pro:sub|he v|say-3S ?|oach .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	he says xxx ss [* phon] nay [* phon] doot [* phon] .
+%mor:	pro:sub|he v|say-3S ?|ss adv|nay ?|doot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|3|ENUM 6|2|PUNCT
+*PAR:	and xxx [* phon] dus [/] dus [* phon] esses [/] esses [/] esses
+	[* phon] ahsess [* phon] sed [* phon] boday [* phon] .
+%mor:	coord|and ?|dus ?|esses ?|ahsess ?|sed ?|boday .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] joot [* phon] .
+*PAR:	esses [* phon] xxx [* phon] ug [* phon] yes .
+%mor:	?|esses ?|ug co|yes .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|COM 4|1|PUNCT
+*PAR:	xxx [* phon] saze [* phon] yes .
+%mor:	?|saze co|yes .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	ese [* phon] oduh [* phon] joot [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	esses [* phon] ose [* phon] oses [* phon] oh .
+%mor:	?|esses ?|ose ?|oses co|oh .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|COM 5|1|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	oses [* phon] .
+*PAR:	esses xxx [* phon] an esses [/] esses [* phon] xxx [* phon] oh xxx
+	[* phon] okay .
+%mor:	?|esses det:art|a ?|esses co|oh co|okay .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|5|COM 5|3|COM 6|1|PUNCT
+*PAR:	esses [* phon] ojurt [* phon] .
+*PAR:	and sez [/] sez [* phon] awwess .
+%mor:	coord|and ?|sez ?|awwess .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	es [* phon] odur [* phon] &mhm .
+*PAR:	yas [* phon] .
+*PAR:	joot [* phon] xxx [* phon] xxx [* phon] aw doot [* phon] .
+%mor:	?|joot co|aw ?|doot .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+*PAR:	esses [* phon] &uh yas [* phon] &s &s &s .
+*PAR:	xxx [* phon] esses [* phon] awduh [* phon] &mhmm .
+*PAR:	esses [* phon] yas [* phon] .
+*PAR:	esses [* phon] aww [* phon] dunt [* phon] .
+@End

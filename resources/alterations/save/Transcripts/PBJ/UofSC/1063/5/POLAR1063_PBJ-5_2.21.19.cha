@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	POLAR_1063_PBJ5 video
+*PAR:	yeah &uh yes well ee [* phon] yes [/] yes well xxx [* phon] alow
+	[* phon] xxx [* phon] yeah .
+%mor:	co|yeah co|yes co|well co|ee co|yes adv|well ?|alow co|yeah .
+%gra:	1|7|COM 2|7|COM 3|7|COM 4|7|COM 5|7|COM 6|7|JCT 7|0|ROOT 8|7|COM
+	9|7|PUNCT
+*PAR:	yes well yes yas [: yes] [* phon] &uh &eh .
+%mor:	co|yes co|well co|yes co|yes .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|INCROOT 5|4|PUNCT
+@End

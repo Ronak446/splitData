@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1006_LARC_BrokenWindow_October-31st-2019-11-45-13-am video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the ball is &kjing .
+%mor:	det:art|the n|ball cop|be&3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	holy tats [* phon] &ho no [/] no [/] no [/] no [/] no .
+%mor:	adj|holy v|tat-3S co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and she [: he] [* s] says fall down .
+%mor:	coord|and pro:sub|he v|say-3S v|fall adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and she [: he] [* s] says what in the world is this .
+%mor:	coord|and pro:sub|he v|say-3S pro:int|what prep|in det:art|the
+	n|world cop|be&3S pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|JCT 6|7|DET 7|5|POBJ 8|3|COMP
+	9|8|PRED 10|3|PUNCT
+@End

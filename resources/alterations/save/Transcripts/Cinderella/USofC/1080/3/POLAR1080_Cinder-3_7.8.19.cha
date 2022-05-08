@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:49
+@Media:	1080_3_Cinderella_July-8th-2019-2-17-56-pm, video
+*PAR:	he [//] Cinderella is &r &r fantasy run [* u] I [* phon] by en
+	[* phon] .
+%mor:	n:prop|Cinderella cop|be&3S n|fantasy v|run pro:sub|I adv|by ?|en .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|ENUM 5|7|SUBJ 6|7|JCT 7|4|COMP 8|2|PUNCT
+*PAR:	he got clothes and handsome .
+%mor:	pro:sub|he v|get&PAST n:pt|clothes coord|and adj|handsome .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	and &s I [/] I don't know it's .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know pro:per|it~cop|be&3S .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|5|PUNCT
+*PAR:	yeah <I don't know> [//] I don't know .
+%mor:	co|yeah pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	handsome I got [* u] sir is prince &uh .
+%mor:	adj|handsome pro:sub|I v|get&PAST n|sir cop|be&3S n|prince .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*PAR:	<I &sh> [//] I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	armor .
+%mor:	n|armor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know honey .
+%mor:	pro:sub|I mod|do~neg|not v|know n|honey .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:17
+@Media:	1051_2_Cinderella_June-22nd-2018-10-36-13-am video
+*PAR:	&uh &l lady was &uh &k &uh &uh &aw man &uh .
+%mor:	n|lady cop|be&PAST&13S n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh &uh &everyth &uh god I can't .
+%mor:	co|god pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*PAR:	&c &uh &m &aw man &uh .
+%mor:	n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I mean &uh I don't know .
+%mor:	pro:sub|I v|mean pro:sub|I mod|do~neg|not v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|2|PUNCT
+*PAR:	&m he [* s] he [/] &m he [/] made me [* s] no .
+%mor:	pro:sub|he v|make&PAST pro:obj|me co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I mean I really don't know .
+%mor:	pro:sub|I v|mean pro:sub|I adv|real&dadj-LY mod|do~neg|not v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|2|COMP 8|2|PUNCT
+@End

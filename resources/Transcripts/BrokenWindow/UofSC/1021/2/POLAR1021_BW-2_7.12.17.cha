@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:12
+@Media:	1021_2_BrokenWindow_July-12th-2017-11-30-13-am video
+*PAR:	&te to &te .
+%mor:	inf|to .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	two four &de .
+%mor:	det:num|two det:num|four .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	today .
+%mor:	adv:tem|today .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jus [* phon] &ov &sh she xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] .
+%mor:	?|jus pro:sub|she .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	and &sh &sh &sh &sh &sh xxx [* phon] xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	then xxx [* phon] xxx [* phon] .
+%mor:	adv:tem|then .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

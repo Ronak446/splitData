@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1032_PBJ2 video
+*PAR:	awich [* phon] .
+%mor:	?|awich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&boom &boom &boom .
+*PAR:	sandwich .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

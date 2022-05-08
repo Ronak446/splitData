@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR||male|||Participant|||
+@Time Duration:	00:02:27
+@Media:	1080_2_Cinderella_June-6th-2019-10-45-37-am, video
+*PAR:	<&c Cindereller [: Cinderella] [* phon] is> [//] &c &c &c Cinderella
+	is .
+%mor:	n:prop|Cinderella cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	<they were> [//] Cinderella is dancing and .
+%mor:	n:prop|Cinderella aux|be&3S part|dance-PRESP coord|and .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|3|PUNCT
+*PAR:	gosh I don't know .
+%mor:	co|gosh pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	&sh &sh Rinderella [: Cinderella] [* phon] is charming .
+%mor:	n:prop|Cinderella aux|be&3S part|charm-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	gosh <I don't> [//] I don't know honey .
+%mor:	co|gosh pro:sub|I mod|do~neg|not v|know n|honey .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@End

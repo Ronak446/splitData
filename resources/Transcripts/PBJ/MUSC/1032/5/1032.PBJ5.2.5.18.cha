@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	1032_PBJ5 video
+*PAR:	anwich [* phon] [/] anwich [* phon] .
+%mor:	?|anwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	butter [* s] [/] butter [* s] .
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&poo bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	delly [* phon] [//] jelly .
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,46 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:57
+@Media:	1021_6_Cinderella_March-1st-2018-11-38-47-am video
+*PAR:	right fer [* phon] fad [* phon] xxx [* phon] .
+%mor:	adv|right ?|fer n|fad .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	firs [* phon] fer [* phon] fer [/] &f fla [* phon] .
+%mor:	n|fir-PL ?|fer ?|fla .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] fuf [* phon] .
+%mor:	?|fuf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] fuf [* phon] .
+%mor:	?|fuf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f &f &fi xxx [* phon] .
+*PAR:	&s &s first .
+%mor:	adv|first .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fer [* phon] fer [/] xxx [* phon] .
+%mor:	?|fer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fer [* phon] fer [/] fer [/] .
+%mor:	?|fer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f &f &f .
+*PAR:	fer [* phon] .
+%mor:	?|fer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fa [* phon] fo [* phon] .
+%mor:	?|fa ?|fo .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	&fi &f &f &f .
+*PAR:	xxx [* phon] xxx [* phon] fa [* phon] fa [/] fa [/] .
+%mor:	?|fa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f &f &f xxx [* phon] .
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

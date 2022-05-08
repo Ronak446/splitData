@@ -1,0 +1,90 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:17
+@Media:	1009_3_BrokenWindow_Y2017_M02_D27_H14_M29_S13 video
+*PAR:	alright so .
+%mor:	co|alright co|so .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	the the [/] guys were doing the &um soccuh [* phon] .
+%mor:	det:art|the n|guy-PL aux|be&PAST part|do-PRESP det:art|the ?|soccuh
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and and [/] they were doing weally [* phon] good .
+%mor:	coord|and pro:sub|they aux|be&PAST part|do-PRESP ?|weally adj|good
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|PRED 7|4|PUNCT
+*PAR:	and all of a sudden the guy says alright I gotta gotta [/] go quick .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden det:art|the
+	n|guy v|say-3S adj|alright pro:sub|I mod:aux|gotta v|go adv|quick .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|DET 7|8|SUBJ
+	8|5|CMOD 9|12|JCT 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|JCT 14|1|PUNCT
+*PAR:	and got the the [/] the [/] &um <tenih not tennis> [//] soccer [* s] .
+%mor:	coord|and v|get&PAST det:art|the n|soccer .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and he came back and all of a sudden he got to the &um &s &wi window .
+%mor:	coord|and pro:sub|he v|come&PAST adv|back coord|and pro:indef|all
+	prep|of det:art|a n|sudden pro:sub|he v|get&PAST prep|to det:art|the
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|11|LINK 6|11|JCT 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|3|CJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and he looked and he he [/] got it &suh &sc scween [* phon] .
+%mor:	coord|and pro:sub|he v|look-PAST coord|and pro:sub|he v|get&PAST
+	pro:per|it ?|scween .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and it got it weally [* phon] not not [/] good .
+%mor:	coord|and pro:per|it v|get&PAST pro:per|it ?|weally neg|not
+	adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|5|NEG 7|5|PRED 8|3|PUNCT
+*PAR:	and the so the guy .
+%mor:	coord|and det:art|the co|so det:art|the n|guy .
+%gra:	1|5|LINK 2|5|DET 3|5|COM 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	so all a sudden .
+%mor:	adv|so qn|all det:art|a n|sudden .
+%gra:	1|2|JCT 2|4|QUANT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	he he [/] came over there at the &um <not cout> [//] but the &um
+	window .
+%mor:	pro:sub|he v|come&PAST adv|over adv|there prep|at det:art|the
+	conj|but det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+*PAR:	wow window window [/] .
+%mor:	co|wow n|window .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	and then the the [/] &um the [/] guy said oh no he got the .
+%mor:	coord|and adv:tem|then det:art|the n|guy v|say&PAST co|oh co|no
+	pro:sub|he v|get&PAST det:art|the .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|9|COM 7|9|COM 8|9|SUBJ
+	9|5|COMP 10|9|OBJ 11|5|PUNCT
+*PAR:	he got it right quick .
+%mor:	pro:sub|he v|get&PAST pro:per|it adv|right adv|quick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*PAR:	and he didn't know what happened .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|know pro:int|what
+	v|happen-PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|5|PUNCT
+*PAR:	he got it found .
+%mor:	pro:sub|he v|get&PAST pro:per|it v|find&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*PAR:	&an and so he looked .
+%mor:	coord|and co|so pro:sub|he v|look-PAST .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and he looked over there to see what happened .
+%mor:	coord|and pro:sub|he v|look-PAST adv|over adv|there inf|to v|see
+	pro:int|what v|happen-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|INF 7|3|XCOMP 8|9|SUBJ
+	9|7|COMP 10|3|PUNCT
+*PAR:	and he was gonna find out what happened with the <with the> [/] &um
+	soccer [* s] .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S mod:aux|gonna v|find adv|out
+	pro:int|what v|happen-PAST prep|with det:art|the n|soccer .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	because something happened with it .
+%mor:	conj|because pro:indef|something v|happen-PAST prep|with pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+@End

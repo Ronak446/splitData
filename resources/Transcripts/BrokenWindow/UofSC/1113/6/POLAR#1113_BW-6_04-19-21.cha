@@ -1,0 +1,37 @@
+@UTF8
+@Window:	52_0_825_1440_-1_-1_530_0_530_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	POLAR#1113_BW-6_04-19-21, video
+*PAR:	&um the boy is kicking the ball in the back yard . 
+%mor:	det:art|the n|boy aux|be&3S part|kick-PRESP det:art|the n|ball
+	prep|in det:art|the adj|back n|yard .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	&um he hits it a little too far and it <goes to> [//] &um goes too far and crashes in the window .
+%mor:	pro:sub|he v|hit-3S pro:per|it det:art|a adj|little adv|too adv|far
+	coord|and pro:per|it v|go-3S adv|too adv|far coord|and v|crash-3S
+	prep|in det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|JCT 6|7|JCT 7|2|JCT 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|12|JCT 12|10|JCT 13|10|CONJ 14|13|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|2|PUNCT
+*PAR:	dad is seating [//] seated on the other side of the window .
+%mor:	n|dad aux|be&3S part|seat-PASTP prep|on det:art|the qn|other n|side
+	prep|of det:art|the n|window .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	he suddenely has the ball come in .
+%mor:	pro:sub|he ?|suddenely v|have&3S det:art|the n|ball v|come adv|in .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|3|PUNCT
+*PAR:	&um and he stands up and tells [//] looks out the window and sees the son .
+%mor:	coord|and pro:sub|he v|stand-3S adv|up coord|and v|look-3S prep|out
+	det:art|the n|window coord|and v|see-3S det:art|the n|son .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|3|PUNCT
+*PAR:	&um there . 
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

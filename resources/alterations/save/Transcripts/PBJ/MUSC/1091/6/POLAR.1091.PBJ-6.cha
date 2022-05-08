@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.PBJ-6 video
+@Time Duration:	00:00:14
+*PAR:	peanut+butter jelly sandwich .
+%mor:	n|+n|peanut+n|butter n|jelly n|sandwich .
+*PAR:	put two white pieces of bread with first the peanut+butter and then
+	the jelly .
+%mor:	v|put&ZERO det:num|two adj|white n|piece-PL prep|of n|bread
+	prep|with adj|first det:art|the n|+n|peanut+n|butter coord|and
+	adv:tem|then det:art|the n|jelly .
+*PAR:	and then you close up the sandwich .
+%mor:	coord|and adv:tem|then pro:per|you v|close prep|up det:art|the
+	n|sandwich .
+*PAR:	and it's done .
+%mor:	coord|and pro:per|it~aux|be&3S part|do&PASTP .
+@End

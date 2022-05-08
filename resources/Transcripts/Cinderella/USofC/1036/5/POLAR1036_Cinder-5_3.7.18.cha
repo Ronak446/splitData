@@ -1,0 +1,38 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:04
+@Media:	1036_Cinderella5 video
+*PAR:	Cinderella &um had a bad mama &um two little &um kid [//] &um two
+	&um kid &um &um sisters .
+%mor:	n:prop|Cinderella v|have&PAST det:art|a adj|bad n|mama det:num|two
+	adj|little det:num|two n|kid n|sister-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|10|MOD 6|7|QUANT 7|10|MOD 8|9|QUANT
+	9|10|MOD 10|2|OBJ 11|2|PUNCT
+*PAR:	&um &k he [* s] &um me [* phon] &um &um &um &um .
+%mor:	pro:sub|he pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	bless you .
+%mor:	v|bless pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&um &um is a &um &um .
+%mor:	cop|be&3S det:art|a .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*PAR:	bless you .
+%mor:	v|bless pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&um a ball &um &um .
+%mor:	det:art|a n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	yeah thank you .
+%mor:	co|yeah v|thank pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	you're welcome .
+%mor:	pro:per|you~cop|be&PRES adj|welcome .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&um &um &um &um &um &um &um &um &s &um &um that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

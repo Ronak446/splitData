@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:29
+@Media:	1039_BW5 video
+*PAR:	boy &eh &uh moy [* phon] &um loy [* phon] tric [* phon] the ball .
+%mor:	co|boy ?|moy ?|loy ?|tric det:art|the n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	law [* phon] pit [* phon] .
+%mor:	n|law n|pit .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	boy &uh &nuh loy [* phon] [//] &um &um vasses [* phon] &uh voke
+	[* phon] ich [* phon] [//] hur [* phon] [//] no out [//] &n out [//]
+	&n chall [* phon] out [//] &mhm out bound mall [* phon] ball &wiy
+	xxx [* phon] mall [* phon] .
+%mor:	co|boy ?|vasses ?|voke qn|no ?|chall adv|out n|bound n|mall n|ball
+	n|mall .
+%gra:	1|10|COM 2|10|MOD 3|10|MOD 4|5|QUANT 5|10|MOD 6|7|JCT 7|10|MOD 8|10|MOD
+	9|10|MOD 10|0|ROOT 11|10|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

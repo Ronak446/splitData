@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:12
+@Media:	1059_BW5 video
+
+*PAR:	a [/] a boy is kicking a ball .
+%mor:	det:art|a n|boy aux|be&3S part|kick-PRESP det:art|a n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the ball went through the window .
+%mor:	det:art|the n|ball v|go&PAST prep|through det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	<the window> [//] the ball went through the window and hit the dad .
+%mor:	det:art|the n|ball v|go&PAST prep|through det:art|the n|window
+	coord|and v|hit&ZERO det:art|the n|dad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	the dad picked up the ball and looked out the window .
+%mor:	det:art|the n|dad v|pick-PAST prep|up det:art|the n|ball coord|and
+	cop|look-PAST prep|out det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+@End

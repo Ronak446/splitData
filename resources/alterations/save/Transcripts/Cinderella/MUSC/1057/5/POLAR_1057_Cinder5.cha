@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	POLAR_1057_Cinder5 video
+*PAR:	lampo [* phon] ilambo [* phon] &uh lambo [* phon] &uh lake [* u] .
+%mor:	?|lampo ?|ilambo ?|lambo n|lake .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	lampo [* phon] alanta [* u] google [* u] anpo [* phon] xxx [* phon]
+	xxx [* phon] xxx [* phon] xxx [* phon] alanta [* u] toltol [* phon]
+	xxx [* phon] &s col [* phon] .
+%mor:	?|lampo ?|alanta v|google ?|anpo ?|alanta ?|toltol ?|col .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+@End

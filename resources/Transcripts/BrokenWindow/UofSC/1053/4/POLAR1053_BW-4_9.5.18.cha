@@ -1,0 +1,22 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:50
+@Media:	1053_BW4 video
+*PAR:	&m &m &m &m &m &m yeah eh [* phon] doon [* phon] .
+%mor:	co|yeah co|eh prep|doon .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	maby [* phon] &m &m &m &m .
+*PAR:	&m &m &m &m &m &m .
+*PAR:	&m &m &m .
+*PAR:	wuh [* phon] &m dahuh [* phon] neeuh [* phon] xxx [* phon] yuhahh
+	[* phon] .
+*PAR:	ehowe [* phon] &m nuh [* phon] mah [* phon] &m &m &m .
+%mor:	?|ehowe co|nuh ?|mah .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+@End

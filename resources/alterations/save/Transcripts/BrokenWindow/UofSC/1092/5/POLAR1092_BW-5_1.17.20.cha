@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_5_BrokenWindow_January-17th-2020-10-53-40-am video
+@Time Duration:	00:00:30
+*PAR:	xxx [* phon] a story .
+%mor:	det:art|a n|story .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&mhm telephone [* u] [/] telephone [* u] .
+%mor:	n|telephone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	telephone [* u] [/] telephone [* u] .
+%mor:	n|telephone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

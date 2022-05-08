@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:30
+@Media:	1077_5_BrokenWindow_July-22nd-2019-3-00-35-pm video
+*PAR:	&um okay that's the ba [: boy] [* phon] who kicked his ball .
+%mor:	co|okay pro:dem|that~cop|be&3S det:art|the n|boy pro:rel|who
+	v|kick-PAST det:poss|his n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|9|MOD
+	9|7|OBJ 10|3|PUNCT
+*PAR:	<hit the field> [//] I mean through the window from their &um house .
+%mor:	pro:sub|I v|mean prep|through det:art|the n|window prep|from
+	det:poss|their n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*PAR:	it'll break through the window .
+%mor:	pro:per|it~mod|will v|break adj|through det:art|the n|window .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	<into their p [* u]> [//] the p [* u] of <their wind> [//] &uh their
+	window .
+%mor:	det:art|the ?|p prep|of det:poss|their n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	ran in right there in front of the dad that was there was
+	scared and not happy .
+%mor:	v|run&PAST prep|in adv|right adv|there prep|in n|front prep|of
+	det:art|the n|dad pro:rel|that cop|be&PAST&13S adv|there
+	aux|be&PAST&13S v|scare-PAST coord|and neg|not adj|happy .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|1|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|14|SUBJ 13|14|AUX 14|11|PRED 15|14|CONJ
+	16|17|NEG 17|15|COORD 18|1|PUNCT
+*PAR:	and walks there to look and knows it'll be XXX
+	[* phon] .
+%mor:	coord|and v|walk-3S adv|there inf|to v|look coord|and v|know-3S
+	pro:per|it~mod|will cop|be n:prop|XXX .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XCOMP 6|5|CONJ 7|6|COORD
+	8|10|SUBJ 9|10|AUX 10|7|COMP 11|10|PRED 12|2|PUNCT
+@End

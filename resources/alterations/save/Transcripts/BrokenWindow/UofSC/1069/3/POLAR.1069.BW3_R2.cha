@@ -1,0 +1,44 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	1069_3_BrokenWindow_June-21st-2019-10-28-07-am video
+*PAR:	there was <a man> [//] a boy who was cook [//] &uh kicking a ball in the yard .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|boy pro:rel|who
+	aux|be&PAST&13S part|kick-PRESP det:art|a n|ball prep|in det:art|the
+	n|yard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|AUX 7|4|CMOD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and not paying any attention he <kicked the> [/] &ez kicked <the
+	ball> [/] the ball into a window .
+%mor:	coord|and neg|not part|pay-PRESP qn|any n|attention pro:sub|he
+	v|kick-PAST det:art|the n|ball prep|into det:art|a n|window .
+%gra:	1|3|LINK 2|3|NEG 3|7|XJCT 4|5|QUANT 5|3|OBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*PAR:	and it broke the window .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it came into the &ha &uh house .
+%mor:	coord|and pro:per|it v|come&PAST prep|into det:art|the n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and it &uh [/] &um &s it startled a man .
+%mor:	coord|and pro:per|it pro:per|it v|startle-PAST det:art|a n|man .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and the ball knocked a lamp .
+%mor:	coord|and det:art|the n|ball v|knock-PAST det:art|a n|lamp .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and the man walked over to the window to see what &wa &uh is look
+	[/] look broken window looked out who was in it and what was going
+	on .
+%mor:	coord|and det:art|the n|man v|walk-PAST adv|over prep|to
+	det:art|the n|window inf|to v|see pro:int|what aux|be&3S co|look
+	part|break&PASTP n|window part|look-PASTP adv|out pro:rel|who
+	cop|be&PAST&13S prep|in pro:per|it coord|and pro:int|what
+	aux|be&PAST&13S part|go-PRESP adv|on .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|4|XJCT 11|14|SUBJ 12|14|AUX 13|14|COM 14|10|COMP 15|14|OBJ
+	16|15|XMOD 17|16|JCT 18|19|LINK 19|17|CPOBJ 20|19|JCT 21|20|POBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|19|CJCT 26|25|JCT 27|4|PUNCT
+@End

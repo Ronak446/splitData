@@ -1,0 +1,102 @@
+@UTF8
+@Window:	105_632_585_805_0_0_777_0_777_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1107_BW-5_8.25.20 video
+@Time Duration:	00:02:41
+*PAR:	this is &uh &uh &s story <of a> [/] of a young boy who &uh loved to
+	play soccer .
+%mor:	pro:dem|this cop|be&3S n|story prep|of det:art|a adj|young n|boy
+	pro:rel|who v|love-PAST prep|to n|play n|soccer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|MOD 12|10|POBJ 13|2|PUNCT
+*PAR:	and one day he was outside in his yard kicking the [/] the soccer
+	ball .
+%mor:	coord|and det:num|one n|day pro:sub|he cop|be&PAST&13S adv|outside
+	prep|in det:poss|his n|yard part|kick-PRESP det:art|the n|soccer
+	n|ball .
+%gra:	1|5|LINK 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|XJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|5|PUNCT
+*PAR:	and he hit [: kicked] [* s] it so hard that it crashed <into the>
+	[/] into the house and into the window and crashed the glass .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it adv|so adj|hard
+	comp|that pro:per|it v|crash-PAST prep|into det:art|the n|house
+	coord|and prep|into det:art|the n|window coord|and v|crash-PAST
+	det:art|the n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|6|CONJ 14|13|COORD 15|16|DET
+	16|14|POBJ 17|3|CONJ 18|17|COORD 19|20|DET 20|18|OBJ 21|3|PUNCT
+*PAR:	when it hit into the glass &ra it fell into the labe [//] &uh &wa
+	lamp that was on the table beside his father .
+%mor:	conj|when pro:per|it n|hit prep|into det:art|the n|glass pro:per|it
+	v|fall&PAST prep|into det:art|the n|lamp pro:rel|that
+	cop|be&PAST&13S prep|on det:art|the n|table prep|beside det:poss|his
+	n|father .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|19|DET 19|17|POBJ 20|8|PUNCT
+*PAR:	and &um the lamp fell and crashed on the floor .
+%mor:	coord|and det:art|the n|lamp v|fall&PAST coord|and v|crash-PAST
+	prep|on det:art|the n|floor .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and it also startled his father .
+%mor:	coord|and pro:per|it adv|also v|startle-PAST det:poss|his n|father
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	when [/] when it came into the house his &d father got up and to see
+	what had happened .
+%mor:	conj|when pro:per|it v|come&PAST prep|into det:art|the n|house
+	det:poss|his n|father v|get&PAST adv|up coord|and inf|to v|see
+	pro:int|what aux|have&PAST part|happen-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|CONJ 12|13|INF 13|11|COORD 14|16|SUBJ 15|16|AUX
+	16|13|COMP 17|9|PUNCT
+*PAR:	and he discovered that it was his son's soccer ball .
+%mor:	coord|and pro:sub|he v|discover-PAST comp|that pro:per|it
+	cop|be&PAST&13S det:poss|his adj|son&dn-POSS n|soccer n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|PRED 11|3|PUNCT
+*PAR:	and he got up and looked outside and saw that his son was standing
+	outside the door [: window] [* s] .
+%mor:	coord|and pro:sub|he v|get&PAST adv|up coord|and part|look-PASTP
+	adj|outside coord|and v|see&PAST comp|that det:poss|his n|son
+	cop|be&PAST&13S n:gerund|stand-PRESP adj|outside det:art|the
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|7|CONJ
+	9|8|COORD 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|COMP 14|17|MOD 15|17|MOD
+	16|17|DET 17|13|PRED 18|3|PUNCT
+*PAR:	and he called him inside .
+%mor:	coord|and pro:sub|he v|call-PAST pro:obj|him adv|inside .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and [/] &discu and they discussed <what they had> [//] what he had
+	done when he <hit the> [/] hit the window .
+%mor:	coord|and pro:sub|they v|discuss-PAST pro:int|what pro:sub|he
+	aux|have&PAST part|do&PASTP conj|when pro:sub|he v|hit&ZERO
+	det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|10|LINK
+	9|10|SUBJ 10|7|CJCT 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	<and his> [/] and his &uh and the lamp beside him .
+%mor:	coord|and det:poss|his coord|and det:art|the n|lamp prep|beside
+	pro:obj|him .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	and they [//] he asked his son what did he think he had to do to
+	replace the car [//] the window and the lamp .
+%mor:	coord|and pro:sub|he v|ask-PAST det:poss|his n|son pro:int|what
+	mod|do&PAST pro:sub|he v|think pro:sub|he v|have&PAST inf|to v|do
+	inf|to re#v|place det:art|the det:art|the n|window coord|and
+	det:art|the n|lamp .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|OBJ 7|9|AUX 8|9|SUBJ
+	9|3|CJCT 10|11|SUBJ 11|9|COMP 12|13|INF 13|11|COMP 14|15|INF 15|13|COMP
+	16|18|DET 17|18|DET 18|15|OBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|3|PUNCT
+*PAR:	and they made it &uh agreement &uh as to how they could be &re
+	repaired .
+%mor:	coord|and pro:sub|they v|make&PAST pro:per|it n|agree&dv-MENT
+	adv|as prep|to pro:int|how pro:sub|they mod|could aux|be
+	part|repair-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|JCT 7|3|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|7|CPOBJ 13|3|PUNCT
+@End

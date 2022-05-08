@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1090_PBJ_6_2020-07-20-12-10-41 video
+@Time Duration:	00:00:22
+*PAR:	beta [* u] like a gone .
+%mor:	n|beta prep|like det:art|a part|go&PASTP .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	I realize is I hum [: hope] [* phon] so .
+%mor:	pro:sub|I v|realize aux|be&3S pro:sub|I n|hope co|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|AUX 4|5|SUBJ 5|2|OBJ 6|5|COM 7|2|PUNCT
+*PAR:	you understand .
+%mor:	pro:per|you v|understand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	goodess [: goodness] [* phon] graces [: gracious] [* phon] .
+%mor:	co|goodness adj|gracious .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&m love you .
+%mor:	v|love pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and the curses [* u] bubber [* phon] .
+%mor:	coord|and det:art|the n|curse-PL ?|bubber .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and great [/] great [/] great [/] great .
+%mor:	coord|and adj|great .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

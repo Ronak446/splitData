@@ -1,0 +1,54 @@
+@UTF8
+@Window:	50_231_929_961_0_0_647_0_647_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:03
+@Media:	POLAR_1117_3_BrokenWindow_09.30.2020_z, video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	first this cat [* u] [//] kid he kicked a [/] a ball .
+%mor:	adv|first det|this n|kid pro:sub|he v|kick-PAST art|a n|ball .
+%gra:	1|0|JCT 2|3|DET 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the next one is a [//] the ball fell on [: in] [* phon] the
+	window and <broke is> [//] broke it .
+%mor:	coord|and art|the adj|next pro:indef|one cop|be&3S art|the n|ball
+	v|fall&PAST prep|in art|the n|window coord|and v|break&PAST pro|it .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|8|LINK 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|12|COORD 14|13|OBJ 15|8|PUNCT
+*PAR:	and then he can do he &k the window broke and it I [: a] [* phon]
+	ball fell out through into this man's [//] her [//] his &pa [//] <he
+	was> [//] <it hit him> [/] it hit him .
+%mor:	coord|and adv:tem|then pro:sub|he mod|can v|do pro:sub|he art|the
+	n|window adj|broke coord|and pro|it art|a n|ball v|fall&PAST adv|out
+	adj|through prep|into det|this co|hi-PL pro|it v|hit&ZERO
+	pro:obj|him .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|SUBJ 7|8|DET 8|5|OBJ
+	9|8|JCT 10|14|LINK 11|14|SUBJ 12|13|DET 13|14|SUBJ 14|8|CJCT 15|14|JCT
+	16|21|OBJ 17|21|SUBJ 18|19|DET 19|17|POBJ 20|21|SUBJ 21|8|CJCT 22|21|OBJ
+	23|5|PUNCT
+*PAR:	and she could tell that he took it .
+%mor:	coord|and pro:sub|she mod|could v|tell rel|that pro:sub|he
+	v|take&PAST pro|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*PAR:	and then the man got up and looked over the window and I got [: had]
+	[* s] the ball .
+%mor:	coord|and adv:tem|then art|the n|man v|get&PAST adv|up coord|and
+	v|look-PAST prep|over art|the n|window coord|and pro:sub|I
+	v|have&PAST art|the n|ball .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|14|SUBJ 14|12|COORD 15|16|DET
+	16|14|OBJ 17|5|PUNCT
+*PAR:	and he can <look out> [//] look at the prove [* u] the xxx[* phon]
+	man <popped it> [* u] [//] <hit it> [//] he hit it .
+%mor:	coord|and pro:sub|he mod|can v|look prep|at art|the v|prove art|the
+	n|man pro:sub|he v|hit&ZERO pro|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|SUBJ 6|7|DET 7|4|COMP 8|9|DET
+	9|7|OBJ 10|11|SUBJ 11|9|XMOD 12|11|OBJ 13|4|PUNCT
+*PAR:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

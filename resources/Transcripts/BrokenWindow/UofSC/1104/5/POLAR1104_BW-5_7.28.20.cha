@@ -1,0 +1,60 @@
+@UTF8
+@Window:	0_0_0_0_0_0_238_0_238_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1104_BW-5_7.28.20 video
+@Time Duration:	00:01:36
+*PAR:	<there's a boy that's being kicked> [//] a boy's getting kicked with
+	[/] with a ball or [/] or a [/] <a boy> [/] a boy kick .
+%mor:	det:art|a n|boy~aux|be&3S part|get-PRESP part|kick-PASTP prep|with
+	det:art|a n|ball coord|or det:art|a n|boy cop|be&3S v|kick .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|11|DET 11|9|COORD 12|9|COORD 13|12|CPRED 14|4|PUNCT
+*PAR:	okay Bobby let's go .
+%mor:	co|okay n:prop|Bobby v|let~pro:obj|us v|go .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*PAR:	let's [//] this boy is kicking a ball .
+%mor:	det:dem|this n|boy aux|be&3S part|kick-PRESP det:art|a n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the ball gets kick [//] &ku &ki kicked through a window of a house .
+%mor:	det:art|the n|ball v|get-3S v|kick-PAST prep|through det:art|a
+	n|window prep|of det:art|a n|house .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and &uh it breaks the window .
+%mor:	coord|and pro:per|it v|break-3S det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and [/] and it hits a lamp <with a boy> [//] with a man <right
+	behind him> [//] &er right beside him [: it] [* s] .
+%mor:	coord|and pro:per|it v|hit-3S det:art|a n|lamp prep|with det:art|a
+	n|man adv|right prep|beside pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|3|JCT 11|10|POBJ 12|3|PUNCT
+*PAR:	and then he picks up the ball <that got> [/] <that got through the
+	&win> [//] <that is> [/] that got [//] was broken through the
+	window .
+%mor:	coord|and adv:tem|then pro:sub|he v|pick-3S prep|up det:art|the
+	n|ball pro:rel|that aux|be&PAST&13S part|break&PASTP prep|through
+	det:art|the n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|AUX 10|4|XJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	<the broken window was cut> [//] no the broken window is <holding
+	the man> [//] hold [//] no the ball with &k .
+%mor:	qn|no det:art|the part|break&PASTP n|window cop|be&3S qn|no
+	det:art|the n|ball prep|with .
+%gra:	1|4|QUANT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|QUANT 7|8|DET 8|5|PRED
+	9|8|NJCT 10|5|PUNCT
+*PAR:	the window was busted &w or [/] or the [/] the ball went through the
+	window .
+%mor:	det:art|the n|window aux|be&PAST&13S part|bust-PASTP coord|or
+	det:art|the n|ball v|go&PAST prep|through det:art|the n|window .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*PAR:	and the man <is taking> [//] is [/] is just holding the ball .
+%mor:	coord|and det:art|the n|man aux|be&3S adv|just part|hold-PRESP
+	det:art|the n|ball .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+@End

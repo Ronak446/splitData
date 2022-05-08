@@ -1,0 +1,62 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:35
+@Media:	POLAR_1071_PBJ5 video
+*PAR:	in something like that something simple it's a piece of bread .
+%mor:	prep|in pro:indef|something co|like det:dem|that
+	pro:indef|something adj|simple pro:per|it~cop|be&3S det:art|a
+	n|piece prep|of n|bread .
+%gra:	1|8|LINK 2|1|POBJ 3|8|COM 4|8|LINK 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|10|NJCT 12|11|POBJ 13|8|PUNCT
+*PAR:	and I would take it .
+%mor:	coord|and pro:sub|I mod|will&COND v|take pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and I would take the knife with the <petbr peter peter peter> [//]
+	&pi well say again say the word can of penuhbu [: peanut butter]
+	[* phon] .
+%mor:	coord|and pro:sub|I mod|will&COND v|take det:art|the n|knife
+	prep|with det:art|the n|well co|say adv|again v|say det:art|the
+	n|word n|can prep|of n|peanut n|butter .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|12|COM 11|12|JCT 12|4|CJCT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|4|PUNCT
+*PAR:	see &du now it's getting tired because I'm going home .
+%mor:	v|see adv|now pro:per|it~cop|be&3S part|get-PRESP part|tire-PASTP
+	conj|because pro:sub|I~aux|be&1S part|go-PRESP n|home .
+%gra:	1|0|ROOT 2|1|JCT 3|5|SUBJ 4|5|AUX 5|1|XJCT 6|5|COMP 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|1|CJCT 11|10|JCT 12|1|PUNCT
+*PAR:	I know what I'm talking about .
+%mor:	pro:sub|I v|know pro:int|what pro:sub|I~aux|be&1S part|talk-PRESP
+	adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|2|PUNCT
+*PAR:	and I wanna say peanut+butter .
+%mor:	coord|and pro:sub|I mod:aux|wanna v|say n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and I would take that .
+%mor:	coord|and pro:sub|I mod|will&COND v|take pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and <wi [* phon] xxx [* phon]> [//] I would &s spear [/] spear
+	[: spread] [* u] it on .
+%mor:	coord|and pro:sub|I mod|will&COND v|spread&ZERO pro:per|it adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	then I would put [//] &m get me some [/] some dam [/] dam [: jam]
+	[* phon] and put it on the othrsie [: other side] [* phon] .
+%mor:	adv:tem|then pro:sub|I mod|will&COND v|get pro:obj|me qn|some n|jam
+	coord|and v|put&ZERO pro:per|it prep|on det:art|the qn|other n|side
+	.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|QUANT 7|4|OBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ 11|9|JCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|4|PUNCT
+*PAR:	and I would put it down until it come together .
+%mor:	coord|and pro:sub|I mod|will&COND v|put&ZERO pro:per|it adv|down
+	conj|until pro:per|it part|come&PASTP adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|4|PUNCT
+*PAR:	and then I would put the bread together and make sandwich .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	det:art|the n|bread adv|together coord|and v|make n|sandwich .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|5|PUNCT
+@End

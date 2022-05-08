@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	1044_1_BrokenWindow_February-26th-2018-11-42-29-am video
+*PAR:	the ball &uh kick no good .
+%mor:	det:art|the n|ball v|kick qn|no adj|good .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|JCT 6|3|PUNCT
+*PAR:	we &uh &uh second &uh bosed [* phon] to roll [* s] .
+%mor:	pro:sub|we n|second ?|bosed prep|to n|roll .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&uh ball xxx [* phon] &uh .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the oh &uh clo [* phon] &uh the woo [* phon] in the one bad .
+%mor:	det:art|the co|oh ?|clo det:art|the v|woo prep|in det:art|the
+	pro:indef|one adj|bad .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|POSTMOD 10|5|PUNCT
+*PAR:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

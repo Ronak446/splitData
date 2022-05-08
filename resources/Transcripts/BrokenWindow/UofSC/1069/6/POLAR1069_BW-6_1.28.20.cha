@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:26
+@Media:	1069_6_BrokenWindow_January-28th-2020-11-02-34-am video
+*PAR:	okay there was a boy who kicked a ball .
+%mor:	co|okay adv|there cop|be&PAST&13S det:art|a n|boy pro:rel|who
+	v|kick-PAST det:art|a n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and it hit into a window .
+%mor:	coord|and pro:per|it v|hit&ZERO prep|into det:art|a n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	broke [//] and it broke a window .
+%mor:	coord|and pro:per|it v|break&PAST det:art|a n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	in a house .
+%mor:	prep|in det:art|a n|house .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	<and the house> [//] and the ball fell on &uh a man living room .
+%mor:	coord|and det:art|the n|ball v|fall&PAST prep|on det:art|a n|man
+	part|live-PRESP n|room .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|PUNCT
+*PAR:	and it knocked over his lamp .
+%mor:	coord|and pro:per|it v|knock-PAST prep|over det:poss|his n|lamp .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	and the man looked out got the ball and looked outside the broken
+	window to see what was going on .
+%mor:	coord|and det:art|the n|man v|look-PAST adv|out v|get&PAST
+	det:art|the n|ball coord|and v|look-PAST prep|outside det:art|the
+	part|break&PASTP n|window inf|to v|see pro:int|what aux|be&PAST&13S
+	part|go-PRESP adv|on .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|9|COORD 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|16|INF
+	16|10|XCOMP 17|19|SUBJ 18|19|AUX 19|16|COMP 20|19|JCT 21|4|PUNCT
+@End

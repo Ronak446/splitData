@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:48
+@Media:	1064_3_BrokenWindow_January-3rd-2019-1-01-07-pm video
+*PAR:	&v vall [//] &ib all [//] &b &b &b &b &b &ba &um &tu &um &ki &um
+	sick [: kick] [* phon] ih [: a] [* phon] ball &b &bam .
+%mor:	v|kick det:art|a n|ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&b goes into bwindow [: window] [* phon] .
+%mor:	v|go-3S prep|into n|window .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	bam [//] &uh band [//] bed [//] &du &um hurt no &uh &um &ih ba [//]
+	no &um &s ba [//] no band [//] &um bicks [//] &um thick &um pickidu
+	[//] &uh no &um pi [//] &um perk [//] &um <picture thendo> [//] &wh
+	&pra &uh &um &pra &ma &um &m ban [* phon] pits [: hits] [* phon] du
+	[: the] [* phon] pichsure [: picture] [* phon] window and &boom .
+%mor:	v|hurt&ZERO qn|no qn|no qn|no n|thick co|no v|ban n|hit-PL
+	det:art|the n|picture n|window coord|and .
+%gra:	1|0|ROOT 2|3|QUANT 3|5|QUANT 4|5|QUANT 5|1|OBJ 6|7|COM 7|1|CJCT 8|7|OBJ
+	9|11|DET 10|11|MOD 11|8|CONJ 12|11|COORD 13|1|PUNCT
+*PAR:	&um and &um &um bandoet [//] no &um &um <band do> [//] no nose [* u]
+	oh said poid [//] &uh <boys bots> [//] &b boy bot [* u] okay .
+%mor:	coord|and co|no qn|no n|nose co|oh v|say&PAST n|boy n|bot adj|okay
+	.
+%gra:	1|4|LINK 2|4|COM 3|4|QUANT 4|0|INCROOT 5|6|COM 6|4|ENUM 7|8|MOD 8|6|OBJ
+	9|8|POSTMOD 10|4|PUNCT
+@End

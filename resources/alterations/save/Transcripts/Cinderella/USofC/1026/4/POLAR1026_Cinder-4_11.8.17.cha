@@ -1,0 +1,84 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:27
+@Media:	1026_Cinderella4 video
+*PAR:	&um his [//] &um the dad and Cinderella and the snepmother [* phon]
+	and the two kids were there .
+%mor:	det:art|the n|dad coord|and n:prop|Cinderella coord|and det:art|the
+	?|snepmother coord|and det:art|the det:num|two n|kid-PL cop|be&PAST
+	adv|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|7|DET 7|5|COORD
+	8|12|LINK 9|11|DET 10|11|QUANT 11|12|SUBJ 12|7|CMOD 13|12|JCT 14|2|PUNCT
+*PAR:	and she[* s] passed away or something .
+%mor:	coord|and pro:sub|she v|pass-PAST adv|away coord|or
+	pro:indef|something .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	and those [//] the stepmother puts her to work .
+%mor:	coord|and det:art|the step#n|mother v|put-3S pro:obj|her inf|to
+	v|work .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XCOMP 8|4|PUNCT
+*PAR:	and <they are> [//] &uh she finds a dress .
+%mor:	coord|and pro:sub|she v|find-3S det:art|a n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and they [//] mice and all help her .
+%mor:	coord|and n|mouse&PL coord|and adv|all v|help pro:obj|her .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|JCT 5|3|COORD 6|5|OBJ 7|1|PUNCT
+*PAR:	and she goes out to put it on .
+%mor:	coord|and pro:sub|she v|go-3S adv|out inf|to v|put&ZERO pro:per|it
+	adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XCOMP 7|6|OBJ 8|6|JCT
+	9|3|PUNCT
+*PAR:	and the stepmother and the two girls they &um tear it up .
+%mor:	coord|and det:art|the step#n|mother coord|and det:art|the
+	det:num|two n|girl-PL pro:sub|they v|tear pro:per|it adv|up .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|7|DET 6|7|QUANT 7|4|COORD
+	8|9|SUBJ 9|7|CMOD 10|9|OBJ 11|9|JCT 12|1|PUNCT
+*PAR:	and they go back to &s bedroom .
+%mor:	coord|and pro:sub|they v|go adv|back prep|to n|+n|bed+n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and the &um the godmother &um puts in <around and> [/] around and
+	round .
+%mor:	coord|and det:art|the det:art|the n|+n|god+n|mother v|put-3S
+	prep|in adv|around coord|and adv|round .
+%gra:	1|5|LINK 2|4|DET 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|CONJ
+	9|8|COORD 10|5|PUNCT
+*PAR:	and &uh &um they the mice and all the &um the horses .
+%mor:	coord|and pro:sub|they det:art|the n|mouse&PL coord|and qn|all
+	det:art|the det:art|the n|horse-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|CONJ 6|9|QUANT 7|9|DET
+	8|9|DET 9|5|COORD 10|1|PUNCT
+*PAR:	and they dance he falls in love with her .
+%mor:	coord|and pro:sub|they v|dance pro:sub|he n|fall-PL prep|in n|love
+	prep|with pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|5|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and shes [* phon] goes home .
+%mor:	coord|and ?|shes v|go-3S n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	he [* s] dropped her &um shoe .
+%mor:	pro:sub|he v|drop-PAST det:poss|her n|shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	they [//] she's got the shoe in her hand .
+%mor:	pro:sub|she~aux|be&3S part|get&PASTP det:art|the n|shoe prep|in
+	det:poss|her n|hand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*PAR:	<they &um> [/] they &um the mice and the &um key .
+%mor:	pro:sub|they det:art|the n|mouse&PL coord|and det:art|the n|key .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*PAR:	and she runs downstairs .
+%mor:	coord|and pro:sub|she v|run-3S adv|downstairs .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and they &um she puts the shoe on .
+%mor:	coord|and pro:sub|they pro:sub|she v|put-3S det:art|the n|shoe
+	adv|on .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	and &um and she lives <aftily [* phon] efter [* phon] ever> [//] &l
+	happily ever after .
+%mor:	coord|and coord|and pro:sub|she v|live-3S adv|happy&dadj-LY
+	adv|ever adv:tem|after .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|4|JCT 8|4|PUNCT
+@End

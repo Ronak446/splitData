@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	1035_PBJ4 video
+*PAR:	obay [* phon] a beanut+butter [* phon] and delly [* phon] .
+%mor:	?|obay det:art|a ?|beanut+butter coord|and adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	and two &um right dere [* phon] &uh bread [/] bread .
+%mor:	coord|and det:num|two adj|right ?|dere n|bread .
+%gra:	1|5|LINK 2|5|QUANT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	two of them .
+%mor:	det:num|two prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	one peanut+butter .
+%mor:	det:num|one n|+n|peanut+n|butter .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and two of them delly [* phon] .
+%mor:	coord|and det:num|two prep|of pro:obj|them adj|dell&dn-Y .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|3|POBJ 6|1|PUNCT
+*PAR:	but ere [* phon] and &uh teat [* phon] moolbil [* phon] .
+%mor:	conj|but ?|ere coord|and n|teat ?|moolbil .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+@End

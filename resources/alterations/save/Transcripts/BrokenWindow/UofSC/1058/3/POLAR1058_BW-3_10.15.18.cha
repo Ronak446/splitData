@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:36
+@Media:	POLAR_1058_BW3 video
+*PAR:	and lords [* u] lights [* u] lors [: lords] [* phon] &aninininin and
+	lor [: lord] [* phon] [/] lor [* lord] [* phon] oh .
+%mor:	coord|and n|lord-PL v|light-3S n|lord-PL coord|and ?|lor co|oh .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|COM 8|3|PUNCT
+*PAR:	and [/] and [/] and [/] and [/] and [/] &uh and [/] and &anananan
+	okay .
+%mor:	coord|and co|okay .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

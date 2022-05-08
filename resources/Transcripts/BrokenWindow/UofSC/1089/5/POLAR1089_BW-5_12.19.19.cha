@@ -1,0 +1,81 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1089_5_BrokenWindow_December-19th-2019-9-49-56-am video
+@Time Duration:	00:02:15
+*PAR:	okay this a kid .
+%mor:	co|okay det:dem|this det:art|a n|kid .
+%gra:	1|4|COM 2|4|DET 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	and he [/] he is soccer .
+%mor:	coord|and pro:sub|he cop|be&3S n|soccer .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	he kicked it .
+%mor:	pro:sub|he v|kick-PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and the soccer [//] or ball [/] ball he left [: hit] [* u] on the
+	window .
+%mor:	coord|and det:art|the coord|or n|ball pro:sub|he v|hit&ZERO prep|on
+	det:art|the n|window .
+%gra:	1|6|LINK 2|6|DET 3|2|CONJ 4|3|COORD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*PAR:	and [/] and it &um his cracked &um <with the> [/] with the ball [//]
+	no &um the soccer [: ball] [* s] through the window .
+%mor:	coord|and pro:per|it det:poss|his part|crack-PASTP prep|with
+	det:art|the qn|no det:art|the n|ball prep|through det:art|the
+	n|window .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|COMP 5|4|JCT 6|7|DET 7|9|QUANT
+	8|9|DET 9|5|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+*PAR:	&ih &uh outside and then inside now in his he the window and soccer
+	he went the dad is <in his> [/] &um in his lap .
+%mor:	adv|outside coord|and adv:tem|then adv|inside adv|now prep|in
+	det:poss|his pro:sub|he det:art|the n|window coord|and n|soccer
+	pro:sub|he v|go&PAST det:art|the n|dad cop|be&3S prep|in
+	det:poss|his n|lap .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|JCT 4|5|JCT 5|2|COORD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|DET 10|8|OBJ 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|10|CMOD
+	15|16|DET 16|17|SUBJ 17|14|COMP 18|17|JCT 19|20|DET 20|18|POBJ 21|1|PUNCT
+*PAR:	&um and [/] and <and it was> [/] and it was shaken a little bit
+	<when he> [/] when he was bat [* u] the &um with the soccer .
+%mor:	coord|and coord|and pro:per|it aux|be&PAST&13S part|shake&PASTP
+	det:art|a adj|little n|bit conj|when pro:sub|he cop|be&PAST&13S
+	n|bat det:art|the prep|with det:art|the n|soccer .
+%gra:	1|5|LINK 2|1|CONJ 3|2|COORD 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|5|ROOT 12|11|PRED 13|12|INCROOT 14|13|JCT
+	15|16|DET 16|14|POBJ 17|13|PUNCT
+*PAR:	and he looked at the window and I looked at the window to see if [/]
+	if their soccer [: ball] [* u] threw <in the> [/] in the [//] into
+	his outs [//] outside [//] no ins [//] outside inside [//] outside
+	[//] no inside now into his .
+%mor:	coord|and pro:sub|he v|look-PAST prep|at det:art|the n|window
+	coord|and pro:sub|I v|look-PAST prep|at det:art|the n|window inf|to
+	v|see conj|if det:poss|their n|ball v|throw&PAST adv|in prep|into
+	det:poss|his qn|no n|outside qn|no n|inside adv|now prep|into
+	det:poss|his .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|14|INF 14|9|XJCT 15|18|LINK
+	16|17|DET 17|18|SUBJ 18|14|COMP 19|18|JCT 20|18|JCT 21|23|DET 22|23|QUANT
+	23|20|POBJ 24|25|QUANT 25|18|OBJ 26|25|NJCT 27|18|JCT 28|27|POBJ
+	29|3|PUNCT
+*PAR:	and he's and <he saw the> [/] he saw the soccer ball in the window
+	to find the kid who was his &um with the kid yeah that was someone .
+%mor:	coord|and pro:sub|he~cop|be&3S coord|and pro:sub|he v|see&PAST
+	det:art|the n|soccer n|ball prep|in det:art|the n|window inf|to
+	v|find det:art|the n|kid pro:rel|who cop|be&PAST&13S det:poss|his
+	prep|with det:art|the n|kid co|yeah pro:dem|that cop|be&PAST&13S
+	pro:indef|someone .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|INF 14|9|XMOD 15|16|DET
+	16|14|OBJ 17|18|LINK 18|16|CMOD 19|23|DET 20|19|JCT 21|22|DET 22|20|POBJ
+	23|25|COM 24|25|SUBJ 25|18|PRED 26|25|PRED 27|3|PUNCT
+*PAR:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I think so .
+%mor:	pro:sub|I v|think co|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

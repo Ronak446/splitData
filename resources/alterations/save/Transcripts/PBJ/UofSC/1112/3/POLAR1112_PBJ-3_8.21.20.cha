@@ -1,0 +1,19 @@
+@UTF8
+@Window:	0_0_0_0_0_0_289_0_289_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:28
+@Media:	POLAR_1112_PBJ-3_8.21.2020.zoom, video
+*PAR:	&um two breads .
+%mor:	det:num|two n|bread-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	peanut+butter &feh sairy [: jelly] [* phon] &um &um &weh make &um
+	samiesh [: sandwich] [* phon] .
+%mor:	n|+n|peanut+n|butter n|jelly v|make n|sandwich .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um samie [: sandwich] [* phon] .
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

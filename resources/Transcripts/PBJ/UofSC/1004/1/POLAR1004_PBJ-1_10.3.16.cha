@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|change_corpus_later|PAR|||||Participant|||
+@Media:	004_1_PBJ, video
+@Time Duration:	00:01:07
+*PAR:	peanut+butter and jelly sandwich .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	in jelly in the jar .
+%mor:	prep|in n|jelly prep|in det:art|the n|jar .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	per [: for] [* s:ur] peanut+butter and jelly .
+%mor:	conj|for n|+n|peanut+n|butter coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and xxx in one place and the other .
+%mor:	coord|and prep|in det:num|one n|place coord|and det:art|the
+	qn|other .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|QUANT 4|2|POBJ 5|2|CONJ 6|7|DET 7|5|COORD
+	8|1|PUNCT
+*PAR:	and jelly and jam squeeze it in with another jam .
+%mor:	coord|and n|jelly coord|and n|jam n|squeeze pro:per|it adv|in
+	prep|with qn|another n|jam .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|QUANT 10|8|POBJ 11|6|PUNCT
+*PAR:	and [/] and for anytime anyplace .
+%mor:	coord|and conj|for adv:tem|anytime adv|anyplace .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*PAR:	and xxx and good &mmhmm good .
+%mor:	coord|and coord|and adj|good adj|good .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	good peanut+butter and jelly sandwich .
+%mor:	adj|good n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+@End

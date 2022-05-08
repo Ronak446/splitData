@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:52
+@Media:	1008_5_PBJ_Y2017_M04_D12_H10_M58_S44 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I I [/] want to get &h hown [* phon] .
+%mor:	pro:sub|I v|want inf|to v|get ?|hown .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	get get [/] &uh here and here .
+%mor:	v|get adv|here coord|and adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	okay and bit here .
+%mor:	co|okay coord|and v|bite&PAST adv|here .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*PAR:	so what we can <we can> [/] take miltow [* phon] .
+%mor:	adv|so pro:int|what pro:sub|we mod|can v|take ?|miltow .
+%gra:	1|2|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	<some> [//] all of these .
+%mor:	pro:indef|all prep|of pro:dem|these .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	all of them .
+%mor:	qn|all prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and then this one .
+%mor:	coord|and adv:tem|then pro:dem|this pro:indef|one .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	this together together [/] .
+%mor:	pro:dem|this adv|together .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and after that we have to go .
+%mor:	coord|and conj|after det:dem|that pro:sub|we v|have v|toe v|go .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|6|OBJ
+	8|1|PUNCT
+*PAR:	when and when to eat .
+%mor:	conj|when coord|and adv:int|when inf|to v|eat .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|INF 5|3|XCOMP 6|1|PUNCT
+@End

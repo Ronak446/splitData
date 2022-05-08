@@ -1,0 +1,32 @@
+@UTF8
+@Window:	0_0_0_0_-1_-1_489_0_489_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	POLAR1117_PBJ-4_10.26.20, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	alright you need the bread .
+%mor:	co|alright pro:per|you v|need det:art|the n|bread .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	put one of them there on the floor [: table] [* s] right there .
+%mor:	v|put&ZERO pro:indef|one prep|of pro:obj|them adv|there prep|on
+	det:art|the n|table adv|right n|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|JCT 6|1|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|1|JCT 11|1|PUNCT
+*PAR:	and then you put <peanut+grender [: peanut+butter] [* phon]> [//] bunder [: butter] [* phon] put that down and on top of the bread .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO n|butter v|put&ZERO
+	pro:dem|that adv|down coord|and prep|on n|top prep|of det:art|the
+	n|bread .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|CONJ 10|9|COORD 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*PAR:	and then put jelly . 
+%mor:	coord|and adv:tem|then v|put&ZERO n|jelly .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and put another the bread on top . 
+%mor:	coord|and v|put&ZERO qn|another det:art|the n|bread prep|on n|top .
+%gra:	1|2|LINK 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|OBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+@End

@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_1_PBJ_June-3rd-2019-2-22-46-pm video
+@Time Duration:	00:00:14
+*PAR:	&um well &um .
+%mor:	co|well .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanut+butter jelly &um and toast and bread .
+%mor:	n|+n|peanut+n|butter n|jelly coord|and n|toast coord|and n|bread .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|2|PUNCT
+@End

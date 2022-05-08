@@ -1,0 +1,33 @@
+@UTF8
+@Window:	0_0_0_0_0_0_185_0_185_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1108_PBJ-1_5.26.20 video
+@Time Duration:	00:00:25
+*PAR:	knife peanut+butter with good job .
+%mor:	n|knife n|+n|peanut+n|butter prep|with adj|good n|job .
+%gra:	1|2|MOD 2|0|ROOT 3|2|NJCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	let's eat .
+%mor:	v|let~pro:obj|us v|eat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	peanut+butter eat .
+%mor:	n|+n|peanut+n|butter v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	good job .
+%mor:	adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	bread &uh sandwich .
+%mor:	n|bread n|sandwich .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh eat .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh &uh &uh well &ah man .
+%mor:	co|well n|man .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	wanna eat .
+%mor:	v|want~inf|to v|eat .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+@End

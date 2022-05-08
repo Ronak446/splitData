@@ -1,0 +1,131 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:49
+@Media:	1023_6_BrokenWindow_March-13th-2018-10-13-20-am video
+*PAR:	it's a young man getting to buy [* s] the &uh to <have &uh the fun>
+	[//] have fun .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|young n|man part|get-PRESP
+	inf|to v|buy det:art|the v|toe v|have n|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|XMOD 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|10|OBJ 12|11|OBJ 13|2|PUNCT
+*PAR:	and &uh he takes the &k &k .
+%mor:	coord|and pro:sub|he v|take-3S det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	see the &k xxx [* phon] .
+%mor:	v|see det:art|the .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	it's not a football [* s] .
+%mor:	pro:per|it~cop|be&3S neg|not det:art|a n|+n|foot+n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	it's a &ch &ch .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	it's not a football [* s] .
+%mor:	pro:per|it~cop|be&3S neg|not det:art|a n|+n|foot+n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	it's a .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I can't say the word football [* s] .
+%mor:	pro:sub|I mod|can~neg|not v|say det:art|the n|word n|+n|foot+n|ball
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	it's a &k &k .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	it's a xxx [* phon] .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	it's the .
+%mor:	pro:per|it~cop|be&3S det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	keep saying football [* s] .
+%mor:	v|keep part|say-PRESP n|+n|foot+n|ball .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	it's not a football [* s] .
+%mor:	pro:per|it~cop|be&3S neg|not det:art|a n|+n|foot+n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] &k xxx [* phon] .
+*PAR:	and boy is &f not .
+%mor:	coord|and n|boy aux|be&3S neg|not .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*PAR:	&j just can't say the word football [* s] .
+%mor:	adv|just mod|can~neg|not v|say det:art|the n|word n|+n|foot+n|ball
+	.
+%gra:	1|4|JCT 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	it's not football [* s] .
+%mor:	pro:per|it~cop|be&3S neg|not n|+n|foot+n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	it's a .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	oh okay I'm gonna pass .
+%mor:	co|oh co|okay pro:sub|I~aux|be&1S mod:aux|gonna v|pass .
+%gra:	1|6|COM 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	because I can't make it any different noises .
+%mor:	conj|because pro:sub|I mod|can~neg|not v|make pro:per|it qn|any
+	adj|different n|noise-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|9|QUANT 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+*PAR:	different between football [* s] .
+%mor:	adj|different prep|between n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	but I can't keep it say .
+%mor:	conj|but pro:sub|I mod|can~neg|not v|keep pro:per|it v|say .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|7|CJCT 6|5|OBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	alright so this is a &uh .
+%mor:	co|alright conj|so pro:dem|this cop|be&3S det:art|a .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	the &uh man is seeing the the [/] &uh .
+%mor:	det:art|the n|man aux|be&3S part|see-PRESP det:art|the .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PUNCT
+*PAR:	there I'll say football [* s] again .
+%mor:	adv|there pro:sub|I~mod|will v|say n|+n|foot+n|ball adv|again .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	seen the &uh the [/] it's a .
+%mor:	part|see&PASTP det:art|the pro:per|it~cop|be&3S det:art|a .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	the man is luting [* phon] at the football [* s] .
+%mor:	det:art|the n|man aux|be&3S part|lute-PRESP prep|at det:art|the
+	n|+n|foot+n|ball .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	or just sitting there .
+%mor:	coord|or adv|just part|sit-PRESP adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|CONJ 4|3|JCT 5|1|PUNCT
+*PAR:	and it's unhappy .
+%mor:	coord|and pro:per|it~cop|be&3S un#adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and xxx [* phon] from the man to see it .
+%mor:	coord|and prep|from det:art|the n|man inf|to v|see pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|POBJ 5|6|INF 6|2|XCOMP 7|6|OBJ
+	8|1|PUNCT
+*PAR:	and so we [//] he's looking at the place .
+%mor:	coord|and conj|so pro:sub|he~aux|be&3S part|look-PRESP prep|at
+	det:art|the n|place .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	because it's full of .
+%mor:	conj|because pro:per|it~aux|be&3S adj|full prep|of .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
+*PAR:	making it sit there wrong .
+%mor:	part|make-PRESP pro:per|it v|sit adv|there adj|wrong .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and then it hurts .
+%mor:	coord|and adv:tem|then pro:per|it v|hurt-3S .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	well it's not hurtful .
+%mor:	co|well pro:per|it~cop|be&3S neg|not adj|hurt-FULL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*PAR:	but it's a lot of unhappiness that he's got .
+%mor:	conj|but pro:per|it~cop|be&3S det:art|a n|lot prep|of
+	un#n|happy&dadj-NESS pro:rel|that pro:sub|he~aux|be&3S
+	part|get&PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|3|PUNCT
+*PAR:	okay that's about .
+%mor:	co|okay pro:dem|that~cop|be&3S adv|about .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

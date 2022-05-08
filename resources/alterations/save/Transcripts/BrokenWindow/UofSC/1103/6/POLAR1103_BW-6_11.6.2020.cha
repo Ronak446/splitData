@@ -1,0 +1,27 @@
+@UTF8
+@Window:	167_907_362_511_0_0_292_0_292_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1103_BW-6_11.6.2020 video
+@Time Duration:	00:00:24
+*PAR:	the boy kicks the ball into the window .
+%mor:	det:art|the n|boy v|kick-3S det:art|the n|ball prep|into
+	det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	it lands on his looks like his lap [: lamp] [* u] .
+%mor:	pro:per|it v|land-3S prep|on det:poss|his v|look-3S prep|like
+	det:poss|his n|lamp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and the man goes <look into> [//] <looks into the> [//] looks in the
+	broken window to see where it came from .
+%mor:	coord|and det:art|the n|man v|go-3S v|look-3S prep|in det:art|the
+	part|break&PASTP n|window inf|to v|see pro:int|where pro:per|it
+	v|come&PAST prep|from .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|INF 11|5|XJCT 12|14|LINK 13|14|SUBJ 14|11|COMP 15|14|JCT
+	16|4|PUNCT
+@End

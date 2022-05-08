@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.PBJ-4 video
+@Time Duration:	00:00:34
+*PAR:	okay peanut+butter and jelly .
+%mor:	co|okay n|+n|peanut+n|butter coord|and n|jelly .
+*PAR:	here's &uh two pieces of <white toast> [//] white bread .
+%mor:	pro:exist|here~cop|be&3S det:num|two n|piece-PL prep|of adj|white
+	n|bread .
+*PAR:	the bottom one <is a> [/] <is a> [/] is a piece of bread .
+%mor:	det:art|the n|bottom pro:indef|one cop|be&3S det:art|a n|piece
+	prep|of n|bread .
+*PAR:	you put the peanut+butter and then the jelly .
+%mor:	pro:per|you v|put&ZERO det:art|the n|+n|peanut+n|butter coord|and
+	adv:tem|then det:art|the n|jelly .
+*PAR:	and the upper layer is the <other p> [//] <other part it the j> [//]
+	&uhuhuh shoot [//] <peanut+butter and jelly> [//] &uh <the jelly>
+	[//] <oh god> [//] I can't remember .
+%mor:	coord|and det:art|the adj|upper n|layer cop|be&3S det:art|the
+	pro:sub|I mod|can~neg|not v|remember .
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+@End

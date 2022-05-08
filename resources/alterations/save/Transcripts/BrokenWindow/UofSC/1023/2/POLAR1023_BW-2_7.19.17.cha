@@ -1,0 +1,87 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:34
+@Media:	1023_2_BrokenWindow_July-19th-2017-1-11-36-pm video
+
+*PAR:	this was it been talking about the young man .
+%mor:	pro:dem|this cop|be&PAST&13S pro:per|it aux|be&PASTP
+	part|talk-PRESP prep|about det:art|the adj|young n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|PRED 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*PAR:	and he had a going to be <not driving> [//] he was going to be just
+	having fun .
+%mor:	coord|and pro:sub|he v|have&PAST det:art|a part|go-PRESP inf|to
+	cop|be pro:sub|he aux|be&PAST&13S part|go-PRESP inf|to cop|be
+	adv|just part|have-PRESP n|fun .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XCOMP 8|10|SUBJ
+	9|10|AUX 10|7|PRED 11|12|INF 12|10|XCOMP 13|14|JCT 14|12|PRED 15|14|OBJ
+	16|3|PUNCT
+*PAR:	and the he just he realized that he was getting a &b a [/] bad place
+	on his on the on his &r they lived .
+%mor:	coord|and det:art|the pro:sub|he adv|just pro:sub|he v|realize-PAST
+	pro:rel|that pro:sub|he aux|be&PAST&13S part|get-PRESP det:art|a
+	adj|bad n|place prep|on det:poss|his prep|on det:art|the prep|on
+	det:poss|his pro:sub|they v|live-PAST .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT 15|14|POBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|MOD 20|21|SUBJ 21|18|POBJ
+	22|6|PUNCT
+*PAR:	it was starting to get he he [/] got caught no not coat .
+%mor:	pro:per|it aux|be&PAST&13S part|start-PRESP inf|to v|get pro:sub|he
+	aux|get&PAST part|catch&PASTP co|no neg|not v|coat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|11|COM 10|9|NEG 11|8|OBJ 12|3|PUNCT
+*PAR:	he was being have the outfit [* u] .
+%mor:	pro:sub|he aux|be&PAST&13S aux|be-PRESP v|have det:art|the n|outfit
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and he &s it was getting falling .
+%mor:	coord|and pro:sub|he pro:per|it aux|be&PAST&13S part|get-PRESP
+	part|fall-PRESP .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|5|PRED 7|1|PUNCT
+*PAR:	so the the [/] father or the the [/] it's the father it was another
+	man looked at the outfit [* u] and saw that she [//] he was
+	getting being unhappy .
+%mor:	co|so det:art|the n|father coord|or det:art|the
+	pro:per|it~cop|be&3S det:art|the n|father pro:per|it cop|be&PAST&13S
+	qn|another n|man v|look-PAST prep|at det:art|the n|outfit coord|and
+	v|see&PAST pro:rel|that pro:sub|he aux|be&PAST&13S part|get-PRESP
+	n|being un#adj|happy .
+%gra:	1|3|COM 2|3|DET 3|7|SUBJ 4|7|LINK 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|11|SUBJ 11|9|XMOD 12|13|QUANT 13|14|SUBJ 14|11|PRED 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|CONJ 19|18|COORD 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|COMP 24|25|MOD 25|23|OBJ 26|7|PUNCT
+*PAR:	and he was getting mad that the outfit [* u] was there .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|get-PRESP adj|mad
+	pro:rel|that det:art|the n|outfit cop|be&PAST&13S adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|CMOD 10|9|JCT 11|4|PUNCT
+*PAR:	so he <called looked it drove to not drove he &dr walked> [//] he
+	looked at the place where the <hat car not car the outf> [//] the
+	[/] &dr dog [* u] .
+%mor:	co|so pro:sub|he pro:sub|he v|look-PAST prep|at det:art|the n|place
+	pro:rel|where det:art|the n|dog .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|DET 10|7|CMOD 11|4|PUNCT
+*PAR:	he got caught .
+%mor:	pro:sub|he aux|get&PAST part|catch&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	he was very unhappy with that .
+%mor:	pro:sub|he cop|be&PAST&13S adv|very un#adj|happy prep|with
+	pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	and felt like everything was falling .
+%mor:	coord|and v|feel&PAST conj|like pro:indef|everything
+	aux|be&PAST&13S part|fall-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|2|PUNCT
+*PAR:	and they were not being happy .
+%mor:	coord|and pro:sub|they aux|be&PAST neg|not part|be-PRESP adj|happy
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	so .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

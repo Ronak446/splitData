@@ -1,0 +1,19 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_141_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:47
+@Media:	POLAR_1112_PBJ-4_9.11.2020.z, video
+*PAR:	&um take du [: two] [* phon] &um &um peabuh [: peanut] [* phon] &b
+	butter &um &ge .
+%mor:	v|take det:num|two n|peanut n|butter .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	take two &um buds [: breads] [* phon] and make &um pedut+butter
+	[: peanut+butter] [* phon] jelly &um &vwe &ve sandwich . 
+%mor:	v|take det:num|two n|bread-PL coord|and v|make n|+n|peanut+n|butter
+	n|jelly n|sandwich .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|CONJ 5|4|COORD 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|1|PUNCT
+@End

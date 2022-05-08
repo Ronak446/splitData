@@ -1,0 +1,21 @@
+@UTF8
+@Window:	0_0_0_0_0_0_369_0_369_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	POLAR#1106_PB&J-1_4.25.20, video
+*PAR:	xxx [* phon] <is good> [/] is good .
+%mor:	cop|be&3S adj|good .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*PAR:	is brown butter and shay [: jelly] [* phon] swamwich [: sandwich]
+	[* phon] .
+%mor:	cop|be&3S adj|brown n|butter coord|and n|jelly n|sandwich .
+%gra:	1|0|ROOT 2|3|MOD 3|6|MOD 4|3|CONJ 5|4|COORD 6|1|PRED 7|1|PUNCT
+*PAR:	and xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon]
+	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

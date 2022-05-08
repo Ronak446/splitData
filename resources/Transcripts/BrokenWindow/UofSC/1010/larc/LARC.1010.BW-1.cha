@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	1010_larc_BrokenWindow_August-7th-2019-4-21-51-pm video
+*PAR:	that one xxx [* phon] &uh xxx [* phon] pe [: he] [* phon] felt
+	[: fell] [* phon] down .
+%mor:	comp|that det:num|one pro:sub|he v|fall&PAST adv|down .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	xxx [* phon] alright she [//] xxx [* phon] I mean he [/] <he
+	brought> [/] he brought .
+%mor:	adj|alright pro:sub|I adj|mean pro:sub|he v|bring&PAST .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*PAR:	he xxx [* phon] rolled xxx [* phon] .
+%mor:	pro:sub|he v|roll-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	he but had hit a xxx [* phon] .
+%mor:	pro:sub|he conj|but v|have&PAST n|hit det:art|a .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|4|POSTMOD 6|1|PUNCT
+*PAR:	and then xxx [* phon] .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+@End

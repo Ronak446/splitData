@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+@Media:	1028_PB&J1 video
+*PAR:	okay well &uh in a &uh the &y &y get &t two pieces of bread &uh
+	starting out with &uh either toasted or not toasted .
+%mor:	co|okay n|well prep|in det:art|a det:art|the v|get det:num|two
+	n|piece-PL prep|of n|bread part|start-PRESP adv|out prep|with
+	adv|either part|toast-PASTP coord|or neg|not part|toast-PASTP .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|DET 6|3|POBJ 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|8|XJCT 12|11|JCT 13|11|JCT 14|13|POBJ 15|8|XMOD
+	16|15|CONJ 17|16|NEG 18|16|COORD 19|2|PUNCT
+*PAR:	&um and &uh you would spread the &uh peanut+butter on the &uh one
+	&uh one of the piecep [* phon] of bread .
+%mor:	coord|and pro:per|you mod|will&COND v|spread&ZERO det:art|the
+	n|+n|peanut+n|butter prep|on det:art|the pro:indef|one det:num|one
+	prep|of det:art|the ?|piecep prep|of n|bread .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|11|QUANT 11|9|NJCT 12|13|DET 13|11|POBJ 14|13|JCT 15|14|POBJ
+	16|4|PUNCT
+*PAR:	you spread the &uh peanut+butter on that .
+%mor:	pro:per|you v|spread&ZERO det:art|the n|+n|peanut+n|butter prep|on
+	pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	you would &uh get some &j jelly and [/] and &uh you would &uh spread
+	it on the &uh bread .
+%mor:	pro:per|you mod|will&COND v|get qn|some n|jelly coord|and
+	pro:per|you mod|will&COND v|spread&ZERO pro:per|it prep|on
+	det:art|the n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|3|CJCT 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and &uh then &uh you would put the &uh other top on the sandwich .
+%mor:	coord|and adv:tem|then pro:per|you mod|will&COND v|put&ZERO
+	det:art|the qn|other n|top prep|on det:art|the n|sandwich .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and [/] and &uh there you go .
+%mor:	coord|and adv|there pro:per|you v|go .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

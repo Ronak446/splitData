@@ -1,0 +1,40 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:33
+@Media:	1039_BW2 video
+*PAR:	foccer [* phon] [//] &oh &uh bow [* phon] to ball yeah &uh &m mahl
+	[* phon] .
+%mor:	n|bow prep|to n|ball co|yeah ?|mahl .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|5|COM 5|1|ENUM 6|1|PUNCT
+*PAR:	vake [* phon] [/] vake [* phon] dol [* phon] doy [* phon] away ih
+	[* phon] .
+%mor:	?|vake ?|dol adj|do&dv-Y adv|away ?|ih .
+%gra:	1|5|LINK 2|5|MOD 3|5|MOD 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAR:	&uh hurt .
+%mor:	v|hurt&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh &uh &t wep [* phon] [/] wep [* phon] &uh wip [* phon] .
+%mor:	?|wep ?|wip .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	&um bite [* u] bow [* phon] lord .
+%mor:	n|bite n|bow n|lord .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	rako [* phon] rass [* phon] &uh chair .
+%mor:	?|rako ?|rass n|chair .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	coutside [* phon] no &uh .
+%mor:	?|coutside co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	no rass [* phon] drah [* phon] .
+%mor:	qn|no ?|rass ?|drah .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I know how to fay [* phon] it .
+%mor:	pro:sub|I v|know adv:int|how inf|to ?|fay pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|5|OBJ 7|2|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

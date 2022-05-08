@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1048_PBJ1_R2 video
+
+*PAR:	okay <I want two> [/] I want two pieces of bread .
+%mor:	adj|okay pro:sub|I v|want det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	on one slice <I wan [: want] [* phon]> [//] I will put a peanut+butter .
+%mor:	prep|on det:num|one n|slice pro:sub|I mod|will v|put&ZERO det:art|a
+	n|+n|peanut+n|butter .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	on the other side I want to put grape jelly .
+%mor:	prep|on det:art|the qn|other n|side pro:sub|I v|want inf|to
+	v|put&ZERO n|grape n|jelly .
+%gra:	1|6|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|MOD 10|8|OBJ 11|6|PUNCT
+*PAR:	and they smashed it <to> [//] both of them .
+%mor:	coord|and pro:sub|they v|smash-PAST pro:per|it qn|both prep|of
+	pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and then I &ja &en endoy [: enjoy] [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|I v|enjoy .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

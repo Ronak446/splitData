@@ -1,0 +1,24 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	POLAR_1047_BW4 video
+*PAR:	okay what's in there .
+%mor:	co|okay pro:int|what~aux|be&3S adv|in adv|there .
+%gra:	1|2|COM 2|0|ROOT 3|2|POSS 4|5|JCT 5|3|JCT 6|2|PUNCT
+*PAR:	du yeah [/] yeah .
+%mor:	?|du co|yeah .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	xxx [* phon] de on them .
+%mor:	?|de prep|on pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	ted [* phon] off and put back in yeah .
+%mor:	?|ted adv|off coord|and v|put&ZERO adv|back prep|in co|yeah .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|4|JCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

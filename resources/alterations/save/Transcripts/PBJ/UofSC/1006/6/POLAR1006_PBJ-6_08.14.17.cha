@@ -1,0 +1,30 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:17
+@Media:	1006_6PBJ_August-14th-2017-1-59-25-pm video
+*PAR:	<it's &uh right there> [/] and it's &uh right there .
+%mor:	coord|and pro:per|it~cop|be&3S adv|right adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and she says &uh xxx [* phon] .
+%mor:	coord|and pro:sub|she v|say-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	put it xxx [* phon] .
+%mor:	v|put&ZERO pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and just &boom .
+%mor:	coord|and adv|just .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	I can't talk .
+%mor:	pro:sub|I mod|can~neg|not v|talk .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	sorry to do that .
+%mor:	co|sorry inf|to v|do pro:dem|that .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*PAR:	that's alright though .
+%mor:	pro:dem|that~cop|be&3S adj|alright adv|though .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+@End

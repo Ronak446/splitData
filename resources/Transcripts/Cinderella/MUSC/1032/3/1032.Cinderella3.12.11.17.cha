@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:16
+@Media:	1032_Cinderella3 video
+*PAR:	I tress [* phon] .
+%mor:	pro:sub|I ?|tress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&uh I don't .
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	yup [* s] [//] nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

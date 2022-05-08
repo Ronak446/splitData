@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1050_4_PBJ_August-6th-2018-10-41-21-am video
+*PAR:	xxx [* phon] shoop [* phon] .
+*PAR:	joot [* phon] .
+*PAR:	<says doot [* phon]> [//] says oh doot [* phon] .
+%mor:	v|say-3S co|oh ?|doot .
+%gra:	1|0|ROOT 2|3|COM 3|1|COMP 4|1|PUNCT
+*PAR:	and go joot [* phon] .
+%mor:	coord|and v|go ?|joot .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

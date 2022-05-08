@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:35
+@Media:	1062_4_BrokenWindow_January-24th-2019-11-26-41-am video
+*PAR:	&um kick [//] &um &er &b &um boy kick &um .
+%mor:	co|boy v|kick .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	trash [: crash] [* phon] .
+%mor:	n|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &um oh [/] oh my god .
+%mor:	co|oh det:poss|my n|god .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um tick [: kick] [* phon] &u up .
+%mor:	v|kick adv|up .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and glass and weer [* phon] .
+%mor:	coord|and n|glass coord|and adj|wee-CP .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

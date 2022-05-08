@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1100.BW-2 video
+@Time Duration:	00:00:39
+*PAR:	icked [//] kick .
+%mor:	v|kick .
+*PAR:	bit [* u] kick .
+%mor:	v|bite&PAST v|kick .
+*PAR:	browen [//] broken .
+%mor:	part|break&PASTP .
+*PAR:	xxx [* phon] .
+*PAR:	broken .
+%mor:	part|break&PASTP .
+*PAR:	yeah xxx [* phon] .
+%mor:	co|yeah .
+@End

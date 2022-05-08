@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1083_2_PBJ_July-9th-2019-9-38-59-am video
+@Time Duration:	00:00:11
+*PAR:	&um bi [: spread] [* phon] [/] bi [: spread] [* phon] peanut+butter .
+%mor:	v|spread&ZERO n|+n|peanut+n|butter .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and toast .
+%mor:	coord|and n|toast .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and bed [: bread] [* phon] .
+%mor:	coord|and n|bread .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um XXX [* phon] over there .
+%mor:	n:prop|XXX prep|over n|there .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+@End

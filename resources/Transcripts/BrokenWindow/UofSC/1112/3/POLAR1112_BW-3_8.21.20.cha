@@ -1,0 +1,29 @@
+@UTF8
+@Window:	0_0_0_0_0_0_439_0_439_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:45
+@Media:	POLAR_1112_BW-3_8.21.2020.zoom, video
+*PAR:	&um &um ploting [: playing] [* phon] &um foot &um ball .
+%mor:	part|play-PRESP n|foot n|ball .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*PAR:	&uh <hit a tass [: glass] [* phon]> [//] &tt hit duh [: the]
+	[* phon] tass [: glass] [* phon] .
+%mor:	v|hit&ZERO det:art|the n|glass .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&um &buh &um <broben [: broken] [* phon]> [//] broken &um &hm &hi
+	&um I don't know .
+%mor:	part|break&PASTP pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	oh &um hit duh [: the] [* phon] drass [: glass] [* phon] broken I
+	don't &um .
+%mor:	co|oh v|hit&ZERO det:art|the n|glass part|break&PASTP pro:sub|I
+	mod|do~neg|not .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT 6|5|OBJ 7|6|INCROOT 8|7|NEG
+	9|7|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@End

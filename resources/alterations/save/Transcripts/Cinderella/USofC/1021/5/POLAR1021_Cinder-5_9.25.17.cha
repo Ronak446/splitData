@@ -1,0 +1,52 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:16
+@Media:	1021_5_Cinderella_September-25th-2017-10-47-49-am video
+*PAR:	&fuh &fuh fall in .
+%mor:	n|fall adv|in .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	he first &ss &ss xxx [* phon] .
+%mor:	pro:sub|he adv|first .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&um &fuh xxx [* phon] &ff xxx [* phon] .
+*PAR:	&ff xxx [* phon] xxx [* phon] more .
+%mor:	pro:indef|more .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&shff xxx [* phon] and xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sh xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	and &s &s &ff &ff xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	falling xxx [* phon] .
+%mor:	part|fall-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ff &ff further .
+%mor:	adv|further .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &ff &um &ff &um &ff xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ff &ff foot xxx [* phon] .
+%mor:	n|foot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] &um &ff &ff &ff for that .
+%mor:	prep|for pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	&ff &ff for that .
+%mor:	prep|for pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	and &um &ff &ff xxx [* phon] xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and [/] and [/] and &ff &ff .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

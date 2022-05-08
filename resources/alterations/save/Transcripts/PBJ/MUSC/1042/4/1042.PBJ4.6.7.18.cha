@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:47
+@Media:	1042_PBJ4 video
+*PAR:	well &yuh &y you get the peanut+butter and jelly &um .
+%mor:	co|well pro:per|you v|get det:art|the n|+n|peanut+n|butter
+	coord|and n|jelly .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|3|PUNCT
+*PAR:	you get &ih two pieces of bread .
+%mor:	pro:per|you v|get det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	put the [/] &j the [/] &uh the jelly on one piece of bread .
+%mor:	v|put&ZERO det:art|the n|jelly prep|on det:num|one n|piece prep|of
+	n|bread .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|QUANT 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	and &uh then [/] then the [/] the [/] &um the &um .
+%mor:	coord|and adv:tem|then det:art|the .
+%gra:	1|0|INCROOT 2|4|JCT 3|4|DET 4|1|PUNCT
+*PAR:	on the other piece of pade [* phon] you get you <put the> [/] &uh
+	put the &uh putter [* phon] peanut+butter on that .
+%mor:	prep|on det:art|the qn|other n|piece prep|of ?|pade pro:per|you
+	v|get pro:per|you v|put&ZERO det:art|the n|putter
+	n|+n|peanut+n|butter prep|on pro:dem|that .
+%gra:	1|8|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ2 10|8|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT 15|14|POBJ
+	16|8|PUNCT
+*PAR:	and you make sure they're square .
+%mor:	coord|and pro:per|you v|make adv|sure pro:sub|they~aux|be&PRES
+	adv|square .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|AUX 7|6|JCT 8|3|PUNCT
+*PAR:	then you put them together .
+%mor:	adv:tem|then pro:per|you v|put&ZERO pro:obj|them adv|together .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and you have a sandwich .
+%mor:	coord|and pro:per|you v|have det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

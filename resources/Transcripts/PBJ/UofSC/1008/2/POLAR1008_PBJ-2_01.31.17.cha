@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:37
+@Media:	1008_2_PBJ_Y2017_M01_D31_H11_M33_S26 video
+*PAR:	I want to buy the first &uh licon [* phon] .
+%mor:	pro:sub|I v|want inf|to v|buy det:art|the adj|first ?|licon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*PAR:	&b buy buy [/] to make make [/] &ba bay [* phon] pee [* phon] .
+%mor:	n|buy inf|to v|make n|bay n|pee .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*PAR:	and then then [/] I have to flehsh [* phon] to his somebody with
+	their buy meht [* phon] feas [* phon] .
+%mor:	coord|and adv:tem|then pro:sub|I v|have v|toe ?|flehsh v|toe
+	det:poss|his pro:indef|somebody prep|with det:poss|their n|buy
+	?|meht ?|feas .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|SUBJ 7|5|COMP 8|9|MOD
+	9|7|OBJ 10|7|JCT 11|12|MOD 12|10|POBJ 13|12|CONJ 14|13|COORD 15|4|PUNCT
+*PAR:	and then and bleach [* u] bles [* phon] together .
+%mor:	coord|and adv:tem|then coord|and n|bleach ?|bles adv|together .
+%gra:	1|5|LINK 2|5|JCT 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and then we can eat flame [* u] .
+%mor:	coord|and adv:tem|then pro:sub|we mod|can v|eat n|flame .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@End

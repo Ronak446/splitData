@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:25
+@Media:	1058_Cinderella1 video
+*PAR:	is and [/] and [/] and .
+%mor:	aux|be&3S coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*PAR:	and [/] and [/] and [/] and [/] and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ooh and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay [/] okay &kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

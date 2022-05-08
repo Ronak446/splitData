@@ -1,0 +1,47 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:39
+@Media:	POLAR.1084.BW-5 video
+*PAR:	alright so this is a story with Bivly_Bob [: Billy_Bob] [* phon] kit
+	[: kick] [* phon]  the soccer ball when he was practicing for this
+	high school soccer team .
+%mor:	co|alright co|so pro:dem|this cop|be&3S det:art|a n|story prep|with
+	n:prop|Billy_Bob v|kick det:art|the n|soccer n|ball conj|when
+	pro:sub|he aux|be&PAST&13S part|practice-PRESP prep|for det:dem|this
+	adj|high n|school n|soccer n|team .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|SUBJ
+	9|7|POBJ 10|12|DET 11|12|MOD 12|9|OBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|4|CJCT 17|16|JCT 18|22|DET 19|22|MOD 20|22|MOD 21|22|MOD 22|17|POBJ
+	23|4|PUNCT
+*PAR:	and he kicked it .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he went to the window for the [//] his neighbor's house .
+%mor:	coord|and pro:sub|he v|go&PAST prep|to det:art|the n|window
+	prep|for det:poss|his adj|neighbor&dn-POSS n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*PAR:	and it broke the window broke this lamp .
+%mor:	coord|and pro:per|it v|break&PAST det:art|the n|window v|break&PAST
+	det:dem|this n|lamp .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	and he said oh no Billy_Bob did you just kick your old ball in my
+	window .
+%mor:	coord|and pro:sub|he v|say&PAST co|oh co|no n:prop|Billy_Bob
+	mod|do&PAST pro:per|you adv|just v|kick det:poss|your adj|old n|ball
+	prep|in det:poss|my n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|10|COM 5|6|COM 6|10|SUBJ 7|10|AUX
+	8|10|SUBJ 9|10|JCT 10|3|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|10|JCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*PAR:	so the &h neighbor looks out the window and said yup &bo Billy_Bob
+	did it .
+%mor:	co|so det:art|the n|neighbor v|look-3S prep|out det:art|the
+	n|window coord|and v|say&PAST co|yup n:prop|Billy_Bob mod|do&PAST
+	pro:per|it .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|13|COM 11|13|SUBJ 12|13|AUX 13|9|OBJ 14|4|PUNCT
+@End

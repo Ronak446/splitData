@@ -1,0 +1,13 @@
+@UTF8
+@Window:	0_0_0_0_0_0_228_0_228_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:19
+@Media:	POLAR#1106_PB&J-3_6.04.20, video
+*PAR:	xxx [* phon] <is good> [/] <is good> [/] <is good> [/] is good
+	&eh good <is good> [/] is good .
+%mor:	cop|be&3S adj|good adj|good aux|be&3S adj|good .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|3|INCROOT 5|4|PRED 6|4|PUNCT
+@End

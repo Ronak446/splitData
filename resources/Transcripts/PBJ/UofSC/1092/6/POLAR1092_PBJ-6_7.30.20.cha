@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1092.PBJ-6 video
+@Time Duration:	00:00:12
+*PAR:	&uh a sandwich .
+%mor:	det:art|a n|sandwich .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh tinda [* phon] salad [* u] .
+%mor:	?|tinda n|salad .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and a sandwich .
+%mor:	coord|and det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+@End

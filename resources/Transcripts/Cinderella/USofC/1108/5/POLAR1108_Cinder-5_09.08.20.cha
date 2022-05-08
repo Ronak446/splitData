@@ -1,0 +1,47 @@
+@UTF8
+@Window:	0_0_0_0_0_0_191_1_191_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1108_Cinder-5_9.8.20 video
+@Time Duration:	00:01:31
+*PAR:	okay Cinderella [/] &c &cli &y &y Cinderella .
+%mor:	co|okay n:prop|Cinderella .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	Cinderella was [/] was nice because &uh .
+%mor:	n:prop|Cinderella cop|be&PAST&13S adj|nice conj|because .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+*PAR:	<Cinderella was good because> [/] Cinderella was good because nice
+	because .
+%mor:	n:prop|Cinderella cop|be&PAST&13S adj|good conj|because adj|nice
+	conj|because .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|LINK 5|2|PRED 6|5|OM 7|2|PUNCT
+*PAR:	picture &mm nice because Cinderella was good because not flower
+	[* u] everything because .
+%mor:	n|picture adj|nice conj|because n:prop|Cinderella cop|be&PAST&13S
+	adj|good conj|because neg|not v|flower pro:indef|everything
+	conj|because .
+%gra:	1|2|MOD 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|PRED 7|2|ENUM 8|7|NEG
+	9|7|ENUM 10|9|OBJ 11|9|JCT 12|2|PUNCT
+*PAR:	picture was nice because &c nice &uh &ah man .
+%mor:	n|picture cop|be&PAST&13S adj|nice conj|because adj|nice n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*PAR:	good story because Cinderella was good because nice shoes and stuff
+	because nice &b Cinderella was good and bad [/] bad from [/] from
+	[/] from [//] no &uh well good job .
+%mor:	adj|good n|story conj|because n:prop|Cinderella cop|be&PAST&13S
+	adj|good conj|because adj|nice n|shoe-PL coord|and n|stuff
+	conj|because adj|nice n:prop|Cinderella cop|be&PAST&13S adj|good
+	coord|and adj|bad co|no adv|well adj|good n|job .
+%gra:	1|2|MOD 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|PRED 7|9|LINK
+	8|9|MOD 9|5|PRED 10|9|CONJ 11|10|COORD 12|15|LINK 13|14|MOD 14|15|SUBJ
+	15|9|CMOD 16|15|PRED 17|15|CONJ 18|22|MOD 19|22|COM 20|21|JCT 21|22|MOD
+	22|17|COORD 23|2|PUNCT
+*PAR:	Cinderella was good because nice .
+%mor:	n:prop|Cinderella cop|be&PAST&13S adj|good conj|because adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|LINK 5|2|CJCT 6|2|PUNCT
+*PAR:	alright okay byebye .
+%mor:	co|alright co|okay co|byebye .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:20
+@Media:	1046_BW4 video
+
+*PAR:	alright &um the &l young lad is &um it's [: he's] [* s] &uh punting the football [//] &um the soccer ball .
+%mor:	co|alright det:art|the adj|young n|lad cop|be&3S
+	pro:sub|he~aux|be&3S part|punt-PRESP det:art|the det:art|the
+	n|soccer n|ball .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|12|DET 10|12|DET 11|12|MOD 12|8|OBJ 13|8|PUNCT
+*PAR:	&uh the &um it's a &uh &um pants and shirt &um and hat .
+%mor:	det:art|the pro:per|it~cop|be&3S det:art|a n:pt|pants coord|and
+	n|shirt coord|and n|hat .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD 8|5|CONJ
+	9|8|COORD 10|3|PUNCT
+*PAR:	so he &um punts the ball through the &um window &um .
+%mor:	co|so pro:sub|he v|punt-3S det:art|the n|ball prep|through
+	det:art|the n|window .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	so &um <the &um gentleman> [/] &um the gentleman &um reacts when the &um lamp is broken .
+%mor:	co|so det:art|the n|gentleman v|react-3S conj|when det:art|the
+	n|lamp aux|be&3S part|break&PASTP .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|9|LINK 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|4|PUNCT
+*PAR:	&um the [/] &um the gentleman looks that &um so [/] so the gentleman looks at the boy &um .
+%mor:	det:art|the n|gentleman cop|look-3S pro:dem|that conj|so
+	det:art|the n|gentleman cop|look-3S prep|at det:art|the n|boy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+@End

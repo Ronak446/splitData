@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.Cind-3 video
+@Time Duration:	00:00:53
+*PAR:	alright the story of Cinderella .
+%mor:	co|alright det:art|the n|story prep|of n:prop|Cinderella .
+*PAR:	well he [//] she [//] I don't know what to do &um .
+%mor:	co|well pro:sub|I mod|do~neg|not v|know pro:int|what inf|to v|do .
+*PAR:	she went to go get her [/] her slipper of course .
+%mor:	pro:sub|she v|go&PAST inf|to v|go v|get det:poss|her n|slipper
+	prep|of n|course .
+*PAR:	oh well there's [/] there's three
+	[: two] [* s] sisters that are mean to her .
+%mor:	co|oh co|well pro:exist|there~cop|be&3S det:num|two n|sister-PL
+	pro:rel|that cop|be&PRES adj|mean prep|to pro:obj|her .
+*PAR:	well anyway she gets the slipper .
+%mor:	co|well co|anyway pro:sub|she v|get-3S det:art|the n|slipper .
+*PAR:	<and she> [//] and &uh <he co> [//] the prince comes and has her
+	slipper .
+%mor:	coord|and det:art|the n|prince v|come-3S coord|and aux|have&3S
+	det:poss|her n|slipper .
+*PAR:	and she tries it on .
+%mor:	coord|and pro:sub|she v|try-3S pro:per|it adv|on .
+*PAR:	and it fits her .
+%mor:	coord|and pro:per|it v|fit-3S pro:obj|her .
+*PAR:	and then they're happy .
+%mor:	coord|and adv:tem|then pro:sub|they~aux|be&PRES adj|happy .
+*PAR:	and &uh I don't know .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know .
+*PAR:	that's all I can remember .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can v|remember .
+@End

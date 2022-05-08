@@ -1,0 +1,86 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:45
+@Media:	1012_1_BrokenWindow_Y2017_M02_D08_H13_M32_S52 video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so it's it's [/] a kit [* phon] no kit [* phon] kit [/] kit [/] no .
+%mor:	adv|so pro:per|it~cop|be&3S det:art|a n|kit qn|no n|kit co|no .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|QUANT 7|5|XMOD 8|7|COM
+	9|3|PUNCT
+*PAR:	everytime everytime [/] everytime [/] now .
+%mor:	adv:tem|everytime adv|now .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	kit [* phon] all [* phon] .
+%mor:	n|kit post|all .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	it's a kit [* phon] kit [/] ball &uh ball [/] .
+%mor:	pro:per|it~cop|be&3S det:art|a n|kit n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	it's a <it's a> [/] boy .
+%mor:	pro:per|it~cop|be&3S det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	glass it's a glass .
+%mor:	n|glass pro:per|it~cop|be&3S det:art|a n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	it's a .
+%mor:	pro:per|it~cop|be&3S det:art|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I can we xxx [* phon] .
+%mor:	pro:sub|I mod|can pro:sub|we .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	I xxx [* phon] .
+%mor:	pro:sub|I .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's a <it's a> [/] <it's a> [/] trees .
+%mor:	pro:per|it~cop|be&3S det:art|a n|tree-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a ball .
+%mor:	pro:per|it~cop|be&3S det:art|a n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	the this this [/] this [/] .
+%mor:	det:art|the pro:dem|this .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the same .
+%mor:	det:art|the adj|same .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	just &uh like it's a boy kick the .
+%mor:	adj|just co|like pro:per|it~cop|be&3S det:art|a n|boy v|kick
+	det:art|the .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|PRED 8|7|OBJ
+	9|4|PUNCT
+*PAR:	it's a this .
+%mor:	pro:per|it~cop|be&3S det:art|a pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	breaking this &uh lamp .
+%mor:	part|break-PRESP pro:dem|this n|lamp .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	like a xxx [* phon] that's right xxx [* phon] xxx [* phon] .
+%mor:	prep|like det:art|a pro:dem|that~aux|be&3S n|right .
+%gra:	1|0|INCROOT 2|5|DET 3|5|DET 4|5|MOD 5|1|POBJ 6|1|PUNCT
+*PAR:	okay &uh .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	alright the same .
+%mor:	co|alright det:art|the adj|same .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the it's a glass vase .
+%mor:	det:art|the pro:per|it~cop|be&3S det:art|a n|glass n|vase .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	it's a man .
+%mor:	pro:per|it~cop|be&3S det:art|a n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	it's a broken .
+%mor:	pro:per|it~cop|be&3S det:art|a part|break&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	I don't know xxx [* phon] .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	broken ball .
+%mor:	part|break&PASTP n|ball .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+@End

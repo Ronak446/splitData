@@ -1,0 +1,76 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:39
+@Media:	POLAR_1048_Cinderella1 video
+*PAR:	okay there is &tciz Cinderella with three [* s] &s stepsisters .
+%mor:	co|okay adv|there cop|be&3S n:prop|Cinderella prep|with
+	det:num|three step#n|sister-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|3|PUNCT
+*PAR:	they are very bad and mean .
+%mor:	pro:sub|they cop|be&PRES adv|very adj|bad coord|and adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	&cilla &ci Cinderella was &hav having to <pe [* phon]> [//] be there
+	maid and all &th that .
+%mor:	n:prop|Cinderella aux|be&PAST&13S part|have-PRESP inf|to cop|be
+	adv|there n|maid coord|and qn|all pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|7|CONJ
+	9|10|QUANT 10|8|COORD 11|3|PUNCT
+*PAR:	<one day> [/] one day there was a das [* phon] .
+%mor:	det:num|one n|day adv|there cop|be&PAST&13S det:art|a ?|das .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	well &cin <Cinderella didn't> [//] <Cinderella didn't have> [//] <&s
+	she she didn't have &th> [//] she didn't have a .
+%mor:	co|well pro:sub|she mod|do&PAST~neg|not v|have det:art|a .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|PUNCT
+*PAR:	there was a fairy that give her a way thar
+	[* phon] .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|fairy pro:rel|that
+	v|give pro:obj|her det:art|a n|way ?|thar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|9|POSTMOD 11|2|PUNCT
+*PAR:	she give him [* s] the dress and the shoes and the &ca
+	carriase [* phon] to the king and prince <to a des [* phon]> [//] to
+	a <ta [* phon]> [//] dance .
+%mor:	pro:sub|she v|give pro:obj|him det:art|the n|dress coord|and
+	det:art|the n|shoe-PL coord|and det:art|the ?|carriase prep|to
+	det:art|the n|king coord|and n|prince prep|to det:art|a n|dance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|8|CONJ 10|11|DET 11|9|COORD 12|11|JCT 13|14|DET 14|12|POBJ 15|12|CONJ
+	16|15|COORD 17|16|NJCT 18|19|DET 19|17|POBJ 20|2|PUNCT
+*PAR:	but she had to be home by [/] by minight [* phon] .
+%mor:	conj|but pro:sub|she v|have&PAST inf|to cop|be n|home prep|by
+	?|minight .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	&bef before she turned back to <retur [* phon]> [//] return the
+	<pumpin [* phon]> [//] pumpkin .
+%mor:	conj|before pro:sub|she v|turn-PAST adv|back inf|to v|return
+	det:art|the n|pumpkin .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*PAR:	but <on the way &ou> [//] on the way of the castle she had left a
+	shoe .
+%mor:	conj|but prep|on det:art|the n|way prep|of det:art|the n|castle
+	pro:sub|she aux|have&PAST part|leave&PASTP det:art|a n|shoe .
+%gra:	1|10|LINK 2|10|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*PAR:	a kardsman [* phon] came back well the three [* s] sisters didn't
+	fit the <sleeeper [* phon]> [//] slipper .
+%mor:	det:art|a ?|kardsman v|come&PAST adv|back adv|well det:art|the
+	det:num|three n|sister-PL mod|do&PAST~neg|not v|fit&ZERO det:art|the
+	n|slipper .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|11|JCT 6|8|DET 7|8|QUANT 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|13|DET 13|11|OBJ 14|3|PUNCT
+*PAR:	but [/] &d but it did fit Cinderella .
+%mor:	conj|but pro:per|it v|do&PAST part|fit&PASTP n:prop|Cinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*PAR:	so the prince and Cinderella live [//] lived happily after .
+%mor:	co|so det:art|the n|prince coord|and n:prop|Cinderella v|live-PAST
+	adv|happy&dadj-LY conj|after .
+%gra:	1|3|COM 2|3|DET 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|6|PUNCT
+@End

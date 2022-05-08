@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:40
+@Media:	1058_BW4 video
+*PAR:	ens [* phon] ih [* phon] no .
+%mor:	?|ens ?|ih co|no .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|COM 4|1|PUNCT
+*PAR:	ih [* phon] no .
+%mor:	?|ih co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	okay &um and [/] &s and .
+%mor:	co|okay coord|and .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	no &ns en [* phon] [/] en [* phon] .
+%mor:	qn|no ?|en .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	its in ihs [: this] [* phon] .
+%mor:	det:poss|its prep|in pro:dem|this .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+@End

@@ -1,0 +1,6 @@
+File	Language	Corpus	Code	Age	Sex	Group	SES	Role	Education	Custom_field	Duration (sec)	Total Utts	MLU Utts	MLU Words	MLU Morphemes	FREQ types	FREQ tokens	FREQ TTR	Words/Min	Verbs/Utt	Word Errors	Utt Errors	density	Nouns	Plurals	Verbs	Aux	3S	1S/3S	PAST	PASTP	PRESP	prep|	adj|	adv|	conj|	det|,art|	pro|	retracing[//]	repetition[/]
+BW1_1074.cha	eng	change_corpus_later	PAR					Participant			42	7	7	7.571	8.429	35	53	0.660	75.714	1.143	0	0	0.491	13	0	10	1	0	1	7	1	2	3	4	3	0	12	2	0	0
+BW1_1074.cha	eng	change_corpus_later	PAR					Participant			42	7	7	7.571	8.429	35	53	0.660	75.714	1.143	0	0	0.491	13	0	10	1	0	1	7	1	2	3	4	3	0	12	2	0	0
+CInder1_1074.cha	eng	change_corpus_later	PAR					Participant			141	21	21	9.619	10.714	94	202	0.465	85.957	1.524	0	0	0.520	29	3	41	6	3	4	19	5	4	12	3	24	6	20	32	1	2
+PBJ_1074.cha	eng	change_corpus_later	PAR					Participant			108	13	13	10.692	11.000	45	139	0.324	77.222	1.615	0	0	0.446	24	0	36	1	0	0	4	1	1	10	0	11	2	15	23	1	0
+

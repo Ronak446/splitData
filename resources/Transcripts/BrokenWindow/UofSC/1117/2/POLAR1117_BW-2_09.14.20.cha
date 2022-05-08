@@ -1,0 +1,48 @@
+@UTF8
+@Window:	49_639_929_961_0_0_498_0_498_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	POLAR_1117_2_BrokenWindow_09.14.2020_z, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the little kid [: boy] [* s] kicked the ball .
+%mor:	art|the adj|little n|boy part|kick-PASTP art|the n|ball .
+%gra:	1|3|DET 2|3|MOD 3|0|PQ 4|3|XMOD 5|6|DET 6|4|OBJ 7|3|NJCT
+*PAR:	and then it fell over and [: in] [* phon] the window .
+%mor:	coord|and adv:tem|then pro|it v|fall&PAST adv|over prep|in art|the
+	n|window .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*PAR:	and it broke it .
+%mor:	coord|and pro|it v|break&PAST pro|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and then I saw going to the chair in for [: front] [* phon] the man .
+%mor:	coord|and adv:tem|then pro:sub|I v|see&PAST n:gerund|go-PRESP
+	prep|to art|the n|chair prep|in n|front art|the n|man .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|5|CJCT 11|12|DET 12|10|XMOD 13|4|PUNCT
+*PAR:	it fell on his lap .
+%mor:	pro|it v|fall&PAST prep|on pro:poss:det|his n|lap .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*PAR:	and then that woman [: man] [* s] stood over there [: the] [* phon]
+	window .
+%mor:	coord|and adv:tem|then pro:dem|that n|man v|stand&PAST prep|over
+	art|the n|window .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and looked through there .
+%mor:	coord|and v|look-PAST adj|through adv|there .
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|JCT 5|2|PUNCT
+*PAR:	who's [/] &g who's doing that to take it out .
+%mor:	rel|who~aux|be&3S part|do-PRESP rel|that inf|to v|take pro|it
+	adv|out .
+%gra:	1|3|LINK 2|3|AUX 3|0|COMP 4|6|LINK 5|6|INF 6|3|CMOD 7|6|OBJ 8|6|JCT
+	9|3|PUNCT
+*PAR:	&tha that's all I got .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|get&PAST .
+%gra:	1|2|SUBJ 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+@End

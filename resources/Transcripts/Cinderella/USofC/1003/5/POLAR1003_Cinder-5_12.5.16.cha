@@ -1,0 +1,364 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:22
+@Media:	1003_5_Cinderella_Y2016_M12_D05_H15_M07_S23 video
+
+*PAR:	ok well they're together .
+%mor:	?|ok adv|well pro:sub|they~aux|be&PRES adv|together .
+%gra:	1|0|INCROOT 2|4|JCT 3|4|SUBJ 4|1|COMP 5|4|PRED 6|1|PUNCT
+*PAR:	and he has a small person [* s] .
+%mor:	coord|and pro:sub|he v|have&3S det:art|a adj|small n|person .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and &um he's [* s] got probably a a-u-n-d [* phon] you know .
+%mor:	coord|and pro:sub|he~aux|be&3S v|get&PAST adv|probable&dadj-LY
+	det:art|a ?|a-u-n-d pro:per|you v|know .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|4|OBJ 8|9|SUBJ
+	9|7|CMOD 10|4|PUNCT
+*PAR:	and &uh the two people for him [* s] .
+%mor:	coord|and det:art|the det:num|two n|person&PL prep|for pro:obj|him
+	.
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|COORD 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*PAR:	there they're in a you know xxx [* phon] xxx [* phon] .
+%mor:	adv|there pro:sub|they~aux|be&PRES prep|in det:art|a pro:per|you
+	v|know .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|SUBJ 7|4|POBJ 8|3|PUNCT
+*PAR:	all the &uh &um m-a-i-t [* phon] you know .
+%mor:	qn|all det:art|the ?|m-a-i-t pro:per|you v|know .
+%gra:	1|3|QUANT 2|3|DET 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	all the time .
+%mor:	qn|all det:art|the n|time .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	helping out everyone else but not him [* s] .
+%mor:	part|help-PRESP adv|out pro:indef|everyone post|else conj|but
+	neg|not pro:obj|him .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|OBJ 4|3|PQ 5|3|CONJ 6|5|NEG 7|5|COORD 8|1|PUNCT
+*PAR:	and &uh but everybody likes this ferson [* phon] because you know
+	s-i-n-d-e-r-l-s-s-a [* phon] .
+%mor:	coord|and conj|but pro:indef|everybody v|like-3S pro:dem|this
+	?|ferson conj|because pro:per|you v|know ?|s-i-n-d-e-r-l-s-s-a .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|OBJ 11|4|PUNCT
+*PAR:	and &uh all the people likes him [* s] .
+%mor:	coord|and qn|all det:art|the n|person&PL v|like-3S pro:obj|him .
+%gra:	1|5|LINK 2|4|QUANT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the small one .
+%mor:	coord|and det:art|the adj|small pro:indef|one .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	different people [* s] .
+%mor:	adj|different n|person&PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um and but they're doing their things .
+%mor:	coord|and conj|but pro:sub|they~aux|be&PRES part|do-PRESP
+	det:poss|their n|thing-PL .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*PAR:	and all of a sudden the &um the [/] b-r-i-n-s-e [* phon] .
+%mor:	coord|and pro:indef|all prep|of det:art|a adj|sudden det:art|the
+	?|b-r-i-n-s-e .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|7|DET 5|7|MOD 6|7|DET 7|3|POBJ
+	8|1|PUNCT
+*PAR:	he says let's have everybody together .
+%mor:	pro:sub|he v|say-3S v|let~pro:obj|us v|have pro:indef|everybody
+	adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*PAR:	let's check what they are .
+%mor:	v|let~pro:obj|us v|check pro:int|what pro:sub|they cop|be&PRES .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|1|PUNCT
+*PAR:	and &uh everybody should come .
+%mor:	coord|and pro:indef|everybody mod|should v|come .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the person the a-u-n-t [* phon] he [* s] says xxx
+	[* phon] &oh it's a great time for all of us .
+%mor:	coord|and det:art|the n|person det:art|the ?|a-u-n-t pro:sub|he
+	v|say-3S pro:per|it~aux|be&3S det:art|a adj|great n|time conj|for
+	adv|all prep|of pro:obj|us .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|7|JCT 6|7|SUBJ 7|3|CMOD
+	8|12|SUBJ 9|12|AUX 10|12|DET 11|12|MOD 12|7|OBJ 13|12|XMOD 14|15|JCT 15|13|JCT
+	16|15|POBJ 17|1|PUNCT
+*PAR:	it'd be a good time .
+%mor:	pro:per|it~mod|genmod cop|be det:art|a adj|good n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	I'd like to be a part of ham [* phon] .
+%mor:	pro:sub|I~mod|genmod v|like inf|to cop|be det:art|a n|part prep|of
+	n|ham .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	so &uh the his [* s] friends the two people will &uh part of it .
+%mor:	co|so det:art|the det:poss|his n|friend-PL det:art|the det:num|two
+	n|person&PL mod|will n|part prep|of pro:per|it .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|9|AUX
+	9|7|XMOD 10|9|NJCT 11|10|POBJ 12|4|PUNCT
+*PAR:	well s-i-n-d [* phon] &uh he [* s] goes upstairs .
+%mor:	adv|well ?|s-i-n-d pro:sub|he v|go-3S adv|upstairs .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and all the friends say &oh this is a great .
+%mor:	coord|and qn|all det:art|the n|friend-PL v|say pro:dem|this
+	cop|be&3S det:art|a adj|great .
+%gra:	1|5|LINK 2|4|QUANT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|DET
+	9|7|PRED 10|5|PUNCT
+*PAR:	let's look another idea and make it better .
+%mor:	v|let~pro:obj|us v|look qn|another n|idea coord|and v|make
+	pro:per|it adj|good&CP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|3|CONJ 7|6|COORD 8|7|OBJ
+	9|8|PRED 10|1|PUNCT
+*PAR:	and they work him [* s] about .
+%mor:	coord|and pro:sub|they v|work pro:obj|him adv|about .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	they go downstairs .
+%mor:	pro:sub|they v|go adv|downstairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and they have a good time .
+%mor:	coord|and pro:sub|they v|have det:art|a adj|good n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	but the people see him [* s] and say you can't do this sorry .
+%mor:	conj|but det:art|the n|person&PL v|see pro:obj|him coord|and v|say
+	pro:per|you mod|can~neg|not v|do pro:dem|this adj|sorry .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|7|COMP 12|11|OBJ 13|11|JCT 14|4|PUNCT
+*PAR:	all this stuff has been taken out .
+%mor:	qn|all pro:dem|this n|stuff aux|have&3S aux|be&PASTP
+	part|take&PASTP adv|out .
+%gra:	1|3|QUANT 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	terrible .
+%mor:	adj|terrible .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh guess they they're pretty terrible people .
+%mor:	coord|and n|guess pro:sub|they pro:sub|they~aux|be&PRES adv|pretty
+	adj|terrible n|person&PL .
+%gra:	1|8|LINK 2|8|MOD 3|8|MOD 4|8|SUBJ 5|8|AUX 6|8|JCT 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+*PAR:	and so anyway they get home .
+%mor:	coord|and co|so co|anyway pro:sub|they v|get n|home .
+%gra:	1|5|LINK 2|5|COM 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and people are terrible xxx [* phon] you know .
+%mor:	coord|and n|person&PL cop|be&PRES adj|terrible pro:per|you v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|LINK 4|3|PRED 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	I hate this .
+%mor:	pro:sub|I v|hate pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I can't do this stuff .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:dem|this n|stuff .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &uh &uh one time the &uh f-a-i-r-t [* phon] .
+%mor:	coord|and det:num|one n|time det:art|the ?|f-a-i-r-t .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	they all of them he's [* s] this person is right here .
+%mor:	pro:sub|they adv|all prep|of pro:obj|them pro:sub|he~aux|be&3S
+	pro:dem|this n|person cop|be&3S adv|right adv|here .
+%gra:	1|9|SUBJ 2|3|JCT 3|1|JCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|9|PUNCT
+*PAR:	and saying &uh i'm a good guy [* phon] .
+%mor:	coord|and part|say-PRESP ?|i'm det:art|a adj|good n|guy .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|6|DET 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*PAR:	&um and let me talk about what we're going to do here .
+%mor:	coord|and v|let&ZERO pro:obj|me v|talk prep|about pro:int|what
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|do adv|here .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CPOBJ 10|11|INF 11|9|XCOMP 12|11|JCT 13|2|PUNCT
+*PAR:	so he [* s] he [* s] [/] gets him [* s] a new d-r-e-s-s [* phon] for
+	everybody .
+%mor:	co|so pro:sub|he v|get-3S pro:obj|him det:art|a adj|new ?|d-r-e-s-s
+	prep|for pro:indef|everybody .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|JCT 7|6|OBJ 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and &um he [* s] talks all the people being part of it .
+%mor:	coord|and pro:sub|he v|talk-3S qn|all det:art|the n|person&PL
+	part|be-PRESP n|part prep|of pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|6|XMOD 8|7|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*PAR:	they get a big &um xxx [* phon] .
+%mor:	pro:sub|they v|get det:art|a adj|big .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	bi [* phon] one .
+%mor:	?|bi pro:indef|one .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and &uh looks they're all there and they look great .
+%mor:	coord|and v|look-3S pro:sub|they~aux|be&PRES post|all adv|there
+	coord|and pro:sub|they v|look adj|great .
+%gra:	1|2|LINK 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|PQ 6|2|JCT 7|2|CONJ 8|9|SUBJ
+	9|7|COORD 10|9|JCT 11|2|PUNCT
+*PAR:	so then he [* s] xxx [* phon] something to go home .
+%mor:	adv|so adv:tem|then pro:sub|he pro:indef|something inf|to v|go
+	n|home .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+*PAR:	and he [* s] says &uh you know you look great but you can't leave &b .
+%mor:	coord|and pro:sub|he v|say-3S pro:per|you v|know pro:per|you v|look
+	adj|great conj|but pro:per|you mod|can~neg|not v|leave .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|3|CJCT 14|3|PUNCT
+*PAR:	you have to leave before xxx [* phon] n-i-d-e-n [* phon] .
+%mor:	pro:per|you v|have prep|to n|leave prep|before ?|n-i-d-e-n .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	you have to be home .
+%mor:	pro:per|you v|have inf|to cop|be n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*PAR:	&uh or we have a problem .
+%mor:	coord|or pro:sub|we v|have det:art|a n|problem .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	so he [* s] knows that .
+%mor:	co|so pro:sub|he v|know-3S pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he [* s] goes over to the &um b-r-i-n-s-e-t [* phon] .
+%mor:	coord|and pro:sub|he v|go-3S adv|over prep|to det:art|the
+	?|b-r-i-n-s-e-t .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	they're doing everything .
+%mor:	pro:sub|they~aux|be&PRES part|do-PRESP pro:indef|everything .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	all of a sudden the s-i-n-d-e [* phon] he [* s] meets the
+	b-r-i-n-s-e [* phon] .
+%mor:	pro:indef|all prep|of det:art|a adj|sudden det:art|the ?|s-i-n-d-e
+	pro:sub|he v|meet-3S det:art|the ?|b-r-i-n-s-e .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|DET 6|8|JCT 7|8|SUBJ 8|1|CJCT
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+*PAR:	they come together .
+%mor:	pro:sub|they v|come adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	have a great time .
+%mor:	v|have det:art|a adj|great n|time .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	for the two people .
+%mor:	conj|for det:art|the det:num|two n|person&PL .
+%gra:	1|4|LINK 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*PAR:	&uh he looks him [* s] at and he's [* s] better than anybody else .
+%mor:	pro:sub|he v|look-3S pro:obj|him prep|at coord|and
+	pro:sub|he~aux|be&3S adv|good&CP prep|than pro:indef|anybody
+	post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|LINK 6|7|SUBJ 7|4|POBJ 8|7|JCT
+	9|8|JCT 10|9|POBJ 11|10|PQ 12|2|PUNCT
+*PAR:	especially if doesn't like them .
+%mor:	adv|especial&dadj-LY conj|if mod|do&3S~neg|not v|like pro:obj|them
+	.
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and &uh have a great time doing things .
+%mor:	coord|and v|have det:art|a adj|great n|time part|do-PRESP
+	n|thing-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|7|MOD 7|5|XMOD 8|2|PUNCT
+*PAR:	and unfortunately at twelve he [* s] says I have to leave now .
+%mor:	coord|and un#adv|fortunate&dadj-LY prep|at det:num|twelve
+	pro:sub|he v|say-3S pro:sub|I v|have prep|to n|leave adv|now .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|2|CMOD 7|8|SUBJ
+	8|6|COMP 9|8|JCT 10|9|POBJ 11|8|JCT 12|1|PUNCT
+*PAR:	and the person can't you you [/] you [/] .
+%mor:	coord|and det:art|the n|person mod|can~neg|not pro:per|you .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	you know stay here .
+%mor:	pro:per|you v|know n|stay adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	you can't leave at that area [* s] .
+%mor:	pro:per|you mod|can~neg|not v|leave prep|at pro:dem|that n|area .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	says well I got to go .
+%mor:	v|say-3S adv|well pro:sub|I v|get&PAST inf|to v|go .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|1|COMP 5|6|INF 6|4|XCOMP 7|1|PUNCT
+*PAR:	he [* s] runs down the area [* s] .
+%mor:	pro:sub|he v|run-3S prep|down det:art|the n|area .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and &uh he's [* s] he's [/] [* s] gone except for only one &uh
+	s-h-o-e [* phon] to make it available .
+%mor:	coord|and pro:sub|he~aux|be&3S part|go&PASTP prep|except prep|for
+	adv|only det:num|one ?|s-h-o-e inf|to v|make pro:per|it
+	adj|avail&dv-ABLE .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|6|POBJ
+	9|6|POBJ 10|11|INF 11|9|XCOMP 12|11|OBJ 13|11|JCT 14|4|PUNCT
+*PAR:	and &uh they [//] [* s] he [* s] takes off .
+%mor:	coord|and pro:sub|he v|take-3S adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	but he [* s] has a great time .
+%mor:	conj|but pro:sub|he v|have&3S det:art|a adj|great n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	the person does .
+%mor:	det:art|the n|person mod|do&3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	they think he's [* s] wonderful .
+%mor:	pro:sub|they v|think pro:sub|he~aux|be&3S adj|wonder-FULL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+*PAR:	well the the [/] people come back and say what has our s-h-o-r-e
+	[* phon] .
+%mor:	co|well det:art|the n|person&PL v|come n|back coord|and v|say
+	pro:int|what aux|have&3S det:poss|our ?|s-h-o-r-e .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|11|SUBJ
+	9|11|AUX 10|11|MOD 11|7|COMP 12|4|PUNCT
+*PAR:	and they say we've got it here .
+%mor:	coord|and pro:sub|they v|say pro:sub|we~aux|have part|get&PASTP
+	pro:per|it adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|3|PUNCT
+*PAR:	now we have to look everybody to find somebody that has it .
+%mor:	adv|now pro:sub|we v|have inf|to v|look pro:indef|everybody inf|to
+	v|find pro:indef|somebody pro:rel|that v|have&3S pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|8|INF 8|5|XCOMP
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|11|OBJ 13|3|PUNCT
+*PAR:	and &uh find out who it is .
+%mor:	coord|and v|find adv|out pro:int|who pro:per|it cop|be&3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|OBJ 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*PAR:	and anyway they come to the new people .
+%mor:	coord|and co|anyway pro:sub|they v|come prep|to det:art|the adj|new
+	n|person&PL .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and &uh their looking him [* s] all of friends of other people but
+	not him [* s] .
+%mor:	coord|and det:poss|their part|look-PRESP pro:obj|him adv|all
+	prep|of n|friend-PL prep|of qn|other n|person&PL conj|but neg|not
+	pro:obj|him .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|11|JCT 6|5|JCT 7|6|POBJ
+	8|7|NJCT 9|10|QUANT 10|8|POBJ 11|3|CONJ 12|11|NEG 13|11|COORD 14|1|PUNCT
+*PAR:	and people are terrible of course because they don't have
+	everything .
+%mor:	coord|and n|person&PL cop|be&PRES adj|terrible prep|of n|course
+	conj|because pro:sub|they mod|do~neg|not v|have pro:indef|everything
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|3|CJCT 12|11|OBJ 13|3|PUNCT
+*PAR:	and &uh finally the friends &uh the b-o-u-s-es
+	[* phon] they find the the [/] &uh kay [* phon] [//] key
+	[//] the key &um .
+%mor:	coord|and adv|final&dadj-LY det:art|the n|friend-PL det:art|the
+	?|b-o-u-s-es pro:sub|they v|find det:art|the det:art|the n|key .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|6|CMOD
+	9|11|DET 10|11|DET 11|8|OBJ 12|4|PUNCT
+*PAR:	so he [* s] can get into it .
+%mor:	co|so pro:sub|he mod|can v|get prep|into pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	he [* s] comes down from everybody that he [* s] is there .
+%mor:	pro:sub|he v|come-3S adv|down prep|from pro:indef|everybody
+	pro:rel|that pro:sub|he cop|be&3S adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|JCT 10|2|PUNCT
+*PAR:	and they look it [* s] over .
+%mor:	coord|and pro:sub|they v|look pro:per|it adv|over .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	yep that's it .
+%mor:	co|yep pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	&uh looks exactly .
+%mor:	cop|look-3S adv|exact&dadj-LY .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and she's of course beautiful .
+%mor:	coord|and pro:sub|she~cop|be&3S prep|of n|course adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	and so now he [* s] together .
+%mor:	coord|and co|so adv|now pro:sub|he adv|together .
+%gra:	1|5|LINK 2|5|COM 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	he [* s] goes over to the &uh &uh b-r-i-n-d-e [* phon] .
+%mor:	pro:sub|he v|go-3S adv|over prep|to det:art|the ?|b-r-i-n-d-e .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	and &uh they find each other .
+%mor:	coord|and pro:sub|they v|find qn|each qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	they love each other .
+%mor:	pro:sub|they v|love qn|each qn|other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*PAR:	and they're gone .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|go&PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	xxx [* phon] fellas .
+%mor:	n|fella-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh the good guy wins .
+%mor:	coord|and det:art|the adj|good n|guy n|win-PL .
+%gra:	1|5|LINK 2|5|DET 3|4|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+@End

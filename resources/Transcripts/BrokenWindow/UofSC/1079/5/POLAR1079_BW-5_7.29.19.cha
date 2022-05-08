@@ -1,0 +1,49 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:06
+@Media:	POLAR_1079_5_BrokenWindow_7-29-19 video
+*PAR:	the little boy was playing with his soccer ball .
+%mor:	det:art|the adj|little n|boy aux|be&PAST&13S part|play-PRESP
+	prep|with det:poss|his n|soccer n|ball .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	and he threw [: kick] [* s] it in the &whi [//] window .
+%mor:	coord|and pro:sub|he v|kick pro:per|it prep|in det:art|the n|window
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and it was broken from the [/] &ss the glass .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|break&PASTP prep|from
+	det:art|the n|glass .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and while his father was watching tv .
+%mor:	coord|and conj|while det:poss|his n|father aux|be&PAST&13S
+	part|watch-PRESP n|tv .
+%gra:	1|6|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	<it was> [//] &um it came into the &um window .
+%mor:	pro:per|it v|come&PAST prep|into det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and it was broken and came into the house .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|break&PASTP coord|and
+	v|come&PAST prep|into det:art|the n|house .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and [/] &um and then the dad was trying to figure out who hit
+	[: kick] [* s] that ball .
+%mor:	coord|and adv:tem|then det:art|the n|dad aux|be&PAST&13S
+	part|try-PRESP inf|to v|figure prep|out pro:rel|who v|kick
+	det:dem|that n|ball .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|LINK 11|9|POBJ 12|13|DET 13|11|OBJ 14|6|PUNCT
+*PAR:	and &um he realized that [/] &um that his son was practicing soccer .
+%mor:	coord|and pro:sub|he v|realize-PAST comp|that det:poss|his n|son
+	aux|be&PAST&13S part|practice-PRESP n|soccer .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|OBJ 10|3|PUNCT
+*PAR:	and that's who broke the window .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|who v|break&PAST
+	det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|CPRED 6|7|DET 7|5|OBJ 8|3|PUNCT
+@End

@@ -1,0 +1,481 @@
+@UTF8
+@Window:	45_366_755_916_21599_1_22104_1_22104_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:11:23
+@Media:	POLAR1110_Cinder-3, video
+*PAR:	well <I have to> [//] &ha &uh it's a long time ago that I had to do
+	that .
+%mor:	co|well pro:per|it~cop|be&3S det:art|a adj|long n|time post|ago
+	comp|that pro:sub|I v|have&PAST inf|to v|do pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|POSTMOD
+	8|10|LINK 9|10|SUBJ 10|6|CMOD 11|12|INF 12|10|COMP 13|12|OBJ 14|3|PUNCT
+*PAR:	and &uh so &uh the [/] &celler the &shuh &shelle Cellerelli [* phon]
+	.
+%mor:	coord|and co|so det:art|the n:prop|Cellerelli .
+%gra:	1|4|LINK 2|4|COM 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	for some reason I always have that wrong [//] &uh different .
+%mor:	prep|for qn|some n|reason pro:sub|I adv|always v|have det:dem|that
+	adj|different .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|JCT
+	9|6|PUNCT
+*PAR:	anyway &um so I'm gonna tell you Cellerilli [* phon] .
+%mor:	co|anyway adv|so pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|tell
+	pro:per|you n:prop|Cellerilli .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|OBJ 10|5|PUNCT
+*PAR:	so the first happened was the [/] the [/] the [/] <the &m mother>
+	[//] <the father> [//] &um the &m the mother died .
+%mor:	co|so det:art|the adv|first part|happen-PASTP cop|be&PAST&13S
+	det:art|the det:art|the n|mother v|die-PAST .
+%gra:	1|4|COM 2|3|DET 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|DET 8|9|SUBJ
+	9|5|PRED 10|5|PUNCT
+*PAR:	and so the father said I'm gonna have to find somebody to help with
+	Celleree [* phon] [//] Cellery [* phon] &uh to [/] to find anuther
+	[: another] [* phon] woman .
+%mor:	coord|and conj|so det:art|the n|father v|say&PAST
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|have inf|to v|find
+	pro:indef|somebody inf|to co|help prep|with n:prop|Cellery inf|to
+	v|find qn|another n|woman .
+%gra:	1|8|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|8|CJCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|INF 12|10|COMP 13|12|OBJ 14|15|INF 15|13|XMOD
+	16|15|JCT 17|16|POBJ 18|19|INF 19|16|CPOBJ 20|21|QUANT 21|19|OBJ
+	22|8|PUNCT
+*PAR:	and so the man found this [/] <this man [* s]> [//] this lady .
+%mor:	coord|and co|so det:art|the n|man v|find&PAST det:dem|this n|lady .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and she had two girls .
+%mor:	coord|and pro:sub|she v|have&PAST det:num|two n|girl-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and they thought well that's gonna be great because Cellerilli
+	[* phon] [//] &uh there's only one person in the family .
+%mor:	coord|and pro:sub|they v|think&PAST n|well pro:rel|that~aux|be&3S
+	part|go-PRESP~inf|to cop|be adj|great conj|because
+	pro:exist|there~cop|be&3S qn|only det:num|one n|person prep|in
+	det:art|the n|family .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|AUX 7|4|CMOD 8|9|INF
+	9|7|COMP 10|9|PRED 11|13|LINK 12|13|SUBJ 13|3|CJCT 14|16|QUANT 15|16|QUANT
+	16|13|PRED 17|16|NJCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*PAR:	so [/] so now I can have two girls that are in our family .
+%mor:	co|so adv|now pro:sub|I mod|can v|have det:num|two n|girl-PL
+	pro:rel|that cop|be&PRES prep|in det:poss|our n|family .
+%gra:	1|2|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|5|PUNCT
+*PAR:	so well it [/] it [//] what happened was these two girls are [//]
+	and the mother were [//] are <really mean> [/] really [/] really
+	mean people .
+%mor:	adv|so adv|well pro:int|what v|happen-PAST cop|be&PAST&13S
+	det:dem|these det:num|two n|girl-PL coord|and det:art|the n|mother
+	cop|be&PRES adv|real&dadj-LY adj|mean n|person&PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|8|DET 7|8|QUANT 8|5|PRED
+	9|8|CONJ 10|11|DET 11|9|COORD 12|8|CMOD 13|14|JCT 14|15|MOD 15|12|PRED
+	16|4|PUNCT
+*PAR:	and &um so &sh Celleree [* phon] would just by [//] with [//] by
+	herself and had a_lot_of friends .
+%mor:	coord|and co|so n:prop|Celleree mod|will&COND adv|just prep|by
+	pro:refl|herself coord|and v|have&PAST qn|a_lot_of n|friend-PL .
+%gra:	1|0|INCROOT 2|3|COM 3|1|COORD 4|6|AUX 5|6|JCT 6|3|JCT 7|6|POBJ 8|3|CONJ
+	9|8|COORD 10|11|QUANT 11|9|OBJ 12|1|PUNCT
+*PAR:	but the [/] the they're &yuh &uh &uh little mice and [/] and real
+	pretty things .
+%mor:	conj|but det:art|the pro:sub|they~cop|be&PRES adj|little n|mouse&PL
+	coord|and adj|real adv|pretty n|thing-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|CONJ 8|10|MOD
+	9|10|JCT 10|7|COORD 11|4|PUNCT
+*PAR:	and [/] and so that was okay .
+%mor:	coord|and adv|so pro:dem|that cop|be&PAST&13S adj|okay .
+%gra:	1|4|LINK 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	she [//] &w she's just such a good person so she just does what it
+	of [* u] .
+%mor:	pro:sub|she~cop|be&3S adv|just qn|such det:art|a adj|good n|person
+	conj|so pro:sub|she adv|just mod|do&3S pro:int|what pro:per|it
+	prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|7|QUANT 5|7|DET 6|7|MOD 7|2|PRED 8|12|LINK
+	9|12|SUBJ 10|12|JCT 11|12|AUX 12|2|PUNCT 13|12|OBJ 14|13|JCT 15|12|PUNCT
+*PAR:	so &um <a long time ago> [//] &uh soon &uh &uh some more things .
+%mor:	adv|so adj|soon qn|some qn|more n|thing-PL .
+%gra:	1|2|JCT 2|5|MOD 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*PAR:	they found that there is going to be a ball at the [/] the .
+%mor:	pro:sub|they v|find&PAST comp|that adv|there aux|be&3S
+	part|go-PRESP inf|to cop|be det:art|a n|ball prep|at det:art|the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|INF 8|6|COMP
+	9|10|DET 10|8|PRED 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+*PAR:	&uh there was a very smart &uh a man who is <the big> [//] the king
+	[* s] &uh and wanted to find a &uh &uh woman with this [/] this [/]
+	this man at [/] <at the> [/] &hou <at the> [/] &uh at the [/] the
+	king [* s] .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adv|very v|smart
+	det:art|a n|man pro:int|who cop|be&3S det:art|the n|king coord|and
+	v|want-PAST inf|to v|find det:art|a n|woman prep|with det:dem|this
+	n|man prep|at det:art|the n|king .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|JCT 5|2|CPRED 6|7|DET 7|9|SUBJ 8|9|SUBJ
+	9|5|COMP 10|11|DET 11|9|PRED 12|11|CONJ 13|12|COORD 14|15|INF 15|13|COMP
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|15|JCT 22|23|DET
+	23|21|POBJ 24|2|PUNCT
+*PAR:	and <so the> [//] &um so they said everybody could come to the ball
+	to see the [//] with the beautiful man .
+%mor:	coord|and co|so pro:sub|they v|say&PAST pro:indef|everybody
+	mod|could v|come prep|to det:art|the n|ball inf|to v|see prep|with
+	det:art|the adj|beautiful n|man .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|7|XJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|4|PUNCT
+*PAR:	and so the [//] &t one of the two girls said oh that's great .
+%mor:	coord|and adv|so pro:indef|one prep|of det:art|the det:num|two
+	n|girl-PL v|say&PAST co|oh pro:dem|that~cop|be&3S adj|great .
+%gra:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|3|NJCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|0|ROOT
+	9|11|COM 10|11|SUBJ 11|8|COMP 12|11|PRED 13|8|PUNCT
+*PAR:	I'm gonna be beautiful .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to cop|be adj|beautiful .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|3|PUNCT
+*PAR:	we're both gonna be beautiful .
+%mor:	pro:sub|we~aux|be&PRES qn|both part|go-PRESP~inf|to cop|be
+	adj|beautiful .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|4|PUNCT
+*PAR:	and whatever we need you know can &uh &uh <with the>
+	[/] with the [/] &uh the man so no problem .
+%mor:	coord|and pro:indef|whatever pro:sub|we v|need pro:per|you v|know
+	n|can prep|with det:art|the n|man adv|so qn|no n|problem .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|13|QUANT 13|6|OBJ 14|4|PUNCT
+*PAR:	and so [/] so Cellerilli [* phon] said that she could go to
+	[//] at [* s] the ball also .
+%mor:	coord|and co|so n:prop|Cellerilli v|say&PAST comp|that pro:sub|she
+	mod|could v|go prep|at det:art|the n|ball adv|also .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|4|PUNCT
+*PAR:	well guess what .
+%mor:	co|well v|guess pro:int|what .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	it's time to go .
+%mor:	pro:per|it~cop|be&3S n|time inf|to v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|2|PUNCT
+*PAR:	and the [/] the <one of the [/] the> [//] both of the girls are
+	saying oh I'm gonna take her stuff [//] &uh beautiful [/] beautiful
+	things .
+%mor:	coord|and det:art|the qn|both prep|of det:art|the n|girl-PL
+	aux|be&PRES part|say-PRESP co|oh pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|take det:poss|her adj|beautiful n|thing-PL .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|AUX 8|0|ROOT
+	9|12|COM 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|INF 14|12|COMP 15|17|DET
+	16|17|MOD 17|14|OBJ 18|8|PUNCT
+*PAR:	and [/] and I'm gonna take that and [/] and ugly and &dadadada .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|take
+	pro:dem|that coord|and adj|ugly coord|and .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|CONJ
+	9|10|MOD 10|8|COORD 11|4|PUNCT
+*PAR:	and so [/] so poor Celleree [* phon] cannot go &th there because
+	it's so very ugly .
+%mor:	coord|and adv|so adj|poor n:prop|Celleree mod|can~neg|not v|go
+	adv|there conj|because pro:per|it~cop|be&3S adv|so adv|very adj|ugly
+	.
+%gra:	1|7|LINK 2|3|JCT 3|4|MOD 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|14|JCT 13|14|JCT 14|11|PRED 15|7|PUNCT
+*PAR:	I mean &uh you know all this old stuff that she took messed up
+	everything .
+%mor:	pro:sub|I v|mean pro:per|you v|know qn|all det:dem|this adj|old
+	n|stuff pro:rel|that pro:sub|she v|take&PAST v|mess-PAST adv|up
+	pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|QUANT 6|8|DET 7|8|MOD 8|4|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|COMP 13|12|JCT 14|13|POBJ 15|2|PUNCT
+*PAR:	so all of a sudden you can hear like twinkling [/] twinkling
+	&twididididi .
+%mor:	adv|so pro:indef|all prep|of det:art|a adj|sudden pro:per|you
+	mod|can v|hear co|like part|twinkle-PRESP .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX
+	8|5|CMOD 9|10|COM 10|8|COMP 11|1|PUNCT
+*PAR:	and it's here's the [/] &s the [/] the [/] &muh <the old> [//] &muh
+	&mah the [/] &uh the a special event &i .
+%mor:	coord|and pro:per|it~cop|be&3S pro:exist|here~cop|be&3S det:art|the
+	det:art|a adj|special n|event .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|9|DET 7|9|DET 8|9|MOD
+	9|5|PRED 10|3|PUNCT
+*PAR:	not an event .
+%mor:	neg|not det:art|a n|event .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	there's this [/] &uh this old &w women [* phon] comes around and
+	says oh it's okay .
+%mor:	pro:exist|there~cop|be&3S det:dem|this adj|old n|woman&PL v|come-3S
+	adv|around coord|and v|say-3S co|oh pro:per|it~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|JCT 6|2|CPRED 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|12|COM 11|12|SUBJ 12|9|COMP 13|12|PRED 14|2|PUNCT
+*PAR:	<you can> [//] Celleree [* phon] you can go to the ball .
+%mor:	n:prop|Celleree pro:per|you mod|can v|go prep|to det:art|the n|ball
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and in order to do that the [/] <the lady> [/] &ca the old lady can
+	say &cling .
+%mor:	coord|and prep|in n|order inf|to v|do adv|that det:art|the adj|old
+	n|lady mod|can v|say .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|INF 5|0|ROOT 6|11|JCT 7|9|DET 8|9|MOD
+	9|11|SUBJ 10|11|AUX 11|5|COMP 12|5|PUNCT
+*PAR:	and have <all the beautiful> [//] her [/] her [//] all her stuff <to
+	eat [* u]> [//] to [/] to have her beautiful &ha stuff and [/] and
+	also can [/] can go <on the> [/] on the trip on a special looks like
+	&uh &p &uh &pi a &uh .
+%mor:	coord|and v|have qn|all det:poss|her n|stuff inf|to v|have
+	det:poss|her adj|beautiful n|stuff coord|and adv|also mod|can v|go
+	prep|on det:art|the n|trip prep|on det:art|a n|special v|look-3S
+	prep|like det:art|a .
+%gra:	1|2|LINK 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|OBJ 6|7|INF 7|5|XMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|CONJ 12|14|JCT 13|14|AUX 14|11|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|JCT 19|20|DET 20|18|POBJ 21|14|XJCT 22|21|JCT
+	23|22|POBJ 24|2|PUNCT
+*PAR:	this is a very tall &fre &fre &uh sit <on the> [/] on the thing &uh
+	because they have a very large &uh &uh very call [* u] &puh a [/]
+	&puh <a pumpkin> [/] a pumpkin .
+%mor:	pro:dem|this cop|be&3S det:art|a adv|very adj|tall v|sit prep|on
+	det:art|the n|thing conj|because pro:sub|they v|have det:art|a
+	adv|very adj|large adv|very v|call det:art|a n|pumpkin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|JCT 5|2|PRED 6|5|XMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|15|DET 14|15|JCT 15|12|PRED
+	16|17|JCT 17|15|CMOD 18|19|DET 19|17|OBJ 20|2|PUNCT
+*PAR:	and [/] and then they have five &uh &um offing [* phon] like &uh not
+	dogs .
+%mor:	coord|and adv:tem|then pro:sub|they v|have det:num|five ?|offing
+	co|like neg|not n|dog-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|COMP 7|6|COM 8|9|NEG
+	9|6|ENUM 10|4|PUNCT
+*PAR:	they're hoffing [* phon] like &ha &ha &ha &k &ka cough [* u]
+	[//] not cough .
+%mor:	pro:sub|they~cop|be&PRES ?|hoffing co|like neg|not v|cough .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|COM 5|4|NEG 6|3|COMP 7|2|PUNCT
+*PAR:	they [/] they have four of their [/] &s their things to [/] &s to
+	[/] <to buy the> [//] the [//] &uh to [/] to go on the trip .
+%mor:	pro:sub|they v|have det:num|four prep|of det:poss|their n|thing-PL
+	inf|to v|go prep|on det:art|the n|trip .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|8|INF 8|3|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and so the [/] the [/] the lady said [/] said you can go &uh for the
+	ball .
+%mor:	coord|and co|so det:art|the n|lady v|say&PAST pro:per|you mod|can
+	v|go prep|for det:art|the n|ball .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	&uh but the one thing that you have to go [* u] is you can always
+	bring [* u] by when it's very late .
+%mor:	conj|but det:art|the det:num|one n|thing pro:rel|that pro:per|you
+	v|have inf|to v|go aux|be&3S pro:per|you mod|can adv|always v|bring
+	adv|by conj|when pro:per|it~cop|be&3S adv|very adv|late .
+%gra:	1|14|LINK 2|4|DET 3|4|QUANT 4|14|SUBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|9|INF 9|7|COMP 10|14|AUX 11|14|SUBJ 12|14|AUX 13|14|JCT 14|0|ROOT 15|14|JCT
+	16|18|LINK 17|18|SUBJ 18|14|CJCT 19|20|JCT 20|18|PRED 21|14|PUNCT
+*PAR:	&un on [/] on Sunday or ten eleven twelve you have to go back to
+	your house .
+%mor:	prep|on n:prop|Sunday coord|or det:num|ten det:num|eleven
+	det:num|twelve pro:per|you v|have inf|to v|go adv|back prep|to
+	det:poss|your n|house .
+%gra:	1|8|JCT 2|1|POBJ 3|2|CONJ 4|5|QUANT 5|3|COORD 6|7|QUANT 7|8|SUBJ
+	8|0|ROOT 9|10|INF 10|8|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ
+	15|8|PUNCT
+*PAR:	and you have to go quick because everything is gonna finished up .
+%mor:	coord|and pro:per|you v|have inf|to v|go adv|quick conj|because
+	pro:indef|everything aux|be&3S part|go-PRESP~inf|to v|finish-PAST
+	adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|12|INF 12|10|COMP 13|12|JCT 14|3|PUNCT
+*PAR:	so &sh oh that's okay .
+%mor:	co|so co|oh pro:dem|that~cop|be&3S adj|okay .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	well I'll get back .
+%mor:	adv|well pro:sub|I~mod|will v|get v|back .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COMP 6|4|PUNCT
+*PAR:	I will come back .
+%mor:	pro:sub|I mod|will v|come adv|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and so <they are> [/] they go down &ae with the [/] the beautiful
+	man and sees &uh Celeree [* phon] .
+%mor:	coord|and co|so pro:sub|they v|go adv|down prep|with det:art|the
+	adj|beautiful n|man coord|and v|see-3S n:prop|Celeree .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|CONJ 11|10|COORD 12|11|OBJ 13|4|PUNCT
+*PAR:	and [/] &suh and <the man said> [//] the king [* s] said oh that is
+	awesome .
+%mor:	coord|and det:art|the n|king v|say&PAST co|oh pro:dem|that
+	cop|be&3S adj|awesome .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+*PAR:	and they've been <busing [* phon] the> [//] watching [* s] all the
+	music .
+%mor:	coord|and pro:sub|they~aux|have aux|be&PASTP part|watch-PRESP
+	qn|all det:art|the n|music .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|QUANT 7|8|DET 8|5|OBJ
+	9|5|PUNCT
+*PAR:	and [/] and <they are> [//] they're just together &uh &w to watch .
+%mor:	coord|and pro:sub|they~cop|be&PRES adv|just adv|together prep|to
+	n|watch .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	the [//] now <the two little> [//] the [/] the big women &uh she's
+	[* s] just watching all this stuff .
+%mor:	adv|now det:art|the adj|big n|woman&PL pro:sub|she~aux|be&3S
+	adv|just part|watch-PRESP qn|all det:dem|this n|stuff .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|8|SUBJ 6|8|AUX 7|8|JCT 8|4|CMOD
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|1|PUNCT
+*PAR:	but the [//] &uh <they don't> [//] they [//] &um they're [/] they're
+	like well that's not right because nobody else can go there except
+	<this one &l little> [//] &ley &uh pretty [* u] is there .
+%mor:	conj|but pro:sub|they~cop|be&PRES prep|like n|well
+	pro:rel|that~cop|be&3S neg|not adv|right conj|because
+	pro:indef|nobody post|else mod|can v|go adv|there prep|except
+	adv|pretty cop|be&3S adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|LINK 7|5|CMOD 8|7|NEG
+	9|10|JCT 10|14|LINK 11|14|SUBJ 12|11|PQ 13|14|AUX 14|7|CJCT 15|14|JCT
+	16|14|JCT 17|18|JCT 18|16|POBJ 19|14|JCT 20|3|PUNCT
+*PAR:	well that's too bad .
+%mor:	co|well pro:dem|that~cop|be&3S adv|too adj|bad .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and so anyway it's very late .
+%mor:	coord|and adv|so adv|anyway pro:per|it~cop|be&3S adv|very adv|late
+	.
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*PAR:	and it's almost by [/] by [/] &ba by the ball .
+%mor:	coord|and pro:per|it~cop|be&3S adv|almost prep|by det:art|the
+	n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	&buh the ten eleven twelve for twelve you need to leave .
+%mor:	det:art|the det:num|ten det:num|eleven det:num|twelve prep|for
+	det:num|twelve pro:per|you v|need inf|to v|leave .
+%gra:	1|2|DET 2|4|QUANT 3|4|DATE 4|8|JCT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|8|PUNCT
+*PAR:	and so all of a sudden Celery [* phon] just said well I'm [//] <I
+	have> [/] &t I have to leave and take off .
+%mor:	coord|and adv|so pro:indef|all prep|of det:art|a adj|sudden
+	n:prop|Celery adv|just v|say&PAST adv|well pro:sub|I v|have inf|to
+	v|leave coord|and v|take adv|off .
+%gra:	1|9|LINK 2|9|JCT 3|2|POBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|12|SUBJ 12|9|CJCT 13|14|INF 14|12|COMP 15|14|CONJ
+	16|15|COORD 17|16|JCT 18|9|PUNCT
+*PAR:	and the [/] the big thing was the &uh sitting &uh that <they don't
+	have their> [//] &uh &s they have to leave it outside .
+%mor:	coord|and det:art|the adj|big n|thing cop|be&PAST&13S det:art|the
+	n:gerund|sit-PRESP comp|that pro:sub|they v|have inf|to v|leave
+	pro:per|it adv|outside .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|INF 12|10|COMP 13|12|OBJ 14|12|JCT 15|5|PUNCT
+*PAR:	and [/] and &uh they took off .
+%mor:	coord|and pro:sub|they v|take&PAST adv|off .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	they get there &uh back to [//] at the [/] &ha the house .
+%mor:	pro:sub|they v|get adv|there adv|back prep|at det:art|the n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	so the [/] the [/] the &m male the [/] <the father> [//] &uh not the
+	father .
+%mor:	co|so det:art|the n|male neg|not det:art|the n|father .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NEG 5|6|DET 6|3|APP 7|3|PUNCT
+*PAR:	the [/] &uh &um the [/] the [/] the &m man the king says I need to
+	find this beautiful women [* phon] .
+%mor:	det:art|the n|man det:art|the n|king v|say-3S pro:sub|I v|need
+	inf|to v|find det:dem|this adj|beautiful n|woman&PL .
+%gra:	1|2|DET 2|5|OBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|INF
+	9|7|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|5|PUNCT
+*PAR:	and so they go around all over the king [* s] [* phon] to any around
+	to find this [/] this lady .
+%mor:	coord|and conj|so pro:sub|they v|go adv|around adv|all prep|over
+	det:art|the n|king prep|to qn|any adv|around inf|to v|find
+	det:dem|this n|lady .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|12|QUANT 12|10|POBJ 13|14|INF 14|4|XJCT 15|16|DET
+	16|14|OBJ 17|4|PUNCT
+*PAR:	and beautiful &uh they're looking <for the> [/] <for the> [/] for
+	the [/] &ba the thing <under their> [//] &uh on their head .
+%mor:	coord|and adj|beautiful pro:sub|they~aux|be&PRES part|look-PRESP
+	prep|for det:art|the n|thing prep|on det:poss|their adj|head .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	not their head but &uh their [/] &cla their king [* u] .
+%mor:	neg|not det:poss|their n|head conj|but det:poss|their n|king .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|CONJ 5|6|DET 6|4|COORD 7|3|PUNCT
+*PAR:	&uh well I'm not saying that right .
+%mor:	co|well pro:sub|I~aux|be&1S neg|not part|say-PRESP adv|that
+	co|right .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|COM 8|5|PUNCT
+*PAR:	but anyway &um so they have to go all around the [/] &ki the around
+	area .
+%mor:	conj|but co|anyway conj|so pro:sub|they v|have inf|to v|go adv|all
+	prep|around det:art|the prep|around n|area .
+%gra:	1|2|LINK 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|INF 7|5|COMP
+	8|9|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|11|POBJ 13|2|PUNCT
+*PAR:	and they see that the [/] the &th old sisters are &th they wanna
+	have of all their stuff .
+%mor:	coord|and pro:sub|they v|see comp|that det:art|the adj|old
+	n|sister-PL cop|be&PRES pro:sub|they v|want~inf|to v|have prep|of
+	qn|all det:poss|their n|stuff .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|7|DET 6|7|MOD 7|8|SUBJ 8|3|COMP
+	9|10|SUBJ 10|3|CJCT 11|12|INF 12|10|COMP 13|12|JCT 14|16|QUANT 15|16|DET
+	16|13|POBJ 17|3|PUNCT
+*PAR:	and they want to see the person with <the tall> [//] the [/] the
+	tiny [* u] &uh for watching on their [/] &he their .
+%mor:	coord|and pro:sub|they v|want inf|to v|see det:art|the n|person
+	prep|with det:art|the adj|tiny prep|for n:gerund|watch-PRESP adv|on
+	det:poss|their .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|JCT 12|11|POBJ 13|14|JCT 14|12|INCROOT 15|14|PUNCT
+*PAR:	I can't say the word .
+%mor:	pro:sub|I mod|can~neg|not v|say det:art|the n|word .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and so anyway &um so all of a sudden &sh the [//] <these two old>
+	[//] these girls are so big and ugly .
+%mor:	coord|and adv|so adv|anyway adv|so pro:indef|all prep|of det:art|a
+	adj|sudden det:dem|these n|girl-PL cop|be&PRES adv|so adj|big
+	coord|and adj|ugly .
+%gra:	1|11|LINK 2|3|JCT 3|11|JCT 4|11|JCT 5|11|SUBJ 6|5|NJCT 7|10|DET
+	8|10|MOD 9|10|DET 10|6|POBJ 11|0|ROOT 12|13|JCT 13|11|PRED 14|13|CONJ
+	15|14|COORD 16|11|PUNCT
+*PAR:	and [/] and they want to see the next person is Celeree [* phon] and
+	comes [//] that person comes in .
+%mor:	coord|and pro:sub|they v|want inf|to v|see det:art|the adj|next
+	n|person cop|be&3S n:prop|Celeree coord|and comp|that n|person
+	v|come-3S adv|in .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|5|COMP 10|9|PRED 11|10|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD 15|14|JCT
+	16|3|PUNCT
+*PAR:	and here's the other part of the [/] the [/] the &uh what do
+	you call it .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|the qn|other n|part
+	prep|of det:art|the pro:int|what mod|do pro:per|you v|call
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|6|NJCT 8|12|DET
+	9|12|SUBJ 10|12|AUX 11|12|SUBJ 12|7|POBJ 13|12|OBJ 14|3|PUNCT
+*PAR:	I'm trying to say just sit [//] sitting [* u] to the [//] &ki not
+	the king .
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|say adv|just
+	part|sit-PRESP prep|to neg|not det:art|the n|king .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|5|COMP 8|7|JCT
+	9|8|NEG 10|11|DET 11|8|POBJ 12|3|PUNCT
+*PAR:	but anyway she [//] they have two .
+%mor:	conj|but co|anyway pro:sub|they v|have det:num|two .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I'm missing [* phon] up this stuff .
+%mor:	pro:sub|I~aux|be&1S part|miss-PRESP prep|up det:dem|this n|stuff .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	anyway they [/] &uh they get it on .
+%mor:	co|anyway pro:sub|they v|get pro:per|it adv|on .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	and they [/] they said yes this is this low [* u] beautiful .
+%mor:	coord|and pro:sub|they v|say&PAST co|yes pro:dem|this cop|be&3S
+	det:dem|this adj|low adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|3|PUNCT
+*PAR:	and <the man> [//] the music comes [* u] again .
+%mor:	coord|and det:art|the n|music v|come-3S adv|again .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and [/] and they see [* u] with the king [* s] .
+%mor:	coord|and pro:sub|they v|see prep|with det:art|the n|king .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and they love each other .
+%mor:	coord|and pro:sub|they v|love qn|each qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	and they (a)re [/] &h are going <half [* u] delay [* u]> [//]
+	happily togever [: together] [* phon] .
+%mor:	coord|and pro:sub|they aux|be&PRES part|go-PRESP adv|happy&dadj-LY
+	adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	and that's it .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@End

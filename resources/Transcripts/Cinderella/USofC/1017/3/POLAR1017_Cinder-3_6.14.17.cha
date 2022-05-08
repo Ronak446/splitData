@@ -1,0 +1,140 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:17
+@Media:	1017_3_Cinderella_Y2017_M06_D14_H11_M02_S01 video
+*PAR:	okay &um <she was> [//] he was <just> [//] you know just gonna .
+%mor:	adj|okay pro:sub|he cop|be&PAST&13S pro:per|you v|know adv|just
+	part|go-PRESP~inf|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|5|JCT 7|5|XJCT 8|7|OBJ
+	9|3|PUNCT
+*PAR:	my &mm girl's like my &ah I don't know what she said no way .
+%mor:	det:poss|my n|girl~poss|s prep|like det:poss|my pro:sub|I
+	mod|do~neg|not v|know pro:int|what pro:sub|she v|say&PAST qn|no
+	n|way .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|POSS 4|2|JCT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|POBJ 10|12|LINK 11|12|SUBJ 12|9|COMP 13|14|QUANT 14|12|OBJ
+	15|2|PUNCT
+*PAR:	and xxx [* phon] like well I don't wanna .
+%mor:	coord|and co|like n|well pro:sub|I mod|do~neg|not v|want~inf|to .
+%gra:	1|3|LINK 2|3|COM 3|0|INCROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|CMOD 8|7|OBJ
+	9|3|PUNCT
+*PAR:	I wanna I love you <but you> [//] but you gonna no .
+%mor:	pro:sub|I v|want~inf|to pro:sub|I v|love pro:per|you conj|but
+	pro:per|you part|go-PRESP~inf|to co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|SUBJ 5|2|XCOMP 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|11|INF 11|9|XCOMP 12|2|PUNCT
+*PAR:	xxx [* phon] my momma is mine .
+%mor:	det:poss|my n|momma aux|be&3S pro:poss|mine .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	then &um she juss [/] juss [* phon] .
+%mor:	adv:tem|then pro:sub|she ?|juss .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	you know .
+%mor:	pro:per|you v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and she says yeah right you gonna .
+%mor:	coord|and pro:sub|she v|say-3S co|yeah n|right pro:per|you
+	part|go-PRESP~inf|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|COM 5|7|JCT 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+*PAR:	ah forget you .
+%mor:	co|ah v|forget pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	so in &sh I like said &ah man what you gonna what's .
+%mor:	adv|so adv|in pro:sub|I v|like v|say&PAST n|man pro:int|what
+	pro:per|you part|go-PRESP~inf|to pro:int|what~aux|be&3S .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|ROOT 10|12|INF 11|12|SUBJ 12|9|INCROOT 13|12|PUNCT
+*PAR:	just you know just .
+%mor:	adv|just pro:per|you v|know adv|just .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and xxx [* phon] you know this .
+%mor:	coord|and pro:per|you v|know pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um .
+*PAR:	and she says I'm not going .
+%mor:	coord|and pro:sub|she v|say-3S pro:sub|I~cop|be&1S neg|not
+	part|go-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|NEG 7|5|PRED 8|3|PUNCT
+*PAR:	and go ahead .
+%mor:	coord|and v|go adv|ahead .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and she's okay <I gotta> [/] I gotta .
+%mor:	coord|and pro:sub|she~cop|be&3S adj|okay pro:sub|I mod:aux|gotta .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|3|ENUM 7|3|PUNCT
+*PAR:	this is &ah wow always look at this .
+%mor:	pro:dem|this cop|be&3S co|wow adv|always v|look prep|at
+	pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|JCT 5|2|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and then she says I'm &uh go ahead I like that .
+%mor:	coord|and adv:tem|then pro:sub|she v|say-3S pro:sub|I~aux|be&1S
+	v|go adv|ahead pro:sub|I co|like pro:dem|that .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|JCT
+	9|10|SUBJ 10|11|COM 11|7|COMP 12|4|PUNCT
+*PAR:	let me see .
+%mor:	v|let&ZERO pro:obj|me v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	&woah .
+*PAR:	wow it's good it's .
+%mor:	co|wow pro:per|it~cop|be&3S adj|good pro:per|it~aux|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|PRED 7|3|PUNCT
+*PAR:	then &sh she's like oh &puh man come on momma come on .
+%mor:	adv:tem|then pro:sub|she~aux|be&3S prep|like co|oh n|man v|come
+	prep|on n|momma v|come adv|on .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|COM 6|7|SUBJ 7|4|POBJ 8|10|JCT
+	9|10|SUBJ 10|7|COMP 11|10|JCT 12|3|PUNCT
+*PAR:	you go you [/] you just .
+%mor:	pro:per|you v|go pro:per|you adv|just .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	alright [/] alright &ah I'll go .
+%mor:	co|alright pro:sub|I~mod|will v|go .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and then she was like all the .
+%mor:	coord|and adv:tem|then pro:sub|she cop|be&PAST&13S prep|like qn|all
+	det:art|the .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*PAR:	and she was &um I know xxx [* phon] now you always you know .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S pro:sub|I v|know adv|now
+	pro:per|you adv|always pro:per|you v|know .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|5|JCT 7|10|SUBJ 8|10|JCT
+	9|10|SUBJ 10|5|COMP 11|3|PUNCT
+*PAR:	yeah and &um &um she says &eh like xxx [* phon] I get that xxx
+	[* phon] .
+%mor:	co|yeah coord|and pro:sub|she v|say-3S prep|like pro:sub|I v|get
+	pro:dem|that .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*PAR:	all this oh my it's hard .
+%mor:	qn|all pro:dem|this co|oh det:poss|my pro:per|it~cop|be&3S adj|hard
+	.
+%gra:	1|2|QUANT 2|3|DET 3|6|COM 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	boy what's wrong &ah well .
+%mor:	co|boy pro:int|what~poss|s adj|wrong adv|well .
+%gra:	1|4|COM 2|4|MOD 3|2|POSS 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	this is you know I betcha I get that on .
+%mor:	pro:dem|this cop|be&3S pro:per|you v|know pro:sub|I co|betcha
+	pro:sub|I v|get pro:dem|that adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|8|SUBJ 6|8|COM 7|8|SUBJ 8|4|COMP
+	9|8|OBJ 10|8|JCT 11|2|PUNCT
+*PAR:	wow that is good .
+%mor:	co|wow pro:rel|that cop|be&3S adj|good .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	yes and you [/] you said <you did> [//] you did good .
+%mor:	co|yes coord|and pro:per|you v|say&PAST pro:per|you v|do&PAST
+	adj|good .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|4|PUNCT
+*PAR:	now the <other one> [//] other's like yes <thank you> [/] thank you .
+%mor:	adv|now det:art|the pro:indef|other~aux|be&3S prep|like co|yes
+	v|thank pro:per|you .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|COM 7|5|POBJ 8|7|OBJ
+	9|4|PUNCT
+*PAR:	and the end .
+%mor:	coord|and det:art|the n|end .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+@End

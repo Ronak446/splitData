@@ -1,0 +1,116 @@
+@UTF8
+@Window:	0_0_0_0_0_0_249_0_249_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:40
+@Media:	1111_Cinderella_2_2020-07-15-11-10-40, video
+*PAR:	&uh well &uh &uh &uh in the far off kingom [: kingdom] [* phon] live
+	&uh &uh Cinderella and &h &uh her father .
+%mor:	co|well prep|in det:art|the adv|far prep|off n|kingdom adj|live
+	n:prop|Cinderella coord|and det:poss|her n|father .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|5|POBJ 7|8|MOD 8|5|POBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|1|PUNCT
+*PAR:	and <&uh &moth &uh> [//] Cinderella's mother &uh died .
+%mor:	coord|and adj|Cinderella&dn-POSS n|mother v|die-PAST .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and her father &uh &uh get married again with &uh wife and two &ss
+	&uh daughters .
+%mor:	coord|and det:poss|her n|father aux|get part|marry-PASTP adv|again
+	prep|with n|wife coord|and det:num|two n|daughter-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|8|CONJ 10|11|QUANT 11|9|COORD 12|5|PUNCT
+*PAR:	and his &uh wife and two daughters are [/] are [/] are conbusing
+	[* abusing] [* phon] Cinderella .
+%mor:	coord|and det:poss|his n|wife coord|and det:num|two n|daughter-PL
+	cop|be&PRES ?|conbusing n:prop|Cinderella .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|CONJ 5|6|QUANT 6|4|COORD 7|0|ROOT 8|9|MOD
+	9|7|PRED 10|7|PUNCT
+*PAR:	and [/] and [/] &uh &uh &uh &uh and then the king &uh wanted the
+	prince to marry .
+%mor:	coord|and adv:tem|then det:art|the n|king v|want-PAST det:art|the
+	n|prince inf|to v|marry .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|INF
+	9|7|XMOD 10|5|PUNCT
+*PAR:	and they had &uh &uh ball &um that &uh all the women in the kingdom
+	&uh was invited to .
+%mor:	coord|and pro:sub|they v|have&PAST n|ball comp|that qn|all
+	det:art|the n|woman&PL prep|in det:art|the n|kingdom aux|be&PAST&13S
+	part|invite-PASTP prep|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|13|LINK 6|8|QUANT 7|8|DET
+	8|13|SUBJ 9|8|NJCT 10|11|DET 11|9|POBJ 12|13|AUX 13|4|CMOD 14|13|JCT 15|3|PUNCT
+*PAR:	and &uh Cinderella dressed up for it .
+%mor:	coord|and n:prop|Cinderella v|dress-PAST adv|up prep|for pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	and the sisters &uh &uh &uh &uh &uh what is that &uh went psycho on
+	her dress .
+%mor:	coord|and det:art|the n|sister-PL pro:int|what cop|be&3S
+	pro:dem|that v|go&PAST n|psycho prep|on det:poss|her n|dress .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|CPRED 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*PAR:	and &uh then &uh &uh &uh &uh Cinderella was trying [: crying]
+	[* phon] in the garden .
+%mor:	coord|and adv:tem|then n:prop|Cinderella aux|be&PAST&13S
+	part|cry-PRESP prep|in det:art|the n|garden .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and the &uh the [/] the fairy godmother fairy [* s] &uh &uh &uh &uh
+	said oh I will &uh build [//] &uh &uh fix it all up .
+%mor:	coord|and det:art|the det:art|the n|fairy n|+n|god+n|mother n|fairy
+	v|say&PAST co|oh pro:sub|I mod|will v|fix pro:per|it adv|all adv|up
+	.
+%gra:	1|7|LINK 2|6|DET 3|5|DET 4|5|MOD 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|11|COM
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|OBJ 13|14|JCT 14|11|JCT 15|7|PUNCT
+*PAR:	and [/] and &uh the [/] the xxx [* phon] wave her wand &uh &uh .
+%mor:	coord|and det:art|the n|wave det:poss|her n|wand .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	get mice to &uh be horses .
+%mor:	v|get n|mouse&PL inf|to cop|be n|horse-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|2|XMOD 5|4|PRED 6|1|PUNCT
+*PAR:	and get pumpkin to be a coach .
+%mor:	coord|and v|get n|pumpkin inf|to cop|be det:art|a n|coach .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XMOD 6|7|DET 7|5|PRED 8|2|PUNCT
+*PAR:	and [/] and &uh whisk Cinderella &uh &b &b the ball .
+%mor:	coord|and v|whisk n:prop|Cinderella det:art|the n|ball .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|2|PUNCT
+*PAR:	but [//] and then Cinderella and the prince &uh &uh &uh share a
+	dance and all that .
+%mor:	coord|and adv:tem|then n:prop|Cinderella coord|and det:art|the
+	n|prince n|share det:art|a n|dance coord|and adv|all pro:dem|that .
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|12|JCT 12|10|COORD 13|7|PUNCT
+*PAR:	and &uh &uh yeah but Cinderella &uh wants to be back &uh xxx
+	[* phon] at midnight .
+%mor:	coord|and co|yeah conj|but n:prop|Cinderella v|want-3S inf|to
+	cop|be adv|back prep|at mid#n|night .
+%gra:	1|5|LINK 2|5|COM 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|5|PUNCT
+*PAR:	so &uh she ran &uh with it and [/] &uh and &uh left the &uh sandal
+	[: slipper] [* s] &uh in the ball .
+%mor:	co|so pro:sub|she v|run&PAST prep|with pro:per|it coord|and
+	v|leave&PAST det:art|the n|slipper prep|in det:art|the n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	and <the prince &uh went to> [//] &uh no xxx [* phon] &uh went to
+	every &uh &uh house to see &uh if the &uh girl in house &uh fit the
+	shoe .
+%mor:	coord|and co|no v|go&PAST prep|to qn|every n|house inf|to v|see
+	comp|if det:art|the n|girl prep|in n|house n|fit det:art|the n|shoe
+	.
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|8|INF 8|3|XJCT
+	9|8|OBJ 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|16|DET
+	16|11|APP 17|3|PUNCT
+*PAR:	and Cinderella was [//] &uh &uh fit the su [: shoe] [* phon] .
+%mor:	coord|and n:prop|Cinderella n|fit det:art|the n|shoe .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and [/] &uh and married the prince .
+%mor:	coord|and v|marry-PAST det:art|the n|prince .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	and it's all &uh happy ever after &uh for her .
+%mor:	coord|and pro:per|it~cop|be&3S adv|all adj|happy adv|ever
+	adv:tem|after prep|for pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|JCT 7|5|JCT 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+@End

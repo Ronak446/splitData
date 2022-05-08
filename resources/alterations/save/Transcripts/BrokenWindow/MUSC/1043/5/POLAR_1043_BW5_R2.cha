@@ -1,0 +1,41 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:38
+@Media:	POLAR_1043_BW5_R2 video
+@Comment:	Perseveration.
+*PAR:	commercial [* u] &lu left up his &fa hap [* phon] commercial [* u]
+	person .
+%mor:	adj|commercial adj|left adv|up det:poss|his ?|hap n|commercial
+	n|person .
+%gra:	1|7|MOD 2|7|MOD 3|7|MOD 4|7|MOD 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*PAR:	but when he drove [* u] up to the commercial [* u] through the
+	commercial [* u] it broke through the commercial [* u] .
+%mor:	conj|but conj|when pro:sub|he v|drive&PAST adv|up prep|to
+	det:art|the n|commercial prep|through det:art|the n|commercial
+	pro:per|it v|break&PAST prep|through det:art|the n|commercial .
+%gra:	1|13|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|PUNCT
+*PAR:	and he [: it] [* s] fell [: broke] [* s] through the commercial
+	[: window] [* u] .
+%mor:	coord|and pro:per|it v|break&PAST prep|through det:art|the n|window
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and on the commercial [* u] jiles [* phon] commercial [* u] person .
+%mor:	coord|and prep|on det:art|the adj|commercial ?|jiles adj|commercial
+	n|person .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|7|MOD 5|7|MOD 6|7|MOD 7|2|POBJ 8|1|PUNCT
+*PAR:	and then he saw from his commercial [* u] that he could see his
+	commercial [* u] for [/] &h for the your [: his] [* s] child [* u]
+	for commercials [* u] .
+%mor:	coord|and adv:tem|then pro:sub|he v|see&PAST prep|from det:poss|his
+	n|commercial pro:rel|that pro:sub|he mod|could v|see det:poss|his
+	n|commercial prep|for det:art|the det:poss|his n|child prep|for
+	n|commercial-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|13|MOD 13|11|OBJ 14|11|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|18|POBJ 20|4|PUNCT
+@End

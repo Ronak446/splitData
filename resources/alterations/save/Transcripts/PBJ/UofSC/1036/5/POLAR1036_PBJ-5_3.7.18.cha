@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:32
+@Media:	1036_PBJ5 video
+*PAR:	&les &um two [/] &um two &um bread and &um slice .
+%mor:	det:num|two n|bread coord|and n|slice .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	&um &pea &um &um &um &um peanut &um butter and [/] and &um &um jelly .
+%mor:	n|peanut n|butter coord|and n|jelly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	slap [* s] &um peanut+butter and jelly &um and &um &um slap this &um
+	&um &um and &um &um .
+%mor:	n|slap n|+n|peanut+n|butter coord|and n|jelly coord|and v|slap
+	pro:dem|this coord|and .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|6|OBJ 8|6|CONJ
+	9|2|PUNCT
+*PAR:	&um no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

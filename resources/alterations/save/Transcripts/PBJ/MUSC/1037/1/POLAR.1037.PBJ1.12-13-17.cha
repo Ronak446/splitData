@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1037_1_PBJ_December-13th-2017-1-47-49-pm video
+*PAR:	in bread .
+%mor:	prep|in n|bread .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	&uh snuckers [* phon] peanut+butter and bread .
+%mor:	?|snuckers n|+n|peanut+n|butter coord|and n|bread .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+@End

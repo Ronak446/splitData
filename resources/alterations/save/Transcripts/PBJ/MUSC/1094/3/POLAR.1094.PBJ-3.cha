@@ -1,0 +1,25 @@
+@UTF8
+@Window:	0_0_0_0_0_0_281_0_281_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:49
+*PAR:	&s start with two pieces of bread .
+%mor:	v|start prep|with det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*PAR:	and you want bread peanut+butter on one side and telly
+	[: jelly] on the other .
+%mor:	coord|and pro:per|you v|want n|bread n|+n|peanut+n|butter prep|on
+	det:num|one n|side coord|and n|jelly prep|on det:art|the qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|3|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	and jam them together .
+%mor:	coord|and v|jam pro:obj|them adv|together .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	&um and you have a peanut+butter and jelly sandwich .
+%mor:	coord|and pro:per|you v|have det:art|a n|+n|peanut+n|butter
+	coord|and n|jelly n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|3|PUNCT
+@End

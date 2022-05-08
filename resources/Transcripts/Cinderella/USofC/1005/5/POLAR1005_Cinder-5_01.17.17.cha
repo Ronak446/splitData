@@ -1,0 +1,219 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:06:03
+@Media:	1005_5_Cinderella_Y2017_M01_D17_H10_M39_S13 video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tink [* phon] &sh they were go .
+%mor:	?|tink pro:sub|they aux|be&PAST v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	two three xxx [* phon] .
+%mor:	det:num|two det:num|three .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &sss xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and it was Cinderella and her huhaunt [* phon] .
+%mor:	coord|and pro:per|it cop|be&PAST&13S n:prop|Cinderella coord|and
+	det:poss|her ?|huhaunt .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|3|PUNCT
+*PAR:	and xxx [* phon] right der [* phon] and he's xxx [* phon] .
+%mor:	coord|and adj|right ?|der coord|and pro:sub|he~cop|be&3S .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|3|PUNCT
+*PAR:	say it .
+%mor:	v|say pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	he go oh &hehehe xxx [* phon] .
+%mor:	pro:sub|he v|go co|oh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	&um <all alone> [/] all alone and it's all anone [* phon] .
+%mor:	post|all adv|alone coord|and pro:per|it~cop|be&3S adv|all ?|anone .
+%gra:	1|0|INCROOT 2|5|JCT 3|5|LINK 4|5|SUBJ 5|1|COMP 6|7|JCT 7|5|PRED
+	8|1|PUNCT
+*PAR:	and xxx [* phon] <all alone> [/] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &t &t &t xxx [* phon] rake [* s] der [* phon] and xxx
+	[* phon] right der [* phon] .
+%mor:	n|rake ?|der coord|and adj|right ?|der .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*PAR:	And &um two times in one two times <Cinderella> [//] Tinderella
+	[* phon] .
+%mor:	n:prop|And det:num|two n|time-PL prep|in det:num|one det:num|two
+	n|time-PL n:prop|Tinderella .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|7|QUANT 6|7|QUANT 7|4|POBJ
+	8|3|APP 9|1|PUNCT
+*PAR:	and xxx [* phon] right der [* phon] it's right there .
+%mor:	coord|and adv|right ?|der pro:per|it~cop|be&3S adv|right adv|there
+	.
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|5|SUBJ 5|3|CMOD 6|7|JCT 7|5|JCT
+	8|1|PUNCT
+*PAR:	and one one [/] and &tuh two times .
+%mor:	coord|and det:num|one coord|and det:num|two n|time-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|QUANT 5|3|COORD 6|1|PUNCT
+*PAR:	and cright [* phon] der [* phon] and he said and xxx [* phon] xxx
+	[* phon] .
+%mor:	coord|and ?|cright ?|der coord|and pro:sub|he v|say&PAST coord|and
+	.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|6|LINK 5|6|SUBJ 6|3|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	and &um Cinderella &um &um &duh shweeping
+	[* phon] and shweeping [* phon] and xxx [* phon] .
+%mor:	coord|and n:prop|Cinderella ?|shweeping coord|and ?|shweeping
+	coord|and .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	and xxx [* phon] got der [* phon] and &um &uh &um dat
+	[* phon] der [* phon] he [//] he's &ah xxx [* phon] .
+%mor:	coord|and v|get&PAST ?|der coord|and ?|dat ?|der
+	pro:sub|he~cop|be&3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|3|CJCT
+	9|2|PUNCT
+*PAR:	&kin king [* s] and queen [* s] xxx [* phon] .
+%mor:	n|king coord|and n|queen .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and &um scat scat xxx [* phon] there .
+%mor:	coord|and ?|scat ?|scat adv|there .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|JCT 5|1|PUNCT
+*PAR:	and cat [* s] &ahugh right der [* phon] .
+%mor:	coord|and n|cat adv|right ?|der .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	and xxx [* phon] bear [* u] he gonna go two times two and two and
+	one .
+%mor:	coord|and n|bear pro:sub|he part|go-PRESP~inf|to v|go det:num|two
+	n|time-PL det:num|two coord|and det:num|two coord|and pro:indef|one
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|3|XMOD 5|6|INF 6|4|XCOMP 7|8|QUANT
+	8|6|OBJ 9|10|QUANT 10|8|CONJ 11|10|COORD 12|11|CONJ 13|12|COORD 14|1|PUNCT
+*PAR:	and &duh xxx [* phon] me so me me [/] too xxx [* phon] too .
+%mor:	coord|and pro:obj|me adv|so pro:obj|me adv|too post|too .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|JCT 4|2|OBJ 5|6|JCT 6|4|JCT 7|1|PUNCT
+*PAR:	oh well okay .
+%mor:	co|oh adv|well adj|okay .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and well two times it .
+%mor:	coord|and adv|well det:num|two n|time-PL pro:per|it .
+%gra:	1|4|LINK 2|4|JCT 3|4|QUANT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and hey you how are you shresh [* phon] .
+%mor:	coord|and co|hey pro:per|you adv:int|how aux|be&PRES pro:per|you
+	?|shresh .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|6|SUBJ 5|6|AUX 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*PAR:	and get away <get away> [/] <get away> [/] .
+%mor:	coord|and aux|get adv|away .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|PRED 4|1|PUNCT
+*PAR:	and &sh dat [* phon] dere [* phon] .
+%mor:	coord|and ?|dat ?|dere .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	and xxx [* phon] dat [* phon] der [* phon] .
+%mor:	coord|and ?|dat ?|der .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|1|PUNCT
+*PAR:	you know all &um .
+%mor:	pro:per|you v|know pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and &um &k key key [/] and &cuh &cuh come here and der [* phon] .
+%mor:	coord|and n|key coord|and v|come adv|here coord|and ?|der .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|4|CONJ 7|6|COORD
+	8|1|PUNCT
+*PAR:	keta [* phon] key keta [* phon] &keh &keh keih [* phon] key xxx
+	[* phon] .
+%mor:	?|keta n|key ?|keta ?|keih n|key .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	go xxx [* phon] down there .
+%mor:	v|go adv|down adv|there .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	&um annt [* phon] &um kress [* phon] kress [/] [* phon] &kreh two
+	times xxx [* phon] .
+%mor:	?|annt ?|kress det:num|two n|time-PL .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*PAR:	key and key caress [* u] and caress [* u] and xxx [* phon] two down
+	here .
+%mor:	n|key coord|and n|key v|caress coord|and v|caress coord|and
+	det:num|two adv|down adv|here .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|CONJ
+	8|9|QUANT 9|7|COORD 10|9|JCT 11|4|PUNCT
+*PAR:	and xxx [* phon] is beautiful .
+%mor:	coord|and cop|be&3S adj|beautiful .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PRED 4|1|PUNCT
+*PAR:	everybody &um they &um xxx [* phon] that .
+%mor:	pro:indef|everybody pro:sub|they pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &uh thank you .
+%mor:	coord|and v|thank pro:per|you .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&uh &um &tr &tr &kuh crane [* u] and and &uh .
+%mor:	n|crane coord|and coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and two xxx [* phon] and der [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] .
+%mor:	coord|and det:num|two coord|and ?|der .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	king [* s] and queen [* s] der [* phon] xxx [* phon] .
+%mor:	n|king coord|and n|queen ?|der .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	and &um &um &um der [* phon] der [* phon] gonna go xxx
+	[* phon] a ladder [* u] .
+%mor:	coord|and ?|der ?|der part|go-PRESP~inf|to v|go det:art|a n|ladder
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|OBJ 4|3|XMOD 5|6|INF 6|4|XCOMP 7|8|DET
+	8|6|OBJ 9|1|PUNCT
+*PAR:	and xxx [* phon] on ner [* phon] hey you xxx [* phon] xxx
+	[* phon] there .
+%mor:	coord|and prep|on ?|ner co|hey pro:per|you adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|5|COM 5|3|OBJ 6|5|JCT 7|1|PUNCT
+*PAR:	oh princes [* u] on there oh xxx [* phon] .
+%mor:	co|oh n|prince-PL prep|on adv|there co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|5|JCT 5|3|POBJ 6|2|PUNCT
+*PAR:	princes [* u] right there .
+%mor:	n|prince-PL adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*PAR:	sit der [* phon] and they let her .
+%mor:	v|sit ?|der coord|and pro:sub|they v|let&ZERO pro:obj|her .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|1|PUNCT
+*PAR:	and &um two times in der [* phon] two times in ner [* phon] all
+	alone &geh <all alone> [/] .
+%mor:	coord|and det:num|two n|time-PL prep|in ?|der det:num|two n|time-PL
+	prep|in ?|ner adv|all adv|alone .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|7|QUANT 7|5|OBJ
+	8|7|NJCT 9|8|POBJ 10|11|JCT 11|7|NJCT 12|3|PUNCT
+*PAR:	in my grace is xxx [* phon] for thee xxx [* phon] .
+%mor:	prep|in det:poss|my n|grace cop|be&3S prep|for pro:obj|thee .
+%gra:	1|4|JCT 2|3|MOD 3|1|POBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	kon [* phon] der [* phon] and <lepper> [//] flipper [* s] .
+%mor:	?|kon ?|der coord|and n|flipper .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and what is that no everybody xxx [* phon] .
+%mor:	coord|and pro:int|what cop|be&3S pro:rel|that qn|no
+	pro:indef|everybody .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|QUANT 6|3|PRED 7|3|PUNCT
+*PAR:	and one and one and one two times one times we xxx [* phon] .
+%mor:	coord|and det:num|one coord|and det:num|one coord|and det:num|one
+	det:num|two n|time-PL pro:indef|one n|time-PL pro:sub|we .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|CONJ 6|8|QUANT 7|8|QUANT
+	8|5|COORD 9|10|MOD 10|11|MOD 11|8|CMOD 12|1|PUNCT
+*PAR:	xxx [* phon] oh <this one here> [/] <this one here> [/] this one
+	here .
+%mor:	co|oh pro:dem|this pro:indef|one adv|here .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	a letter in slipper in &deh den [* phon] .
+%mor:	det:art|a n|letter prep|in n|slipper prep|in n|den .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	xxx [* phon] it's not you're beautiful not der [* phon] .
+%mor:	pro:per|it~cop|be&3S neg|not pro:per|you~cop|be&PRES adj|beautiful
+	neg|not ?|der .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|SUBJ 5|2|PRED 6|5|PRED 7|5|NEG 8|5|PRED
+	9|2|PUNCT
+*PAR:	oh xxx [* phon] xxx [* phon] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh what xxx [* phon] queen [* s] is all alone [* u] .
+%mor:	co|oh pro:int|what n|queen aux|be&3S adv|all adv|alone .
+%gra:	1|4|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	Queen [* s] and queen [* s] one and one .
+%mor:	n:prop|Queen coord|and n|queen det:num|one coord|and pro:indef|one
+	.
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+@End

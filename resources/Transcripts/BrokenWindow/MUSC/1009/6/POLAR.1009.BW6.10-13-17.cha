@@ -1,0 +1,78 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:06
+@Media:	1009_BW6 video
+
+*PAR:	okay the little one's &w doing willy [* phon] good .
+%mor:	co|okay det:art|the adj|little pro:indef|one~aux|be&3S
+	part|do-PRESP ?|willy adj|good .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|7|PRED
+	9|6|PUNCT
+*PAR:	and all of a sudden <she [* s] got a &uh &sh> [//] he got a &um
+	football [* s] [//] <I mean football [* s]> [//] soccer .
+%mor:	coord|and pro:indef|all prep|of det:art|a n|sudden pro:sub|he
+	v|get&PAST det:art|a n|soccer .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*PAR:	and he [/] he was ready to go <with it> [//] with the &um .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|ready inf|to v|go
+	prep|with det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	and something happened .
+%mor:	coord|and pro:indef|something v|happen-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and he got it .
+%mor:	coord|and pro:sub|he v|get&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he got into the &um the yard .
+%mor:	coord|and pro:sub|he v|get&PAST prep|into det:art|the det:art|the
+	n|yard .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|DET 7|4|POBJ 8|3|PUNCT
+*PAR:	and all of a sudden he got it &um in the yard and [/] and alls
+	[* phon] .
+%mor:	coord|and pro:indef|all prep|of det:art|a n|sudden pro:sub|he
+	v|get&PAST pro:per|it prep|in det:art|the n|yard coord|and adj|alls
+	.
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|CONJ 13|12|COORD 14|7|PUNCT
+*PAR:	and he got it in there .
+%mor:	coord|and pro:sub|he v|get&PAST pro:per|it prep|in adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	<and he> [/] <and he> [//] and the guy he was looking at it .
+%mor:	coord|and det:art|the n|guy pro:sub|he aux|be&PAST&13S
+	part|look-PRESP prep|at pro:per|it .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	and all a sudden he came over there and gotta in there <with the>
+	[/]  &um with the [/] &f the .
+%mor:	coord|and qn|all det:art|a n|sudden pro:sub|he v|come&PAST adv|over
+	adv|there coord|and mod:aux|gotta adv|in adv|there prep|with
+	det:art|the .
+%gra:	1|6|LINK 2|4|QUANT 3|4|DET 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|6|CONJ 10|9|COORD 11|10|JCT 12|10|JCT 13|10|JCT 14|13|POBJ 15|6|PUNCT
+*PAR:	&a and there <she [* s] was looking> [//] he &w he was looking at it .
+%mor:	coord|and adv|there pro:sub|he pro:sub|he aux|be&PAST&13S
+	part|look-PRESP prep|at pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CMOD 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*PAR:	and finally he didn't know .
+%mor:	coord|and adv|final&dadj-LY pro:sub|he mod|do&PAST~neg|not v|know .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	but he looked at and he looked at you [* u] .
+%mor:	conj|but pro:sub|he cop|look-PAST prep|at coord|and pro:sub|he
+	cop|look-PAST prep|at pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|POBJ 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and he looked and see about him .
+%mor:	coord|and pro:sub|he cop|look-PAST coord|and v|see prep|about
+	pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	it's not really good .
+%mor:	pro:per|it~cop|be&3S neg|not adv|real&dadj-LY adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+@End

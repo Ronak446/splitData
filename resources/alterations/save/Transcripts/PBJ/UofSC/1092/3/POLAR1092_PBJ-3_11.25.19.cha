@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_3_PBJ_November-25th-2019-10-32-23-am video
+@Time Duration:	00:00:29
+*PAR:	&m cheese [* u] like a butter [: peanut+butter] [* s] sandwich .
+%mor:	n|cheese prep|like det:art|a n|+n|peanut+n|butter n|sandwich .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*PAR:	&m XXX [* phon] XXX [* phon] XXX [* phon] with &uh they have a
+	sandwich .
+%mor:	n:prop|XXX n:prop|XXX n:prop|XXX prep|with pro:sub|they v|have
+	det:art|a n|sandwich .
+%gra:	1|2|NAME 2|3|NAME 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	and hey have some bread &um butter [: peanut+butter] [* s] .
+%mor:	coord|and co|hey v|have qn|some n|bread n|+n|peanut+n|butter .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	and they &uh XXX [* phon] &uh sandwich .
+%mor:	coord|and pro:sub|they n:prop|XXX n|sandwich .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@End

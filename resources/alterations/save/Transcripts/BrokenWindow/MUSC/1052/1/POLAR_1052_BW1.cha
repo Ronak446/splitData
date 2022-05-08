@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:14
+@Media:	POLAR_1052_BW1 video
+*PAR:	kick ball .
+%mor:	v|kick n|ball .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&uh <that they> [//] &um the one that the ball hit the wundow
+	[: window] [* phon] .
+%mor:	det:art|the pro:indef|one pro:rel|that det:art|the n|ball
+	v|hit&ZERO det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	<the maan [: man] [* phon] &um ee [* phon] &uh the man> [//] the
+	ball &uh the one that hit the [/] &um the window .
+%mor:	det:art|the n|ball det:art|the pro:indef|one pro:dem|that
+	v|hit&ZERO det:art|the n|window .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|XMOD 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	&um that the maan [: man] [* phon] I look out the wundow [: window]
+	[* phon] .
+%mor:	pro:rel|that det:art|the n|man pro:sub|I cop|look prep|out
+	det:art|the n|window .
+%gra:	1|5|LINK 2|3|DET 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	&um the man look &uh out the wundow [: window] [* phon] and see what
+	that is that .
+%mor:	det:art|the n|man v|look prep|out det:art|the n|window coord|and
+	v|see pro:int|what pro:dem|that cop|be&3S pro:dem|that .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|11|PRED 13|3|PUNCT
+@End

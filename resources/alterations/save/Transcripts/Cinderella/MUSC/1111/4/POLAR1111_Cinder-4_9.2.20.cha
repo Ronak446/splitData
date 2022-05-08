@@ -1,0 +1,164 @@
+@UTF8
+@Window:	0_0_0_0_1552_1_2088_0_2088_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:47
+@Media:	1111_Cinderella_4, video
+*PAR:	&uh is a fairy tale about the Cinderella .
+%mor:	cop|be&3S det:art|a n|fairy n|tale prep|about det:art|the
+	n:prop|Cinderella .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	it takes place in a far kay [: away] [* phon] tingdom [: kingdom]
+	[* phon] .
+%mor:	pro:per|it v|take-3S n|place prep|in det:art|a adv|far adv|away
+	n|kingdom .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|7|JCT 7|8|MOD 8|4|POBJ
+	9|2|PUNCT
+*PAR:	and Cinderella was [/] &uh &uh was &uh luhl [: little] [* phon] when
+	&uh her mother died .
+%mor:	coord|and n:prop|Cinderella cop|be&PAST&13S adj|little conj|when
+	det:poss|her n|mother v|die-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CJCT
+	9|3|PUNCT
+*PAR:	and her father married &uh someone else with &uh two &uh lil
+	[: little] [* phon] girls .
+%mor:	coord|and det:poss|her n|father v|marry-PAST pro:indef|someone
+	post|else prep|with det:num|two adj|little n|girl-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|JCT 8|10|QUANT
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*PAR:	&um and then her father died .
+%mor:	coord|and adv:tem|then det:poss|her n|father v|die-PAST .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and the stepmother was terrible to Cinderella .
+%mor:	coord|and det:art|the step#n|mother cop|be&PAST&13S adj|terrible
+	prep|to n:prop|Cinderella .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	and her &sist [//] &uh stepsisters were terrible as well .
+%mor:	coord|and det:poss|her step#n|sister-PL cop|be&PAST adj|terrible
+	prep|as adv|well .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|COORD 7|5|ENUM
+	8|4|PUNCT
+*PAR:	&uh she would clean .
+%mor:	pro:sub|she mod|will&COND v|clean .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and &ha have &uh rags for clothes .
+%mor:	coord|and v|have n|rag-PL prep|for n:pt|clothes .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	and &uh her bedroom was in the attic .
+%mor:	coord|and det:poss|her n|+n|bed+n|room cop|be&PAST&13S prep|in
+	det:art|the n|attic .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and [//] but she is so sweet that she &uh &uh makes friends with lil
+	[: little] [* phon] amals [: animals] [* phon] .
+%mor:	conj|but pro:sub|she cop|be&3S adv|so adj|sweet comp|that
+	pro:sub|she v|make-3S n|friend-PL prep|with adj|little n|animal-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|OBJ 10|8|JCT 11|12|MOD 12|10|POBJ 13|3|PUNCT
+*PAR:	and [/] and [/] and so sweet that she takes care of her &uh mother
+	[//] &uh stepmother and stepsisers [: stepsisters] [* phon] &um &um
+	&das .
+%mor:	coord|and adv|so adj|sweet comp|that pro:sub|she v|take-3S n|care
+	prep|of det:poss|her step#n|mother coord|and step#n|sister-PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|3|CONJ 12|11|COORD 13|1|PUNCT
+*PAR:	and then &uh in meanwhile &uh in the royal plalace [: palace]
+	[* phon] the ping [: king] [* phon] &uh &uh wanted the brides for
+	the prince .
+%mor:	coord|and adv:tem|then adv|in adv|meanwhile prep|in det:art|the
+	adj|royal n|palace det:art|the n|king v|want-PAST det:art|the
+	n|bride-PL prep|for det:art|the n|prince .
+%gra:	1|11|LINK 2|4|JCT 3|4|JCT 4|11|JCT 5|11|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|DET 10|11|SUBJ 11|0|ROOT 12|13|DET 13|11|OBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|11|PUNCT
+*PAR:	so they &uh &uh &uh &uh bited [: invited] [* phon] every [//] &uh
+	all the lady &uh in the kingdom to the royal ball .
+%mor:	co|so pro:sub|they v|invite-PAST qn|all det:art|the n|lady prep|in
+	det:art|the n|kingdom prep|to det:art|the adj|royal n|ball .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|3|PUNCT
+*PAR:	and &uh so Cinderella and her stepsisters were invited .
+%mor:	coord|and co|so n:prop|Cinderella coord|and det:poss|her
+	step#n|sister-PL aux|be&PAST part|invite-PASTP .
+%gra:	1|3|LINK 2|3|COM 3|8|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*PAR:	and [/] &uh and &uh they [//] &uh &um Cinderella had &uh &uh &uh
+	gown from her bed [: dead] [* phon] mom that &uh &uh she wanted to
+	go .
+%mor:	coord|and n:prop|Cinderella v|have&PAST n|gown prep|from
+	det:poss|her adj|dead n|mom pro:rel|that pro:sub|she v|want-PAST
+	inf|to v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|INF 13|11|COMP 14|3|PUNCT
+*PAR:	&uh but her &uh sister [//] stepsisters &uh &uh &uh takked
+	[: attacked] [* phon] her and rip up gown .
+%mor:	conj|but det:poss|her step#n|sister-PL v|attack-PAST pro:obj|her
+	coord|and v|rip adv|up n|gown .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	so &uh &uh Cinderella cried in the &uh &uh garden .
+%mor:	co|so n:prop|Cinderella v|cry-PAST prep|in det:art|the n|garden .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and &uh the fairy godmother pity her .
+%mor:	coord|and det:art|the n|fairy n|+n|god+n|mother v|pity pro:obj|her
+	.
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	<and the> [//] &uh and &uh in &uh &uh wave of her magic wand .
+%mor:	coord|and prep|in n|wave prep|of det:poss|her adj|magic n|wand .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|1|PUNCT
+*PAR:	&uh &uh &uh get her [//] &uh Cinderella &uh new &uh gown and &uh a
+	coach .
+%mor:	v|get n:prop|Cinderella adj|new n|gown coord|and det:art|a n|coach
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MOD 4|2|APP 5|2|CONJ 6|7|DET 7|5|COORD 8|1|PUNCT
+*PAR:	&uh but warned that [/] &uh that &uh at &uh midnight &uh &uh &uh &uh
+	everything will be back to nowmal [: normal] [* phon] .
+%mor:	conj|but v|warn-PAST comp|that prep|at mid#n|night
+	pro:indef|everything mod|will cop|be adv|back prep|to n|normal .
+%gra:	1|2|LINK 2|0|ROOT 3|8|LINK 4|8|JCT 5|4|POBJ 6|8|SUBJ 7|8|AUX 8|2|COMP
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|2|PUNCT
+*PAR:	so Cinderella &uh &uh get to the royal ball .
+%mor:	co|so n:prop|Cinderella v|get prep|to det:art|the adj|royal n|ball
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	and &uh dance with the prince .
+%mor:	coord|and v|dance prep|with det:art|the n|prince .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	and [/] and [/] &uh and &uh &um then &uh then night comes .
+%mor:	coord|and adv:tem|then adv:tem|then n|night v|come-3S .
+%gra:	1|5|LINK 2|5|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	and &uh Cinderella &uh &uh ran away .
+%mor:	coord|and n:prop|Cinderella v|run&PAST adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	but he &ca got one slipper .
+%mor:	conj|but pro:sub|he v|get&PAST pro:indef|one n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*PAR:	and &uh when &tuh prince &uh &uh &uh took the slipper . 
+%mor:	coord|and conj|when n|prince v|take&PAST det:art|the n|slipper .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and [/] &uh and &uh &uh &wen well get his [/] &uh his &ti guard to
+	&uh go around and find the &uh female that [/] &uh that &uh &uh &uh
+	&sp fit the slipper .
+%mor:	coord|and n|well v|get det:poss|his n|guard inf|to v|go adv|around
+	coord|and v|find det:art|the n|female pro:rel|that n|fit det:art|the
+	n|slipper .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|3|COMP 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|14|LINK 14|12|CMOD 15|16|DET
+	16|14|OBJ 17|3|PUNCT
+*PAR:	and [/] &uh and &uh when she &uh went to Cinderella's house &um &uh
+	&uh &uh Cinderella fit the sipper [: slipper] [* phon] .
+%mor:	coord|and conj|when pro:sub|she v|go&PAST prep|to
+	adj|Cinderella&dn-POSS n|house n:prop|Cinderella n|fit det:art|the
+	n|slipper .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|9|MOD
+	9|4|XJCT 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	and prince married her .
+%mor:	coord|and n|prince v|marry-PAST pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and they lived happily ever afur [: after] [* phon] . 
+%mor:	coord|and pro:sub|they v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+@End

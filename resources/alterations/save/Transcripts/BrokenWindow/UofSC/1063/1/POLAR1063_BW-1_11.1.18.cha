@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:24
+@Media:	POLAR_1063_BW1 video
+*PAR:	yes well &ye mah [* phon] yeah &s <a ma> [//] &uh a ba [* phon] love
+	you and say bameh [* phon] oh no .
+%mor:	co|yes adv|well ?|mah co|yeah det:art|a ?|ba n|love pro:per|you
+	coord|and v|say ?|bameh co|oh co|no .
+%gra:	1|2|COM 2|3|JCT 3|0|ROOT 4|7|COM 5|7|DET 6|7|MOD 7|3|PUNCT 8|7|OBJ
+	9|8|CONJ 10|9|COORD 11|10|OBJ 12|13|COM 13|11|INCROOT 14|13|PUNCT
+@End

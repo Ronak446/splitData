@@ -1,0 +1,30 @@
+@UTF8
+@Window:	0_0_0_0_0_0_140_0_140_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1095_PBJ-6_9.9.20 video
+@Time Duration:	00:00:54
+*PAR:	xxx [* phon] &uh .
+*PAR:	&sh xxx [* phon] xxx [* phon] &uhh .
+*PAR:	one xxx [* phon] .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uhh xxx [* phon] yes xxx [* phon] &um .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &sh okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&yuhh yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx [* phon] &shh .
+*PAR:	yeah [/] yeah xxx [* phon] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

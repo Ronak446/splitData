@@ -1,0 +1,1 @@
+vread [* phon] toas [* phon] ri [* phon] fed [* u].

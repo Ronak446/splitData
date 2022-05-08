@@ -1,0 +1,256 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:16:45
+@Media:	1046_5_Cinderella_June-19th-2018-12-10-04-pm video
+*PAR:	&um <the gentleman> [/] &um the gentleman &um is the &um &do &uh father of &um Cinderella .
+%mor:	det:art|the n|gentleman cop|be&3S det:art|the n|father prep|of
+	n:prop|Cinderella .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*PAR:	&um and he [/] &um he going to &um go to the [/] &um the &um mother
+	okay stepmother and stepdaughters &um &um .
+%mor:	coord|and pro:sub|he part|go-PRESP inf|to v|go prep|to det:art|the
+	n|mother adj|okay step#n|mother coord|and step#n|daughter-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|MOD 10|5|JCT 11|10|CONJ 12|11|COORD 13|3|PUNCT
+*PAR:	and &uh he &um meet .
+%mor:	coord|and pro:sub|he v|meet .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	so &um the &um stepdaughters are mean to the [/] &um <the &um
+	princess> [//] &um okay &um the Cinderella .
+%mor:	co|so det:art|the step#n|daughter-PL aux|be&PRES adj|mean inf|to
+	adj|okay det:art|the n:prop|Cinderella .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XMOD 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*PAR:	&um so &um she &um &um &ste &uh &stepsuh &uh okay the cat &um so the
+	&uh cat is going to be mean to &uh Cinderella .
+%mor:	co|so pro:sub|she co|okay det:art|the n|cat conj|so det:art|the
+	n|cat aux|be&3S part|go-PRESP inf|to cop|be adj|mean prep|to
+	n:prop|Cinderella .
+%gra:	1|5|COM 2|5|SUBJ 3|5|COM 4|5|DET 5|0|INCROOT 6|10|LINK 7|8|DET
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|12|INF 12|10|COMP 13|12|PRED 14|12|JCT
+	15|14|POBJ 16|5|PUNCT
+*PAR:	&um the horshes [* phon] and the &uh &um mice &uh the dog &um the so
+	the mean to &um okay &um &uh the Cinderella is going to be &uh nice
+	to the cat &um .
+%mor:	det:art|the ?|horshes coord|and det:art|the n|mouse&PL det:art|the
+	n|dog det:art|the conj|so det:art|the adj|mean prep|to adj|okay
+	det:art|the n:prop|Cinderella aux|be&3S part|go-PRESP inf|to cop|be
+	adj|nice prep|to det:art|the n|cat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|7|DET 7|5|OBJ 8|9|DET
+	9|7|XMOD 10|11|DET 11|9|COORD 12|11|JCT 13|12|POBJ 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|19|INF 19|17|COMP 20|19|PRED 21|19|JCT 22|23|DET
+	23|21|POBJ 24|2|PUNCT
+*PAR:	and the cat will be &um &um snarls &um .
+%mor:	coord|and det:art|the n|cat mod|will cop|be v|snarl-3S .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	so &um that &um so &um <the prince> [//] okay &um the king is going
+	to be &um the &um guy okay the king is going to be &um the &king is
+	the &um prince is &um the &uh valet [* u] I don't know &um valet
+	&um .
+%mor:	co|so pro:rel|that adv|so adj|okay det:art|the n|king aux|be&3S
+	part|go-PRESP inf|to cop|be det:art|the n|guy co|okay det:art|the
+	n|king aux|be&3S part|go-PRESP inf|to cop|be det:art|the cop|be&3S
+	det:art|the n|prince cop|be&3S det:art|the n|valet pro:sub|I
+	mod|do~neg|not v|know n|valet .
+%gra:	1|4|COM 2|4|LINK 3|4|JCT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|PRED 13|17|COM 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|12|CMOD 18|19|INF 19|17|COMP 20|21|DET 21|19|PRED 22|23|DET
+	23|24|SUBJ 24|21|PRED 25|26|DET 26|24|PRED 27|30|SUBJ 28|30|AUX 29|28|NEG
+	30|26|CMOD 31|30|OBJ 32|8|PUNCT
+*PAR:	so <the prince is> [//] okay the king is going to be I don't know
+	what &um happens &um .
+%mor:	adv|so adj|okay det:art|the n|king aux|be&3S part|go-PRESP inf|to
+	cop|be pro:sub|I mod|do~neg|not v|know pro:int|what v|happen-3S .
+%gra:	1|2|JCT 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|12|XJCT 7|8|INF 8|6|COMP
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|0|ROOT 13|14|SUBJ 14|12|COMP 15|12|PUNCT
+*PAR:	so then &uh &um the king is going to be &um &ir irate with the &um
+	prince's valet [* u] .
+%mor:	co|so adv:tem|then det:art|the n|king aux|be&3S part|go-PRESP
+	inf|to cop|be adj|irate prep|with det:art|the adj|prince&dn-POSS
+	n|valet .
+%gra:	1|2|COM 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|PUNCT
+*PAR:	so &um the &uh so then I &um so &um &um <prince> [//] okay
+	stepmother is &um going to be &um &um stepdaughters and the [/] &uh
+	the &um okay the &um the &um &st &uh stepmother is &um tells the &uh
+	stepdaughters &um .
+%mor:	co|so det:art|the adv|so adv:tem|then pro:sub|I adv|so adj|okay
+	step#n|mother aux|be&3S part|go-PRESP inf|to cop|be
+	step#n|daughter-PL coord|and det:art|the adj|okay det:art|the
+	det:art|the step#n|mother aux|be&3S v|tell-3S det:art|the
+	step#n|daughter-PL .
+%gra:	1|4|COM 2|4|DET 3|4|JCT 4|7|JCT 5|7|SUBJ 6|7|JCT 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|12|INF 12|10|COMP 13|12|PRED 14|21|LINK 15|16|DET
+	16|21|JCT 17|19|DET 18|19|DET 19|21|SUBJ 20|21|AUX 21|10|CJCT 22|23|DET
+	23|21|OBJ 24|10|PUNCT
+*PAR:	so &um then &um okay [/] okay and &um so then I &um Cinderella &um
+	&um so Cinderella &um the &um &kr &um dress .
+%mor:	co|so adv:tem|then adj|okay coord|and co|so adv:tem|then pro:sub|I
+	n:prop|Cinderella adv|so n:prop|Cinderella det:art|the n|dress .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|CONJ 5|8|COM 6|8|JCT 7|8|SUBJ 8|4|COORD
+	9|10|JCT 10|3|CMOD 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	&um &um birds and mice and &um the dress &um the made the dress
+	pretty .
+%mor:	n|bird-PL coord|and n|mouse&PL coord|and det:art|the n|dress
+	det:art|the part|make&PASTP det:art|the n|dress adv|pretty .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|CONJ 5|6|DET 6|4|COORD 7|8|DET
+	8|6|XMOD 9|10|DET 10|8|OBJ 11|8|JCT 12|1|PUNCT
+*PAR:	so &um though the &uh stepdaughters &um &um so stepdaughters &um the
+	&um reaches the &uh part about &um Cinderella &uh .
+%mor:	co|so adv|though det:art|the step#n|daughter-PL adv|so
+	step#n|daughter-PL det:art|the n|reach-PL det:art|the n|part
+	prep|about n:prop|Cinderella .
+%gra:	1|4|COM 2|4|JCT 3|4|DET 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|XMOD 11|10|NJCT 12|11|POBJ 13|6|PUNCT
+*PAR:	so Cinderella &um is &um necklace and &um belt and the &um &k rips
+	&um the [/] the dress from Cinderella .
+%mor:	co|so n:prop|Cinderella aux|be&3S n|necklace coord|and n|belt
+	coord|and det:art|the v|rip-3S det:art|the n|dress prep|from
+	n:prop|Cinderella .
+%gra:	1|4|COM 2|4|MOD 3|2|POSS 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|CONJ 8|9|DET
+	9|7|COORD 10|11|DET 11|9|OBJ 12|11|NJCT 13|12|POBJ 14|4|PUNCT
+*PAR:	and &um Cinderella &um okay alright so then &um &uh &uh
+	stepdaughters and stepmother had the &uh okay the okay .
+%mor:	coord|and n:prop|Cinderella adj|okay adj|alright adv|so
+	adv:tem|then step#n|daughter-PL coord|and step#n|mother v|have&PAST
+	det:art|the adj|okay det:art|the adj|okay .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|10|LINK 5|6|JCT 6|7|JCT 7|10|SUBJ 8|7|CONJ
+	9|8|COORD 10|0|ROOT 11|12|DET 12|10|OBJ 13|14|DET 14|12|PRED 15|10|PUNCT
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so the [/] &uh the prince &uh &uh &um just a Cinderella &um the &um
+	&boohoo &um I [/] I don't know &um just well okay .
+%mor:	co|so det:art|the n|prince adv|just det:art|a n:prop|Cinderella
+	det:art|the pro:sub|I mod|do~neg|not v|know adv|just adv|well
+	adj|okay .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|11|DET
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|CMOD 12|13|JCT 13|14|JCT 14|11|JCT 15|3|PUNCT
+*PAR:	so &um the &um <prince> [//] okay Cinderella has the &um dress made
+	&um for the okay the &um so okay the [/] the <mother> [//] &um
+	godmother &um so okay the &guther &gutter godmother makes the dress
+	for &um Cinderella .
+%mor:	co|so det:art|the adj|okay n:prop|Cinderella v|have&3S det:art|the
+	n|dress v|make&PAST prep|for det:art|the adj|okay det:art|the adv|so
+	adj|okay det:art|the n|+n|god+n|mother adv|so adj|okay det:art|the
+	n|+n|god+n|mother v|make-3S det:art|the n|dress prep|for
+	n:prop|Cinderella .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|16|DET 11|16|MOD 12|16|DET 13|14|JCT 14|16|MOD 15|16|DET
+	16|9|POBJ 17|18|JCT 18|21|JCT 19|20|DET 20|21|SUBJ 21|8|CJCT 22|23|DET
+	23|21|OBJ 24|23|NJCT 25|24|POBJ 26|5|PUNCT
+*PAR:	the Cinderella &um &um so the &um carriage and horshes [* phon] and
+	the man &um and &um so okay &um the horshes [* phon] and the
+	carriage and the gentleman and the [/] &um the gentleman <ride off
+	to the sunset> [//] &um it's a ride off to the castle .
+%mor:	det:art|the n:prop|Cinderella conj|so det:art|the n|carriage
+	coord|and ?|horshes coord|and det:art|the n|man coord|and adv|so
+	adj|okay det:art|the ?|horshes coord|and det:art|the n|carriage
+	coord|and det:art|the n|gentleman coord|and det:art|the n|gentleman
+	pro:per|it~cop|be&3S det:art|a n|ride adv|off prep|to det:art|the
+	n|castle .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|5|CONJ 7|6|COORD
+	8|5|CONJ 9|10|DET 10|8|COORD 11|5|CONJ 12|13|JCT 13|11|COORD 14|15|DET
+	15|13|CMOD 16|15|CONJ 17|18|DET 18|16|COORD 19|15|CONJ 20|21|DET 21|19|COORD
+	22|15|CONJ 23|24|DET 24|22|COORD 25|26|SUBJ 26|24|CMOD 27|28|DET
+	28|26|PRED 29|28|NJCT 30|29|JCT 31|32|DET 32|30|POBJ 33|2|PUNCT
+*PAR:	so then &um the &um so &um the prince and Cinderella &um have &um so
+	&um that is &um watching [/] &uh watching the &uh so then &um the
+	prince and the Cinderella &um so the watching the &um sp &um <the
+	&um godmother> [//] okay the stepmother and the <two dollar> [//]
+	two daughters watch them .
+%mor:	co|so adv:tem|then det:art|the co|so det:art|the n|prince coord|and
+	n:prop|Cinderella v|have adv|so pro:dem|that aux|be&3S
+	part|watch-PRESP det:art|the adv|so adv:tem|then det:art|the
+	n|prince coord|and det:art|the n:prop|Cinderella conj|so det:art|the
+	n:gerund|watch-PRESP det:art|the ?|sp co|okay det:art|the
+	step#n|mother coord|and det:art|the det:num|two n|daughter-PL
+	n|watch pro:obj|them .
+%gra:	1|2|COM 2|9|JCT 3|6|DET 4|6|COM 5|6|DET 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|0|ROOT 10|13|JCT 11|13|SUBJ 12|13|AUX 13|9|COMP 14|16|DET 15|16|JCT
+	16|13|OBJ 17|18|DET 18|16|OBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|18|CONJ
+	23|24|DET 24|22|COORD 25|26|DET 26|24|CONJ 27|29|COM 28|29|DET 29|26|COORD
+	30|29|CONJ 31|34|DET 32|33|QUANT 33|34|MOD 34|30|COORD 35|34|OBJ
+	36|9|PUNCT
+*PAR:	so then I &um have so then I &um so the &um prince and the &um
+	Cinderella &um had the moon okay &uh kiss the &um I don't know &um
+	just .
+%mor:	co|so adv:tem|then pro:sub|I v|have adv|so adv:tem|then pro:sub|I
+	conj|so det:art|the n|prince coord|and det:art|the n:prop|Cinderella
+	v|have&PAST det:art|the n|moon adj|okay n|kiss det:art|the pro:sub|I
+	mod|do~neg|not v|know adv|just .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|14|SUBJ 8|14|LINK
+	9|10|DET 10|14|SUBJ 11|10|CONJ 12|13|DET 13|11|COORD 14|6|CMOD 15|16|DET
+	16|18|MOD 17|18|MOD 18|14|OBJ 19|23|DET 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|18|CMOD 24|23|JCT 25|4|PUNCT
+*PAR:	so then I &um the &uh midnight &um .
+%mor:	co|so adv:tem|then pro:sub|I det:art|the mid#n|night&dn .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*PAR:	and the [/] the &uh Cinderella has to go and the valet [* u] .
+%mor:	coord|and det:art|the n:prop|Cinderella aux|have&3S inf|to v|go
+	coord|and det:art|the n|valet .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|CONJ 8|9|DET
+	9|7|COORD 10|6|PUNCT
+*PAR:	&um <so then I> [//] &um so then &um slippers I [* s] just found the
+	&l &um slipper .
+%mor:	co|so adv:tem|then n|slipper-PL pro:sub|I adv|just v|find&PAST
+	det:art|the n|slipper .
+%gra:	1|3|COM 2|3|JCT 3|6|LINK 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*PAR:	so then &um the &um &um &um mice and dog and horses &um it's &um
+	horse and &um mice &um .
+%mor:	co|so adv:tem|then det:art|the n|mouse&PL coord|and n|dog coord|and
+	n|horse-PL pro:per|it~cop|be&3S n|horse coord|and n|mouse&PL .
+%gra:	1|2|COM 2|10|JCT 3|4|DET 4|10|SUBJ 5|4|CONJ 6|5|COORD 7|4|CONJ
+	8|7|COORD 9|10|SUBJ 10|0|ROOT 11|10|PRED 12|11|CONJ 13|12|COORD 14|10|PUNCT
+*PAR:	so then &um the &um &um &uh &um twelve o'clock shorp [* phon] .
+%mor:	co|so adv:tem|then det:art|the det:num|twelve n|o'clock ?|shorp .
+%gra:	1|2|COM 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	and &um <so then I> [//] &um alright so then &Cinder &uh the
+	stepmother and stepdaughters &um have the &um the valet &um okay &um
+	the &um just a &uh valet [* u] &um mean to &th &um so the &sp &um
+	stepmother and stepdaughters &um so the have to be &um the &uh valet
+	[* u] &um .
+%mor:	coord|and adj|alright adv|so adv:tem|then det:art|the step#n|mother
+	coord|and step#n|daughter-PL v|have det:art|the det:art|the n|valet
+	adj|okay det:art|the adj|just det:art|a n|valet adj|mean inf|to
+	co|so det:art|the step#n|mother coord|and step#n|daughter-PL co|so
+	det:art|the v|have prep|to cop|be det:art|the n|valet .
+%gra:	1|9|LINK 2|9|JCT 3|4|JCT 4|9|JCT 5|6|DET 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|0|ROOT 10|12|DET 11|12|DET 12|9|OBJ 13|12|POSTMOD 14|17|DET 15|17|MOD
+	16|17|DET 17|13|OBJ 18|17|POSTMOD 19|20|INF 20|22|COM 21|22|DET 22|18|CMOD
+	23|22|CONJ 24|23|COORD 25|27|COM 26|27|DET 27|22|CJCT 28|27|JCT
+	29|28|POBJ 30|31|DET 31|29|PRED 32|9|PUNCT
+*PAR:	<the stepdaughters &um have to &uh shoes> [//] the &s
+	stepdaughters have to be the shoes &um .
+%mor:	det:art|the step#n|daughter-PL v|have inf|to cop|be det:art|the
+	n|shoe-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|PRED 8|3|PUNCT
+*PAR:	so then &um Cinderella is &um &s mice .
+%mor:	co|so adv:tem|then n:prop|Cinderella aux|be&3S n|mouse&PL .
+%gra:	1|5|COM 2|5|MOD 3|5|MOD 4|3|POSS 5|0|INCROOT 6|5|PUNCT
+*PAR:	so then I [* s] &um the &uh <scoots of the door> [//] scoot uhder
+	[* phon] the door and bring the key to the &uh Cinderella .
+%mor:	co|so adv:tem|then pro:sub|I det:art|the v|scoot ?|uhder
+	det:art|the n|door coord|and v|bring det:art|the n|key prep|to
+	det:art|the n:prop|Cinderella .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|DET 5|0|ROOT 6|5|OBJ 7|8|DET 8|6|OBJ
+	9|5|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|5|PUNCT
+*PAR:	so then she &um Cinderella &um &um Cinderella puts the slipper on &h
+	the valet slipper on .
+%mor:	co|so adv:tem|then pro:sub|she n:prop|Cinderella n:prop|Cinderella
+	v|put-3S det:art|the n|slipper prep|on det:art|the n|valet n|slipper
+	adv|on .
+%gra:	1|6|COM 2|6|JCT 3|6|SUBJ 4|5|NAME 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|6|JCT 14|6|PUNCT
+*PAR:	<so then &um happily ever after> [//] &um so then &um Cinderella and
+	the prince live happy [* s] &um after .
+%mor:	co|so adv:tem|then n:prop|Cinderella coord|and det:art|the n|prince
+	adj|live adj|happy adv:tem|after .
+%gra:	1|7|COM 2|7|JCT 3|7|SUBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|0|ROOT 8|9|MOD
+	9|7|JCT 10|7|PUNCT
+@End

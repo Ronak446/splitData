@@ -1,0 +1,25 @@
+@UTF8
+@Window:	0_0_0_0_0_0_106_0_106_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:50
+*PAR:	the kid wanted to go outside to kick the soccer ball .
+%mor:	det:art|the n|kid v|want-PAST inf|to v|go n|outside inf|to v|kick
+	det:art|the n|soccer n|ball .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|INF 8|5|XJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|3|PUNCT
+*PAR:	then once he did the soccer ball &um went [/] went to the window and
+	broke it and knocked the lamp over .
+%mor:	adv:tem|then conj|once pro:sub|he v|do&PAST det:art|the n|soccer
+	n|ball v|go&PAST prep|to det:art|the n|window coord|and v|break&PAST
+	pro:per|it coord|and v|knock-PAST det:art|the n|lamp adv|over .
+%gra:	1|8|JCT 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|7|DET 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|12|COORD 14|13|OBJ 15|8|CONJ
+	16|15|COORD 17|18|DET 18|16|OBJ 19|16|JCT 20|8|PUNCT
+*PAR:	and the gentleman was not happy .
+%mor:	coord|and det:art|the n|gentleman cop|be&PAST&13S neg|not adj|happy
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+@End

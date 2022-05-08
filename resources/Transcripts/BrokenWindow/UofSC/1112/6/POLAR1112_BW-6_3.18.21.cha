@@ -1,0 +1,22 @@
+@UTF8
+@Window:	60_530_715_630_-1_-1_473_0_473_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:17
+@Media:	P1112_BW-6_3.18.21, video
+*PAR:	&ki &chi &t kick duh [: the] [* phon] ball over [: in] [* s] window . 
+%mor:	v|kick det:art|the n|ball prep|in n|window .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	I &um got &um dad &uh <saw dat> [//] &wi &um saw it . 
+%mor:	pro:sub|I v|get&PAST n|dad v|see&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	&um &um &muh your getin [: getting] [* phon] a whipin [: whipping] [* phon] . 
+%mor:	det:poss|your part|get-PRESP det:art|a n:gerund|whip-PRESP .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	oh I just your getti [: getting] [* phon] a &wi &wi  wickin [: whipping] [* phon] &wi . 
+%mor:	co|oh pro:sub|I adv|just det:poss|your part|get-PRESP det:art|a
+	n:gerund|whip-PRESP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|DET 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+@End

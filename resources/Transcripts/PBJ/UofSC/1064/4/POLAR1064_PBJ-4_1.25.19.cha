@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:07
+@Media:	1064_4_PBJ_January-25th-2019-1-40-51-pm video
+*PAR:	tread [//] no [/] no [/] no [/] no [/] no [/] no dit [* phon] &um
+	&um <bread in do> [//] &n no [/] no [/] no teanut [//] &n &um &n bed
+	[//] bread ih [: is] [* phon] woe [: whole] [* phon] wheat .
+%mor:	co|no ?|dit co|no n|bread cop|be&3S adj|whole n|wheat .
+%gra:	1|7|COM 2|7|MOD 3|5|COM 4|5|SUBJ 5|2|POSS 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*PAR:	&um &t &um then &um &um peamut+buther [: peanut+butter] [* phon]
+	bread tho [* phon] &n &um the brancer [* phon] bwee [* phon] dits
+	[* phon] .
+%mor:	adv:tem|then n|+n|peanut+n|butter n|bread ?|tho det:art|the
+	?|brancer ?|bwee ?|dits .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MOD 8|6|PRED
+	9|4|PUNCT
+*PAR:	um <bread it out and bun> [//] &n &uh &m meak [//] no &um sread
+	[: spread] [* phon] it out de [: the] [* phon] &um peangit+butter
+	[: peanut+butter] [* phon] no &n yes .
+%mor:	?|um co|no v|spread&ZERO pro:per|it adv|out det:art|the
+	n|+n|peanut+n|butter co|no co|yes .
+%gra:	1|0|INCROOT 2|3|COM 3|1|COMP 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|9|COM
+	9|3|COMP 10|1|PUNCT
+*PAR:	and bread [: spread] [* phon] it out the &du delly [: jelly]
+	[* phon] .
+%mor:	coord|and v|spread&ZERO pro:per|it adv|out det:art|the n|jelly .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	bice [//] &uh &um &d beis [* phon] it bown [* phon] pad [* phon] .
+%mor:	?|beis pro:per|it ?|bown n|pad .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|MOD 4|2|OBJ 5|1|PUNCT
+*PAR:	and pass and tut [: cut] [* phon] in aut [: half] [* phon] .
+%mor:	coord|and n|pass coord|and v|cut&ZERO prep|in n|half .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+@End

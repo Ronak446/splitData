@@ -1,0 +1,243 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:37
+@Media:	1009_1_Cinderella_Y2017_M01_D11_H08_M22_S13 video
+*PAR:	okay &s .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Cinderella was <with the girl> [//] xxx [* phon] with the two girls .
+%mor:	n:prop|Cinderella cop|be&PAST&13S prep|with det:art|the det:num|two
+	n|girl-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|2|PUNCT
+*PAR:	and the the [/] &um the [/] girl not weally [* phon] good .
+%mor:	coord|and det:art|the n|girl neg|not ?|weally adj|good .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|NEG 5|3|XMOD 6|5|PRED 7|1|PUNCT
+*PAR:	and so they they [/] just took her around .
+%mor:	coord|and co|so pro:sub|they adv|just v|take&PAST pro:obj|her
+	prep|around .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*PAR:	and didn't have anything at all .
+%mor:	coord|and mod|do&PAST~neg|not v|have pro:indef|anything prep|at
+	pro:indef|all .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	and she had the &um the [/] little cats [* s] and and [/] the &um
+	dog .
+%mor:	coord|and pro:sub|she v|have&PAST det:art|the adj|little n|cat-PL
+	coord|and det:art|the n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|3|PUNCT
+*PAR:	and &um the the [/] xxx [* phon] and &um .
+%mor:	coord|and det:art|the coord|and .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*PAR:	and so then she was looking .
+%mor:	coord|and adv|so adv:tem|then pro:sub|she aux|be&PAST&13S
+	part|look-PRESP .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	and &um they were talking about &um about [/] looking .
+%mor:	coord|and pro:sub|they aux|be&PAST part|talk-PRESP adv|about
+	part|look-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|XJCT 7|4|PUNCT
+*PAR:	we're gonna look and see about it .
+%mor:	pro:sub|we~aux|be&PRES mod:aux|gonna v|look coord|and v|see
+	prep|about pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	so they said wow that's weally [* phon] good .
+%mor:	co|so pro:sub|they v|say&PAST co|wow pro:dem|that~cop|be&3S
+	?|weally adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|6|PRED 8|7|PRED
+	9|3|PUNCT
+*PAR:	so so [/] all of us are gonna say so .
+%mor:	adv|so qn|all prep|of pro:obj|us aux|be&PRES mod:aux|gonna v|say
+	adv|so .
+%gra:	1|5|JCT 2|3|QUANT 3|1|JCT 4|3|POBJ 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*PAR:	except <she says> [//] she said <she got> [//] they got the stuff
+	out .
+%mor:	conj|except pro:sub|she v|say&PAST pro:sub|they v|get&PAST
+	det:art|the v|stuff adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|JCT
+	9|5|PUNCT
+*PAR:	and she didn't like it <and she didn't like it> [/] xxx [* phon] .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|like pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and so she just xxx [* phon] .
+%mor:	coord|and co|so pro:sub|she adv|just .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	she got it .
+%mor:	pro:sub|she v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	and she got a &p a &um <phone> [//] not not [/] a phone [* s] &um
+	key .
+%mor:	coord|and pro:sub|she v|get&PAST det:art|a det:art|a neg|not
+	det:art|a n|phone n|key .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|9|DET 5|9|DET 6|5|NEG 7|9|DET 8|9|MOD
+	9|3|OBJ 10|3|PUNCT
+*PAR:	and she didn't do anything at all .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|do pro:indef|anything
+	prep|at pro:indef|all .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*PAR:	<she just> [//] she couldn't do anything at all .
+%mor:	pro:sub|she mod|could~neg|not v|do pro:indef|anything prep|at
+	pro:indef|all .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	so they're going out .
+%mor:	adv|so pro:sub|they~aux|be&PRES part|go-PRESP adv|out .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and and [/] &um they wanted to see what happens .
+%mor:	coord|and pro:sub|they v|want-PAST inf|to v|see pro:int|what
+	v|happen-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|SUBJ 7|5|COMP
+	8|3|PUNCT
+*PAR:	so they were looking .
+%mor:	co|so pro:sub|they aux|be&PAST part|look-PRESP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and she was looking at it .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|look-PRESP prep|at
+	pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and she looked .
+%mor:	coord|and pro:sub|she v|look-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she &um look at the picture [* u] .
+%mor:	coord|and pro:sub|she v|look prep|at det:art|the n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	it's ready to go .
+%mor:	pro:per|it~cop|be&3S adj|ready inf|to v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XCOMP 6|2|PUNCT
+*PAR:	she she [/] really likes it .
+%mor:	pro:sub|she adv|real&dadj-LY v|like-3S pro:per|it .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	but she can't go .
+%mor:	conj|but pro:sub|she mod|can~neg|not v|go .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*PAR:	so all a sudden the &um angel [* s] said come on let's go .
+%mor:	adv|so qn|all det:art|a adj|sudden det:art|the n|angel v|say&PAST
+	v|come prep|on v|let~pro:obj|us v|go .
+%gra:	1|7|JCT 2|6|QUANT 3|6|DET 4|6|MOD 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|12|SUBJ 12|7|COMP 13|7|PUNCT
+*PAR:	I got a a [/] pen [* s] and I'm <and I'm> [/] gonna get you ready to
+	go .
+%mor:	pro:sub|I v|get&PAST det:art|a n|pen coord|and pro:sub|I~aux|be&1S
+	mod:aux|gonna v|get pro:per|you v|ready inf|to v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|9|LINK 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|2|CJCT 10|11|SUBJ 11|9|COMP 12|13|INF 13|11|XCOMP 14|2|PUNCT
+*PAR:	she got really good .
+%mor:	pro:sub|she v|get&PAST adv|real&dadj-LY adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*PAR:	and she came home .
+%mor:	coord|and pro:sub|she v|come&PAST adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and she went over there .
+%mor:	coord|and pro:sub|she v|go&PAST adv|over adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and all of a sudden the guy [* s] did really like they liked her .
+%mor:	coord|and pro:indef|all prep|of det:art|a n|sudden det:art|the
+	n|guy v|do&PAST adv|real&dadj-LY co|like pro:sub|they v|like-PAST
+	pro:obj|her .
+%gra:	1|8|LINK 2|8|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|12|COM 11|12|SUBJ 12|8|COMP 13|12|OBJ 14|8|PUNCT
+*PAR:	and they were doing the &um oh &p doing .
+%mor:	coord|and pro:sub|they aux|be&PAST part|do-PRESP det:art|the co|oh
+	part|do-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COM 7|4|OBJ 8|4|PUNCT
+*PAR:	and &uh and [/] they looked and they didn't they <they
+	[/] like> [//] they didn't like her .
+%mor:	coord|and pro:sub|they v|look-PAST coord|and pro:sub|they
+	mod|do&PAST~neg|not pro:sub|they pro:sub|they mod|do&PAST~neg|not
+	v|like pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COORD
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|8|CMOD 13|12|OBJ 14|3|PUNCT
+*PAR:	but she was doing weally [* phon] good .
+%mor:	conj|but pro:sub|she aux|be&PAST&13S part|do-PRESP ?|weally
+	adj|good .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|PRED 7|4|PUNCT
+*PAR:	and all of a sudden she said you know I gotta go .
+%mor:	coord|and pro:indef|all prep|of det:art|a n|sudden pro:sub|she
+	v|say&PAST pro:per|you v|know pro:sub|I mod:aux|gotta v|go .
+%gra:	1|7|LINK 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|12|SUBJ 11|12|AUX 12|9|COMP 13|7|PUNCT
+*PAR:	it's &um twelve o'clock .
+%mor:	pro:per|it~aux|be&3S det:num|twelve n|o'clock .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*PAR:	and she's gotta go .
+%mor:	coord|and pro:sub|she~aux|be&3S mod:aux|gotta v|go .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and they got her a &um oh a &um <key> [//] not key [* u] &um .
+%mor:	coord|and pro:sub|they v|get&PAST pro:obj|her det:art|a co|oh
+	det:art|a neg|not v|key .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|9|COM 7|9|DET 8|7|NEG
+	9|3|COMP 10|3|PUNCT
+*PAR:	anyhow they got it here .
+%mor:	adv|anyhow pro:sub|they v|get&PAST pro:per|it adv|here .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*PAR:	<and they> [//] and she she [/] found it .
+%mor:	coord|and pro:sub|she v|find&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and they were looking at it .
+%mor:	coord|and pro:sub|they aux|be&PAST part|look-PRESP prep|at
+	pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	well she finally got everything over there at the house .
+%mor:	co|well pro:sub|she adv|final&dadj-LY v|get&PAST
+	pro:indef|everything adv|over adv|there prep|at det:art|the n|house
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|4|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*PAR:	and she's doing alright .
+%mor:	coord|and pro:sub|she~aux|be&3S part|do-PRESP adj|alright .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	and they were looking at it .
+%mor:	coord|and pro:sub|they aux|be&PAST part|look-PRESP prep|at
+	pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and they got a &um key again .
+%mor:	coord|and pro:sub|they v|get&PAST det:art|a n|key adv|again .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	and she &sh she [/] still didn't go .
+%mor:	coord|and pro:sub|she adv|still mod|do&PAST~neg|not v|go .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	and she was taking [* phon] around to see if if [/] if [/] he &um if
+	he's got it .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|take-PRESP adv|around
+	inf|to v|see conj|if pro:sub|he conj|if pro:sub|he~aux|be&3S
+	part|get&PASTP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|4|PUNCT 8|7|OBJ
+	9|8|INCROOT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CJCT 14|13|OBJ 15|9|PUNCT
+*PAR:	they didn't have it they didn't have it they didn't have it .
+%mor:	pro:sub|they mod|do&PAST~neg|not v|have pro:per|it pro:sub|they
+	mod|do&PAST~neg|not v|have pro:per|it pro:sub|they
+	mod|do&PAST~neg|not v|have pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|CMOD 10|9|OBJ 11|14|SUBJ 12|14|AUX 13|12|NEG 14|9|COMP 15|14|OBJ
+	16|4|PUNCT
+*PAR:	all a sudden they got the &um key .
+%mor:	qn|all det:art|a n|sudden pro:sub|they v|get&PAST det:art|the n|key
+	.
+%gra:	1|3|QUANT 2|3|DET 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and she [* s] finally got her out .
+%mor:	coord|and pro:sub|she adv|final&dadj-LY part|get&PASTP pro:obj|her
+	adv|out .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and she [* s] said oh it's her's .
+%mor:	coord|and pro:sub|she v|say&PAST co|oh pro:per|it~cop|be&3S
+	pro:obj|her~aux|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|6|PRED 8|6|PRED
+	9|3|PUNCT
+*PAR:	and he did really good .
+%mor:	coord|and pro:sub|he v|do&PAST adv|real&dadj-LY adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*PAR:	and so she did really good .
+%mor:	coord|and co|so pro:sub|she v|do&PAST adv|real&dadj-LY adj|good .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	and they did good .
+%mor:	coord|and pro:sub|they v|do&PAST adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+@End

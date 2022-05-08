@@ -1,0 +1,16 @@
+@UTF8
+@Window:	0_0_0_0_0_0_113_1_149_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1106_2_PBJ_May-18th-2020-11-04-08-am, video
+*PAR:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ih is good [* phon] is xxx [* phon] is xxx [* phon] is xxx [* phon]
+	is xxx [* phon] .
+%mor:	cop|be&3S adj|good aux|be&3S aux|be&3S aux|be&3S cop|be&3S .
+%gra:	1|6|SUBJ 2|1|PRED 3|6|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+@End

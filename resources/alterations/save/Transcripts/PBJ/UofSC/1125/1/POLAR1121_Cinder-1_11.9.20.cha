@@ -1,0 +1,144 @@
+@UTF8
+@Window:	167_907_362_511_716_0_1026_0_1026_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1121_Cinder-1_11.9.20 video
+@Time Duration:	00:02:53
+*PAR:	well probably don't remember as much as about that story as I
+	should .
+%mor:	co|well adv|probable&dadj-LY mod|do~neg|not v|remember adv|as
+	adv|much prep|as prep|about det:dem|that n|story conj|as pro:sub|I
+	mod|should .
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|COORD 7|5|JCT 8|14|COORD
+	9|14|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|7|ENUM 15|5|PUNCT
+*PAR:	but I [//] it was a [/] a ball in the &uh land .
+%mor:	conj|but pro:per|it cop|be&PAST&13S det:art|a n|ball prep|in
+	det:art|the n|land .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and <the sisters> [//] she had two sisters that were going to the
+	ball .
+%mor:	coord|and pro:sub|she v|have&PAST det:num|two n|sister-PL
+	pro:rel|that aux|be&PAST part|go-PRESP prep|to det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	and she couldn't go &f for whatever reason .
+%mor:	coord|and pro:sub|she mod|could~neg|not v|go prep|for
+	pro:int|whatever n|reason .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	and [/] and they got dressed and went to the ball and left her at
+	home .
+%mor:	coord|and pro:sub|they aux|get&PAST part|dress-PASTP coord|and
+	v|go&PAST prep|to det:art|the n|ball coord|and adj|left pro:obj|her
+	prep|at n|home .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|OBJ 13|12|JCT 14|13|POBJ 15|4|PUNCT
+*PAR:	and she had a fairy godmother that came and asked her <what she
+	liked> [//] why was she was crying when she liked to go to the ball .
+%mor:	coord|and pro:sub|she v|have&PAST det:art|a n|fairy
+	n|+n|god+n|mother pro:rel|that v|come&PAST coord|and v|ask-PAST
+	pro:obj|her pro:int|why cop|be&PAST&13S pro:sub|she aux|be&PAST&13S
+	part|cry-PRESP conj|when pro:sub|she v|like-PAST inf|to v|go prep|to
+	det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|LINK 8|6|CMOD
+	9|8|CONJ 10|9|COORD 11|10|OBJ 12|13|SUBJ 13|10|COMP 14|16|SUBJ 15|16|AUX
+	16|13|PRED 17|19|LINK 18|19|SUBJ 19|16|CJCT 20|21|INF 21|19|COMP
+	22|21|JCT 23|24|DET 24|22|POBJ 25|3|PUNCT
+*PAR:	and of course she wanted to go .
+%mor:	coord|and prep|of n|course pro:sub|she v|want-PAST inf|to v|go .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+*PAR:	and she [/] &um she got dressed in a pretty dress .
+%mor:	coord|and pro:sub|she aux|get&PAST part|dress-PASTP prep|in
+	det:art|a adj|pretty n|dress .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*PAR:	and she didn't have any shoes so the [/] the fairy godmother gave
+	her some slippers [//] golden [: glass] [* u] slippers .
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|have qn|any n|shoe-PL
+	conj|so det:art|the n|fairy n|+n|god+n|mother v|give&PAST
+	pro:obj|her qn|some n|glass n|slipper-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|12|LINK
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|5|CJCT 13|12|OBJ2 14|16|QUANT 15|16|MOD
+	16|12|OBJ 17|5|PUNCT
+*PAR:	and when she went to the ball she met a prince .
+%mor:	coord|and conj|when pro:sub|she v|go&PAST prep|to det:art|the
+	n|ball pro:sub|she v|meet&PAST det:art|a n|prince .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*PAR:	<and he> [/] and he was all dancing with her .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S adv|all part|dance-PRESP
+	prep|with pro:obj|her .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	and when midnight came he [//] she had to be back .
+%mor:	coord|and conj|when mid#n|night v|come&PAST pro:sub|she v|have&PAST
+	inf|to cop|be adv|back .
+%gra:	1|6|LINK 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|6|PUNCT
+*PAR:	before midnight &uh the [/] &s <the slippers would> [//] &t no she
+	had to be back before midnight because if not the slippers would
+	thought <they would turn to something> [//] or she would &l lose
+	anyway .
+%mor:	prep|before mid#n|night co|no pro:sub|she v|have&PAST inf|to cop|be
+	adv|back prep|before mid#n|night conj|because conj|if neg|not
+	det:art|the n|slipper-PL mod|will&COND n|thought coord|or
+	pro:sub|she mod|will&COND v|lose adv|anyway .
+%gra:	1|5|LINK 2|1|POBJ 3|5|COM 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|5|PUNCT 12|17|LINK 13|12|NEG 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|11|INCROOT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CJCT
+	22|21|JCT 23|17|PUNCT
+*PAR:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	but &um she was still at the ball at midnight .
+%mor:	conj|but pro:sub|she cop|be&PAST&13S adv|still prep|at det:art|the
+	n|ball prep|at mid#n|night .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	and she was running away .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|run-PRESP adv|away .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and she lost one of the slippers .
+%mor:	coord|and pro:sub|she v|lose&PAST det:num|one prep|of det:art|the
+	n|slipper-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	so the prince came and was looking for the one who [//] whose foot
+	would &s fit the slipper .
+%mor:	co|so det:art|the n|prince v|come&PAST coord|and aux|be&PAST&13S
+	part|look-PRESP prep|for det:art|the det:num|one det:int|whose
+	n|foot mod|will&COND n|fit det:art|the n|slipper .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|7|AUX 7|5|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|14|SUBJ 13|14|AUX 14|11|COORD 15|16|DET
+	16|14|OBJ 17|4|PUNCT
+*PAR:	and he was going to marry her .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|go-PRESP inf|to v|marry
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*PAR:	and the evil sisters their fit [//] foot would not fit the slipper .
+%mor:	coord|and det:art|the n|evil n|sister-PL det:poss|their n|foot
+	mod|will&COND neg|not n|fit det:art|the n|slipper .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|CMOD 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	and when Cinderella <feet fit the slipper> [//] well the foot cause
+	she only lost one .
+%mor:	coord|and conj|when n:prop|Cinderella n|well det:art|the n|foot
+	n|cause pro:sub|she adv|only part|lose&PASTP pro:indef|one .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|MOD 4|2|POBJ 5|7|DET 6|7|MOD 7|4|OBJ
+	8|10|SUBJ 9|10|JCT 10|7|CMOD 11|10|OBJ 12|1|PUNCT
+*PAR:	when [//] &um when her foot fit the slipper then she went off and
+	married him .
+%mor:	conj|when det:poss|her n|foot v|fit&ZERO det:art|the n|slipper
+	adv:tem|then pro:sub|she v|go&PAST adv|off coord|and v|marry-PAST
+	pro:obj|him .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|9|CJCT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|OBJ 14|9|PUNCT
+*PAR:	and she lived happily ever after .
+%mor:	coord|and pro:sub|she v|live-PAST adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+@End

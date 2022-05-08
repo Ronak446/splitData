@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1091.PBJ-3 video
+@Time Duration:	00:00:27
+*PAR:	peanut+butter and jelly .
+%mor:	n|+n|peanut+n|butter coord|and n|jelly .
+*PAR:	take two pieces of bread .
+%mor:	v|take det:num|two n|piece-PL prep|of n|bread .
+*PAR:	<excuse me> [//] and &um you take your peanut+butter jelly .
+%mor:	coord|and pro:per|you v|take det:poss|your n|+n|peanut+n|butter
+	n|jelly .
+*PAR:	you put first down the peanut+butter &ss &sss smooth it all down .
+%mor:	pro:per|you v|put&ZERO adj|first prep|down det:art|the
+	n|+n|peanut+n|butter adj|smooth pro:per|it adv|all adv|down .
+*PAR:	and then you take the jelly .
+%mor:	coord|and adv:tem|then pro:per|you v|take det:art|the n|jelly .
+*PAR:	and put the jelly on top of the peanut+butter .
+%mor:	coord|and v|put&ZERO det:art|the n|jelly prep|on n|top prep|of
+	det:art|the n|+n|peanut+n|butter .
+*PAR:	and you put the other slice on top of it .
+%mor:	coord|and pro:per|you v|put&ZERO det:art|the qn|other n|slice
+	prep|on n|top prep|of pro:per|it .
+*PAR:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+@End

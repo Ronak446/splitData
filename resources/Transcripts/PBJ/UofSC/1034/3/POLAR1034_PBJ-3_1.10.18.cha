@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	1034_3_PBJ_January-10th-2018-9-10-14-am video
+*PAR:	alright well first you have peabutter [* phon] and jam .
+%mor:	co|alright n|well adv|first pro:per|you v|have ?|peabutter
+	coord|and n|jam .
+%gra:	1|2|COM 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|6|CONJ 8|7|COORD
+	9|5|PUNCT
+*PAR:	for you also need two pieces bread .
+%mor:	conj|for pro:per|you adv|also v|need det:num|two n|piece-PL n|bread
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	white bread .
+%mor:	adj|white n|bread .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	and xxx [* phon] has to spand [* phon] on one piece put peabutter
+	[* phon] .
+%mor:	coord|and aux|have&3S v|toe ?|spand adv|on det:num|one n|piece
+	v|put&ZERO ?|peabutter .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|JCT 6|7|QUANT 7|8|SUBJ 8|3|COMP
+	9|8|OBJ 10|3|PUNCT
+*PAR:	the other one I like &uh other one jam .
+%mor:	det:art|the qn|other pro:indef|one pro:sub|I v|like pro:indef|other
+	pro:indef|one n|jam .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+*PAR:	so can two people xxx [* phon] .
+%mor:	co|so n|can det:num|two n|person&PL .
+%gra:	1|2|COM 2|4|MOD 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

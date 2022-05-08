@@ -1,0 +1,14 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:08
+@Media:	POLAR_1063_PBJ2 video
+*PAR:	&uh yeah &s bey [* phon] &uh &uh one of you .
+%mor:	co|yeah ?|bey pro:indef|one prep|of pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&uh yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

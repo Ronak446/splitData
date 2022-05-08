@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:18
+@Media:	POLAR_1049_BW4 video
+*PAR:	the boy takes out &i his ball and kicks it .
+%mor:	det:art|the n|boy v|take-3S adv|out det:poss|his n|ball coord|and
+	v|kick-3S pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|OBJ 10|3|PUNCT
+*PAR:	and it flies right into the window and breaks the window .
+%mor:	coord|and pro:per|it v|fly-3S adv|right prep|into det:art|the
+	n|window coord|and v|break-3S det:art|the n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|3|PUNCT
+*PAR:	and the man is sitting there .
+%mor:	coord|and det:art|the n|man aux|be&3S part|sit-PRESP adv|there .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and he is all upset .
+%mor:	coord|and pro:sub|he aux|be&3S adv|all adj|upset .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and he goes to the window and kinda looks out the window to see who
+	blok [* phon] his window .
+%mor:	coord|and pro:sub|he v|go-3S prep|to det:art|the n|window coord|and
+	adv|kinda cop|look-3S prep|out det:art|the n|window inf|to v|see
+	pro:rel|who ?|blok det:poss|his n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|9|JCT
+	9|7|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|14|INF 14|9|COMP 15|14|OBJ
+	16|15|INCROOT 17|18|MOD 18|16|OBJ 19|16|PUNCT
+@End

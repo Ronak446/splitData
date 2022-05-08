@@ -1,0 +1,31 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Patient
+@ID:	eng|POLAR|PAR|||||Patient|||
+@Time Duration:	00:00:42
+@Media:	1018_PBJ2 video
+
+*PAR:	&um [/] &um bread .
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh peanut+butchu [* phon] and jelly .
+%mor:	coord|and ?|peanut+butchu coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and together .
+%mor:	coord|and adv|together .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	I don't know if that's complete .
+%mor:	pro:sub|I mod|do~neg|not v|know conj|if pro:dem|that~cop|be&3S
+	adj|complete .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|4|PUNCT
+*PAR:	&um and other words .
+%mor:	coord|and qn|other n|word-PL .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	one jelly slice and one peanut+butter on the other together .
+%mor:	det:num|one n|jelly n|slice coord|and det:num|one
+	n|+n|peanut+n|butter prep|on det:art|the qn|other adv|together .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|6|QUANT 6|4|COORD 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|6|NJCT 11|3|PUNCT
+@End

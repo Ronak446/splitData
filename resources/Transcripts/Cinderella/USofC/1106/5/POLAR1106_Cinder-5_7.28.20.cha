@@ -1,0 +1,28 @@
+@UTF8
+@Window:	0_0_0_0_0_0_839_0_839_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:09
+@Media:	POLAR#1106_CINDER-5_7.28.20, video
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<is good> [/] <is good> [/] is good xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx
+	[* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+%mor:	cop|be&3S adj|good .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:31
+@Media:	1054_PBJ1 video
+
+*PAR:	I would first take out the two pieces of bread .
+%mor:	pro:sub|I mod|will&COND adv|first v|take prep|out det:art|the
+	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|4|PUNCT
+*PAR:	and then I would put &um the jelly on one side and peanut butter on the other slice .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|put&ZERO
+	det:art|the n|jelly prep|on det:num|one n|side coord|and n|peanut
+	n|butter prep|on det:art|the qn|other n|slice .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|5|CONJ 12|13|MOD 13|11|COORD 14|5|JCT 15|17|DET
+	16|17|QUANT 17|14|POBJ 18|5|PUNCT
+*PAR:	and then I would take both the slices that had the jelly and the peanut butter on the top .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|take qn|both
+	det:art|the n|slice-PL pro:rel|that v|have&PAST det:art|the n|jelly
+	coord|and det:art|the n|peanut n|butter prep|on det:art|the n|top .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|QUANT 7|8|DET 8|5|OBJ
+	9|10|LINK 10|8|CMOD 11|12|DET 12|10|OBJ 13|10|CONJ 14|16|DET 15|16|MOD
+	16|13|COORD 17|16|NJCT 18|19|DET 19|17|POBJ 20|5|PUNCT
+*PAR:	and then I would fold one over onto the top of the other one to make a sandwich .
+%mor:	coord|and adv:tem|then pro:sub|I mod|will&COND v|fold pro:indef|one
+	adv|over prep|onto det:art|the n|top prep|of det:art|the qn|other
+	pro:indef|one inf|to v|make det:art|a n|sandwich .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|16|INF
+	16|5|XJCT 17|18|DET 18|16|OBJ 19|5|PUNCT
+@End

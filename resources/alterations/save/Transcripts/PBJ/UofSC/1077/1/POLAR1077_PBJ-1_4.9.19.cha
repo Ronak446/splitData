@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1077_1_PBJ_April-9th-2019-3-43-00-pm video
+*PAR:	oh yeah you use the good &um mat [: that] [* phon] stuff .
+%mor:	co|oh co|yeah pro:per|you v|use det:art|the adj|good pro:dem|that
+	n|stuff .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|DET 8|4|OBJ
+	9|4|PUNCT
+*PAR:	and use the peanut+butter and the strawberry yeah .
+%mor:	coord|and v|use det:art|the n|+n|peanut+n|butter coord|and
+	det:art|the n|strawberry co|yeah .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|7|COM
+	9|2|PUNCT
+@End

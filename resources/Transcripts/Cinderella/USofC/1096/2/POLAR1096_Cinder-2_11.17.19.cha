@@ -1,0 +1,150 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:17
+@Media:	POLAR.1096.Cind-2 video
+*PAR:	well Cinderella was a [/] a <young two> [//] &uh young kid .
+%mor:	co|well n:prop|Cinderella cop|be&PAST&13S det:art|a adj|young n|kid
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*PAR:	well <a man> [//] &uh the man &eh xxx [* phon] Cinderella .
+%mor:	co|well det:art|the n|man n:prop|Cinderella .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|APP 5|3|PUNCT
+*PAR:	and &uh a woman with a mean gid [: kid] [* phon] .
+%mor:	coord|and det:art|a n|woman prep|with det:art|a adj|mean n|kid .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+*PAR:	that's &uh first picture .
+%mor:	pro:rel|that~cop|be&3S adj|first n|picture .
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*PAR:	in the second picture &uh Cinderella &uh is a picture [* u] with a
+	mean because the hand [* u] <on the xxx> [//] <on the pole> [//] on
+	that pole [* u] and xxx [* phon] .
+%mor:	prep|in det:art|the adj|second n|picture n:prop|Cinderella
+	cop|be&3S det:art|a n|picture prep|with det:art|a adj|mean
+	conj|because det:art|the n|hand prep|on det:dem|that n|pole
+	coord|and .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|6|PUNCT 13|14|DET 14|12|INCROOT 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|14|CONJ 19|18|COORD
+*PAR:	well maybe &uh Cinderella &uh hears what the prince is doing and &uh
+	&ha have a pretty dreen [: green] [* phon] dress or something like
+	that .
+%mor:	adv|well adv|maybe n:prop|Cinderella v|hear-3S pro:int|what
+	det:art|the n|prince aux|be&3S part|do-PRESP coord|and v|have
+	det:art|a adj|pretty adj|green n|dress coord|or pro:indef|something
+	prep|like pro:dem|that .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|LINK 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|9|CONJ 11|10|COORD 12|15|DET 13|14|JCT 14|15|MOD 15|11|OBJ
+	16|15|CONJ 17|16|COORD 18|17|NJCT 19|18|POBJ 20|4|PUNCT
+*PAR:	&uh hop [* u] in the store [* u] and &cin Cinderella &uh puts on the
+	green dress and [/] &s &uh and &uh &uh ean [: mean] [* phon]
+	stepsisters rip it apart okay .
+%mor:	n|hop prep|in det:art|the n|store coord|and n:prop|Cinderella
+	v|put-3S prep|on det:art|the adj|green n|dress coord|and adj|mean
+	step#n|sister-PL v|rip pro:per|it adv|apart adj|okay .
+%gra:	1|7|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|7|CJCT
+	16|15|OBJ 17|18|JCT 18|15|JCT 19|7|PUNCT
+*PAR:	and Cinderella look up at the &uh castle .
+%mor:	coord|and n:prop|Cinderella v|look adv|up prep|at det:art|the
+	n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	but <he [: she] [* s] prays the> [//] he [: she] [* s] opens a pope
+	[: book] [* u] and kit [: get] [* phon] a fairy codmother
+	[: godmother] [* phon] .
+%mor:	conj|but pro:sub|she v|open-3S det:art|a n|book coord|and v|get
+	det:art|a n|fairy n|+n|god+n|mother .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|3|PUNCT
+*PAR:	but the called a fairy codmother [: godmother] [* phon] .
+%mor:	conj|but det:art|the part|call-PASTP det:art|a n|fairy
+	n|+n|god+n|mother .
+%gra:	1|0|INCROOT 2|3|DET 3|1|CPOBJ 4|6|DET 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*PAR:	and she's a prayers [* u] .
+%mor:	coord|and pro:sub|she~cop|be&3S det:art|a n|prayer-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and she has a pretty white dress .
+%mor:	coord|and pro:sub|she v|have&3S det:art|a adj|pretty n|white
+	n|dress .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*PAR:	and Cinderella wears .
+%mor:	coord|and n:prop|Cinderella v|wear-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and &uh &uh the &uh tchurterella [* phon] &uh &k &uh what's you call
+	that &uh kit [: get] [* phon] up through the &uh castle .
+%mor:	coord|and det:art|the ?|tchurterella pro:int|what~cop|be&3S
+	pro:per|you v|call comp|that v|get adv|up adj|through det:art|the
+	n|castle .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|5|SUBJ 7|3|CMOD
+	8|7|OBJ 9|8|ENUM 10|9|JCT 11|13|MOD 12|13|DET 13|9|OBJ 14|3|PUNCT
+*PAR:	and he [: she] [* s] had some horses &uh and &uh pukin [: pumpkin]
+	[* phon] that Cinderella makes .
+%mor:	coord|and pro:sub|she v|have&PAST qn|some n|horse-PL coord|and
+	n|pumpkin pro:rel|that n:prop|Cinderella v|make-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|6|COORD
+	8|10|LINK 9|10|SUBJ 10|5|CMOD 11|3|PUNCT
+*PAR:	and she goes up to the ca [: castle] [* phon] .
+%mor:	coord|and pro:sub|she v|go-3S prep|up prep|to det:art|the n|castle
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and she meets the prince .
+%mor:	coord|and pro:sub|she v|meet-3S det:art|the n|prince .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the prince dences [: dances] [* phon] with her .
+%mor:	coord|and det:art|the n|prince n|dance-PL prep|with pro:obj|her .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	but all of a sudden <the stri> [//] that lock [: clock] [* phon]
+	strike twelve .
+%mor:	conj|but adv|all prep|of det:art|a adj|sudden det:dem|that n|clock
+	n|strike det:num|twelve .
+%gra:	1|9|LINK 2|3|JCT 3|9|JCT 4|8|DET 5|8|MOD 6|8|DET 7|8|MOD 8|3|POBJ
+	9|0|ROOT 10|9|PUNCT
+*PAR:	and he [: she] [* s] is hurried hum [: home] [* phon] .
+%mor:	coord|and pro:sub|she aux|be&3S part|hurry-PASTP adv|home .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and &s &um hurried up &uh &uh the kit [: get] [* phon] out of there
+	and put the shoe off and leaves it for the &uh father [//] or
+	<something of the king &uh king's king's> [//] &um what you call it
+	king's shervant [: servant] [* phon] finds the shoe .
+%mor:	coord|and v|hurry-PAST prep|up det:art|the v|get adv|out prep|of
+	adv|there coord|and v|put&ZERO det:art|the n|shoe adv|off coord|and
+	v|leave-3S pro:per|it prep|for det:art|the coord|or pro:int|what
+	pro:per|you v|call pro:per|it adj|king&dn-POSS n|servant v|find-3S
+	det:art|the n|shoe .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|6|JCT 8|7|POBJ
+	9|2|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|2|CONJ 15|14|COORD
+	16|15|OBJ 17|15|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|SUBJ 22|19|COORD
+	23|26|SUBJ 24|25|MOD 25|26|SUBJ 26|22|COMP 27|28|DET 28|26|OBJ
+	29|2|PUNCT
+*PAR:	and he &uh &kb &uh koes [: goes] [* phon] around tolkin [: looking]
+	[* phon] for the shoe and &s &uh sees it .
+%mor:	coord|and pro:sub|he v|go-3S adv|around part|look-PRESP prep|for
+	det:art|the n|shoe coord|and v|see-3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|OBJ 12|3|PUNCT
+*PAR:	and she [: he] [* s] terps [: drops] [* phon] the shoe .
+%mor:	coord|and pro:sub|he v|drop-3S det:art|the n|shoe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	but Cinderella tries on the shoes .
+%mor:	conj|but n:prop|Cinderella v|try-3S prep|on det:art|the n|shoe-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and it fits .
+%mor:	coord|and pro:per|it v|fit-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she &w &uh back again with the gon [* phon] something and &uh
+	king sees her .
+%mor:	coord|and pro:sub|she adv|back adv|again prep|with det:art|the
+	?|gon pro:indef|something coord|and n|king v|see-3S pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|JCT 4|3|JCT 5|0|INCROOT 6|7|DET 7|5|POBJ 8|7|PRED
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|OBJ 13|5|PUNCT
+*PAR:	and they kiss .
+%mor:	coord|and pro:sub|they v|kiss .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and they live happerly [: happily] ever after .
+%mor:	coord|and pro:sub|they v|live adv|happy&dadj-LY adv|ever
+	adv:tem|after .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+@End

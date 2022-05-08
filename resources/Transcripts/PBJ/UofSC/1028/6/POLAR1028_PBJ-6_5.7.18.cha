@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:33
+@Media:	1028_PBJ6 video
+*PAR:	with this &uh &w &w you would &gah get &t two pieces of bread .
+%mor:	prep|with pro:dem|this pro:per|you mod|will&COND v|get det:num|two
+	n|piece-PL prep|of n|bread .
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|QUANT 7|5|OBJ
+	8|7|NJCT 9|8|POBJ 10|1|PUNCT
+*PAR:	&uh and &uh <if it> [//] if you like it &t toasted you have it
+	toasted .
+%mor:	coord|and conj|if pro:per|you v|like pro:per|it v|toast-PAST
+	pro:per|you v|have pro:per|it v|toast-PAST .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|XCOMP 7|8|SUBJ 8|6|COMP
+	9|10|SUBJ 10|8|COMP 11|4|PUNCT
+*PAR:	&uh you spread the peanut+butter on .
+%mor:	pro:per|you v|spread&ZERO det:art|the n|+n|peanut+n|butter adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and &uh you would &uh put the jam or whater [* phon] on [/] &uh on
+	it .
+%mor:	coord|and pro:per|you mod|will&COND v|put&ZERO det:art|the n|jam
+	coord|or ?|whater adv|on pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|10|JCT 10|8|OBJ 11|4|PUNCT
+*PAR:	and &uh &y you put the shoo [* phon] pieces of bread .
+%mor:	coord|and pro:per|you v|put&ZERO det:art|the v|shoo n|piece-PL
+	prep|of n|bread .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	you can &s &uh cut it in half flowahn [* phon] .
+%mor:	pro:per|you mod|can v|cut&ZERO pro:per|it prep|in n|half ?|flowahn
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|COMP 8|3|PUNCT
+*PAR:	and &uh that's how I like a sandwich .
+%mor:	coord|and pro:dem|that~cop|be&3S adv:int|how pro:sub|I v|like
+	det:art|a n|sandwich .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|PRED 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+@End

@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1092_5_Cinderella_January-17th-2020-10-59-05-am video
+@Time Duration:	00:02:05
+*PAR:	&mhm cause she [/] she &li &uh telling a story about a sandwich
+	[* u] coming to see a picture about a large pich [//] pretty xxx
+	[* phon] .
+%mor:	n|cause pro:sub|she part|tell-PRESP det:art|a n|story prep|about
+	det:art|a n|sandwich part|come-PRESP inf|to v|see det:art|a
+	n|picture prep|about det:art|a adj|large adj|pretty .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|XMOD 10|11|INF 11|9|XJCT 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|3|PUNCT
+*PAR:	and it has a picture in <a large back porch [* u]> [/] a large back
+	porch [* u] &uh uhside [: beside] [* phon] the picture of big
+	picture .
+%mor:	coord|and pro:per|it aux|have&3S det:art|a n|picture prep|in
+	det:art|a adj|large adj|back n|porch prep|beside det:art|the
+	n|picture prep|of adj|big n|picture .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|NJCT 7|10|DET
+	8|10|MOD 9|10|MOD 10|6|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|13|NJCT
+	15|16|MOD 16|14|POBJ 17|5|PUNCT
+*PAR:	oh a large picture by a leaving [/] leaving a picture behind a large
+	picture .
+%mor:	co|oh det:art|a adj|large n|picture prep|by det:art|a
+	n:gerund|leave-PRESP det:art|a n|picture adv|behind det:art|a
+	adj|large n|picture .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|4|PUNCT
+*PAR:	&uh picture behind a scene white porch [* u] .
+%mor:	n|picture prep|behind det:art|a n|scene adj|white n|porch .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+*PAR:	&uh a side white porch [* u] a large white porch [* u] .
+%mor:	det:art|a n|side adj|white n|porch det:art|a adj|large adj|white
+	n|porch .
+%gra:	1|2|DET 2|0|INCROOT 3|4|MOD 4|2|ENUM 5|8|DET 6|8|MOD 7|8|MOD 8|4|APP
+	9|2|PUNCT
+*PAR:	&um a large white porch [* u] .
+%mor:	det:art|a adj|large adj|white n|porch .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*PAR:	a besime [: beside] [* phon] xxx [* phon] xxx [* phon] a xxx
+	[* phon] &uh .
+%mor:	det:art|a prep|beside det:art|a .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POBJ 4|2|PUNCT
+*PAR:	xxx [* phon] set free .
+%mor:	v|set&ZERO adv|free .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	and it's a lime [* u] white horse .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a n|lime adj|white n|horse .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+*PAR:	a lime [* u] white horse will be &uh a poetry [* u] about poetry
+	[* u] .
+%mor:	det:art|a n|lime adj|white n|horse mod|will cop|be det:art|a
+	n|poetry prep|about n|poetry .
+%gra:	1|2|DET 2|6|SUBJ 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|6|PUNCT
+@End

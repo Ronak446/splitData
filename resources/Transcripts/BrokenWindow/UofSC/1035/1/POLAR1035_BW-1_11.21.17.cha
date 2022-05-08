@@ -1,0 +1,42 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	1035_1_BrokenWindow_November-21st-2017-9-07-50-am video
+
+*PAR:	&h hed [* phon] boy .
+%mor:	?|hed n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&ba ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and boom !
+%mor:	coord|and n|boom !
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	bræʃ [* phon] .
+%mor:	?|bræʃ .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh no !
+%mor:	co|oh co|no !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	boy oh no !
+%mor:	co|boy co|oh co|no !
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	oh my god !
+%mor:	co|oh det:poss|my n|god !
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	who that ?
+%mor:	pro:int|who pro:dem|that ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	who that ?
+%mor:	pro:int|who pro:dem|that ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	see him .
+%mor:	v|see pro:obj|him .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

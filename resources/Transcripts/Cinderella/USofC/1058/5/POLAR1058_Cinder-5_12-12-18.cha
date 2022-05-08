@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:47
+@Media:	POLAR_1058_Cinder5 video
+*PAR:	&um &lor lords .
+%mor:	n|lord-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um work .
+%mor:	n|work .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's and [/] &um and &um &uh good .
+%mor:	pro:dem|that~cop|be&3S coord|and adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	it's &uh is [/] is [/] is .
+%mor:	pro:per|it~aux|be&3S cop|be&3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	is nar [* phon] &mm .
+%mor:	cop|be&3S ?|nar .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+@End

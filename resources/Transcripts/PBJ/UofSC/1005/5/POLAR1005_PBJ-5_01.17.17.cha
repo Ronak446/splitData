@@ -1,0 +1,29 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1005_5_PBJ_Y2017_M01_D17_H10_M38_S03 video
+*PAR:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um xxx [* phon] &um peanut and butter [* s] .
+%mor:	n|peanut coord|and n|butter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and jelly .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &sh &ch &um peanut+butter .
+%mor:	coord|and n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and &um jelly jelly [/] .
+%mor:	coord|and n|jelly .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and xxx [* phon] right der [* phon] it's xxx [* phon] .
+%mor:	coord|and adv|right ?|der pro:per|it~cop|be&3S .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|5|SUBJ 5|3|CMOD 6|1|PUNCT
+*PAR:	eat it .
+%mor:	v|eat pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+@End

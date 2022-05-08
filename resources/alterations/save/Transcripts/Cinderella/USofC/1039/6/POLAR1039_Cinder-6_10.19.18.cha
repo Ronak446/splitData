@@ -1,0 +1,33 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:02:01
+@Media:	1039_Cinderella6 video
+*PAR:	long time chor [* phon] way &uh yeah .
+%mor:	adv|long v|time ?|chor adv|way co|yeah .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|JCT 5|3|COM 6|2|PUNCT
+*PAR:	finderfellow [* phon] eh [* phon] &d &d lo [* phon] ai [* phon] &uh
+	yeah .
+%mor:	?|finderfellow co|eh co|lo ?|ai co|yeah .
+%gra:	1|0|INCROOT 2|4|COM 3|4|COM 4|1|COMP 5|4|COM 6|1|PUNCT
+*PAR:	chor [* phon] way zhil [* phon] &uh choe [* phon] &um .
+%mor:	?|chor n|way ?|zhil ?|choe .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	char [* phon] way &ch yeah weh [* phon] yeah &uh .
+%mor:	v|char n|way co|yeah ?|weh co|yeah .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|COM 4|1|COMP 5|4|COM 6|1|PUNCT
+*PAR:	minerello [* phon] tuh [* phon] lololo [* phon] horses yeah yup yeah .
+%mor:	?|minerello ?|tuh ?|lololo n|horse-PL co|yeah co|yup co|yeah .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|7|COM 6|7|COM 7|4|COM 8|4|PUNCT
+*PAR:	yor [* phon] or are nor [* phon] &uh xxx [* phon] &uh .
+%mor:	?|yor coord|or cop|be&PRES coord|nor .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|PRED 5|1|PUNCT
+*PAR:	mice mie [* phon] &uh &m mice .
+%mor:	n|mouse&PL ?|mie n|mouse&PL .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|ENUM 4|1|PUNCT
+*PAR:	&uh men &nah yeah &uh oh &uh &uh &m .
+%mor:	n|man&PL co|yeah co|oh .
+%gra:	1|0|INCROOT 2|3|COM 3|1|ENUM 4|1|PUNCT
+@End

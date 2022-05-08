@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:22
+@Media:	POLAR_1065_PBJ2 video
+*PAR:	you get two [/] &k &k two slices of bread .
+%mor:	pro:per|you v|get det:num|two n|slice-PL prep|of n|bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*PAR:	<you put> [//] &ma you put &uh &t &uh peanut+butter on it .
+%mor:	pro:per|you v|put&ZERO n|+n|peanut+n|butter prep|on pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	then you put the jelly on it .
+%mor:	adv:tem|then pro:per|you v|put&ZERO det:art|the n|jelly prep|on
+	pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	then you put the [/] &sen the other slice of bread on it .
+%mor:	adv:tem|then pro:per|you v|put&ZERO det:art|the qn|other n|slice
+	prep|of n|bread prep|on pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|JCT 10|9|POBJ 11|3|PUNCT
+@End

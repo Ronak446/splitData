@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:21
+@Media:	POLAR_1063_BW3 video
+*PAR:	eah [: yeah] [* phon] well yes weh [: we] [* phon] love you .
+%mor:	co|yeah co|well co|yes pro:sub|we v|love pro:per|you .
+%gra:	1|5|COM 2|5|COM 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	I want you .
+%mor:	pro:sub|I v|want pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I mut [* phon] you love you .
+%mor:	pro:sub|I ?|mut pro:per|you v|love pro:per|you .
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	es [: yes] [* phon] se [* phon] yes yeah .
+%mor:	co|yes ?|se co|yes co|yeah .
+%gra:	1|2|COM 2|0|ROOT 3|4|COM 4|2|COM 5|2|PUNCT
+*PAR:	and <I want you> [/] I want you reh [* phon] love you yeah .
+%mor:	coord|and pro:sub|I v|want pro:per|you ?|reh v|love pro:per|you
+	co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|6|COM
+	9|3|PUNCT
+@End

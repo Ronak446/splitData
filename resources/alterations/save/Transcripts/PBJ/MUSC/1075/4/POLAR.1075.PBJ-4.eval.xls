@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15260</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="RedText">
+    <Font ss:FontName="Calibri" ss:Size="12" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="TallText">
+    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="POLAR.1075.PBJ-4.eval.xls">
+  <Table ss:DefaultColumnWidth="75" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">File</Data></Cell>
+    <Cell><Data ss:Type="String">Language</Data></Cell>
+    <Cell><Data ss:Type="String">Corpus</Data></Cell>
+    <Cell><Data ss:Type="String">Code</Data></Cell>
+    <Cell><Data ss:Type="String">Age</Data></Cell>
+    <Cell><Data ss:Type="String">Sex</Data></Cell>
+    <Cell><Data ss:Type="String">Group</Data></Cell>
+    <Cell><Data ss:Type="String">Race</Data></Cell>
+    <Cell><Data ss:Type="String">SES</Data></Cell>
+    <Cell><Data ss:Type="String">Role</Data></Cell>
+    <Cell><Data ss:Type="String">Education</Data></Cell>
+    <Cell><Data ss:Type="String">Custom_field</Data></Cell>
+    <Cell><Data ss:Type="String">Duration_(sec)</Data></Cell>
+    <Cell><Data ss:Type="String">Total_Utts</Data></Cell>
+    <Cell><Data ss:Type="String">MLU_Utts</Data></Cell>
+    <Cell><Data ss:Type="String">MLU_Words</Data></Cell>
+    <Cell><Data ss:Type="String">MLU_Morphemes</Data></Cell>
+    <Cell><Data ss:Type="String">FREQ_types</Data></Cell>
+    <Cell><Data ss:Type="String">FREQ_tokens</Data></Cell>
+    <Cell><Data ss:Type="String">FREQ_TTR</Data></Cell>
+    <Cell><Data ss:Type="String">Words_Min</Data></Cell>
+    <Cell><Data ss:Type="String">Verbs_Utt</Data></Cell>
+    <Cell><Data ss:Type="String">Word_Errors</Data></Cell>
+    <Cell><Data ss:Type="String">Utt_Errors</Data></Cell>
+    <Cell><Data ss:Type="String">density</Data></Cell>
+    <Cell><Data ss:Type="String">Nouns</Data></Cell>
+    <Cell><Data ss:Type="String">Plurals</Data></Cell>
+    <Cell><Data ss:Type="String">Verbs</Data></Cell>
+    <Cell><Data ss:Type="String">Aux</Data></Cell>
+    <Cell><Data ss:Type="String">3S</Data></Cell>
+    <Cell><Data ss:Type="String">1S_3S</Data></Cell>
+    <Cell><Data ss:Type="String">PAST</Data></Cell>
+    <Cell><Data ss:Type="String">PASTP</Data></Cell>
+    <Cell><Data ss:Type="String">PRESP</Data></Cell>
+    <Cell><Data ss:Type="String">prep</Data></Cell>
+    <Cell><Data ss:Type="String">adj</Data></Cell>
+    <Cell><Data ss:Type="String">adv</Data></Cell>
+    <Cell><Data ss:Type="String">conj</Data></Cell>
+    <Cell><Data ss:Type="String">det</Data></Cell>
+    <Cell><Data ss:Type="String">pro</Data></Cell>
+    <Cell><Data ss:Type="String">noun_verb</Data></Cell>
+    <Cell><Data ss:Type="String">open_closed</Data></Cell>
+    <Cell><Data ss:Type="String">#open-class</Data></Cell>
+    <Cell><Data ss:Type="String">#closed-class</Data></Cell>
+    <Cell><Data ss:Type="String">retracing</Data></Cell>
+    <Cell><Data ss:Type="String">repetition</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">POLAR.1075.PBJ-4.cha</Data></Cell>
+    <Cell><Data ss:Type="String">eng</Data></Cell>
+    <Cell><Data ss:Type="String">POLAR</Data></Cell>
+    <Cell><Data ss:Type="String">PAR</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">Participant</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">3.500</Data></Cell>
+    <Cell><Data ss:Type="Number">3.500</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">0.700</Data></Cell>
+    <Cell><Data ss:Type="Number">35.294</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.250</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">NA</Data></Cell>
+    <Cell><Data ss:Type="Number">0.059</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

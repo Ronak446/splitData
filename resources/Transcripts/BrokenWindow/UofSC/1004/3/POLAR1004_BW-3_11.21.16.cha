@@ -1,0 +1,73 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:04:30
+@Media:	1004_3_BrokenWindow_Y2016_M11_D21_H13_M44_S39 video
+
+*PAR:	when I [* s] was <when I was> [/] kicking the ball down the the [/]
+	&st yardstick [* s] .
+%mor:	conj|when pro:sub|I aux|be&PAST&13S part|kick-PRESP det:art|the
+	n|ball adv|down det:art|the n|yardstick .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|JCT 8|9|DET
+	9|4|JCT 10|4|PUNCT
+*PAR:	and &ga &ga goal but .
+%mor:	coord|and n|goal conj|but .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAR:	she [* s] was kicking the ball .
+%mor:	pro:sub|she aux|be&PAST&13S part|kick-PRESP det:art|the n|ball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and it was &s &s stop in the grain [* phon] grass xxx [* phon] .
+%mor:	coord|and pro:per|it cop|be&PAST&13S n|stop prep|in det:art|the
+	n|grain n|grass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	and the <and the> [/] &sa &sa &sta &sta stigital [* phon] .
+%mor:	coord|and det:art|the ?|stigital .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&goh hit the goal [* u] .
+%mor:	v|hit&ZERO det:art|the n|goal .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and the &st &st star [* u] &s &s &s .
+%mor:	coord|and det:art|the n|star .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	goal [* u] .
+%mor:	n|goal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the ball .
+%mor:	coord|and det:art|the n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and is &ss .
+%mor:	coord|and cop|be&3S .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and baus [* phon] &ba &ma [//] goal [* u] is .
+%mor:	coord|and ?|baus n|goal cop|be&3S .
+%gra:	1|4|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&oh too bad &ss .
+%mor:	adv|too adj|bad .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	and &ss &s goal [* u] goal [* u] [/] .
+%mor:	coord|and n|goal .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&ss stick [* u] .
+%mor:	n|stick .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and xxx [* phon] .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ga &ss &ga &ga .
+*PAR:	&ss &sti &s &k .
+*PAR:	yes maam .
+%mor:	co|yes n|maam .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&sti goal [* u] .
+%mor:	n|goal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&ss goal [* u] &ss .
+%mor:	n|goal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&g &g is ball .
+%mor:	cop|be&3S v|ball .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+@End

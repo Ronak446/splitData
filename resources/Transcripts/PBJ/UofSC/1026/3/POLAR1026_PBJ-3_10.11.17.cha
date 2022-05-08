@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:53
+@Media:	1026_PBJ3 video
+*PAR:	two pieces of bread .
+%mor:	det:num|two n|piece-PL prep|of n|bread .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	<one two three [* s]> [//] no two three [* s] .
+%mor:	co|no det:num|two det:num|three .
+%gra:	1|3|COM 2|3|QUANT 3|0|ROOT 4|3|PUNCT
+*PAR:	and on the one side I &wou put peanut+butter and &um &s .
+%mor:	coord|and prep|on det:art|the pro:indef|one n|side pro:sub|I
+	v|put&ZERO n|+n|peanut+n|butter coord|and .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|CONJ 10|7|PUNCT
+*PAR:	the knife .
+%mor:	det:art|the n|knife .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and then the &um jelly .
+%mor:	coord|and adv:tem|then det:art|the n|jelly .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	and spread it all out .
+%mor:	coord|and v|spread&ZERO pro:per|it adv|all adv|out .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*PAR:	and then the [/] the &um the sandwich put it together .
+%mor:	coord|and adv:tem|then det:art|the det:art|the n|sandwich
+	v|put&ZERO pro:per|it adv|together .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+*PAR:	and bite it .
+%mor:	coord|and v|bite pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

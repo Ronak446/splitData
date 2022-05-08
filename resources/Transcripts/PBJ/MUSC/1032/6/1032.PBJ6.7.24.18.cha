@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:27
+@Media:	1032_PBJ6 video
+*PAR:	manich [* phon] .
+%mor:	?|manich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&b &b &b .
+*PAR:	eat .
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I [/] I don't .
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+@End

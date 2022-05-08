@@ -1,0 +1,83 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:44
+@Media:	1029_3_BrokenWindow_October-25th-2017-11-33-22-am video
+*PAR:	okay this little kid who is in the yard .
+%mor:	co|okay pro:dem|this adj|little n|kid pro:rel|who cop|be&3S prep|in
+	det:art|the n|yard .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|LINK 6|4|CMOD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	and he was just kicking the ball around .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|just part|kick-PRESP
+	det:art|the n|ball adv|around .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|DET 7|5|OBJ 8|5|JCT
+	9|3|PUNCT
+*PAR:	it's actually a soccer ball .
+%mor:	pro:per|it~cop|be&3S adv|actual&dadj-LY det:art|a n|soccer n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+*PAR:	and &uh he's having a &f fun .
+%mor:	coord|and pro:sub|he~aux|be&3S part|have-PRESP det:art|a n|fun .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and sure enough &uh he hit [* s] it so hard that it went through the
+	window and <explored its> [//] exploded it .
+%mor:	coord|and v|sure adv|enough pro:sub|he v|hit&ZERO pro:per|it adv|so
+	adj|hard pro:rel|that pro:per|it v|go&PAST prep|through det:art|the
+	n|window coord|and v|explode-PAST pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|8|JCT 8|5|COMP
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|11|CONJ
+	16|15|COORD 17|16|OBJ 18|2|PUNCT
+*PAR:	and &um is [//] his &uh neighbor's sitting down .
+%mor:	coord|and det:poss|his n|neighbor~aux|be&3S part|sit-PRESP adv|down
+	.
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and &uh the <when the bir> [//] when the &ba ball came through
+	scared the crap out of him .
+%mor:	coord|and det:art|the conj|when det:art|the n|ball v|come&PAST
+	adv|through v|scare-PAST det:art|the n|crap adv|out prep|of
+	pro:obj|him .
+%gra:	1|6|LINK 2|3|DET 3|6|LINK 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|11|JCT 13|12|POBJ 14|6|PUNCT
+*PAR:	and he didn't know what it was .
+%mor:	coord|and pro:sub|he mod|do&PAST~neg|not v|know pro:int|what
+	pro:per|it cop|be&PAST&13S .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|5|PUNCT
+*PAR:	and &uh so he got up and look [//] looked out .
+%mor:	coord|and co|so pro:sub|he v|get&PAST adv|up coord|and v|look-PAST
+	adv|out .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|4|PUNCT
+*PAR:	and he could he xxx [* phon] the &ba ball was not around .
+%mor:	coord|and pro:sub|he mod|could pro:sub|he det:art|the n|ball
+	aux|be&PAST&13S neg|not adv|around .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|JCT 10|4|PUNCT
+*PAR:	I mean the ball was < in the> [//] <in his> [/] &uh <in his &ya
+	room> [/] in his &f room .
+%mor:	pro:sub|I v|mean det:art|the n|ball cop|be&PAST&13S prep|in
+	det:poss|his n|room .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*PAR:	and &uh little kid had ran [//] run away .
+%mor:	coord|and adj|little n|kid aux|have&PAST part|run&PASTP adv|away .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	and so he didn't know who &uh who [/] he kicked the ball .
+%mor:	coord|and co|so pro:sub|he mod|do&PAST~neg|not v|know pro:int|who
+	pro:sub|he v|kick-PAST det:art|the n|ball .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|11|DET 11|9|OBJ 12|6|PUNCT
+*PAR:	and he was pretty upset .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|pretty adj|upset .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*PAR:	and started walking around the neighborhood to find out the little
+	brat that did that .
+%mor:	coord|and v|start-PAST part|walk-PRESP prep|around det:art|the
+	n|neighborhood inf|to v|find prep|out det:art|the adj|little n|brat
+	pro:rel|that v|do&PAST pro:dem|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|8|INF 8|3|XCOMP
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|LINK 14|12|CMOD 15|14|OBJ
+	16|2|PUNCT
+@End

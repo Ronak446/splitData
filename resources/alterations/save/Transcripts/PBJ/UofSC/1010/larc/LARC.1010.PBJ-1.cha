@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|LARC|PAR|||||Participant|||
+@Time Duration:	00:00:15
+@Media:	1010_larc_PBJ_August-7th-2019-4-23-03-pm video
+*PAR:	take it to apart xxx [* phon] .
+%mor:	v|take pro:per|it inf|to adv|apart .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|JCT 5|1|PUNCT
+*PAR:	those are xxx [* phon] .
+%mor:	pro:dem|those cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and they xxx [* phon] .
+%mor:	coord|and pro:sub|they .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and put it xxx [* phon] .
+%mor:	coord|and v|put&ZERO pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	xxx [* phon] .
+@End

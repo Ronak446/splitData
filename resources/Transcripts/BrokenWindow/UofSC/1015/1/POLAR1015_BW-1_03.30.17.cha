@@ -1,0 +1,80 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:32
+@Media:	1015_1_BrokenWindow_Y2017_M03_D30_H13_M18_S45 video
+
+*PAR:	&ba ball &ba ball [/] .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and the &uh &ba &ba &ba boy .
+%mor:	coord|and det:art|the n|boy .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	football &um football [/] .
+%mor:	n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh &win windows &win winows [* phon] .
+%mor:	det:art|the n|window-PL ?|winows .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx [* phon] the &uh &win xxx [* phon] xxx [* phon] .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the &uh the [/] &win windows .
+%mor:	det:art|the n|window-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the &uh football <the &uh football> [/] .
+%mor:	coord|and det:art|the n|+n|foot+n|ball .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and the &uh &ma &ma &ma &ma &fa &fa &fa &fa &fad &fad &fad &ma man .
+%mor:	coord|and det:art|the n|man .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and he &da &n &n no the &uh the [/] .
+%mor:	coord|and pro:sub|he qn|no det:art|the .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	I forget .
+%mor:	pro:sub|I v|forget .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	popy [* phon] .
+%mor:	adj|pope&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no the &uh the [/] &uh man .
+%mor:	qn|no det:art|the n|man .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	the &uh son son [/] .
+%mor:	det:art|the n|son .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	the &uh &pa &pa .
+%mor:	det:art|the .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	man &uh no the &uh god .
+%mor:	v|man qn|no det:art|the n|god .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*PAR:	the &fo the [/] &uh the [/] football is &la &la &la &la &la lamp
+	lamp [/] lamp [/] .
+%mor:	det:art|the n|+n|foot+n|ball cop|be&3S n|lamp .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and the the [/] man xxx [* phon] football .
+%mor:	coord|and det:art|the n|man n|+n|foot+n|ball .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and &s &s son son [/] &ma &ma &ma may &sa &sa sad .
+%mor:	coord|and n|son mod|may adj|sad .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and &uh windows .
+%mor:	coord|and n|window-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	football .
+%mor:	n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	man .
+%mor:	n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	&ba ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's &ba yeah .
+%mor:	pro:per|it~aux|be&3S co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

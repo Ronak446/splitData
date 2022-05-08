@@ -1,0 +1,20 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:23
+@Media:	POLAR_1063_BW5 video
+*PAR:	yeah a-e [* phon] yes .
+%mor:	co|yeah ?|a-e co|yes .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	xxx [* phon] <I want you> [/] I want you [/] you [/] you .
+%mor:	pro:sub|I v|want pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	yo [: you ] [* phon] yes [/] yes .
+%mor:	pro:per|you co|yes .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*PAR:	want to &uh yes .
+%mor:	v|want prep|to co|yes .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+@End

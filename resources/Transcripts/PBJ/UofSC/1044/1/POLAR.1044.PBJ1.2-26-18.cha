@@ -1,0 +1,18 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:14
+@Media:	1044_1_PBJ_February-26th-2018-11-44-11-am video
+*PAR:	say [* phon] &um beets [* phon] of bread &uh dilly [* phon] .
+%mor:	v|say n|beet-PL prep|of n|bread adj|dill&dn-Y .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|JCT 6|1|PUNCT
+*PAR:	wuts [* phon] &uh two .
+%mor:	?|wuts det:num|two .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*PAR:	and cut it .
+%mor:	coord|and v|cut&ZERO pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&mm &mm .
+@End

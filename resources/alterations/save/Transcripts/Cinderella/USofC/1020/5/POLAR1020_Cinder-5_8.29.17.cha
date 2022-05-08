@@ -1,0 +1,53 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:07
+@Media:	1020_5_Cinderella_August-29th-2017-9-29-49-am video
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	one xxx [* phon] xxx [* phon] xxx [* phon] .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh no <oh no> [/] .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	no no no .
+%mor:	co|no co|no co|no .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx  [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	oh my <oh my> [/] .
+%mor:	co|oh det:poss|my .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	no no xxx [* phon] no no .
+%mor:	co|no co|no co|no co|no .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|PUNCT
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] xxx [* phon] xxx [* phon] .
+*PAR:	xxx [* phon] .
+*PAR:	xxx [* phon] xxx [* phon] .
+@End

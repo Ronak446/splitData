@@ -1,0 +1,28 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:03
+@Media:	POLAR_1071_PBJ2 video
+*PAR:	well start off clo [* phon] piece of bread and add <some peanuk pus
+	pe pe some mut some mut> [//] some peanut+butter on the bread .
+%mor:	co|well v|start prep|off ?|clo n|piece prep|of n|bread coord|and
+	v|add qn|some n|+n|peanut+n|butter prep|on det:art|the n|bread .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|OBJ 6|5|NJCT 7|6|POBJ 8|2|CONJ
+	9|8|COORD 10|11|QUANT 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|2|PUNCT
+*PAR:	and &uh and then I add some length [: jam] [* u] &e some zam [/] zam
+	[/] zam [/] zam [//] sam &sa dam [: jam] [* phon] on the bread .
+%mor:	coord|and coord|and adv:tem|then pro:sub|I v|add qn|some n|jam
+	qn|some ?|sam n|jam prep|on det:art|the n|bread .
+%gra:	1|5|LINK 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ
+	8|10|QUANT 9|10|MOD 10|7|OBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	and then add the rest of the brin [: bread] [* phon] .
+%mor:	coord|and adv:tem|then v|add det:art|the n|rest prep|of det:art|the
+	n|bread .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and eat it .
+%mor:	coord|and v|eat pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@End

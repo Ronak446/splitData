@@ -1,0 +1,16 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1050_5_PBJ_September-4th-2018-10-55-09-am video
+*PAR:	eses [* phon] es [* phon] awtis [* phon] .
+*PAR:	ses [* phon] &oh joot [* phon] .
+*PAR:	es [* phon] nope .
+%mor:	?|es co|nope .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	and shoop [* phon] .
+%mor:	coord|and ?|shoop .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,37 @@
+@UTF8
+@Window:	105_822_585_805_0_0_416_0_416_0
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR1113_BW-1_7.13.20 video
+@Time Duration:	00:00:40
+*PAR:	okay &um little boy is playing soccer in the yard .
+%mor:	co|okay adj|little n|boy aux|be&3S part|play-PRESP n|soccer prep|in
+	det:art|the n|yard .
+%gra:	1|3|COM 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*PAR:	and he kicks the ball high .
+%mor:	coord|and pro:sub|he v|kick-3S det:art|the n|ball adj|high .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|POSTMOD 7|3|PUNCT
+*PAR:	and he manages to make it high enough that it goes through a window .
+%mor:	coord|and pro:sub|he v|manage-3S inf|to v|make pro:per|it n|high
+	adv|enough pro:rel|that pro:per|it v|go-3S prep|through det:art|a
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|SUBJ 7|5|OBJ 8|7|NJCT
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	&um and it [//] I guess confuses his dad because he's knocked over
+	the [/] the pillow [* u] and the [/] &um the lamp and the &uh glass .
+%mor:	coord|and pro:sub|I v|guess v|confuse-3S det:poss|his n|dad
+	conj|because pro:sub|he~aux|be&3S part|knock-PASTP prep|over
+	det:art|the n|pillow coord|and det:art|the n|lamp coord|and
+	det:art|the n|glass .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|16|DET
+	16|14|COORD 17|16|CONJ 18|19|DET 19|17|COORD 20|3|PUNCT
+*PAR:	and he gets up to go and see what's the matter .
+%mor:	coord|and pro:sub|he v|get-3S adv|up inf|to v|go coord|and v|see
+	pro:int|what~cop|be&3S det:art|the v|matter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|6|CONJ 8|7|COORD
+	9|10|SUBJ 10|8|COMP 11|12|DET 12|10|CPRED 13|3|PUNCT
+@End

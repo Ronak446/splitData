@@ -1,0 +1,117 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:02
+@Media:	1023_2_PBJ_July-19th-2017-1-23-06-pm video
+
+*PAR:	you normally would make two different &p pieces .
+%mor:	pro:per|you adv|normal&dadj-LY mod|will&COND v|make det:num|two
+	adj|different n|piece-PL .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	you would have the .
+%mor:	pro:per|you mod|will&COND v|have det:art|the .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PUNCT
+*PAR:	one is the it's sweet .
+%mor:	pro:indef|one cop|be&3S det:art|the pro:per|it~aux|be&3S co|sweet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|PRED 7|2|PUNCT
+*PAR:	the peanut+butter xxx [* phon] .
+%mor:	det:art|the n|+n|peanut+n|butter .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the other one would be the sweet butter [* s] [//] no butter
+	[* s] &b .
+%mor:	coord|and det:art|the qn|other pro:indef|one mod|will&COND cop|be
+	det:art|the n|sweet qn|no n|butter .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|PRED
+	9|10|QUANT 10|8|OBJ 11|6|PUNCT
+*PAR:	and then .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	me [//] not me [* u] it's sweet sweet [/] .
+%mor:	neg|not pro:obj|me pro:per|it~aux|be&3S co|sweet .
+%gra:	1|2|NEG 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*PAR:	peanut+butter and banana [* s] [//] not banana [* s] banana [* s]
+	[/] .
+%mor:	n|+n|peanut+n|butter coord|and neg|not n|banana .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|NEG 4|2|COORD 5|1|PUNCT
+*PAR:	you can do banana [* s] but you don't normally do that .
+%mor:	pro:per|you mod|can v|do n|banana conj|but pro:per|you
+	mod|do~neg|not adv|normal&dadj-LY v|do pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|10|LINK 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|3|CJCT 11|10|OBJ 12|3|PUNCT
+*PAR:	it's banana [* s] [//] it's not banana [* s] .
+%mor:	pro:per|it~aux|be&3S pro:per|it~cop|be&3S neg|not n|banana .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+*PAR:	it's sweet and &cr &cr &s &c chip [* s] chip [* s] [/] chip [* s]
+	[/] .
+%mor:	pro:per|it~cop|be&3S adj|sweet coord|and n|chip .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*PAR:	<no chicken [* s]> [//] not chicken [* s] .
+%mor:	neg|not v|chicken .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+*PAR:	peanut+butter and &j &j &j .
+%mor:	n|+n|peanut+n|butter coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*PAR:	fish [* s] &j .
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sweet .
+%mor:	adj|sweet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&p &p peanut [* s] bana [* phon] peanut+butter peanut+butter [/] and .
+%mor:	n|peanut ?|bana n|+n|peanut+n|butter coord|and .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I'm trying to find the sweetß .
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|find det:art|the
+	?|sweetß .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	to so you eat the eat with the two things together .
+%mor:	v|toe conj|so pro:per|you v|eat det:art|the v|eat prep|with
+	det:art|the det:num|two n|thing-PL adv|together .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|6|DET 6|4|OBJ 7|6|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|10|NJCT 12|1|PUNCT
+*PAR:	&s sweet peanut+butter and sweet .
+%mor:	adj|sweet n|+n|peanut+n|butter coord|and co|sweet .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	and I can't the sweet of it .
+%mor:	coord|and pro:sub|I mod|can~neg|not det:art|the n|sweet prep|of
+	pro:per|it .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|DET 6|0|INCROOT 7|6|NJCT 8|7|POBJ
+	9|6|PUNCT
+*PAR:	peanut+butter &n navvy [* phon] navvy [* phon] [/] navvuh [* phon] .
+%mor:	n|+n|peanut+n|butter ?|navvy ?|navvuh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&j &j banana [* s] no .
+%mor:	n|banana co|no .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*PAR:	&j &j fish [* s] [//] not fish [* s] .
+%mor:	neg|not v|fish .
+%gra:	1|2|NEG 2|0|ROOT 3|2|PUNCT
+*PAR:	&ch &s &sw sweet .
+%mor:	adj|sweet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it's not banana [* s] it's &uh .
+%mor:	pro:per|it~cop|be&3S neg|not n|banana pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|2|PUNCT
+*PAR:	&r &r so &s &s banana [* s] no .
+%mor:	co|so n|banana co|no .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	&ch fish [* s] xxx [* phon] .
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'm not getting it .
+%mor:	pro:sub|I~cop|be&1S neg|not n:gerund|get-PRESP pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|OBJ 6|2|PUNCT
+*PAR:	bananas [* s] [//] it's not bananas [* s] .
+%mor:	pro:per|it~cop|be&3S neg|not n|banana-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*PAR:	it's &fi &fi .
+%mor:	pro:per|it~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	I know what it is but I can't say it .
+%mor:	pro:sub|I v|know pro:int|what pro:per|it cop|be&3S conj|but
+	pro:sub|I mod|can~neg|not v|say pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|5|CJCT 11|10|OBJ 12|2|PUNCT
+@End

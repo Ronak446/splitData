@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:32
+@Media:	1049_1_BrokenWindow_April-25th-2018-11-52-55-am video
+*PAR:	this <the ball> [/] the ball the man without kicking the ball .
+%mor:	pro:dem|this det:art|the n|ball det:art|the n|man prep|without
+	n:gerund|kick-PRESP det:art|the n|ball .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*PAR:	and he kicked it so hard it went flying through the window .
+%mor:	coord|and pro:sub|he v|kick-PAST pro:per|it adv|so adv|hard
+	pro:per|it v|go&PAST n:gerund|fly-PRESP prep|through det:art|the
+	n|window .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|8|SUBJ 8|3|COMP
+	9|8|OBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	cracked the big hole in the window .
+%mor:	v|crack-PAST det:art|the adj|big n|hole prep|in det:art|the
+	n|window .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	came flying through the window .
+%mor:	v|come&PAST n:gerund|fly-PRESP prep|through det:art|the n|window .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	and hit the man on <the knee [* s] [/] the &n knee [* s]> [//] oh no
+	&k &ku &ki cuk [: cut] [* phon] his fingers on the lamp .
+%mor:	coord|and v|hit&ZERO det:art|the n|man adv|on co|oh co|no n|cut
+	det:poss|his n|finger-PL prep|on det:art|the n|lamp .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|COM 7|8|COM 8|2|OBJ
+	9|10|MOD 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*PAR:	and the man got up .
+%mor:	coord|and det:art|the n|man v|get&PAST adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	and he picked up the ball .
+%mor:	coord|and pro:sub|he v|pick-PAST prep|up det:art|the n|ball .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	and looked out the window at the boy .
+%mor:	coord|and cop|look-PAST prep|out det:art|the n|window prep|at
+	det:art|the n|boy .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+@End

@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:23
+@Media:	1072_4_PBJ_May-13th-2019-11-21-57-am video
+*PAR:	alright &um &s to take two rep [//] piece of bread and one you put
+	&um peanut+butter .
+%mor:	co|alright inf|to v|take det:num|two n|piece prep|of n|bread
+	coord|and det:num|one pro:per|you v|put&ZERO n|+n|peanut+n|butter .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ
+	8|3|CONJ 9|8|COORD 10|11|SUBJ 11|9|CMOD 12|11|OBJ 13|1|PUNCT
+*PAR:	&um yeah peanut+butter &um all on it [/] it .
+%mor:	co|yeah n|+n|peanut+n|butter adv|all prep|on pro:per|it .
+%gra:	1|2|COM 2|0|INCROOT 3|4|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	then to &um put tome [: some] [* phon] jelly on it .
+%mor:	adv:tem|then inf|to v|put&ZERO qn|some n|jelly prep|on pro:per|it .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|QUANT 5|3|OBJ 6|3|JCT 7|6|POBJ
+	8|1|PUNCT
+*PAR:	all [/] all on it .
+%mor:	post|all prep|on pro:per|it .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	and then &t to the put the oler [: other] [* phon] bread on it .
+%mor:	coord|and adv:tem|then prep|to det:art|the v|put&ZERO det:art|the
+	qn|other n|bread prep|on pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|8|DET 7|8|QUANT
+	8|3|POBJ 9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*PAR:	and &g then you have a [/] a peanut+butter and [/] and jelly
+	sandwich .
+%mor:	coord|and adv:tem|then pro:per|you v|have det:art|a
+	n|+n|peanut+n|butter coord|and n|jelly n|sandwich .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|4|PUNCT
+@End

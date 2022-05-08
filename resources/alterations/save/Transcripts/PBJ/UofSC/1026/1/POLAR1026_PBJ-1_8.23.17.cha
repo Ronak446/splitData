@@ -1,0 +1,27 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:34
+@Media:	1025_PBJ1 video
+*PAR:	first you get the two pieces of bread .
+%mor:	adv|first pro:per|you v|get det:art|the det:num|two n|piece-PL
+	prep|of n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*PAR:	then you take the peanut+butter on one &s bread .
+%mor:	adv:tem|then pro:per|you v|take det:art|the n|+n|peanut+n|butter
+	prep|on det:num|one n|bread .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and then the &um jelly on the &s piece of &uh peanut+butter [* s] .
+%mor:	coord|and adv:tem|then det:art|the n|jelly prep|on det:art|the
+	n|piece prep|of n|+n|peanut+n|butter .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	and the &s &um &s &uh put the bread on top .
+%mor:	coord|and det:art|the v|put&ZERO det:art|the n|bread prep|on n|top
+	.
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+@End

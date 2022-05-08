@@ -1,0 +1,39 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:01:03
+@Media:	1029_PBJ1 video
+*PAR:	okay well I would get some bread .
+%mor:	adj|okay adv|well pro:sub|I mod|will&COND v|get qn|some n|bread .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*PAR:	&uh and &uh <we get some> [//] I would get &um jelly any kind
+	probably .
+%mor:	coord|and pro:sub|I mod|will&COND v|get n|jelly qn|any n|kind
+	adv|probable&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|QUANT 7|4|OBJ 8|7|NJCT
+	9|4|PUNCT
+*PAR:	and I put &th the &um &pau &pau peanut [//] <peanut+butrer [* phon]>
+	[//] peanut <peanut &bur burtle [* phon]> [//] <not burtle> [//]
+	&bee &um peanut &pe &huh that's left me for some reason &um
+	peanut+butter [/] peanut+butter put some peanut+butter on the other .
+%mor:	coord|and pro:sub|I v|put&ZERO det:art|the n|peanut n|peanut
+	pro:rel|that~aux|be&3S v|leave&PAST pro:obj|me prep|for qn|some
+	n|reason n|+n|peanut+n|butter v|put&ZERO qn|some
+	n|+n|peanut+n|butter prep|on det:art|the qn|other .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|9|OBJ 11|9|JCT 12|13|QUANT 13|11|POBJ 14|15|SUBJ 15|9|COMP
+	16|17|QUANT 17|15|OBJ 18|15|JCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+*PAR:	&uh and <I would slide [* s] it &togeth> [//] I would put it
+	together .
+%mor:	coord|and pro:sub|I mod|will&COND v|put&ZERO pro:per|it
+	adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	and &um I would eat it .
+%mor:	coord|and pro:sub|I mod|will&COND v|eat pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I guess .
+%mor:	pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+@End

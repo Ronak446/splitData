@@ -1,0 +1,21 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	POLAR.1087.BW-6 video
+@Time Duration:	00:01:03
+*PAR:	okay &um &um &um dude kicking the ball and the window .
+%mor:	co|okay n|dude part|kick-PRESP det:art|the n|ball coord|and
+	det:art|the n|window .
+*PAR:	and &w window &um &um in the way .
+%mor:	coord|and n|window prep|in det:art|the n|way .
+*PAR:	and coming down the man hand .
+%mor:	coord|and part|come-PRESP prep|down det:art|the n|man n|hand .
+*PAR:	and the man get up and [/] and [/] and [/] and &lo look out the
+	window .
+%mor:	coord|and det:art|the n|man v|get adv|up coord|and v|look prep|out
+	det:art|the n|window .
+*PAR:	and okay .
+%mor:	coord|and co|okay .
+@End

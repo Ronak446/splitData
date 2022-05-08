@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Media:	1099_2_BrokenWindow_February-7th-2020-12-51-01-pm video
+@Time Duration:	00:00:30
+*PAR:	okay he's kicking the ball .
+%mor:	co|okay pro:sub|he~aux|be&3S part|kick-PRESP det:art|the n|ball .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the ball &um hits a &um it goes through and hits some [//] something
+	in the window .
+%mor:	det:art|the n|ball v|hit-3S det:art|a pro:per|it v|go-3S
+	prep|through coord|and v|hit-3S pro:indef|something prep|in
+	det:art|the n|window .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*PAR:	there's a person there looking out and seeing the ball coming in the
+	window .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|person adv|there
+	part|look-PRESP adv|out coord|and part|see-PRESP det:art|the n|ball
+	part|come-PRESP prep|in det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|JCT 6|4|XMOD 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|11|XMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*PAR:	and then he's got the ball and he's looking back cause it [//] they
+	made a mistake .
+%mor:	coord|and adv:tem|then pro:sub|he~aux|be&3S part|get&PASTP
+	det:art|the n|ball coord|and pro:sub|he~cop|be&3S
+	n:gerund|look-PRESP adj|back n|cause pro:sub|they v|make&PAST
+	det:art|a n|mistake .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|13|MOD 12|13|MOD 13|10|PRED 14|15|SUBJ 15|13|CMOD
+	16|17|DET 17|15|OBJ 18|5|PUNCT
+@End

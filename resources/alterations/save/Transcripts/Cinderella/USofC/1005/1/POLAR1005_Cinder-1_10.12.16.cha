@@ -1,0 +1,234 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:05:21
+@Media:	1005_Cinderella1 video
+*PAR:	thinderella [* phon] &uh &uh &tay [//] tank [* phon] you .
+%mor:	?|thinderella n|tank pro:per|you .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|OBJ 4|1|PUNCT
+*PAR:	and he was dere [* phon] with er [* phon] .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S ?|dere prep|with ?|er .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	where gonna go just steep [* u] .
+%mor:	adv:int|where part|go-PRESP~inf|to v|go adv|just adj|steep .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|JCT 6|4|JCT 7|2|PUNCT
+*PAR:	and he xxx [* phon] .
+%mor:	coord|and pro:sub|he .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	dinderella [* phon] and xxx [* phon] and Jordan [* u] [//] .
+%mor:	?|dinderella coord|and coord|and .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	no [/] no [/] no xxx Jordan [* u] no .
+%mor:	co|no n:prop|Jordan co|no .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+*PAR:	he's [* s] [//] he [* s] [//] inderella [* phon] okay e [* phon] end
+	.
+%mor:	?|inderella co|okay ?|e n|end .
+%gra:	1|0|INCROOT 2|4|COM 3|4|MOD 4|1|ENUM 5|1|PUNCT
+*PAR:	den [* phon] dey [* phon] &dundundun .
+%mor:	n|den ?|dey .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	der [* phon] [/] der [* phon] doing it here .
+%mor:	?|der part|do-PRESP pro:per|it adv|here .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|OBJ 4|2|JCT 5|1|PUNCT
+*PAR:	and he was right day [/] day .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|right n|day .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*PAR:	in e [* phon] morning &ah dere [* phon] .
+%mor:	prep|in ?|e n|morning ?|dere .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*PAR:	he's of [/] dov [* phon] &jus &um .
+%mor:	pro:sub|he~cop|be&3S ?|dov .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	dat [* phon] made jem [* phon] mad .
+%mor:	?|dat v|make&PAST ?|jem adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PRED 5|2|PUNCT
+*PAR:	&um &j &ch I can't do it .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I can not do it .
+%mor:	pro:sub|I mod|can neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I can't do it .
+%mor:	pro:sub|I mod|can~neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&um &um crahb [* phon] the floor and xxx [* phon] in dere [* phon] .
+%mor:	?|crahb det:art|the n|floor coord|and prep|in ?|dere .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|5|POBJ 7|1|PUNCT
+*PAR:	xxx [* phon] two thousand and tirty [* phon] four &ay but [/] but
+	[/] but .
+%mor:	det:num|two det:num|thousand coord|and ?|tirty det:num|four
+	conj|but .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|CONJ 4|3|COORD 5|6|QUANT 6|4|OM 7|2|PUNCT
+*PAR:	&t do it here .
+%mor:	mod|do pro:per|it adv|here .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*PAR:	ez [* phon] bloor [* phon] and boggy [* u] .
+%mor:	?|ez ?|bloor coord|and adj|bog&dn-Y .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	and &um well xxx [* phon] but it's my goodness .
+%mor:	coord|and n|well conj|but pro:per|it~cop|be&3S det:poss|my
+	co|goodness .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|MOD 7|5|PRED
+	8|1|PUNCT
+*PAR:	maybe dis [* phon] is Tracy [* u] .
+%mor:	adv|maybe ?|dis cop|be&3S n:prop|Tracy .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and da [* phon] dress [/] &k dress and he was &h .
+%mor:	coord|and ?|da n|dress coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|6|SUBJ 6|4|COORD 7|3|PUNCT
+*PAR:	and xxx [* phon] and they're gonna go &t see dere [* phon] .
+%mor:	coord|and coord|and pro:sub|they~aux|be&PRES part|go-PRESP~inf|to
+	v|go v|see ?|dere .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|8|OBJ 10|5|PUNCT
+*PAR:	and dey're [* phon] gonna xxx [* phon] .
+%mor:	coord|and ?|dey're part|go-PRESP~inf|to .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+*PAR:	&oh <&y can't you> [//] .
+*PAR:	<you cannot &um> [//] .
+*PAR:	you cannot tink [* phon] about .
+%mor:	pro:per|you mod|can~neg|not ?|tink adv|about .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	you can't do it here .
+%mor:	pro:per|you mod|can~neg|not v|do pro:per|it adv|here .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	ecause [* phon] to seep [* phon] and rest and .
+%mor:	?|ecause inf|to v|seep coord|and n|rest coord|and .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*PAR:	he's [* s] &um .
+%mor:	pro:sub|he~cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	inderella [* phon] is fery [* phon] good and &d &d derella [* phon]
+	&hahahah .
+%mor:	?|inderella aux|be&3S ?|fery adj|good coord|and ?|derella .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	and he [* s] was .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&t &kee and well [/] well [/] well [/] well .
+%mor:	coord|and adv|well .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	<where &e> [//] wheres dinderella [* phon] gonna go to sleep in this
+	lovely lovely dress xxx [* phon] .
+%mor:	?|wheres ?|dinderella part|go-PRESP~inf|to v|go prep|to n|sleep
+	prep|in pro:dem|this adj|love&dn-LY adj|love&dn-LY n|dress .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|1|PUNCT
+*PAR:	and &oh dats [* phon] not dere [* phon] not dere [* phon] not dere
+	[* phon] .
+%mor:	coord|and ?|dats neg|not ?|dere neg|not ?|dere neg|not ?|dere .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NEG 4|2|XCOMP 5|4|NEG 6|4|PRED 7|6|NEG
+	8|6|NEG 9|1|PUNCT
+*PAR:	dey [* phon] were xxx [* phon] dere [* phon] [/] dere [* phon] [/]
+	dere [* phon] .
+%mor:	?|dey aux|be&PAST ?|dere .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*PAR:	and he was xxx [* phon] .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and he was dressing on there .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|dress-PRESP prep|on
+	adv|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	and derella [* phon] xxx [* phon] .
+%mor:	coord|and ?|derella .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	and xxx got to go &an whoa .
+%mor:	coord|and v|get&PAST inf|to v|go co|whoa .
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	he was and he was on the come here and dress and brite [* phon] nere
+	[* phon] and nere [* phon] ress [* phon] .
+%mor:	pro:sub|he cop|be&PAST&13S coord|and pro:sub|he cop|be&PAST&13S
+	prep|on det:art|the v|come adv|here coord|and n|dress coord|and
+	?|brite ?|nere coord|and ?|nere ?|ress .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|CONJ 11|10|COORD 12|5|CONJ 13|12|COORD 14|13|COORD
+	15|14|CONJ 16|17|SUBJ 17|15|COORD 18|2|PUNCT
+*PAR:	and dey [* phon] .
+%mor:	coord|and ?|dey .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	&um derinderella [* phon] says to xxx [* phon] .
+%mor:	?|derinderella v|say-3S inf|to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	right dere [* phon] in ress [* phon] .
+%mor:	adv|right ?|dere prep|in ?|ress .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*PAR:	rinderella [* phon] and &e bleautiful [* phon] [/] beautiful [/]
+	beautiful [/] beautiful .
+%mor:	?|rinderella coord|and adj|beautiful .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and bress [* phon] and is bootiful [* phon] .
+%mor:	coord|and ?|bress coord|and cop|be&3S ?|bootiful .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|PRED 6|1|PUNCT
+*PAR:	and dess [* phon] and dred [* phon] &th the palace .
+%mor:	coord|and ?|dess coord|and ?|dred det:art|the n|palace .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*PAR:	away and xxx [* phon] palace .
+%mor:	adv|away coord|and n|palace .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	and trake [* phon] .
+%mor:	coord|and v|trake=walk_laboriously .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*PAR:	and derinderella [* phon] and doing on the phone and xxx [* phon]
+	right dere [* phon] .
+%mor:	coord|and ?|derinderella coord|and part|do-PRESP prep|on
+	det:art|the n|phone coord|and adj|right ?|dere .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|CONJ 9|10|MOD 10|8|COORD 11|1|PUNCT
+*PAR:	and he [* s] was beautiful .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	and he [* s] was xxx [* phon] .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	peautiful [* phon] all of that .
+%mor:	?|peautiful adv|all prep|of pro:dem|that .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	and he [* s] was &dundundundun .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	tworoo [* phon] o'clock in the morning .
+%mor:	?|tworoo n|o'clock prep|in det:art|the n|morning .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	and he [* s] was oh we've got to go .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S co|oh pro:sub|we~aux|have
+	part|get&PASTP inf|to v|go .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|7|COM 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|XCOMP 10|7|PUNCT
+*PAR:	and he was two &a &d thirty .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S det:num|two det:num|thirty .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*PAR:	&h he was &ch shoe [/] shoe .
+%mor:	pro:sub|he cop|be&PAST&13S n|shoe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and he was who &i that .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S pro:rel|who pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|LINK 5|3|PRED 6|3|PUNCT
+*PAR:	and everyvody [* phon] goes home .
+%mor:	coord|and ?|everyvody v|go-3S n|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and dey [/] dey [/] dey were gonna deir [* phon] xxx [* phon] .
+%mor:	coord|and ?|dey aux|be&PAST part|go-PRESP~inf|to ?|deir .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*PAR:	no not mealy [* phon] no that's right .
+%mor:	co|no neg|not adj|meal&dn-Y co|no pro:dem|that~cop|be&3S n|right .
+%gra:	1|4|COM 2|1|NEG 3|4|MOD 4|6|COM 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	and &ch [//] he was on da [* phon] phone and he &um was dinderella
+	[* phon] .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|on ?|da n|phone coord|and
+	pro:sub|he cop|be&PAST&13S ?|dinderella .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|PRED 11|3|PUNCT
+*PAR:	&oh finderella [* phon] .
+%mor:	?|finderella .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh hey xxx [* phon] .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	good night .
+%mor:	adj|good n|night .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

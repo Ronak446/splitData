@@ -1,0 +1,17 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:00:11
+@Media:	1010_PBJ6 video
+*PAR:	alright &t take da [* phon] &uh thata [* phon] .
+%mor:	co|alright v|take ?|da ?|thata .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|PUNCT
+*PAR:	deehers [* phon] dee [* phon] bleesatow [* phon] .
+%mor:	?|deehers ?|dee ?|bleesatow .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	den [* phon] you put uhsback [* phon] .
+%mor:	n|den pro:per|you v|put&ZERO ?|uhsback .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@End

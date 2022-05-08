@@ -1,0 +1,133 @@
+@UTF8
+@Window:	51_533_907_1378_0_0_1006_1_1006_1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|POLAR|PAR|||||Participant|||
+@Time Duration:	00:03:49
+@Media:	POLAR#1113_CINDER-6_04-19-21, video
+*PAR:	&uh there was a father who married his [: her] [* s] stepmother and her [//] she brought her two daughters .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|father pro:rel|who
+	v|marry-PAST det:poss|her step#n|mother coord|and pro:sub|she
+	v|bring&PAST det:poss|her det:num|two n|daughter-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|14|DET 13|14|QUANT 14|11|OBJ 15|2|PUNCT
+*PAR:	and there &uh cat and merely long a [/] &um a [: they] [* phon] abused charlet [//] &um Cinderella .
+%mor:	coord|and adv|there n|cat coord|and adv|mere&dadj-LY adj|long
+	pro:sub|they v|abuse-PAST n:prop|Cinderella .
+%gra:	1|8|LINK 2|1|JCT 3|2|POBJ 4|3|CONJ 5|6|JCT 6|4|COORD 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*PAR:	&um she had to do everything .
+%mor:	pro:sub|she v|have&PAST inf|to v|do pro:indef|everything .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	&um she cleaned up the inside and the outside of the house .
+%mor:	pro:sub|she v|clean-PAST prep|up det:art|the adv|inside coord|and
+	det:art|the adj|outside prep|of det:art|the n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*PAR:	and I think that's where she ran off the [/] the cat .
+%mor:	coord|and pro:sub|I v|think pro:dem|that~cop|be&3S pro:int|where
+	pro:sub|she v|run&PAST prep|off det:art|the n|cat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|LINK 7|8|SUBJ
+	8|5|CPRED 9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	&um anyway she had a &um a view towards the castle and all that entails .
+%mor:	co|anyway pro:sub|she v|have&PAST det:art|a det:art|a n|view
+	prep|towards det:art|the n|castle coord|and qn|all pro:dem|that
+	v|entail-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|DET 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|12|QUANT 12|13|SUBJ 13|3|CJCT 14|3|PUNCT
+*PAR:	and &um I guess the next is the [/] &um the announcement that the king was giving the ball <so we're> [//] so his son could meet some eligible bride .
+%mor:	coord|and pro:sub|I v|guess det:art|the adj|next cop|be&3S
+	det:art|the n|announce&dv-MENT comp|that det:art|the n|king
+	aux|be&PAST&13S part|give-PRESP det:art|the n|ball adv|so
+	det:poss|his n|son mod|could v|meet qn|some adj|eligible n|bride .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|OBJ 7|8|DET 8|20|SUBJ
+	9|13|LINK 10|11|DET 11|13|SUBJ 12|13|AUX 13|20|XJCT 14|15|DET 15|13|OBJ
+	16|18|JCT 17|18|DET 18|20|SUBJ 19|20|AUX 20|6|CPRED 21|23|QUANT 22|23|MOD
+	23|20|OBJ 24|3|PUNCT
+*PAR:	&um he [//] then theres &uh all the things to do with &um <her dress> [//] &er Cinderella's dress .
+%mor:	adv:tem|then n|there-PL adv|all det:art|the n|thing-PL inf|to v|do
+	prep|with adj|Cinderella&dn-POSS n|dress .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|JCT 4|5|DET 5|0|INCROOT 6|7|INF 7|5|XMOD 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+*PAR:	and <that was> [//] it was made and she &we went to &s &ex explain it to her sisters and her [/] her [/] her mother in laws szisters [: sisters] [* phon] and mother law and her and &th <her sisters> [//] or her daughters .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|make&PASTP coord|and
+	pro:sub|she v|go&PAST inf|to v|explain pro:per|it prep|to
+	det:poss|her n|sister-PL coord|and det:poss|her n|mother prep|in
+	n|law-PL n|sister-PL coord|and n|mother n|law coord|and det:poss|her
+	coord|and coord|or det:poss|her n|daughter-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|9|CONJ 15|16|DET
+	16|14|COORD 17|16|NJCT 18|19|MOD 19|17|POBJ 20|16|CONJ 21|22|MOD 22|20|COORD
+	23|16|CONJ 24|23|COORD 25|24|CONJ 26|25|COORD 27|28|DET 28|26|COORD
+	29|4|PUNCT
+*PAR:	and they tore the dress up .
+%mor:	coord|and pro:sub|they v|tear&PAST det:art|the n|dress adv|up .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	she goes outside to [/] to cry and &uh her fairy god+mother comes along and makes everything better .
+%mor:	pro:sub|she v|go-3S adv|outside prep|to n|cry coord|and
+	det:poss|her n|fairy n|+n|god+n|mother v|come-3S adv|along coord|and
+	v|make-3S pro:indef|everything adj|good&CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|2|CJCT 11|10|JCT 12|10|CONJ 13|12|COORD 14|13|OBJ
+	15|14|POSTMOD 16|2|PUNCT
+*PAR:	and she goes to the [/] &um the ball like &uh sisters didn't approve of .
+%mor:	coord|and pro:sub|she v|go-3S prep|to det:art|the n|ball prep|like
+	n|sister-PL mod|do&PAST~neg|not v|approve prep|of .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|11|JCT 13|3|PUNCT
+*PAR:	and she has a wonderful time dancing with &uh the &k the prince .
+%mor:	coord|and pro:sub|she v|have&3S det:art|a adj|wonder-FULL n|time
+	part|dance-PRESP prep|with det:art|the det:art|the n|prince .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|7|JCT
+	9|11|DET 10|11|DET 11|8|POBJ 12|3|PUNCT
+*PAR:	and he &um tries to hold her up from leaving past twelve o'clock .
+%mor:	coord|and pro:sub|he v|try-3S inf|to v|hold det:poss|her adv|up
+	prep|from n:gerund|leave-PRESP adj|past det:num|twelve n|o'clock .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|JCT 8|5|JCT
+	9|12|MOD 10|12|MOD 11|12|QUANT 12|8|POBJ 13|3|PUNCT
+*PAR:	she runs down and loses her glass slipper .
+%mor:	pro:sub|she v|run-3S adv|down coord|and v|lose-3S det:poss|her
+	n|glass n|slipper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|8|DET 7|8|MOD 8|5|OBJ
+	9|2|PUNCT
+*PAR:	and at [//] then takes [/] takes &um her &th .
+%mor:	coord|and adv:tem|then v|take-3S pro:obj|her .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	Cinderella takes the glass slipper and all the things that the that involved the animals had be done as the chairman [* u] back .
+%mor:	n:prop|Cinderella v|take-3S det:art|the n|glass n|slipper coord|and
+	qn|all det:art|the n|thing-PL pro:rel|that det:art|the pro:rel|that
+	v|involve-PAST det:art|the n|animal-PL aux|have&PAST aux|be
+	part|do&PASTP prep|as det:art|the n|chairman adv|back .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|CONJ 7|9|QUANT 8|9|DET
+	9|6|COORD 10|13|LINK 11|13|DET 12|13|LINK 13|9|CMOD 14|15|DET 15|18|SUBJ
+	16|18|AUX 17|18|AUX 18|13|COMP 19|18|JCT 20|21|DET 21|19|POBJ 22|18|JCT
+	23|2|PUNCT
+*PAR:	&um she &uh she waits in the room to try the slipper on .
+%mor:	pro:sub|she pro:sub|she v|wait-3S adv|in det:art|the n|room inf|to
+	v|try det:art|the n|slipper adv|on .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|8|INF 8|6|XMOD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|3|PUNCT
+*PAR:	the [//] <all the other> [//] the others try it on and it doent [: doesn't] [* phon] fit them .
+%mor:	det:art|the n:pt|others v|try pro:per|it adv|on coord|and
+	pro:per|it mod|do&3S~neg|not v|fit&ZERO pro:obj|them .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|CJCT 11|10|OBJ 12|3|PUNCT
+*PAR:	&um she's locked in the tower and the mice get up and help her and she runs down and finds the glass slipper .
+%mor:	pro:sub|she~aux|be&3S part|lock-PASTP prep|in det:art|the n|tower
+	coord|and det:art|the n|mouse&PL v|get adv|up coord|and v|help
+	pro:obj|her coord|and pro:sub|she v|run-3S adv|down coord|and
+	v|find-3S det:art|the n|glass n|slipper .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|3|CJCT 11|3|JCT 12|3|CONJ 13|12|COORD 14|13|OBJ 15|17|LINK
+	16|17|SUBJ 17|3|CJCT 18|3|JCT 19|3|CONJ 20|19|COORD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|3|PUNCT
+*PAR:	it fits .
+%mor:	pro:per|it v|fit-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&um and she and the pince [: prince] [* phon] her [: are] [* phon] happy [//] happily married there after .
+%mor:	coord|and pro:sub|she coord|and det:art|the n|prince aux|be&PRES
+	adv|happy&dadj-LY part|marry-PASTP adv|there adv:tem|after .
+%gra:	1|8|LINK 2|8|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|8|JCT 11|8|PUNCT
+@End
